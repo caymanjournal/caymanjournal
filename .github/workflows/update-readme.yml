@@ -10,6 +10,7 @@ on:
     paths:
       - '.github/workflows/update-readme.yml'
       - 'scripts/update-readme.ts'
+      - 'README-template.md'
 
 jobs:
   update-readme:

@@ -12,6 +12,7 @@ import { load } from 'cheerio';
 
 const ROOT_RSS_URL = 'https://caymanjournal.com/feed.xml';
 const README_PATH = 'README.md';
+const README_TEMPLATE_PATH = 'README-template.md';
 const ARTICLES_PER_CATEGORY = 10;
 const ARTICLES_IN_LATEST = 10;
 const START_MARKER = '<!-- FEED:START -->';
@@ -190,7 +191,7 @@ function generateArticlesSection(latestArticles: Article[], categorizedArticles:
  */
 function updateReadme(latestArticles: Article[], categorizedArticles: CategorizedArticles): boolean {
   try {
-    const content = readFileSync(README_PATH, 'utf-8');
+    const base = readFileSync(README_TEMPLATE_PATH, 'utf-8');
     
     // Generate new articles section
     const articlesSection = generateArticlesSection(latestArticles, categorizedArticles);
@@ -201,12 +202,12 @@ function updateReadme(latestArticles: Article[], categorizedArticles: Categorize
     const newBlock = `${START_MARKER}\n\n## 📰 Latest Articles\n\n${articlesSection}\n\n*Last updated: ${updateTime}*\n\n${END_MARKER}`;
 
     let newContent: string;
-    if (content.includes(START_MARKER) && content.includes(END_MARKER)) {
-      const before = content.split(START_MARKER)[0];
-      const after = content.split(END_MARKER)[1] || '';
+    if (base.includes(START_MARKER) && base.includes(END_MARKER)) {
+      const before = base.split(START_MARKER)[0];
+      const after = base.split(END_MARKER)[1] || '';
       newContent = before.trimEnd() + '\n' + newBlock + after;
     } else {
-      newContent = content.trimEnd() + '\n\n' + newBlock + '\n';
+      newContent = base.trimEnd() + '\n\n' + newBlock + '\n';
     }
 
     // Write updated content
