@@ -10,9 +10,21 @@ import { readFileSync, writeFileSync } from 'fs';
 import { format } from 'date-fns';
 import { load } from 'cheerio';
 
-const RSS_URL = 'https://caymanjournal.com/feed.xml';
+const ROOT_RSS_URL = 'https://caymanjournal.com/feed.xml';
 const README_PATH = 'README.md';
-const ARTICLES_PER_CATEGORY = 5;
+const ARTICLES_PER_CATEGORY = 10;
+const ARTICLES_IN_LATEST = 10;
+const START_MARKER = '<!-- FEED:START -->';
+const END_MARKER = '<!-- FEED:END -->';
+
+const CATEGORY_FEEDS: Array<{ name: string; feedUrl: string }> = [
+  // { name: 'Real Estate', feedUrl: 'https://caymanjournal.com/categories/real-estate/feed.xml' },
+  // { name: 'Yacht', feedUrl: 'https://caymanjournal.com/categories/yacht/feed.xml' },
+  { name: 'Business', feedUrl: 'https://caymanjournal.com/categories/business/feed.xml' },
+  { name: 'Economy', feedUrl: 'https://caymanjournal.com/categories/economy/feed.xml' },
+  { name: 'Markets & Finance', feedUrl: 'https://caymanjournal.com/categories/markets-finance/feed.xml' },
+  { name: 'Technology', feedUrl: 'https://caymanjournal.com/categories/technology/feed.xml' }
+];
 
 interface Article {
   title: string;
@@ -38,23 +50,22 @@ const parser = new Parser<any, RSSItem>({
 });
 
 /**
- * Fetch and parse the RSS feed
+ * Fetch and parse an RSS feed by URL
  */
-async function fetchAndParseRss(): Promise<RSSItem[]> {
+async function fetchAndParseRss(rssUrl: string): Promise<RSSItem[]> {
   try {
-    console.log('🔄 Fetching RSS feed from Cayman Journal...');
-    
-    const feed = await parser.parseURL(RSS_URL);
+    console.log(`🔄 Fetching RSS feed → ${rssUrl}`);
+    const feed = await parser.parseURL(rssUrl);
     
     if (!feed.items || feed.items.length === 0) {
-      console.log('❌ No entries found in RSS feed');
+      console.log(`❌ No entries found in RSS feed: ${rssUrl}`);
       return [];
     }
     
-    console.log(`✅ Successfully parsed ${feed.items.length} articles`);
+    console.log(`✅ Successfully parsed ${feed.items.length} articles from ${rssUrl}`);
     return feed.items;
   } catch (error) {
-    console.error(`❌ Error fetching RSS feed:`, error);
+    console.error(`❌ Error fetching RSS feed (${rssUrl}):`, error);
     return [];
   }
 }
@@ -77,6 +88,9 @@ function getCategoryEmoji(category: string): string {
     'Markets & Finance': '📈',
     'Economy': '🏛️',
     'Technology': '💻',
+    'Business': '🏢',
+    'Real Estate': '🏠',
+    'Yacht': '🛥️',
     'Energy': '⚡',
     'Politics': '🏛️',
     'General': '📰'
@@ -85,156 +99,121 @@ function getCategoryEmoji(category: string): string {
   return emojiMap[category] || '📰';
 }
 
-/**
- * Categorize articles and return top articles per category
- */
-function categorizeArticles(entries: RSSItem[]): CategorizedArticles {
-  const categories: CategorizedArticles = {};
-  
-  for (const entry of entries) {
-    // Get category from RSS feed
-    let category = 'General';
-    
-    if (entry.categories && entry.categories.length > 0) {
-      category = entry.categories[0];
-    } else if (entry.category) {
-      category = entry.category;
-    }
-    
-    // Clean up category names
-    category = category.replace('&', 'and').trim();
-    
-    // Parse date
-    let publishedDate = '';
-    if (entry.pubDate) {
-      try {
-        const date = new Date(entry.pubDate);
-        publishedDate = format(date, 'MMMM dd, yyyy');
-      } catch (error) {
-        console.warn(`Failed to parse date: ${entry.pubDate}`);
-      }
-    }
-    
-    // Clean title and description
-    const title = cleanHtml(entry.title) || 'No Title';
-    let description = cleanHtml(entry.contentSnippet || entry.content) || '';
-    
-    // Truncate description if too long
-    if (description.length > 150) {
-      description = description.substring(0, 150) + '...';
-    }
-    
-    const article: Article = {
-      title,
-      link: entry.link || '',
-      description,
-      date: publishedDate,
-      category
-    };
-    
-    if (!categories[category]) {
-      categories[category] = [];
-    }
-    
-    categories[category].push(article);
+function mapItemToArticle(entry: RSSItem, fallbackCategory: string): Article {
+  let category = fallbackCategory || 'General';
+  if (entry.categories && entry.categories.length > 0) {
+    category = entry.categories[0];
+  } else if (entry.category) {
+    category = entry.category;
   }
-  
-  // Sort articles by date (newest first) and limit per category
-  for (const category in categories) {
-    categories[category] = categories[category]
+  category = (category || 'General').trim();
+
+  let publishedDate = '';
+  if (entry.pubDate) {
+    try {
+      const date = new Date(entry.pubDate);
+      publishedDate = format(date, 'MMMM dd, yyyy');
+    } catch (error) {
+      console.warn(`Failed to parse date: ${entry.pubDate}`);
+    }
+  }
+
+  const title = cleanHtml(entry.title) || 'No Title';
+  let description = cleanHtml(entry.contentSnippet || entry.content) || '';
+  if (description.length > 150) {
+    description = description.substring(0, 150) + '...';
+  }
+
+  return { title, link: entry.link || '', description, date: publishedDate, category };
+}
+
+async function fetchLatestAndCategories(): Promise<{ latestArticles: Article[]; categorizedArticles: CategorizedArticles }> {
+  const rootEntries = await fetchAndParseRss(ROOT_RSS_URL);
+  const latestArticles = rootEntries
+    .map((e) => mapItemToArticle(e, 'General'))
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, ARTICLES_IN_LATEST);
+
+  const categorizedArticles: CategorizedArticles = {};
+  for (const { name, feedUrl } of CATEGORY_FEEDS) {
+    const items = await fetchAndParseRss(feedUrl);
+    const articles = items
+      .map((e) => mapItemToArticle(e, name))
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, ARTICLES_PER_CATEGORY);
+    categorizedArticles[name] = articles;
   }
-  
-  return categories;
+
+  return { latestArticles, categorizedArticles };
 }
 
 /**
  * Generate the articles section for README
  */
-function generateArticlesSection(categorizedArticles: CategorizedArticles): string {
-  if (Object.keys(categorizedArticles).length === 0) {
-    return 'No articles available at the moment.';
-  }
-  
-  const articlesMd: string[] = [];
-  
-  // Sort categories by number of articles (descending)
-  const sortedCategories = Object.entries(categorizedArticles)
-    .sort(([, a], [, b]) => b.length - a.length);
-  
-  for (const [category, articles] of sortedCategories) {
-    if (articles.length === 0) continue;
-    
-    // Category header with emoji
-    const categoryEmoji = getCategoryEmoji(category);
-    articlesMd.push(`### ${categoryEmoji} ${category}\n`);
-    
-    for (const article of articles) {
-      const { title, link, description, date } = article;
-      
-      // Create article entry with better formatting
-      let articleEntry = `**[${title}](${link})**`;
-      if (date) {
-        articleEntry += ` *(${date})*`;
-      }
-      if (description) {
-        articleEntry += `  \n${description}`;
-      }
-      
-      articlesMd.push(`- ${articleEntry}\n`);
+function generateArticlesSection(latestArticles: Article[], categorizedArticles: CategorizedArticles): string {
+  const out: string[] = [];
+
+  out.push('## 🆕 Latest 10 Articles\n');
+  if (latestArticles.length === 0) {
+    out.push('No latest articles available.');
+  } else {
+    for (const a of latestArticles) {
+      let line = `- **[${a.title}](${a.link})**`;
+      if (a.date) line += ` *(${a.date})*`;
+      if (a.description) line += `  \n  ${a.description}`;
+      out.push(line);
     }
-    
-    articlesMd.push(''); // Add spacing between categories
   }
-  
-  return articlesMd.join('\n');
+
+  out.push('');
+
+  // Keep a fixed ordering of categories
+  for (const { name } of CATEGORY_FEEDS) {
+    const list = categorizedArticles[name] || [];
+    if (list.length === 0) continue;
+    const emoji = getCategoryEmoji(name);
+    out.push(`### ${emoji} ${name}\n`);
+    for (const a of list) {
+      let line = `- **[${a.title}](${a.link})**`;
+      if (a.date) line += ` *(${a.date})*`;
+      if (a.description) line += `  \n  ${a.description}`;
+      out.push(line);
+    }
+    out.push('');
+  }
+
+  return out.join('\n');
 }
 
 /**
  * Update the README.md file with new articles
  */
-function updateReadme(categorizedArticles: CategorizedArticles): boolean {
+function updateReadme(latestArticles: Article[], categorizedArticles: CategorizedArticles): boolean {
   try {
     const content = readFileSync(README_PATH, 'utf-8');
     
     // Generate new articles section
-    const articlesSection = generateArticlesSection(categorizedArticles);
+    const articlesSection = generateArticlesSection(latestArticles, categorizedArticles);
     
     // Current timestamp
-    const updateTime = format(new Date(), 'MMMM dd, yyyy \'at\' HH:mm \'UTC\'');
-    
-    // Find the position to insert articles (after "Visit Our Platform" section)
-    const platformSectionEnd = content.indexOf('---');
-    
+    const updateTime = format(new Date(), "MMMM dd, yyyy 'at' HH:mm 'UTC'");
+
+    const newBlock = `${START_MARKER}\n\n## 📰 Latest Articles\n\n${articlesSection}\n\n*Last updated: ${updateTime}*\n\n${END_MARKER}`;
+
     let newContent: string;
-    if (platformSectionEnd === -1) {
-      // If no separator found, append to end
-      newContent = content.trimEnd() + '\n\n';
+    if (content.includes(START_MARKER) && content.includes(END_MARKER)) {
+      const before = content.split(START_MARKER)[0];
+      const after = content.split(END_MARKER)[1] || '';
+      newContent = before.trimEnd() + '\n' + newBlock + after;
     } else {
-      // Insert before the separator
-      newContent = content.substring(0, platformSectionEnd).trimEnd() + '\n\n';
+      newContent = content.trimEnd() + '\n\n' + newBlock + '\n';
     }
-    
-    // Add the latest articles section
-    newContent += `## 📰 Latest Articles
 
-${articlesSection}
-
-*Last updated: ${updateTime}*
-
----
-
-*Stay informed with breaking international financial news, global market analysis, investment insights, and economic updates from around the world.*
-`;
-    
     // Write updated content
     writeFileSync(README_PATH, newContent, 'utf-8');
-    
-    const totalArticles = Object.values(categorizedArticles)
-      .reduce((sum, articles) => sum + articles.length, 0);
-    
-    console.log(`✅ README.md updated successfully with ${totalArticles} articles`);
+
+    const totalArticles = latestArticles.length + Object.values(categorizedArticles).reduce((sum, list) => sum + list.length, 0);
+    console.log(`✅ README.md updated successfully with ${totalArticles} items`);
     return true;
     
   } catch (error) {
@@ -248,30 +227,17 @@ ${articlesSection}
  */
 async function main(): Promise<void> {
   console.log('🚀 Starting Cayman Journal README update...');
-  
-  // Fetch and parse RSS feed
-  const entries = await fetchAndParseRss();
-  if (entries.length === 0) {
-    console.log('❌ No articles to process');
-    process.exit(1);
-  }
-  
-  // Categorize articles
-  const categorizedArticles = categorizeArticles(entries);
-  
-  if (Object.keys(categorizedArticles).length === 0) {
-    console.log('❌ No categorized articles found');
-    process.exit(1);
-  }
-  
-  console.log(`📊 Found articles in ${Object.keys(categorizedArticles).length} categories:`);
+
+  const { latestArticles, categorizedArticles } = await fetchLatestAndCategories();
+
+  console.log(`📊 Latest: ${latestArticles.length} articles`);
   for (const [category, articles] of Object.entries(categorizedArticles)) {
     console.log(`  - ${category}: ${articles.length} articles`);
   }
-  
+
   // Update README
-  const success = updateReadme(categorizedArticles);
-  
+  const success = updateReadme(latestArticles, categorizedArticles);
+
   if (success) {
     console.log('🎉 README update completed successfully!');
   } else {
