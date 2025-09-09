@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   It seems Klar, the ambitious Mexican fintech, just made a significant play in the race to become a fully licensed digital bank. In a move that's bound...
 
 
-*Last updated: September 08, 2025 at 06:26 UTC*
+*Last updated: September 09, 2025 at 06:25 UTC*
 
 <!-- FEED:END -->
 
