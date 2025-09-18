@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Brussels gave a significant nod of approval this week, accepting Microsoft Corp.'s commitments to settle a long-running antitrust probe. This decision...
 
 
-*Last updated: September 17, 2025 at 06:25 UTC*
+*Last updated: September 18, 2025 at 06:25 UTC*
 
 <!-- FEED:END -->
 
