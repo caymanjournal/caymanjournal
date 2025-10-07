@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   The news, when it hit, spread like wildfire through WhatsApp groups and company Slack channels: reports of an impending, significant new visa fee for ...
 
 
-*Last updated: October 06, 2025 at 06:26 UTC*
+*Last updated: October 07, 2025 at 06:25 UTC*
 
 <!-- FEED:END -->
 
