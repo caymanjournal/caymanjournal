@@ -35,98 +35,108 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[ASML Logs Strong Orders Amid AI Spending Frenzy](https://caymanjournal.com/articles/asml-logs-strong-orders-amid-ai-spending-frenzy-cmgrl2x1g00gmg7x37lo5sm3e)** *(October 15, 2025)*  
-  Explore ASML's booming Q3 orders, driven by the AI spending frenzy. See how its critical EUV systems enable next-gen chips & signal strong 2025 growth...
-- **[The Rest of the World Is Following America’s Retreat on EVs](https://caymanjournal.com/articles/the-rest-of-the-world-is-following-americas-retreat-on-evs-cmgrgss5g00gfg7x3ta750gez)** *(October 15, 2025)*  
-  Global EV adoption targets are tempering. Explore how economies from the US to China are facing economic headwinds, consumer hesitations & infrastruct...
-- **[Chinese Criminals Made More Than $1 Billion From Those Annoying Texts](https://caymanjournal.com/articles/chinese-criminals-made-more-than-1-billion-from-those-annoyi-cmgrl6ds800gpg7x3klfdxcp4)** *(October 15, 2025)*  
-  Uncover how text message scams (smishing) about tolls & postage fees fund a billion-dollar criminal economy. Learn to protect your credit card info.
-- **[China’s Deflationary Pressures Ease Slightly](https://caymanjournal.com/articles/chinas-deflationary-pressures-ease-slightly-cmgrchray00g0g7x33rbm9xx1)** *(October 15, 2025)*  
-  China's price pressures eased in Sept, hinting deflation may recede. Beijing's capacity cuts & demand boosts offer cautious hope for economic stabilit...
-- **[Oracle Co-CEOs Defend Massive Data-Center Expansion, Plan to Offer AI Ecosystem](https://caymanjournal.com/articles/oracle-co-ceos-defend-massive-data-center-expansion-plan-to-cmgrciwak00g3g7x3eixolkbe)** *(October 15, 2025)*  
-  Oracle's CEOs defend vast data center expansion, outlining their vision to establish a comprehensive AI ecosystem, powering critical enterprise AI wor...
-- **[Here’s a Sneak Peek Into Southwest’s New Boarding Plan](https://caymanjournal.com/articles/heres-a-sneak-peek-into-southwests-new-boarding-plan-cmgrcjhtm00g6g7x3oho2yeoi)** *(October 15, 2025)*  
-  Southwest Airlines is ditching open seating for a structured "boarding-group grind." Learn what this dramatic overhaul means for your flight experienc...
-- **[Grindr Confirms Active Talks with "Top Investors" Over Potential Buyout](https://caymanjournal.com/articles/grindr-confirms-active-talks-with-top-investors-over-potenti-cmgr85tkf00fjg7x3or9kxlnb)** *(October 14, 2025)*  
-  Grindr confirms serious buyout talks with top investors, forming a special committee. Explore what a potential nine-figure deal means for the LGBTQ+ a...
-- **[MGM Withdraws Application for Full-Fledged Yonkers, N.Y., Casino](https://caymanjournal.com/articles/mgm-withdraws-application-for-full-fledged-yonkers-ny-casino-cmgr88voc00fpg7x35clrhid9)** *(October 14, 2025)*  
-  MGM Resorts withdraws its bid for a coveted downstate NY casino license at Empire City in Yonkers. Discover the competitive & economic factors behind ...
-- **[Grindr Confirms Buyout Interest, Forms Special Committee](https://caymanjournal.com/articles/grindr-confirms-buyout-interest-forms-special-committee-cmgr3xhq800f5g7x3sgrtt8xk)** *(October 14, 2025)*  
-  Grindr confirms buyout interest from top investors! A special committee now reviews potential acquisition proposals for the leading LGBTQ+ dating app.
-- **[Stellantis Commits $13 Billion to Supercharge U.S. Manufacturing, Adding 5,000 Jobs](https://caymanjournal.com/articles/stellantis-commits-13-billion-to-supercharge-us-manufacturin-cmgr3y7i400f8g7x3vb22eyiq)** *(October 14, 2025)*  
-  Stellantis invests $13B to boost US manufacturing 50%, creating 5,000 jobs. Discover how this impacts EVs, supply chains & American auto heartland.
+- **[Foxconn Shares Surge as Chairman Engages With OpenAI, Eyes Nvidia for AI Hardware Future](https://caymanjournal.com/articles/foxconn-shares-surge-as-chairman-engages-with-openai-eyes-nv-cmgt0j37c00oog7x35onlqpyr)** *(October 16, 2025)*  
+  Foxconn stock jumps as Chairman meets OpenAI & plans Nvidia talks, solidifying its strategic role in the burgeoning AI hardware supply chain.
+- **[Australia’s Unemployment Pickup Shatters RBA’s Calm](https://caymanjournal.com/articles/australias-unemployment-pickup-shatters-rbas-calm-cmgswc42d00o8g7x3gdbmnjkx)** *(October 16, 2025)*  
+  Australia's unemployment rate hits 4.1%, forcing the RBA to consider interest rate cuts. Understand the shift in policy & economic outlook.
+- **[If BOJ Falls Behind Curve, Catching Up Could Hurt Economy, Board Member Says](https://caymanjournal.com/articles/if-boj-falls-behind-curve-catching-up-could-hurt-economy-boa-cmgswcnhb00obg7x349ipkrkb)** *(October 16, 2025)*  
+  BOJ member warns delaying a shift from ultra-loose monetary policy risks aggressive, damaging rate hikes later. Explore the growing internal debate on...
+- **[Australia’s Jobless Rate Jumps, Fueling RBA Rate Hike Speculation](https://caymanjournal.com/articles/australias-jobless-rate-jumps-fueling-rba-rate-hike-speculat-cmgss42uu00nyg7x3sq0jqwvl)** *(October 16, 2025)*  
+  Australia's unemployment rate jumps to 4.1%, highest since late 2021. Is an RBA interest rate hike imminent? Unpack the economic impact.
+- **[AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants](https://caymanjournal.com/articles/ai-data-centers-desperate-for-electricity-are-building-their-cmgsw6dn600o5g7x3f5c03jg9)** *(October 16, 2025)*  
+  AI data centers' staggering power needs force tech giants to become energy producers. Explore how Microsoft & Google build their own plants to fuel AI...
+- **[American Bankers Are Making a Mint Helping China Inc. Go Global](https://caymanjournal.com/articles/american-bankers-are-making-a-mint-helping-china-inc-go-glob-cmgss0ydo00nsg7x3r5f1e852)** *(October 16, 2025)*  
+  Explore how American investment bankers facilitate China Inc.'s global expansion in Hong Kong, generating massive fees amid geopolitical tensions.
+- **[Feds Clear Appliance Rivals of Widespread Tariff Evasion After Whirlpool's Allegations](https://caymanjournal.com/articles/feds-clear-appliance-rivals-of-widespread-tariff-evasion-aft-cmgsrzf3k00npg7x3ikq40633)** *(October 15, 2025)*  
+  Federal authorities clear major appliance manufacturers of widespread tariff undervaluing after Whirlpool's accusations. Details on the CBP investigat...
+- **[Feds Clear Appliance Makers of Widespread Tariff Evasion Accusations](https://caymanjournal.com/articles/feds-clear-appliance-makers-of-widespread-tariff-evasion-acc-cmgsrw40q00njg7x3nqhr7qk1)** *(October 15, 2025)*  
+  CBP found no widespread evidence of tariff evasion by imported appliance makers after Whirlpool's claims. Importers relieved as federal review conclud...
+- **[HPE Expects Revenue Growth to Slow in Next Fiscal Year](https://caymanjournal.com/articles/hpe-expects-revenue-growth-to-slow-in-next-fiscal-year-cmgsnljs000n0g7x3iazpfzdp)** *(October 15, 2025)*  
+  Discover HPE's strategic shift: aiming for 5-10% FY2026 revenue growth by targeting high-profit AI, edge computing, and GreenLake segments.
+- **[How Jefferies Found Itself at the Center of First Brands’ Collapse](https://caymanjournal.com/articles/how-jefferies-found-itself-at-the-center-of-first-brands-col-cmgsjgsdf00msg7x3meci9hdt)** *(October 15, 2025)*  
+  Jefferies confronts tough questions at its investor day about extensive ties to First Brands Group's dramatic bankruptcy, raising reputational and fin...
 
 ### 🏢 Business
 
-- **[ASML Logs Strong Orders Amid AI Spending Frenzy](https://caymanjournal.com/articles/asml-logs-strong-orders-amid-ai-spending-frenzy-cmgrl2x1g00gmg7x37lo5sm3e)** *(October 15, 2025)*  
-  Explore ASML's booming Q3 orders, driven by the AI spending frenzy. See how its critical EUV systems enable next-gen chips & signal strong 2025 growth...
-- **[The Rest of the World Is Following America’s Retreat on EVs](https://caymanjournal.com/articles/the-rest-of-the-world-is-following-americas-retreat-on-evs-cmgrgss5g00gfg7x3ta750gez)** *(October 15, 2025)*  
-  Global EV adoption targets are tempering. Explore how economies from the US to China are facing economic headwinds, consumer hesitations & infrastruct...
-- **[Oracle Co-CEOs Defend Massive Data-Center Expansion, Plan to Offer AI Ecosystem](https://caymanjournal.com/articles/oracle-co-ceos-defend-massive-data-center-expansion-plan-to-cmgrciwak00g3g7x3eixolkbe)** *(October 15, 2025)*  
-  Oracle's CEOs defend vast data center expansion, outlining their vision to establish a comprehensive AI ecosystem, powering critical enterprise AI wor...
-- **[Here’s a Sneak Peek Into Southwest’s New Boarding Plan](https://caymanjournal.com/articles/heres-a-sneak-peek-into-southwests-new-boarding-plan-cmgrcjhtm00g6g7x3oho2yeoi)** *(October 15, 2025)*  
-  Southwest Airlines is ditching open seating for a structured "boarding-group grind." Learn what this dramatic overhaul means for your flight experienc...
-- **[MGM Withdraws Application for Full-Fledged Yonkers, N.Y., Casino](https://caymanjournal.com/articles/mgm-withdraws-application-for-full-fledged-yonkers-ny-casino-cmgr88voc00fpg7x35clrhid9)** *(October 14, 2025)*  
-  MGM Resorts withdraws its bid for a coveted downstate NY casino license at Empire City in Yonkers. Discover the competitive & economic factors behind ...
-- **[Grindr Confirms Buyout Interest, Forms Special Committee](https://caymanjournal.com/articles/grindr-confirms-buyout-interest-forms-special-committee-cmgr3xhq800f5g7x3sgrtt8xk)** *(October 14, 2025)*  
-  Grindr confirms buyout interest from top investors! A special committee now reviews potential acquisition proposals for the leading LGBTQ+ dating app.
-- **[Stellantis Commits $13 Billion to Supercharge U.S. Manufacturing, Adding 5,000 Jobs](https://caymanjournal.com/articles/stellantis-commits-13-billion-to-supercharge-us-manufacturin-cmgr3y7i400f8g7x3vb22eyiq)** *(October 14, 2025)*  
-  Stellantis invests $13B to boost US manufacturing 50%, creating 5,000 jobs. Discover how this impacts EVs, supply chains & American auto heartland.
-- **[Embraer’s CEO Hopes for U.S.-Brazil Deal to Eliminate Aircraft Tariffs](https://caymanjournal.com/articles/embraers-ceo-hopes-for-us-brazil-deal-to-eliminate-aircraft-cmgr3ypw900fbg7x3n8qrm7p2)** *(October 14, 2025)*  
-  Embraer CEO calls for US-Brazil zero tariffs on aircraft. Discover how eliminating duties benefits global aerospace, cuts costs, and boosts trade for ...
-- **[Bouygues, Free, Orange Table $20 Billion Joint Bid for Altice France Assets](https://caymanjournal.com/articles/bouygues-free-orange-table-20-billion-joint-bid-for-altice-f-cmgr3z83g00feg7x3scy4kj2q)** *(October 14, 2025)*  
-  Bouygues, Free, Orange make a $20B bid for Altice France's SFR & FTTH assets. This massive deal could consolidate the French telecom market. Discover ...
-- **[Soon You’ll Be Able to Shop Walmart in ChatGPT, Signaling a Retail Revolution](https://caymanjournal.com/articles/soon-youll-be-able-to-shop-walmart-in-chatgpt-signaling-a-re-cmgqzldnc00e7g7x3hn1sianz)** *(October 14, 2025)*  
-  Walmart pioneers AI shopping with ChatGPT integration. Experience seamless conversational commerce, personalized recommendations, and instant purchase...
+- **[AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants](https://caymanjournal.com/articles/ai-data-centers-desperate-for-electricity-are-building-their-cmgsw6dn600o5g7x3f5c03jg9)** *(October 16, 2025)*  
+  AI data centers' staggering power needs force tech giants to become energy producers. Explore how Microsoft & Google build their own plants to fuel AI...
+- **[Feds Clear Appliance Makers of Widespread Tariff Evasion Accusations](https://caymanjournal.com/articles/feds-clear-appliance-makers-of-widespread-tariff-evasion-acc-cmgsrw40q00njg7x3nqhr7qk1)** *(October 15, 2025)*  
+  CBP found no widespread evidence of tariff evasion by imported appliance makers after Whirlpool's claims. Importers relieved as federal review conclud...
+- **[HPE Expects Revenue Growth to Slow in Next Fiscal Year](https://caymanjournal.com/articles/hpe-expects-revenue-growth-to-slow-in-next-fiscal-year-cmgsnljs000n0g7x3iazpfzdp)** *(October 15, 2025)*  
+  Discover HPE's strategic shift: aiming for 5-10% FY2026 revenue growth by targeting high-profit AI, edge computing, and GreenLake segments.
+- **[J.B. Hunt Income Rises on Improved Intermodal Business](https://caymanjournal.com/articles/jb-hunt-income-rises-on-improved-intermodal-business-cmgsjbdfv00mgg7x3cl5ywup5)** *(October 15, 2025)*  
+  J.B. Hunt's intermodal business achieved a 12% operating income increase in Q3, driven by efficiency and network balance. A standout success in a vola...
+- **[United Airlines Expects Stronger Revenue Trends in Holiday Season](https://caymanjournal.com/articles/united-airlines-expects-stronger-revenue-trends-in-holiday-s-cmgsjbv8t00mjg7x3ans8b8n1)** *(October 15, 2025)*  
+  United Airlines anticipates a significant Q4 revenue upturn as holiday travel boosts demand, rebounding from a 4.3% Q3 RASM decline. Get the full outl...
+- **[Prologis Raises Outlook as Warehouse Leasing Picks Up](https://caymanjournal.com/articles/prologis-raises-outlook-as-warehouse-leasing-picks-up-cmgsjck7700mmg7x3abh6gpeg)** *(October 15, 2025)*  
+  Prologis Q3 revenue surged 9% to $1.95B, raising its outlook. Discover why strong warehouse leasing & demand for resilient supply chains are driving i...
+- **[Resorts World, Bally’s and Steve Cohen Submit Supplemental New York Casino Applications](https://caymanjournal.com/articles/resorts-world-ballys-and-steve-cohen-submit-supplemental-new-cmgsjd3d600mpg7x336vut9yg)** *(October 15, 2025)*  
+  New York's high-stakes downstate casino license race narrows. Resorts World, Bally's & Steve Cohen submit final bids shaping future NY gaming & econom...
+- **[BlackRock-Led AI Consortium Eyes Aligned Data Centers in Landmark $20 Billion Acquisition](https://caymanjournal.com/articles/blackrock-led-ai-consortium-eyes-aligned-data-centers-in-lan-cmgs6gisl00kog7x3ztluz81w)** *(October 15, 2025)*  
+  BlackRock-led consortium acquires Aligned Data Centers for $20B, a landmark deal fueling AI's future. Understand the impact on digital infrastructure.
+- **[Lone Star Funds to Buy Hillenbrand for About $2.25 Billion](https://caymanjournal.com/articles/lone-star-funds-to-buy-hillenbrand-for-about-225-billion-cmgs2co3c00kdg7x366tuaylr)** *(October 15, 2025)*  
+  Lone Star Funds acquires industrial giant Hillenbrand for $2.25B. Unpack the strategic shift to private ownership & its impact on future growth and op...
+- **[A Giant New AI Data Center Is Coming to the Epicenter of America’s Fracking Boom](https://caymanjournal.com/articles/a-giant-new-ai-data-center-is-coming-to-the-epicenter-of-ame-cmgs2djf600kgg7x3htskntby)** *(October 15, 2025)*  
+  West Texas' Permian Basin becomes an AI hub: CoreWeave & Poolside build a huge AI data center, tapping into stranded energy for hyperscale GPU computi...
 
 ### 🏛️ Economy
 
+- **[Australia’s Unemployment Pickup Shatters RBA’s Calm](https://caymanjournal.com/articles/australias-unemployment-pickup-shatters-rbas-calm-cmgswc42d00o8g7x3gdbmnjkx)** *(October 16, 2025)*  
+  Australia's unemployment rate hits 4.1%, forcing the RBA to consider interest rate cuts. Understand the shift in policy & economic outlook.
+- **[If BOJ Falls Behind Curve, Catching Up Could Hurt Economy, Board Member Says](https://caymanjournal.com/articles/if-boj-falls-behind-curve-catching-up-could-hurt-economy-boa-cmgswcnhb00obg7x349ipkrkb)** *(October 16, 2025)*  
+  BOJ member warns delaying a shift from ultra-loose monetary policy risks aggressive, damaging rate hikes later. Explore the growing internal debate on...
+- **[Australia’s Jobless Rate Jumps, Fueling RBA Rate Hike Speculation](https://caymanjournal.com/articles/australias-jobless-rate-jumps-fueling-rba-rate-hike-speculat-cmgss42uu00nyg7x3sq0jqwvl)** *(October 16, 2025)*  
+  Australia's unemployment rate jumps to 4.1%, highest since late 2021. Is an RBA interest rate hike imminent? Unpack the economic impact.
+- **[SL Green’s Midtown Acquisition Signals Heating Momentum for Prime Office Space](https://caymanjournal.com/articles/sl-greens-midtown-acquisition-signals-heating-momentum-for-p-cmgsf7w9h00lqg7x3cojf9dwc)** *(October 15, 2025)*  
+  SL Green's $500M+ Midtown office deal signals a "flight to quality" in NYC's prime commercial real estate. Uncover why top-tier spaces are thriving.
+- **[RBI Governor: U.S. Tariff Reduction Crucial for India's Growth This Year](https://caymanjournal.com/articles/rbi-governor-us-tariff-reduction-crucial-for-indias-growth-t-cmgsf8cxo00ltg7x3xfxpvods)** *(October 15, 2025)*  
+  India-US trade talks target lower tariffs. RBI Governor states reduced US tariffs on Indian exports will significantly boost economic growth, manufact...
+- **[New York Manufacturing Activity Surges in October, Marking Third Gain in Four Months](https://caymanjournal.com/articles/new-york-manufacturing-activity-surges-in-october-marking-th-cmgs2b46w00kag7x39l686sbd)** *(October 15, 2025)*  
+  New York manufacturing surged in October, expanding for 3 of 4 months! New orders & shipments drove growth, signaling resilience. Discover the factory...
+- **[Shoppers Hit by Soaring Food Costs Are Shifting Habits, Prioritizing Value](https://caymanjournal.com/articles/shoppers-hit-by-soaring-food-costs-are-shifting-habits-prior-cmgrtnwbp00hpg7x3ya40mg8i)** *(October 15, 2025)*  
+  Food prices surged 8.5%, forcing consumers to change grocery habits. Discover how families cut costs, stockpile essentials, and find value to save mon...
+- **[Eurozone Industrial Production Swings Back to Decline](https://caymanjournal.com/articles/eurozone-industrial-production-swings-back-to-decline-cmgrtojf400hsg7x3qp5xeo2w)** *(October 15, 2025)*  
+  Eurozone industrial output plunged 1.2% in August, signaling uncertainty. Unpack global trade shifts, high costs, & ECB policy impacting recovery.
 - **[China’s Deflationary Pressures Ease Slightly](https://caymanjournal.com/articles/chinas-deflationary-pressures-ease-slightly-cmgrchray00g0g7x33rbm9xx1)** *(October 15, 2025)*  
   China's price pressures eased in Sept, hinting deflation may recede. Beijing's capacity cuts & demand boosts offer cautious hope for economic stabilit...
 - **[Fed Chair Powell Signals Further Rate Cuts, Hints at End of Balance Sheet Runoff](https://caymanjournal.com/articles/fed-chair-powell-signals-further-rate-cuts-hints-at-end-of-b-cmgqzrs4w00egg7x340gqoxh1)** *(October 14, 2025)*  
   Powell signals rate cut & ending QT, a dual easing. Explore how the Fed's pivot from tightening to support impacts markets & your investments.
-- **[Fed Signals Potential End to Three-Year Balance Sheet Shrink](https://caymanjournal.com/articles/fed-signals-potential-end-to-three-year-balance-sheet-shrink-cmgqvk0dg00dyg7x3ilipdj3z)** *(October 14, 2025)*  
-  Fed Chair Powell hints its $1.7T balance sheet unwind (QT) is nearing conclusion. Understand this pivotal central bank policy shift & its impact on ma...
-- **[Tariffs, Inflation, and Eroding Central-Bank Independence Cloud Global Economic Horizon, Warns IMF](https://caymanjournal.com/articles/tariffs-inflation-and-eroding-central-bank-independence-clou-cmgqn1jw700cag7x3pbjxlg4v)** *(October 14, 2025)*  
-  Global economy faces choppy waters. IMF downgrades growth to 2.6% due to tariffs, inflation & central-bank independence risks. Understand the impact.
-- **[U.K. Economy Faces Rising Risk Of a ‘Hard Landing,’ Says BOE’s Taylor](https://caymanjournal.com/articles/uk-economy-faces-rising-risk-of-a-hard-landing-says-boes-tay-cmgqn2a2e00cdg7x3merwgpg6)** *(October 14, 2025)*  
-  BOE's Alan Taylor warns of growing UK recession risk from "overly high borrowing costs." See how interest rates threaten a hard landing for firms & ho...
-- **[German Financial Sentiment Improves Despite Uncertainty](https://caymanjournal.com/articles/german-financial-sentiment-improves-despite-uncertainty-cmgqfeqb10077g7x3dkfm57go)** *(October 14, 2025)*  
-  German economic confidence among analysts soared in July (+5.4 points). ZEW data reveals cautious optimism despite headwinds, signalling easing pressu...
-- **[China’s Rare-Earth Export Controls Spark Critical Concern for EU, Trade Chief Warns](https://caymanjournal.com/articles/chinas-rare-earth-export-controls-spark-critical-concern-for-cmgqff9pq007ag7x3qe6sy8pk)** *(October 14, 2025)*  
-  Brussels sounds alarm over China's rare-earth controls, threatening EU green transition & industry. Learn how Europe plans to secure vital raw materia...
-- **[U.K. Unemployment Edges Higher Amidst Cooling Job Market](https://caymanjournal.com/articles/uk-unemployment-edges-higher-amidst-cooling-job-market-cmgqffwlk007dg7x3x2kd30k4)** *(October 14, 2025)*  
-  Unemployment rises to 4.3% as UK job market softens & wage growth slows. Explore how economic uncertainty challenges businesses & policymakers.
-- **[Singapore Central Bank Stands Pat as Economy Shows Resilience, But Risks Loom](https://caymanjournal.com/articles/singapore-central-bank-stands-pat-as-economy-shows-resilienc-cmgqfgj77007gg7x3cgd7i3hg)** *(October 14, 2025)*  
-  Singapore's MAS holds monetary policy, balancing strong economic growth with global trade tensions & inflation. Discover the S$NEER decision.
-- **[Trump's High-Wire Act: Soothing Markets While Squeezing China](https://caymanjournal.com/articles/trumps-high-wire-act-soothing-markets-while-squeezing-china-cmgqfh6ui007jg7x3h0pl3juw)** *(October 14, 2025)*  
-  Trump's US-China trade war strategy: public de-escalation for markets, private pressure on Beijing. See how Wall Street reacts to this high-stakes bal...
 
 ### 📈 Markets & Finance
 
-- **[Grindr Confirms Active Talks with "Top Investors" Over Potential Buyout](https://caymanjournal.com/articles/grindr-confirms-active-talks-with-top-investors-over-potenti-cmgr85tkf00fjg7x3or9kxlnb)** *(October 14, 2025)*  
-  Grindr confirms serious buyout talks with top investors, forming a special committee. Explore what a potential nine-figure deal means for the LGBTQ+ a...
-- **[Trade Tensions, and Signs of Conciliation, Send U.S. Stocks on a Wild Ride](https://caymanjournal.com/articles/trade-tensions-and-signs-of-conciliation-send-us-stocks-on-a-cmgr86h7s00fmg7x3qb76njv0)** *(October 14, 2025)*  
-  Explore Tuesday's wild swings in US equity markets. Trade war fears sparked a Dow plunge before conciliatory tones fueled a strong recovery. Get marke...
-- **[Wall Street Is Firing on All Cylinders, Fueled by Deals and Trading](https://caymanjournal.com/articles/wall-street-is-firing-on-all-cylinders-fueled-by-deals-and-t-cmgqvhabl00dsg7x3gak5gvmq)** *(October 14, 2025)*  
-  Wall Street is thriving! Surging markets, booming dealmaking, and record earnings (JPMorgan +15%, Goldman Sachs +20%) signal a robust financial sector...
-- **[He Works Full Time and Goes to College. Is He Saving Enough?](https://caymanjournal.com/articles/he-works-full-time-and-goes-to-college-is-he-saving-enough-cmgqvi59k00dvg7x3iedebh3y)** *(October 14, 2025)*  
-  Master's or home first? Follow a young pro aiming for both. Get expert financial strategies on funding a $40K degree & saving $90K for a home by 34.
-- **[Citigroup’s Profit Jumps, Boosted by Dealmaking and Trading](https://caymanjournal.com/articles/citigroups-profit-jumps-boosted-by-dealmaking-and-trading-cmgqmzhhd00c7g7x3ucrdhw16)** *(October 14, 2025)*  
-  Citigroup's Q3 profit soared 16% driven by surging dealmaking and robust trading. Discover how Citi's diversified model delivered strong institutional...
-- **[Wells Fargo Third-Quarter Profit Rises, Signaling Resilience Amid Economic Headwinds](https://caymanjournal.com/articles/wells-fargo-third-quarter-profit-rises-signaling-resilience-cmgqilpsv00aig7x3hzm1564f)** *(October 14, 2025)*  
-  Wells Fargo's Q3 profit climbed 9% amid rising rates and robust net interest income. Understand the bank's progress navigating economic & regulatory c...
-- **[Goldman Sachs Profit Surges, Fueled by Dealmaking Boom](https://caymanjournal.com/articles/goldman-sachs-profit-surges-fueled-by-dealmaking-boom-cmgqim9k200alg7x316vs20cj)** *(October 14, 2025)*  
-  Goldman Sachs soared past analyst predictions with a 42% surge in investment banking revenue. Discover how a red-hot M&A and capital markets boom drov...
-- **[Two Major U.S. Timberland Owners to Merge, Creating a $7 Billion Behemoth](https://caymanjournal.com/articles/two-major-us-timberland-owners-to-merge-creating-a-7-billion-cmgqimxpt00aog7x3xmi77is6)** *(October 14, 2025)*  
-  Rayonier & PotlatchDeltic merge to form a dominant $7B+ timberland REIT. Discover how this colossal deal reshapes U.S. timberland investment & shareho...
-- **[JPMorgan’s Profit Jumps as Business Booms on Wall Street, Main Street](https://caymanjournal.com/articles/jpmorgans-profit-jumps-as-business-booms-on-wall-street-main-cmgqinfm200arg7x3u4z4bgyi)** *(October 14, 2025)*  
-  JPMorgan Chase's quarterly profits soar from strong Wall Street & Main Street results. CEO Jamie Dimon on economic resilience & job growth concerns.
-- **[BlackRock's Assets Soar to Record $13.5 Trillion Amidst Market Surge and Strategic Acquisitions](https://caymanjournal.com/articles/blackrocks-assets-soar-to-record-135-trillion-amidst-market-cmgqinzsb00aug7x3c9fgwt37)** *(October 14, 2025)*  
-  BlackRock's AUM surges to $13.5T! See how market appreciation & strategic acquisitions drove record growth and 10% fee uplift, cementing global domina...
+- **[American Bankers Are Making a Mint Helping China Inc. Go Global](https://caymanjournal.com/articles/american-bankers-are-making-a-mint-helping-china-inc-go-glob-cmgss0ydo00nsg7x3r5f1e852)** *(October 16, 2025)*  
+  Explore how American investment bankers facilitate China Inc.'s global expansion in Hong Kong, generating massive fees amid geopolitical tensions.
+- **[How Jefferies Found Itself at the Center of First Brands’ Collapse](https://caymanjournal.com/articles/how-jefferies-found-itself-at-the-center-of-first-brands-col-cmgsjgsdf00msg7x3meci9hdt)** *(October 15, 2025)*  
+  Jefferies confronts tough questions at its investor day about extensive ties to First Brands Group's dramatic bankruptcy, raising reputational and fin...
+- **[Strong Bank Earnings Push S&P 500 Higher](https://caymanjournal.com/articles/strong-bank-earnings-push-sp-500-higher-cmgsjhdda00mvg7x3u0n3cms8)** *(October 15, 2025)*  
+  S&P 500 jumps 1.2% as robust bank earnings from JPMorgan & BofA reveal a surprisingly strong economic outlook, calming recession fears. Get the detail...
+- **[Bank of America, BNY Mellon Face Lawsuits Over Jeffrey Epstein Connections](https://caymanjournal.com/articles/bank-of-america-bny-mellon-face-lawsuits-over-jeffrey-epstei-cmgsf599700lng7x3n680pry8)** *(October 15, 2025)*  
+  Bank of America & BNY Mellon sued over Jeffrey Epstein ties, accused of failing AML/KYC to stop illicit activities. Understand banking's accountabilit...
+- **[The Nation’s Biggest Banks Are Saying the Economy Is Still Strong](https://caymanjournal.com/articles/the-nations-biggest-banks-are-saying-the-economy-is-still-st-cmgsav9h300l5g7x3lsch4s9q)** *(October 15, 2025)*  
+  Wall Street titans see a resilient U.S. economy fueled by dealmaking & consumer spending, defying recession fears. But bears warn of frothy stocks & a...
+- **[Bunge Soars After Trump Targets Cooking Oil Imports From China](https://caymanjournal.com/articles/bunge-soars-after-trump-targets-cooking-oil-imports-from-chi-cmgsavy9q00l8g7x3aktr0qzx)** *(October 15, 2025)*  
+  Trump's potential ban on Chinese used cooking oil could send Bunge soaring. Learn how this shift impacts renewable fuel feedstocks & US agriculture.
+- **[S&P Global Bolsters Private Markets Reach with $1.8 Billion Acquisition of With Intelligence](https://caymanjournal.com/articles/sp-global-bolsters-private-markets-reach-with-18-billion-acq-cmgs267qy00jyg7x36u5f02i0)** *(October 15, 2025)*  
+  S&P Global acquires With Intelligence for $1.8B, enhancing its private markets data & analytics for alternative assets.
+- **[Strong U.S. Economy Powers Bank of America Profit Higher](https://caymanjournal.com/articles/strong-us-economy-powers-bank-of-america-profit-higher-cmgs2759q00k1g7x32qpsz09q)** *(October 15, 2025)*  
+  Bank of America kicks off earnings season with a 23% profit surge, reaching $7.8B. Discover how resilient US consumer spending & strong investment ban...
+- **[BlackRock’s AI Consortium to Buy Aligned Data Centers in $40 Billion Deal](https://caymanjournal.com/articles/blackrocks-ai-consortium-to-buy-aligned-data-centers-in-40-b-cmgs27tfs00k4g7x3616wvzm5)** *(October 15, 2025)*  
+  BlackRock's AI consortium acquires Aligned Data Centers for $40B, signaling a major push into critical AI infrastructure. This deal redefines the digi...
+- **[Blackstone Joins Race to Bring Private Assets to 401(k) Market](https://caymanjournal.com/articles/blackstone-joins-race-to-bring-private-assets-to-401k-market-cmgs28iak00k7g7x3crut50iy)** *(October 15, 2025)*  
+  Blackstone is bringing private assets, once exclusive, to the 401(k) market for everyday savers. See how this could reshape retirement investing.
 
 ### 💻 Technology
 
+- **[Foxconn Shares Surge as Chairman Engages With OpenAI, Eyes Nvidia for AI Hardware Future](https://caymanjournal.com/articles/foxconn-shares-surge-as-chairman-engages-with-openai-eyes-nv-cmgt0j37c00oog7x35onlqpyr)** *(October 16, 2025)*  
+  Foxconn stock jumps as Chairman meets OpenAI & plans Nvidia talks, solidifying its strategic role in the burgeoning AI hardware supply chain.
+- **[Feds Clear Appliance Rivals of Widespread Tariff Evasion After Whirlpool's Allegations](https://caymanjournal.com/articles/feds-clear-appliance-rivals-of-widespread-tariff-evasion-aft-cmgsrzf3k00npg7x3ikq40633)** *(October 15, 2025)*  
+  Federal authorities clear major appliance manufacturers of widespread tariff undervaluing after Whirlpool's accusations. Details on the CBP investigat...
+- **[BlackRock’s AI Consortium to Acquire Aligned Data Centers in Monumental $20 Billion Deal](https://caymanjournal.com/articles/blackrocks-ai-consortium-to-acquire-aligned-data-centers-in-cmgs6kqjq00kug7x32e2foobt)** *(October 15, 2025)*  
+  BlackRock's $20B Aligned Data Centers acquisition fuels AI growth. Learn how specialized, high-density facilities meet surging AI compute demand.
+- **[Workday Adds to AI Push With $200 Million Investment in Irish Innovation Center](https://caymanjournal.com/articles/workday-adds-to-ai-push-with-200-million-investment-in-irish-cmgrtv7t300i4g7x3d51zwv82)** *(October 15, 2025)*  
+  Workday pledges $200M for a new AI innovation center in Ireland, creating 200 jobs. The hub will deepen AI in cloud finance & HR for enhanced automati...
+- **[Driverless Taxis to Take On London’s Storied Black Cabs](https://caymanjournal.com/articles/driverless-taxis-to-take-on-londons-storied-black-cabs-cmgrtvss600i7g7x383yj7qbg)** *(October 15, 2025)*  
+  Waymo launches driverless taxis in London, pitting AI against black cab tradition. See how this seismic shift will redefine urban mobility and transpo...
 - **[Chinese Criminals Made More Than $1 Billion From Those Annoying Texts](https://caymanjournal.com/articles/chinese-criminals-made-more-than-1-billion-from-those-annoyi-cmgrl6ds800gpg7x3klfdxcp4)** *(October 15, 2025)*  
   Uncover how text message scams (smishing) about tolls & postage fees fund a billion-dollar criminal economy. Learn to protect your credit card info.
 - **[AI Economics Are Brutal. Demand Is the Variable to Watch.](https://caymanjournal.com/articles/ai-economics-are-brutal-demand-is-the-variable-to-watch-cmgqr6nde00czg7x3ncfo9hyf)** *(October 14, 2025)*  
@@ -137,19 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Oracle partners AMD, deploying thousands of MI300X AI chips in OCI. This massive deal scales cloud AI, poised to challenge Nvidia's dominance.
 - **[Why Broadcom’s Bet on OpenAI Is a Big Gamble](https://caymanjournal.com/articles/why-broadcoms-bet-on-openai-is-a-big-gamble-cmgqeikin002mg7x3q4wdu4wp)** *(October 14, 2025)*  
   Broadcom pivots to build OpenAI's AI infrastructure with custom chips & networking. Explore the massive opportunities and high-stakes risks involved.
-- **[Google Commits $24 Billion to AI Expansion in U.S. and India, Unveiling First India AI Hub](https://caymanjournal.com/articles/google-commits-24-billion-to-ai-expansion-in-us-and-india-un-cmgqejfhc002pg7x34rxyspr8)** *(October 14, 2025)*  
-  Google announces a $24B investment across the US & India, building its first dedicated AI hub in India. Discover how this strengthens global AI leader...
-- **[Salesforce’s $15 Billion Investment in San Francisco Will Support AI Innovation](https://caymanjournal.com/articles/salesforces-15-billion-investment-in-san-francisco-will-supp-cmgqejziz002sg7x3jols09s2)** *(October 14, 2025)*  
-  Learn how Salesforce's $15B AI investment empowers San Francisco, fostering innovation, creating jobs, and transforming businesses into agentic enterp...
-- **[OpenAI, Broadcom Ink Multibillion-Dollar Deal to Power Next-Gen AI with Custom Chips](https://caymanjournal.com/articles/openai-broadcom-ink-multibillion-dollar-deal-to-power-next-g-cmgqeknxi002vg7x3jskafvg7)** *(October 13, 2025)*  
-  OpenAI & Broadcom ink a multibillion-dollar deal to deploy 10 gigawatts of custom AI chips, transforming AI compute and efficiency.
-- **[AI Is Juicing the Economy. Is It Making American Workers More Product Productive?](https://caymanjournal.com/articles/ai-is-juicing-the-economy-is-it-making-american-workers-more-cmgqem45i0031g7x3v3jww2b2)** *(October 13, 2025)*  
-  AI fuels a US economic boom with billions in investment, yet worker productivity lags. Discover why integrating AI, measuring gains, & re-skilling hum...
-- **[Why Biotech’s Rally Can Last This Time](https://caymanjournal.com/articles/why-biotechs-rally-can-last-this-time-cmgqelg08002yg7x30knw8071)** *(October 13, 2025)*  
-  Biotech is poised for sustained growth. Explore how groundbreaking science, institutional investment, and a discerning market fuel this rally. Underst...
 
 
-*Last updated: October 15, 2025 at 06:26 UTC*
+*Last updated: October 16, 2025 at 06:26 UTC*
 
 <!-- FEED:END -->
 
