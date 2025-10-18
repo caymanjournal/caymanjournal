@@ -35,52 +35,60 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through](https://caymanjournal.com/articles/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-thr-cmgufz6tu00wvg7x3vax26tt0)** *(October 17, 2025)*  
-  BBVA's $19 billion hostile takeover for Sabadell has failed. Learn how Sabadell shareholders rejected the bid, securing independence & reshaping Spain...
-- **[Starbucks Evaluating Offers for China Business in Strategic Pivot](https://caymanjournal.com/articles/starbucks-evaluating-offers-for-china-business-in-strategic-cmgubm06h00wjg7x3khgruleo)** *(October 17, 2025)*  
-  Starbucks reviews 5 bids for its China operations. Explore why the coffee giant seeks a local partner to tackle China's competitive coffee market.
-- **[The Auto Industry Is Panicking About Another Potential Chip Shortage](https://caymanjournal.com/articles/the-auto-industry-is-panicking-about-another-potential-chip-cmgubmiyc00wmg7x3ct8ottkc)** *(October 17, 2025)*  
-  Nexperia's halt by Dutch government sparks panic in the auto industry. Discover how this geopolitical chip crisis threatens vehicle production & price...
-- **[Invite to Anti-DEI Activist Robby Starbuck Spurs HR Professionals to Withdraw from Industry Conference](https://caymanjournal.com/articles/invite-to-anti-dei-activist-robby-starbuck-spurs-hr-professi-cmgu7bsg500w9g7x3ozm0wxp5)** *(October 17, 2025)*  
-  Louisville HR conference faces backlash as Robby Starbuck's anti-DEI appearance prompts withdrawals. Unpack the growing polarization of corporate DEI ...
-- **[New Credit Fraud Fears Raise More Worries About Regional Banks](https://caymanjournal.com/articles/new-credit-fraud-fears-raise-more-worries-about-regional-ban-cmgu7f53t00wcg7x3bdhztfmr)** *(October 16, 2025)*  
-  Bank shares hammered by new fraud ties to regional banks. Discover how widespread borrower fraud renews credit quality fears & triggers regulatory scr...
-- **[Smartmatic Indicted Over Alleged Bribes](https://caymanjournal.com/articles/smartmatic-indicted-over-alleged-bribes-cmgu3575h00w2g7x3hszu3iyr)** *(October 16, 2025)*  
-  Smartmatic, battling 2020 election rigging claims, now faces a bribery indictment. Discover how this impacts its defamation suits & the election tech ...
-- **[Newsmax to Start Crypto Reserve Including Bitcoin, Trump Coin](https://caymanjournal.com/articles/newsmax-to-start-crypto-reserve-including-bitcoin-trump-coin-cmgu320od00vzg7x30j6q0ku1)** *(October 16, 2025)*  
-  Newsmax launches a $5M crypto reserve, acquiring Bitcoin & a "Trump Coin." This NYSE first-mover blends media, politics, and digital asset corporate s...
-- **[Regional Bank Worries Weigh on Stocks](https://caymanjournal.com/articles/regional-bank-worries-weigh-on-stocks-cmgtyr72q00vjg7x3le9fpnn7)** *(October 16, 2025)*  
-  Regional bank concerns resurface, driving KRX down 4.1%. Analyze how rising rates, CRE exposure, and regulation pressure the banking sector.
-- **[Interactive Brokers Logs Higher Profit, Revenue as Trading Volume Climbs](https://caymanjournal.com/articles/interactive-brokers-logs-higher-profit-revenue-as-trading-vo-cmgtyv7qz00vpg7x3lfui0xwg)** *(October 16, 2025)*  
-  Interactive Brokers reports a 43% profit jump to $263M. Surging trading activity & rising rates drove robust quarterly earnings for the brokerage.
-- **[CSX Revenue, Profit Fall Amid Lower Coal Prices](https://caymanjournal.com/articles/csx-revenue-profit-fall-amid-lower-coal-prices-cmgtyvpmn00vsg7x3vri1r2gj)** *(October 16, 2025)*  
-  CSX reports 7% revenue, 12% profit fall from export coal prices & merchandise volume dip. Explore rail industry challenges & future outlook.
+- **[Can Gold Keep Rising? Depends if You Think This Time Is Different](https://caymanjournal.com/articles/can-gold-keep-rising-depends-if-you-think-this-time-is-diffe-cmgvvcalu0135g7x3wql8zice)** *(October 18, 2025)*  
+  Gold's record-breaking rally to $2,400+ sparks debate: Is this sustainable demand or a speculative bubble poised to burst? Analyze the market now.
+- **[How a Handyman’s Wife Helped an Hermès Heir Discover He’d Lost $15 Billion](https://caymanjournal.com/articles/how-a-handymans-wife-helped-an-herms-heir-discover-hed-lost-cmgvmv887012ug7x3eicp2hzt)** *(October 18, 2025)*  
+  Discover how Hermès heir Nicolas Puech allegedly lost $15 billion in a massive wealth manager fraud, thanks to a handyman's wife's astute observation.
+- **[The A-List Turned on Marc Benioff. Now the Salesforce CEO Regrets His Comments.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-the-salesforce-ceo-reg-cmgvr7g370132g7x359yimtct)** *(October 18, 2025)*  
+  Marc Benioff, Salesforce CEO, faced backlash & apologized for National Guard comments. Understand how corporate leaders navigate public discourse and ...
+- **[Jamie Dimon Wants Everyone in the Office. Is a $3 Billion Building the Answer?](https://caymanjournal.com/articles/jamie-dimon-wants-everyone-in-the-office-is-a-3-billion-buil-cmgvmrrdy012rg7x39pw038rl)** *(October 17, 2025)*  
+  Jamie Dimon's $3B JPMorgan Chase HQ challenges hybrid work. Will his strict RTO policy revive the office or is it a colossal gamble? Discover the stak...
+- **[FAA Lets Boeing Increase Production Cap on 737 MAX by 10%](https://caymanjournal.com/articles/faa-lets-boeing-increase-production-cap-on-737-max-by-10-cmgvilb59012bg7x3d5f1mlr7)** *(October 17, 2025)*  
+  Boeing gets FAA nod to boost 737 MAX output by 10% to 42 planes monthly. Discover the implications for its recovery, quality oversight & airlines.
+- **[The Score: Morgan Stanley, Porsche, Broadcom, Walmart and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-morgan-stanley-porsche-broadcom-walmart-and-more-s-cmgvihdyz0125g7x32zuutgrs)** *(October 17, 2025)*  
+  See how Morgan Stanley, Porsche IPO, Broadcom, and Walmart surged this week. Strong earnings, strategic moves & record revenues drove top corporate st...
+- **[Marc Benioff Apologizes for National Guard Comments](https://caymanjournal.com/articles/marc-benioff-apologizes-for-national-guard-comments-cmgveah1n011yg7x3765s020f)** *(October 17, 2025)*  
+  Salesforce CEO Marc Benioff apologizes for controversial National Guard comments on San Francisco's homeless crisis, facing backlash from community le...
+- **[Tesla Shareholders Urged to Reject Musk’s $1 Trillion Pay Package Amid Governance Concerns](https://caymanjournal.com/articles/tesla-shareholders-urged-to-reject-musks-1-trillion-pay-pack-cmgvinp01012eg7x37902gxl7)** *(October 17, 2025)*  
+  ISS recommends rejecting Elon Musk's "moonshot" $1T Tesla pay package over xAI focus & dilution. Learn why this crucial shareholder vote sparks debate...
+- **[Volatility Returns to Stalk the Stock Market](https://caymanjournal.com/articles/volatility-returns-to-stalk-the-stock-market-cmgvihy6d0128g7x34nf72j5y)** *(October 17, 2025)*  
+  Wall Street's VIX 'fear gauge' hits 23.85 today. Understand why market volatility is back amid inflation & what investors need to know.
+- **[California Sues Plastic Bag Makers, Alleging Shoppers Deceived Over Recycling](https://caymanjournal.com/articles/california-sues-plastic-bag-makers-alleging-shoppers-deceive-cmgvmw7rx012xg7x3b55qqhur)** *(October 17, 2025)*  
+  California AG Rob Bonta sues major plastic bag manufacturers, alleging systematic deception about recyclability. Exposing greenwashing & low recycling...
 
 ### 🏢 Business
 
-- **[Starbucks Evaluating Offers for China Business in Strategic Pivot](https://caymanjournal.com/articles/starbucks-evaluating-offers-for-china-business-in-strategic-cmgubm06h00wjg7x3khgruleo)** *(October 17, 2025)*  
-  Starbucks reviews 5 bids for its China operations. Explore why the coffee giant seeks a local partner to tackle China's competitive coffee market.
-- **[The Auto Industry Is Panicking About Another Potential Chip Shortage](https://caymanjournal.com/articles/the-auto-industry-is-panicking-about-another-potential-chip-cmgubmiyc00wmg7x3ct8ottkc)** *(October 17, 2025)*  
-  Nexperia's halt by Dutch government sparks panic in the auto industry. Discover how this geopolitical chip crisis threatens vehicle production & price...
-- **[Invite to Anti-DEI Activist Robby Starbuck Spurs HR Professionals to Withdraw from Industry Conference](https://caymanjournal.com/articles/invite-to-anti-dei-activist-robby-starbuck-spurs-hr-professi-cmgu7bsg500w9g7x3ozm0wxp5)** *(October 17, 2025)*  
-  Louisville HR conference faces backlash as Robby Starbuck's anti-DEI appearance prompts withdrawals. Unpack the growing polarization of corporate DEI ...
-- **[Smartmatic Indicted Over Alleged Bribes](https://caymanjournal.com/articles/smartmatic-indicted-over-alleged-bribes-cmgu3575h00w2g7x3hszu3iyr)** *(October 16, 2025)*  
-  Smartmatic, battling 2020 election rigging claims, now faces a bribery indictment. Discover how this impacts its defamation suits & the election tech ...
-- **[Interactive Brokers Logs Higher Profit, Revenue as Trading Volume Climbs](https://caymanjournal.com/articles/interactive-brokers-logs-higher-profit-revenue-as-trading-vo-cmgtyv7qz00vpg7x3lfui0xwg)** *(October 16, 2025)*  
-  Interactive Brokers reports a 43% profit jump to $263M. Surging trading activity & rising rates drove robust quarterly earnings for the brokerage.
-- **[CSX Revenue, Profit Fall Amid Lower Coal Prices](https://caymanjournal.com/articles/csx-revenue-profit-fall-amid-lower-coal-prices-cmgtyvpmn00vsg7x3vri1r2gj)** *(October 16, 2025)*  
-  CSX reports 7% revenue, 12% profit fall from export coal prices & merchandise volume dip. Explore rail industry challenges & future outlook.
-- **[Chamber of Commerce Sues Over Trump’s New $100,000 H-1B Visa Fee](https://caymanjournal.com/articles/chamber-of-commerce-sues-over-trumps-new-100000-h-1b-visa-fe-cmgtukm7c00uyg7x3sq0yydao)** *(October 16, 2025)*  
-  U.S. Chamber of Commerce sues Trump over the new $100,000 H-1B visa fee. Uncover implications for businesses, global talent, and immigration policy.
-- **[Weaker Oil Prices Threaten European Oil Majors’ Buybacks Next Year](https://caymanjournal.com/articles/weaker-oil-prices-threaten-european-oil-majors-buybacks-next-cmgtqcv1900ugg7x3lz9yrass)** *(October 16, 2025)*  
-  European oil majors' generous buybacks are threatened by weak oil prices & high debt. Is the golden era of shareholder returns ending for Shell, BP & ...
-- **[Germany’s Continental Backs 2025 Outlook, Reports Strong Start to Winter](https://caymanjournal.com/articles/germanys-continental-backs-2025-outlook-reports-strong-start-cmgtqdlu300ujg7x3psb8f933)** *(October 16, 2025)*  
-  Continental stands firm on its $22.71B 2025 sales outlook amid tough auto market. See how winter season success fuels confidence and strategic growth.
-- **[Ray-Ban Maker EssilorLuxottica’s Revenue Surges to Quarterly Record](https://caymanjournal.com/articles/ray-ban-maker-essilorluxotticas-revenue-surges-to-quarterly-cmgtqe5c300umg7x3qz7l1814)** *(October 16, 2025)*  
-  EssilorLuxottica hits record $8B revenue, propelled by surging AI glasses and its diversified portfolio. Discover how smart eyewear drives this strong...
+- **[How a Handyman’s Wife Helped an Hermès Heir Discover He’d Lost $15 Billion](https://caymanjournal.com/articles/how-a-handymans-wife-helped-an-herms-heir-discover-hed-lost-cmgvmv887012ug7x3eicp2hzt)** *(October 18, 2025)*  
+  Discover how Hermès heir Nicolas Puech allegedly lost $15 billion in a massive wealth manager fraud, thanks to a handyman's wife's astute observation.
+- **[FAA Lets Boeing Increase Production Cap on 737 MAX by 10%](https://caymanjournal.com/articles/faa-lets-boeing-increase-production-cap-on-737-max-by-10-cmgvilb59012bg7x3d5f1mlr7)** *(October 17, 2025)*  
+  Boeing gets FAA nod to boost 737 MAX output by 10% to 42 planes monthly. Discover the implications for its recovery, quality oversight & airlines.
+- **[Marc Benioff Apologizes for National Guard Comments](https://caymanjournal.com/articles/marc-benioff-apologizes-for-national-guard-comments-cmgveah1n011yg7x3765s020f)** *(October 17, 2025)*  
+  Salesforce CEO Marc Benioff apologizes for controversial National Guard comments on San Francisco's homeless crisis, facing backlash from community le...
+- **[California Sues Plastic Bag Makers, Alleging Shoppers Deceived Over Recycling](https://caymanjournal.com/articles/california-sues-plastic-bag-makers-alleging-shoppers-deceive-cmgvmw7rx012xg7x3b55qqhur)** *(October 17, 2025)*  
+  California AG Rob Bonta sues major plastic bag manufacturers, alleging systematic deception about recyclability. Exposing greenwashing & low recycling...
+- **[Proxy Adviser ISS Urges Tesla Holders to Reject Musk $1 Trillion Pay Package](https://caymanjournal.com/articles/proxy-adviser-iss-urges-tesla-holders-to-reject-musk-1-trill-cmgva13s0011gg7x3kgh2140t)** *(October 17, 2025)*  
+  ISS recommends rejecting Elon Musk's $1T Tesla pay package & Texas reincorporation. A high-stakes vote looms, pitting oversight against shareholders.
+- **[Green Shipping Plan Is Delayed After Trump Backlash](https://caymanjournal.com/articles/green-shipping-plan-is-delayed-after-trump-backlash-cmgv5pdkk010tg7x38oiuudnx)** *(October 17, 2025)*  
+  US opposition delays IMO's global shipping carbon levy, jeopardizing net-zero targets for 2050. Understand the impact on industry.
+- **[I Test Drove a Flying Car. Get Ready, They’re Here.](https://caymanjournal.com/articles/i-test-drove-a-flying-car-get-ready-theyre-here-cmgv5q3f6010wg7x3g7u8j568)** *(October 17, 2025)*  
+  The flying car is here! Discover how Pivotal BlackFly, a series-produced eVTOL, makes personal flight a reality—no pilot's license needed. Explore fut...
+- **[Verisure Unit Hit by Data Breach the Week After Stock Market Debut](https://caymanjournal.com/articles/verisure-unit-hit-by-data-breach-the-week-after-stock-market-cmgv5qldt010zg7x3htm30uqc)** *(October 17, 2025)*  
+  Days after its IPO, Verisure discloses a data breach in an acquired Swedish unit. Understand the cybersecurity challenges for new public entities & M&...
+- **[Apple Accelerates Sports Streaming Play with Exclusive F1 U.S. Rights](https://caymanjournal.com/articles/apple-accelerates-sports-streaming-play-with-exclusive-f1-us-cmgv1cek6010cg7x3je4cir5v)** *(October 17, 2025)*  
+  Apple TV+ secures exclusive U.S. streaming rights for Formula One, marking a major shift in live sports. Explore Apple's strategy & F1's new home.
+- **[State Street Posts Higher Profit as Fee Revenue Rises](https://caymanjournal.com/articles/state-street-posts-higher-profit-as-fee-revenue-rises-cmgux1r9l00zdg7x311ebsphm)** *(October 17, 2025)*  
+  State Street's Q3 earnings soar on robust fee revenue, fueled by higher client activity & AUM. Learn how this institutional finance giant achieved str...
 
 ### 🏛️ Economy
 
+- **[Bank of Canada: Macklem Says Key Data Will Dictate Next Rate Cut](https://caymanjournal.com/articles/bank-of-canada-macklem-says-key-data-will-dictate-next-rate-cmgv9yvxd011ag7x3pzu13tcc)** *(October 17, 2025)*  
+  Canada's interest rates fate hangs on next week's BoC business outlook & CPI data. See if Governor Macklem cuts rates again or holds due to inflation ...
+- **[The Number of Federal Worker Unemployment Claims Soars to Post-Shutdown High](https://caymanjournal.com/articles/the-number-of-federal-worker-unemployment-claims-soars-to-po-cmgv9zgcf011dg7x3ftofgnip)** *(October 17, 2025)*  
+  Federal unemployment claims surge to 2019 shutdown levels, signaling deep anxiety. Understand why public servants face renewed job insecurity & econom...
+- **[Week Ahead for FX, Bonds: U.S. Inflation, PMI Data in Focus as Shutdown Continues](https://caymanjournal.com/articles/week-ahead-for-fx-bonds-us-inflation-pmi-data-in-focus-as-sh-cmgv1jxz1010og7x3wgx6qze5)** *(October 17, 2025)*  
+  Delayed U.S. inflation data (CPI, PCE) will shape Fed interest rates. Understand its impact on bonds, FX, & market volatility amid the government shut...
+- **[China’s Communist Elites Gather to Map Strategy](https://caymanjournal.com/articles/chinas-communist-elites-gather-to-map-strategy-cmgut0yf800z2g7x3lktpvyon)** *(October 17, 2025)*  
+  Beijing's CPC Central Committee meets to set China's economic course. Discover how new policies will impact trade, property, & tech. Uncover key signa...
 - **[Extended Shutdown Leaves Fed Blind as Critical Rate Decision Looms](https://caymanjournal.com/articles/extended-shutdown-leaves-fed-blind-as-critical-rate-decision-cmgtqbcgj00udg7x3kcq3blnk)** *(October 16, 2025)*  
   Fed faces critical interest rate decisions blind as government shutdown halts key economic data. Understand the risks for monetary policy & markets.
 - **[EU Exports to U.S. Drop Sharply](https://caymanjournal.com/articles/eu-exports-to-us-drop-sharply-cmgt95awp00qmg7x3rtfg4ehr)** *(October 16, 2025)*  
@@ -93,63 +101,55 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Australia's unemployment rate hits 4.1%, forcing the RBA to consider interest rate cuts. Understand the shift in policy & economic outlook.
 - **[If BOJ Falls Behind Curve, Catching Up Could Hurt Economy, Board Member Says](https://caymanjournal.com/articles/if-boj-falls-behind-curve-catching-up-could-hurt-economy-boa-cmgswcnhb00obg7x349ipkrkb)** *(October 16, 2025)*  
   BOJ member warns delaying a shift from ultra-loose monetary policy risks aggressive, damaging rate hikes later. Explore the growing internal debate on...
-- **[Australia’s Jobless Rate Jumps, Fueling RBA Rate Hike Speculation](https://caymanjournal.com/articles/australias-jobless-rate-jumps-fueling-rba-rate-hike-speculat-cmgss42uu00nyg7x3sq0jqwvl)** *(October 16, 2025)*  
-  Australia's unemployment rate jumps to 4.1%, highest since late 2021. Is an RBA interest rate hike imminent? Unpack the economic impact.
-- **[SL Green’s Midtown Acquisition Signals Heating Momentum for Prime Office Space](https://caymanjournal.com/articles/sl-greens-midtown-acquisition-signals-heating-momentum-for-p-cmgsf7w9h00lqg7x3cojf9dwc)** *(October 15, 2025)*  
-  SL Green's $500M+ Midtown office deal signals a "flight to quality" in NYC's prime commercial real estate. Uncover why top-tier spaces are thriving.
-- **[RBI Governor: U.S. Tariff Reduction Crucial for India's Growth This Year](https://caymanjournal.com/articles/rbi-governor-us-tariff-reduction-crucial-for-indias-growth-t-cmgsf8cxo00ltg7x3xfxpvods)** *(October 15, 2025)*  
-  India-US trade talks target lower tariffs. RBI Governor states reduced US tariffs on Indian exports will significantly boost economic growth, manufact...
-- **[New York Manufacturing Activity Surges in October, Marking Third Gain in Four Months](https://caymanjournal.com/articles/new-york-manufacturing-activity-surges-in-october-marking-th-cmgs2b46w00kag7x39l686sbd)** *(October 15, 2025)*  
-  New York manufacturing surged in October, expanding for 3 of 4 months! New orders & shipments drove growth, signaling resilience. Discover the factory...
 
 ### 📈 Markets & Finance
 
-- **[BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through](https://caymanjournal.com/articles/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-thr-cmgufz6tu00wvg7x3vax26tt0)** *(October 17, 2025)*  
-  BBVA's $19 billion hostile takeover for Sabadell has failed. Learn how Sabadell shareholders rejected the bid, securing independence & reshaping Spain...
-- **[New Credit Fraud Fears Raise More Worries About Regional Banks](https://caymanjournal.com/articles/new-credit-fraud-fears-raise-more-worries-about-regional-ban-cmgu7f53t00wcg7x3bdhztfmr)** *(October 16, 2025)*  
-  Bank shares hammered by new fraud ties to regional banks. Discover how widespread borrower fraud renews credit quality fears & triggers regulatory scr...
-- **[Newsmax to Start Crypto Reserve Including Bitcoin, Trump Coin](https://caymanjournal.com/articles/newsmax-to-start-crypto-reserve-including-bitcoin-trump-coin-cmgu320od00vzg7x30j6q0ku1)** *(October 16, 2025)*  
-  Newsmax launches a $5M crypto reserve, acquiring Bitcoin & a "Trump Coin." This NYSE first-mover blends media, politics, and digital asset corporate s...
-- **[Regional Bank Worries Weigh on Stocks](https://caymanjournal.com/articles/regional-bank-worries-weigh-on-stocks-cmgtyr72q00vjg7x3le9fpnn7)** *(October 16, 2025)*  
-  Regional bank concerns resurface, driving KRX down 4.1%. Analyze how rising rates, CRE exposure, and regulation pressure the banking sector.
-- **[Oil Prices Drop to the Lowest Level in Nearly Five Years](https://caymanjournal.com/articles/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-cmgtyrpff00vmg7x311f8kg1r)** *(October 16, 2025)*  
-  U.S. crude futures plunge to 5-year lows amid massive global oil oversupply. Learn the market's impact on prices, OPEC+, and consumers.
-- **[Harvard, Other Top Universities Notch Big Investment Gains Amid Political Headwinds](https://caymanjournal.com/articles/harvard-other-top-universities-notch-big-investment-gains-am-cmgtugwnn00uvg7x39m1txvil)** *(October 16, 2025)*  
-  Harvard, MIT, & Stanford posted 15-20% investment gains for FY23, boosting endowments. Discover how these elite universities navigate political challe...
-- **[U.S. Crude Oil Stockpiles Rise for Third Straight Week, Fueling Demand Concerns](https://caymanjournal.com/articles/us-crude-oil-stockpiles-rise-for-third-straight-week-fueling-cmgtq6luw00u1g7x3w6yymo6t)** *(October 16, 2025)*  
-  U.S. crude oil inventories rose 3.5M barrels for the 3rd consecutive week, reaching 421.3M. This build signals weakening demand and pressures WTI pric...
-- **[From Sports to AI, America Is Awash in Speculative Fever. Washington Is Egging It On.](https://caymanjournal.com/articles/from-sports-to-ai-america-is-awash-in-speculative-fever-wash-cmgtq7kcw00u4g7x34u85jb70)** *(October 16, 2025)*  
-  America's speculative frenzy: How sports betting, crypto, and AI stock booms merge. Discover Washington's role in fueling this high-stakes gamble for ...
-- **[Hobbit-Inspired Startup Erebor Aims to Fill Post-SVB Void, Backed by Palmer Luckey](https://caymanjournal.com/articles/hobbit-inspired-startup-erebor-aims-to-fill-post-svb-void-ba-cmgtlwhl500t6g7x3t11cztvr)** *(October 16, 2025)*  
-  Palmer Luckey's Erebor bank secured preliminary approval. This de novo institution aims to support the tech & startup ecosystem post-SVB's collapse.
-- **[The More Money I Have, the Worse I Am at Managing It](https://caymanjournal.com/articles/the-more-money-i-have-the-worse-i-am-at-managing-it-cmgtlx5xn00t9g7x3wozqkk4a)** *(October 16, 2025)*  
-  Why do pay raises often lead to *worse* money management? Uncover the psychology of lifestyle creep and strategies to manage higher income effectively...
+- **[Can Gold Keep Rising? Depends if You Think This Time Is Different](https://caymanjournal.com/articles/can-gold-keep-rising-depends-if-you-think-this-time-is-diffe-cmgvvcalu0135g7x3wql8zice)** *(October 18, 2025)*  
+  Gold's record-breaking rally to $2,400+ sparks debate: Is this sustainable demand or a speculative bubble poised to burst? Analyze the market now.
+- **[Jamie Dimon Wants Everyone in the Office. Is a $3 Billion Building the Answer?](https://caymanjournal.com/articles/jamie-dimon-wants-everyone-in-the-office-is-a-3-billion-buil-cmgvmrrdy012rg7x39pw038rl)** *(October 17, 2025)*  
+  Jamie Dimon's $3B JPMorgan Chase HQ challenges hybrid work. Will his strict RTO policy revive the office or is it a colossal gamble? Discover the stak...
+- **[The Score: Morgan Stanley, Porsche, Broadcom, Walmart and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-morgan-stanley-porsche-broadcom-walmart-and-more-s-cmgvihdyz0125g7x32zuutgrs)** *(October 17, 2025)*  
+  See how Morgan Stanley, Porsche IPO, Broadcom, and Walmart surged this week. Strong earnings, strategic moves & record revenues drove top corporate st...
+- **[Volatility Returns to Stalk the Stock Market](https://caymanjournal.com/articles/volatility-returns-to-stalk-the-stock-market-cmgvihy6d0128g7x34nf72j5y)** *(October 17, 2025)*  
+  Wall Street's VIX 'fear gauge' hits 23.85 today. Understand why market volatility is back amid inflation & what investors need to know.
+- **[Jefferies Shares Pare Losses After CEO Says First Brands Defrauded Bank](https://caymanjournal.com/articles/jefferies-shares-pare-losses-after-ceo-says-first-brands-def-cmgv1h636010lg7x3ppp32rbw)** *(October 17, 2025)*  
+  Jefferies CEO states fraud by First Brands Group is an isolated incident, calming market fears about broader lending risks & stabilizing Jefferies sto...
+- **[Fifth Third's Profit Surges as Comerica's Slips, Setting Stage for Merger](https://caymanjournal.com/articles/fifth-thirds-profit-surges-as-comericas-slips-setting-stage-cmgusxpqs00ywg7x3heljzjyy)** *(October 17, 2025)*  
+  Fifth Third's Q3 profit jumps as Comerica's dips, impacting their $10.9B merger. Unpack what these contrasting results mean for the deal's future.
+- **[Gold Stocks Are Surging. They Still Lag Behind Cold, Hard Bullion](https://caymanjournal.com/articles/gold-stocks-are-surging-they-still-lag-behind-cold-hard-bull-cmgusya6200yzg7x33obc7n9w)** *(October 17, 2025)*  
+  Gold stocks surge past tech, fueled by uncertainty. Why do these equities still lag bullion? Explore the disconnect and untapped investment potential.
+- **[Five Point’s Resource-Management Strategy Pays Off](https://caymanjournal.com/articles/five-points-resource-management-strategy-pays-off-cmgve78u2011vg7x355ku8ync)** *(October 17, 2025)*  
+  Discover how Five Point's resource-management strategy led to two wildly successful IPOs (WaterBridge +40%, LandBridge +35%) and what's next for Power...
+- **[Global Markets Largely Down, Gold Extends Streak as Fed Rate-Cut Hopes Grow](https://caymanjournal.com/articles/global-markets-largely-down-gold-extends-streak-as-fed-rate-cmguol9ct00xug7x3t32yl2tr)** *(October 17, 2025)*  
+  Global financial markets re-evaluate outlook on Fed rate cut hopes. See why stocks, dollar, and bonds fall as gold shines. Dive into market shifts.
+- **[Stock Market Today: Dow Futures Drop Amid Renewed Bank Jitters](https://caymanjournal.com/articles/stock-market-today-dow-futures-drop-amid-renewed-bank-jitter-cmguolspo00xxg7x31c4g67gf)** *(October 17, 2025)*  
+  US equity futures fall sharply as renewed regional banking fears over CRE loans & deposit flight trigger 'risk-off' sentiment. Dow, S&P, Nasdaq drop.
 
 ### 💻 Technology
 
+- **[The A-List Turned on Marc Benioff. Now the Salesforce CEO Regrets His Comments.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-the-salesforce-ceo-reg-cmgvr7g370132g7x359yimtct)** *(October 18, 2025)*  
+  Marc Benioff, Salesforce CEO, faced backlash & apologized for National Guard comments. Understand how corporate leaders navigate public discourse and ...
+- **[Tesla Shareholders Urged to Reject Musk’s $1 Trillion Pay Package Amid Governance Concerns](https://caymanjournal.com/articles/tesla-shareholders-urged-to-reject-musks-1-trillion-pay-pack-cmgvinp01012eg7x37902gxl7)** *(October 17, 2025)*  
+  ISS recommends rejecting Elon Musk's "moonshot" $1T Tesla pay package over xAI focus & dilution. Learn why this crucial shareholder vote sparks debate...
+- **[The Age of Flying Cars Has Arrived](https://caymanjournal.com/articles/the-age-of-flying-cars-has-arrived-cmgv1f1b3010fg7x3pxtem5gv)** *(October 17, 2025)*  
+  The future is here! Explore flying cars, autonomous vehicles, AI clones, and decentralized energy. Discover how these innovations are transforming our...
+- **[Goldman Sachs Pursues Bigger Share of AI Infrastructure Financing Boom](https://caymanjournal.com/articles/goldman-sachs-pursues-bigger-share-of-ai-infrastructure-fina-cmgv1fqq4010ig7x3rjzzu8ys)** *(October 17, 2025)*  
+  Goldman Sachs launches a dedicated team to finance AI infrastructure, from data centers to chip fabrication, leveraging a $1T market opportunity. Lear...
+- **[Apple Secures Exclusive Formula One U.S. Streaming Rights](https://caymanjournal.com/articles/apple-secures-exclusive-formula-one-us-streaming-rights-cmgux5pr800zmg7x3nkr8b4os)** *(October 17, 2025)*  
+  Apple secures exclusive F1 U.S. streaming rights starting 2025 on Apple TV+. See how the $500M deal impacts sports broadcasting & F1 fans.
+- **[OpenAI Wants City-Sized AI Supercomputers. First It Needs Custom Chips.](https://caymanjournal.com/articles/openai-wants-city-sized-ai-supercomputers-first-it-needs-cus-cmgux6dud00zpg7x3dqzn7gwj)** *(October 17, 2025)*  
+  OpenAI bets billions on custom ASICs to ditch Nvidia reliance, optimize costs, and control the future of AGI compute infrastructure.
+- **[Oracle Isn’t Answering the Hardest Questions About Its AI Plans](https://caymanjournal.com/articles/oracle-isnt-answering-the-hardest-questions-about-its-ai-pla-cmguojm3g00xrg7x3rhuu4vky)** *(October 17, 2025)*  
+  Oracle's AI push sets ambitious targets, but investors question its CapEx roadmap for colossal infrastructure. Will financing stretch resources & free...
 - **[Teen Sues Maker of Fake-Nude Software](https://caymanjournal.com/articles/teen-sues-maker-of-fake-nude-software-cmgtunn8r00v4g7x3c060nim6)** *(October 16, 2025)*  
   A chilling lawsuit hits Synthetica Labs over AI deepfakes of a minor. Unpack the rising crisis of nonconsensual imagery, tech liability, and AI's futu...
 - **[Foxconn Shares Surge as Chairman Engages With OpenAI, Eyes Nvidia for AI Hardware Future](https://caymanjournal.com/articles/foxconn-shares-surge-as-chairman-engages-with-openai-eyes-nv-cmgt0j37c00oog7x35onlqpyr)** *(October 16, 2025)*  
   Foxconn stock jumps as Chairman meets OpenAI & plans Nvidia talks, solidifying its strategic role in the burgeoning AI hardware supply chain.
 - **[Feds Clear Appliance Rivals of Widespread Tariff Evasion After Whirlpool's Allegations](https://caymanjournal.com/articles/feds-clear-appliance-rivals-of-widespread-tariff-evasion-aft-cmgsrzf3k00npg7x3ikq40633)** *(October 15, 2025)*  
   Federal authorities clear major appliance manufacturers of widespread tariff undervaluing after Whirlpool's accusations. Details on the CBP investigat...
-- **[BlackRock’s AI Consortium to Acquire Aligned Data Centers in Monumental $20 Billion Deal](https://caymanjournal.com/articles/blackrocks-ai-consortium-to-acquire-aligned-data-centers-in-cmgs6kqjq00kug7x32e2foobt)** *(October 15, 2025)*  
-  BlackRock's $20B Aligned Data Centers acquisition fuels AI growth. Learn how specialized, high-density facilities meet surging AI compute demand.
-- **[Workday Adds to AI Push With $200 Million Investment in Irish Innovation Center](https://caymanjournal.com/articles/workday-adds-to-ai-push-with-200-million-investment-in-irish-cmgrtv7t300i4g7x3d51zwv82)** *(October 15, 2025)*  
-  Workday pledges $200M for a new AI innovation center in Ireland, creating 200 jobs. The hub will deepen AI in cloud finance & HR for enhanced automati...
-- **[Driverless Taxis to Take On London’s Storied Black Cabs](https://caymanjournal.com/articles/driverless-taxis-to-take-on-londons-storied-black-cabs-cmgrtvss600i7g7x383yj7qbg)** *(October 15, 2025)*  
-  Waymo launches driverless taxis in London, pitting AI against black cab tradition. See how this seismic shift will redefine urban mobility and transpo...
-- **[Chinese Criminals Made More Than $1 Billion From Those Annoying Texts](https://caymanjournal.com/articles/chinese-criminals-made-more-than-1-billion-from-those-annoyi-cmgrl6ds800gpg7x3klfdxcp4)** *(October 15, 2025)*  
-  Uncover how text message scams (smishing) about tolls & postage fees fund a billion-dollar criminal economy. Learn to protect your credit card info.
-- **[AI Economics Are Brutal. Demand Is the Variable to Watch.](https://caymanjournal.com/articles/ai-economics-are-brutal-demand-is-the-variable-to-watch-cmgqr6nde00czg7x3ncfo9hyf)** *(October 14, 2025)*  
-  Beyond AI hype: uncover how surging 'token' usage and rising inference costs are brutalizing AI profitability. Learn who thrives in this new economic ...
-- **[Instagram to Limit Teen Content Based on PG-13 Ratings](https://caymanjournal.com/articles/instagram-to-limit-teen-content-based-on-pg-13-ratings-cmgqmxa9700c1g7x3jmeuxa7o)** *(October 14, 2025)*  
-  Instagram implements PG-13 content filtering for teens (13-17), hiding strong language & risky stunts to boost online safety. Learn how it impacts use...
-- **[Oracle, AMD Partner on New AI Chip Deal](https://caymanjournal.com/articles/oracle-amd-partner-on-new-ai-chip-deal-cmgqmy1qd00c4g7x3ym116vj2)** *(October 14, 2025)*  
-  Oracle partners AMD, deploying thousands of MI300X AI chips in OCI. This massive deal scales cloud AI, poised to challenge Nvidia's dominance.
 
 
-*Last updated: October 17, 2025 at 06:25 UTC*
+*Last updated: October 18, 2025 at 06:23 UTC*
 
 <!-- FEED:END -->
 
