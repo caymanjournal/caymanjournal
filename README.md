@@ -35,31 +35,37 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
+- **[Steak, Butter and Ice Cream: MAHA Sets Up Fight Over Saturated Fat](https://caymanjournal.com/articles/steak-butter-and-ice-cream-maha-sets-up-fight-over-saturated-cmgwpcpnr013ug7x3g6bn1rwq)** *(October 18, 2025)*  
+  New federal dietary guidance challenges decades of saturated fat limits. Health experts warn of public catastrophe; industry sees billions. Get the fu...
+- **[Gucci Owner Kering Nears $4 Billion Sale of Beauty Unit to L’Oréal](https://caymanjournal.com/articles/gucci-owner-kering-nears-4-billion-sale-of-beauty-unit-to-lo-cmgwgry1n013pg7x3s8ojg09l)** *(October 18, 2025)*  
+  Kering's new CEO Luca de Meo eyes a $4B beauty unit sale to L'Oréal, a bold strategic shift to refocus on luxury fashion growth. Discover the impact.
+- **[How to Get More People to Buy Annuities: Make Them a 401(k) Default](https://caymanjournal.com/articles/how-to-get-more-people-to-buy-annuities-make-them-a-401k-def-cmgwcl7d2013mg7x3mi55fos3)** *(October 18, 2025)*  
+  Unlock guaranteed retirement income. Explore how making annuities a default in 401(k)s solves longevity risk and reshapes retirement security for mill...
+- **[The Fight Over Whose AI Monster Is Scariest: Why Anthropic’s Jack Clark Is Drawing White House Ire](https://caymanjournal.com/articles/the-fight-over-whose-ai-monster-is-scariest-why-anthropics-j-cmgw42mbl013ag7x3f7m6jwgy)** *(October 18, 2025)*  
+  Why is the White House clashing with Anthropic's Jack Clark on AI safety? Unpack the tension over extreme AI risk warnings vs. pragmatic policy goals.
 - **[Can Gold Keep Rising? Depends if You Think This Time Is Different](https://caymanjournal.com/articles/can-gold-keep-rising-depends-if-you-think-this-time-is-diffe-cmgvvcalu0135g7x3wql8zice)** *(October 18, 2025)*  
   Gold's record-breaking rally to $2,400+ sparks debate: Is this sustainable demand or a speculative bubble poised to burst? Analyze the market now.
 - **[How a Handyman’s Wife Helped an Hermès Heir Discover He’d Lost $15 Billion](https://caymanjournal.com/articles/how-a-handymans-wife-helped-an-herms-heir-discover-hed-lost-cmgvmv887012ug7x3eicp2hzt)** *(October 18, 2025)*  
   Discover how Hermès heir Nicolas Puech allegedly lost $15 billion in a massive wealth manager fraud, thanks to a handyman's wife's astute observation.
+- **[The A-List Turned on Marc Benioff. Now He’s Sorry.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-hes-sorry-cmgwchpm0013jg7x3wtbea4hj)** *(October 18, 2025)*  
+  Salesforce CEO Marc Benioff swiftly apologizes for National Guard remarks after backlash from tech's "A-List." Explore evolving CEO scrutiny & corpora...
 - **[The A-List Turned on Marc Benioff. Now the Salesforce CEO Regrets His Comments.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-the-salesforce-ceo-reg-cmgvr7g370132g7x359yimtct)** *(October 18, 2025)*  
   Marc Benioff, Salesforce CEO, faced backlash & apologized for National Guard comments. Understand how corporate leaders navigate public discourse and ...
 - **[Jamie Dimon Wants Everyone in the Office. Is a $3 Billion Building the Answer?](https://caymanjournal.com/articles/jamie-dimon-wants-everyone-in-the-office-is-a-3-billion-buil-cmgvmrrdy012rg7x39pw038rl)** *(October 17, 2025)*  
   Jamie Dimon's $3B JPMorgan Chase HQ challenges hybrid work. Will his strict RTO policy revive the office or is it a colossal gamble? Discover the stak...
 - **[FAA Lets Boeing Increase Production Cap on 737 MAX by 10%](https://caymanjournal.com/articles/faa-lets-boeing-increase-production-cap-on-737-max-by-10-cmgvilb59012bg7x3d5f1mlr7)** *(October 17, 2025)*  
   Boeing gets FAA nod to boost 737 MAX output by 10% to 42 planes monthly. Discover the implications for its recovery, quality oversight & airlines.
-- **[The Score: Morgan Stanley, Porsche, Broadcom, Walmart and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-morgan-stanley-porsche-broadcom-walmart-and-more-s-cmgvihdyz0125g7x32zuutgrs)** *(October 17, 2025)*  
-  See how Morgan Stanley, Porsche IPO, Broadcom, and Walmart surged this week. Strong earnings, strategic moves & record revenues drove top corporate st...
-- **[Marc Benioff Apologizes for National Guard Comments](https://caymanjournal.com/articles/marc-benioff-apologizes-for-national-guard-comments-cmgveah1n011yg7x3765s020f)** *(October 17, 2025)*  
-  Salesforce CEO Marc Benioff apologizes for controversial National Guard comments on San Francisco's homeless crisis, facing backlash from community le...
-- **[Tesla Shareholders Urged to Reject Musk’s $1 Trillion Pay Package Amid Governance Concerns](https://caymanjournal.com/articles/tesla-shareholders-urged-to-reject-musks-1-trillion-pay-pack-cmgvinp01012eg7x37902gxl7)** *(October 17, 2025)*  
-  ISS recommends rejecting Elon Musk's "moonshot" $1T Tesla pay package over xAI focus & dilution. Learn why this crucial shareholder vote sparks debate...
-- **[Volatility Returns to Stalk the Stock Market](https://caymanjournal.com/articles/volatility-returns-to-stalk-the-stock-market-cmgvihy6d0128g7x34nf72j5y)** *(October 17, 2025)*  
-  Wall Street's VIX 'fear gauge' hits 23.85 today. Understand why market volatility is back amid inflation & what investors need to know.
-- **[California Sues Plastic Bag Makers, Alleging Shoppers Deceived Over Recycling](https://caymanjournal.com/articles/california-sues-plastic-bag-makers-alleging-shoppers-deceive-cmgvmw7rx012xg7x3b55qqhur)** *(October 17, 2025)*  
-  California AG Rob Bonta sues major plastic bag manufacturers, alleging systematic deception about recyclability. Exposing greenwashing & low recycling...
 
 ### 🏢 Business
 
+- **[Steak, Butter and Ice Cream: MAHA Sets Up Fight Over Saturated Fat](https://caymanjournal.com/articles/steak-butter-and-ice-cream-maha-sets-up-fight-over-saturated-cmgwpcpnr013ug7x3g6bn1rwq)** *(October 18, 2025)*  
+  New federal dietary guidance challenges decades of saturated fat limits. Health experts warn of public catastrophe; industry sees billions. Get the fu...
+- **[Gucci Owner Kering Nears $4 Billion Sale of Beauty Unit to L’Oréal](https://caymanjournal.com/articles/gucci-owner-kering-nears-4-billion-sale-of-beauty-unit-to-lo-cmgwgry1n013pg7x3s8ojg09l)** *(October 18, 2025)*  
+  Kering's new CEO Luca de Meo eyes a $4B beauty unit sale to L'Oréal, a bold strategic shift to refocus on luxury fashion growth. Discover the impact.
 - **[How a Handyman’s Wife Helped an Hermès Heir Discover He’d Lost $15 Billion](https://caymanjournal.com/articles/how-a-handymans-wife-helped-an-herms-heir-discover-hed-lost-cmgvmv887012ug7x3eicp2hzt)** *(October 18, 2025)*  
   Discover how Hermès heir Nicolas Puech allegedly lost $15 billion in a massive wealth manager fraud, thanks to a handyman's wife's astute observation.
+- **[The A-List Turned on Marc Benioff. Now He’s Sorry.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-hes-sorry-cmgwchpm0013jg7x3wtbea4hj)** *(October 18, 2025)*  
+  Salesforce CEO Marc Benioff swiftly apologizes for National Guard remarks after backlash from tech's "A-List." Explore evolving CEO scrutiny & corpora...
 - **[FAA Lets Boeing Increase Production Cap on 737 MAX by 10%](https://caymanjournal.com/articles/faa-lets-boeing-increase-production-cap-on-737-max-by-10-cmgvilb59012bg7x3d5f1mlr7)** *(October 17, 2025)*  
   Boeing gets FAA nod to boost 737 MAX output by 10% to 42 planes monthly. Discover the implications for its recovery, quality oversight & airlines.
 - **[Marc Benioff Apologizes for National Guard Comments](https://caymanjournal.com/articles/marc-benioff-apologizes-for-national-guard-comments-cmgveah1n011yg7x3765s020f)** *(October 17, 2025)*  
@@ -72,12 +78,6 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   US opposition delays IMO's global shipping carbon levy, jeopardizing net-zero targets for 2050. Understand the impact on industry.
 - **[I Test Drove a Flying Car. Get Ready, They’re Here.](https://caymanjournal.com/articles/i-test-drove-a-flying-car-get-ready-theyre-here-cmgv5q3f6010wg7x3g7u8j568)** *(October 17, 2025)*  
   The flying car is here! Discover how Pivotal BlackFly, a series-produced eVTOL, makes personal flight a reality—no pilot's license needed. Explore fut...
-- **[Verisure Unit Hit by Data Breach the Week After Stock Market Debut](https://caymanjournal.com/articles/verisure-unit-hit-by-data-breach-the-week-after-stock-market-cmgv5qldt010zg7x3htm30uqc)** *(October 17, 2025)*  
-  Days after its IPO, Verisure discloses a data breach in an acquired Swedish unit. Understand the cybersecurity challenges for new public entities & M&...
-- **[Apple Accelerates Sports Streaming Play with Exclusive F1 U.S. Rights](https://caymanjournal.com/articles/apple-accelerates-sports-streaming-play-with-exclusive-f1-us-cmgv1cek6010cg7x3je4cir5v)** *(October 17, 2025)*  
-  Apple TV+ secures exclusive U.S. streaming rights for Formula One, marking a major shift in live sports. Explore Apple's strategy & F1's new home.
-- **[State Street Posts Higher Profit as Fee Revenue Rises](https://caymanjournal.com/articles/state-street-posts-higher-profit-as-fee-revenue-rises-cmgux1r9l00zdg7x311ebsphm)** *(October 17, 2025)*  
-  State Street's Q3 earnings soar on robust fee revenue, fueled by higher client activity & AUM. Learn how this institutional finance giant achieved str...
 
 ### 🏛️ Economy
 
@@ -104,6 +104,8 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ### 📈 Markets & Finance
 
+- **[How to Get More People to Buy Annuities: Make Them a 401(k) Default](https://caymanjournal.com/articles/how-to-get-more-people-to-buy-annuities-make-them-a-401k-def-cmgwcl7d2013mg7x3mi55fos3)** *(October 18, 2025)*  
+  Unlock guaranteed retirement income. Explore how making annuities a default in 401(k)s solves longevity risk and reshapes retirement security for mill...
 - **[Can Gold Keep Rising? Depends if You Think This Time Is Different](https://caymanjournal.com/articles/can-gold-keep-rising-depends-if-you-think-this-time-is-diffe-cmgvvcalu0135g7x3wql8zice)** *(October 18, 2025)*  
   Gold's record-breaking rally to $2,400+ sparks debate: Is this sustainable demand or a speculative bubble poised to burst? Analyze the market now.
 - **[Jamie Dimon Wants Everyone in the Office. Is a $3 Billion Building the Answer?](https://caymanjournal.com/articles/jamie-dimon-wants-everyone-in-the-office-is-a-3-billion-buil-cmgvmrrdy012rg7x39pw038rl)** *(October 17, 2025)*  
@@ -122,11 +124,11 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Discover how Five Point's resource-management strategy led to two wildly successful IPOs (WaterBridge +40%, LandBridge +35%) and what's next for Power...
 - **[Global Markets Largely Down, Gold Extends Streak as Fed Rate-Cut Hopes Grow](https://caymanjournal.com/articles/global-markets-largely-down-gold-extends-streak-as-fed-rate-cmguol9ct00xug7x3t32yl2tr)** *(October 17, 2025)*  
   Global financial markets re-evaluate outlook on Fed rate cut hopes. See why stocks, dollar, and bonds fall as gold shines. Dive into market shifts.
-- **[Stock Market Today: Dow Futures Drop Amid Renewed Bank Jitters](https://caymanjournal.com/articles/stock-market-today-dow-futures-drop-amid-renewed-bank-jitter-cmguolspo00xxg7x31c4g67gf)** *(October 17, 2025)*  
-  US equity futures fall sharply as renewed regional banking fears over CRE loans & deposit flight trigger 'risk-off' sentiment. Dow, S&P, Nasdaq drop.
 
 ### 💻 Technology
 
+- **[The Fight Over Whose AI Monster Is Scariest: Why Anthropic’s Jack Clark Is Drawing White House Ire](https://caymanjournal.com/articles/the-fight-over-whose-ai-monster-is-scariest-why-anthropics-j-cmgw42mbl013ag7x3f7m6jwgy)** *(October 18, 2025)*  
+  Why is the White House clashing with Anthropic's Jack Clark on AI safety? Unpack the tension over extreme AI risk warnings vs. pragmatic policy goals.
 - **[The A-List Turned on Marc Benioff. Now the Salesforce CEO Regrets His Comments.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-the-salesforce-ceo-reg-cmgvr7g370132g7x359yimtct)** *(October 18, 2025)*  
   Marc Benioff, Salesforce CEO, faced backlash & apologized for National Guard comments. Understand how corporate leaders navigate public discourse and ...
 - **[Tesla Shareholders Urged to Reject Musk’s $1 Trillion Pay Package Amid Governance Concerns](https://caymanjournal.com/articles/tesla-shareholders-urged-to-reject-musks-1-trillion-pay-pack-cmgvinp01012eg7x37902gxl7)** *(October 17, 2025)*  
@@ -145,11 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   A chilling lawsuit hits Synthetica Labs over AI deepfakes of a minor. Unpack the rising crisis of nonconsensual imagery, tech liability, and AI's futu...
 - **[Foxconn Shares Surge as Chairman Engages With OpenAI, Eyes Nvidia for AI Hardware Future](https://caymanjournal.com/articles/foxconn-shares-surge-as-chairman-engages-with-openai-eyes-nv-cmgt0j37c00oog7x35onlqpyr)** *(October 16, 2025)*  
   Foxconn stock jumps as Chairman meets OpenAI & plans Nvidia talks, solidifying its strategic role in the burgeoning AI hardware supply chain.
-- **[Feds Clear Appliance Rivals of Widespread Tariff Evasion After Whirlpool's Allegations](https://caymanjournal.com/articles/feds-clear-appliance-rivals-of-widespread-tariff-evasion-aft-cmgsrzf3k00npg7x3ikq40633)** *(October 15, 2025)*  
-  Federal authorities clear major appliance manufacturers of widespread tariff undervaluing after Whirlpool's accusations. Details on the CBP investigat...
 
 
-*Last updated: October 18, 2025 at 06:23 UTC*
+*Last updated: October 19, 2025 at 06:24 UTC*
 
 <!-- FEED:END -->
 
