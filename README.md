@@ -35,52 +35,58 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Molson Coors to Cut 9% of Americas Workforce in Sweeping Restructuring Amid Industry Slump](https://caymanjournal.com/articles/molson-coors-to-cut-9-of-americas-workforce-in-sweeping-rest-cmgz7ggwb0192g7x3z523o4jr)** *(October 20, 2025)*  
-  Molson Coors eliminates 400 jobs (9%) amid shifting consumer tastes & market contraction. Discover how this impacts the beer industry's future.
-- **[Major Sites and Apps Recover From Amazon Web Services Outage](https://caymanjournal.com/articles/major-sites-and-apps-recover-from-amazon-web-services-outage-cmgz7h6pr0195g7x3c6xrh1su)** *(October 20, 2025)*  
-  AWS outage crippled the internet, disrupting major services & businesses worldwide. Learn about the recovery, impact, and future of cloud reliance & m...
-- **[Cleveland-Cliffs Gets Steel-Tariff Boost, Looks to Rare-Earth Minerals](https://caymanjournal.com/articles/cleveland-cliffs-gets-steel-tariff-boost-looks-to-rare-earth-cmgz7hsub0198g7x3u6je0tww)** *(October 20, 2025)*  
-  Cleveland-Cliffs boosts steel via tariffs & ventures into rare-earth minerals. Explore their dual strategy to secure U.S. supply chains and reshape Am...
-- **[BNP Paribas Shares Drop After U.S. Verdict Over Alleged Role in Sudan](https://caymanjournal.com/articles/bnp-paribas-shares-drop-after-us-verdict-over-alleged-role-i-cmgz7ditz018zg7x3tdcyw1vz)** *(October 20, 2025)*  
-  BNP Paribas faces a significant legal setback, shares falling 3.8%, after a U.S. court ruled on its past dealings with the Sudanese government during ...
-- **[Vestas Shelves Plan for Polish Wind Turbine Factory on Low European Demand](https://caymanjournal.com/articles/vestas-shelves-plan-for-polish-wind-turbine-factory-on-low-e-cmgz7icwe019bg7x3lug0lusw)** *(October 20, 2025)*  
-  Vestas puts Poland wind blade plant on hold, citing low demand & market woes. Uncover why Europe's offshore wind goals face headwinds & policy gaps.
-- **[America’s Most Successful Restaurant Chain Feeds a Dumpling Frenzy](https://caymanjournal.com/articles/americas-most-successful-restaurant-chain-feeds-a-dumpling-f-cmgz7j5i1019eg7x39jqvp8bf)** *(October 20, 2025)*  
-  Din Tai Fung: America's most successful restaurant chain by AUV. Discover how its soup dumplings, large venues & efficient service drive $17M+ sales.
-- **[Bible Sales Surged Following Killing of Charlie Kirk](https://caymanjournal.com/articles/bible-sales-surged-following-killing-of-charlie-kirk-cmgz7jz5g019hg7x3waxholg3)** *(October 20, 2025)*  
-  U.S. Bible sales jumped 36% in September, attributed to reactions surrounding Charlie Kirk's reported death. Learn about this surprising religious pub...
-- **[Getty Images Merger With Shutterstock Faces U.K. Antitrust Scrutiny, Regulator Warns](https://caymanjournal.com/articles/getty-images-merger-with-shutterstock-faces-uk-antitrust-scr-cmgz32zv9018jg7x3dls4mzpz)** *(October 20, 2025)*  
-  The Getty Images & Shutterstock merger faces UK antitrust concerns from the CMA. Discover how this $3.7B deal could impact competition, prices, & crea...
-- **[Global Markets Gain Ground at Start of Week; Dollar Rises Ahead of Inflation Figures](https://caymanjournal.com/articles/global-markets-gain-ground-at-start-of-week-dollar-rises-ahe-cmgyyw6o8017wg7x3ubuvshrp)** *(October 20, 2025)*  
-  Global markets focus on crucial U.S. inflation data (CPI/PCE) this week. Understand its impact on Fed interest rates and future monetary policy.
-- **[Brand Battles Brew: Smucker's, Lululemon Take Private Labels to Court](https://caymanjournal.com/articles/brand-battles-brew-smuckers-lululemon-take-private-labels-to-cmgz33odc018mg7x3u24ht71i)** *(October 20, 2025)*  
-  Explore the escalating legal battles between national brands (Smucker's, Lululemon) and private labels over IP, market share, and consumer value.
+- **[China’s Innovent Seals Landmark $11.4 Billion Cancer Drug Pact with Takeda](https://caymanjournal.com/articles/chinas-innovent-seals-landmark-114-billion-cancer-drug-pact-cmh1l624701jag7x30m57d9zx)** *(October 22, 2025)*  
+  Explore the $11.4B Innovent-Takeda cancer drug deal reshaping global pharma. China's innovation takes center stage in this landmark biopharma partners...
+- **[Pop Mart Sales Top Market Expectation, Signals Sustained Momentum](https://caymanjournal.com/articles/pop-mart-sales-top-market-expectation-signals-sustained-mome-cmh1gvwqp01j5g7x30uxxqjn1)** *(October 22, 2025)*  
+  Pop Mart Q3 revenue jumped 28% to $345M, exceeding expectations & boosting stock. Learn how blind box collectibles and strategic IP fueled its market ...
+- **[Surrogacy Is a Multibillion-Dollar Business. Sometimes the Money Goes Missing.](https://caymanjournal.com/articles/surrogacy-is-a-multibillion-dollar-business-sometimes-the-mo-cmh1cm4uj01ivg7x3sbxayd6x)** *(October 22, 2025)*  
+  Surrogacy funds disappearing? Uncover the unregulated world of surrogacy finance, rampant escrow fraud, and urgent calls for regulation to protect fam...
+- **[David Zaslav’s Future Hangs in Balance as Warner Goes Up for Sale](https://caymanjournal.com/articles/david-zaslavs-future-hangs-in-balance-as-warner-goes-up-for-cmh1cmoq701iyg7x382lpw3jc)** *(October 22, 2025)*  
+  Warner Bros. Discovery faces an existential threat as CEO David Zaslav fights Paramount Global's acquisition bid. Unpack WBD's debt, future, and the i...
+- **[Japan’s Exports Rebound for First Time in Five Months](https://caymanjournal.com/articles/japans-exports-rebound-for-first-time-in-five-months-cmh1cl5rz01isg7x36ucddlcs)** *(October 22, 2025)*  
+  Japan's exports surged 4.2% in September, ending a 5-month slump! Discover what's driving this economic boost & its implications for the BOJ.
+- **[Cable Giant Charter Cuts 1,200 Jobs Amid Industry Headwinds](https://caymanjournal.com/articles/cable-giant-charter-cuts-1200-jobs-amid-industry-headwinds-cmh18bb1h01ijg7x30wl8s8fv)** *(October 21, 2025)*  
+  Charter Communications announces 1,200 layoffs, targeting corporate roles. Learn why Spectrum is restructuring amid cord-cutting & fierce competition.
+- **[Capital One Financial Delinquencies Fall, Helping to Lift Revenue, Profit](https://caymanjournal.com/articles/capital-one-financial-delinquencies-fall-helping-to-lift-rev-cmh142n2k01i2g7x3bc83uwa2)** *(October 21, 2025)*  
+  Capital One's credit quality jumps, boosting profits to $1.8B & driving 3.2% NII growth. Discover integration is on track. Get the full story!
+- **[DraftKings to Launch Groundbreaking Prediction Markets Platform](https://caymanjournal.com/articles/draftkings-to-launch-groundbreaking-prediction-markets-platf-cmh1435f001i5g7x37rki5diy)** *(October 21, 2025)*  
+  DraftKings launches Predictions, entering prediction markets for finance, culture, & entertainment. Discover their strategic pivot & impact.
+- **[Canadian Inflation Hits Seven-Month High, Exceeding Expectations](https://caymanjournal.com/articles/canadian-inflation-hits-seven-month-high-exceeding-expectati-cmh141r7b01hzg7x3chkbthl2)** *(October 21, 2025)*  
+  Canadian inflation jumps to a 7-month high of 2.5%, surprising economists. Learn how this unexpected surge impacts the BoC's rate plans & your finance...
+- **[Dow Industrials Hit Record, Boosted by Strong Earnings](https://caymanjournal.com/articles/dow-industrials-hit-record-boosted-by-strong-earnings-cmh13yj4c01htg7x3gcf2rywd)** *(October 21, 2025)*  
+  Dow Jones hits a new record 36,899.73! Robust Coca-Cola & 3M earnings (beating forecasts) propelled the surge. Learn how profits defied inflation.
 
 ### 🏢 Business
 
-- **[Molson Coors to Cut 9% of Americas Workforce in Sweeping Restructuring Amid Industry Slump](https://caymanjournal.com/articles/molson-coors-to-cut-9-of-americas-workforce-in-sweeping-rest-cmgz7ggwb0192g7x3z523o4jr)** *(October 20, 2025)*  
-  Molson Coors eliminates 400 jobs (9%) amid shifting consumer tastes & market contraction. Discover how this impacts the beer industry's future.
-- **[Major Sites and Apps Recover From Amazon Web Services Outage](https://caymanjournal.com/articles/major-sites-and-apps-recover-from-amazon-web-services-outage-cmgz7h6pr0195g7x3c6xrh1su)** *(October 20, 2025)*  
-  AWS outage crippled the internet, disrupting major services & businesses worldwide. Learn about the recovery, impact, and future of cloud reliance & m...
-- **[Cleveland-Cliffs Gets Steel-Tariff Boost, Looks to Rare-Earth Minerals](https://caymanjournal.com/articles/cleveland-cliffs-gets-steel-tariff-boost-looks-to-rare-earth-cmgz7hsub0198g7x3u6je0tww)** *(October 20, 2025)*  
-  Cleveland-Cliffs boosts steel via tariffs & ventures into rare-earth minerals. Explore their dual strategy to secure U.S. supply chains and reshape Am...
-- **[Vestas Shelves Plan for Polish Wind Turbine Factory on Low European Demand](https://caymanjournal.com/articles/vestas-shelves-plan-for-polish-wind-turbine-factory-on-low-e-cmgz7icwe019bg7x3lug0lusw)** *(October 20, 2025)*  
-  Vestas puts Poland wind blade plant on hold, citing low demand & market woes. Uncover why Europe's offshore wind goals face headwinds & policy gaps.
-- **[Bible Sales Surged Following Killing of Charlie Kirk](https://caymanjournal.com/articles/bible-sales-surged-following-killing-of-charlie-kirk-cmgz7jz5g019hg7x3waxholg3)** *(October 20, 2025)*  
-  U.S. Bible sales jumped 36% in September, attributed to reactions surrounding Charlie Kirk's reported death. Learn about this surprising religious pub...
-- **[America’s Most Successful Restaurant Chain Feeds a Dumpling Frenzy](https://caymanjournal.com/articles/americas-most-successful-restaurant-chain-feeds-a-dumpling-f-cmgz7j5i1019eg7x39jqvp8bf)** *(October 20, 2025)*  
-  Din Tai Fung: America's most successful restaurant chain by AUV. Discover how its soup dumplings, large venues & efficient service drive $17M+ sales.
-- **[Getty Images Merger With Shutterstock Faces U.K. Antitrust Scrutiny, Regulator Warns](https://caymanjournal.com/articles/getty-images-merger-with-shutterstock-faces-uk-antitrust-scr-cmgz32zv9018jg7x3dls4mzpz)** *(October 20, 2025)*  
-  The Getty Images & Shutterstock merger faces UK antitrust concerns from the CMA. Discover how this $3.7B deal could impact competition, prices, & crea...
-- **[Brand Battles Brew: Smucker's, Lululemon Take Private Labels to Court](https://caymanjournal.com/articles/brand-battles-brew-smuckers-lululemon-take-private-labels-to-cmgz33odc018mg7x3u24ht71i)** *(October 20, 2025)*  
-  Explore the escalating legal battles between national brands (Smucker's, Lululemon) and private labels over IP, market share, and consumer value.
-- **[Kering to Sell Creed, License Fragrance Brands to L’Oreal in $4.7 Billion Deal](https://caymanjournal.com/articles/kering-to-sell-creed-license-fragrance-brands-to-loreal-in-4-cmgyuibs00175g7x3abn0o6mh)** *(October 20, 2025)*  
-  L'Oréal acquires Creed from Kering for $4.7 billion, reshaping luxury beauty. Learn how Kering streamlines & L'Oréal expands its fragrance empire.
-- **[Holcim Plans to Acquire Xella for $2.16 Billion](https://caymanjournal.com/articles/holcim-plans-to-acquire-xella-for-216-billion-cmgyuir5q0178g7x3phnqogwf)** *(October 20, 2025)*  
-  Holcim boosts sustainable building solutions with $2.16B Xella acquisition. Explore how this fuels advanced construction & net-zero carbon goals.
+- **[Pop Mart Sales Top Market Expectation, Signals Sustained Momentum](https://caymanjournal.com/articles/pop-mart-sales-top-market-expectation-signals-sustained-mome-cmh1gvwqp01j5g7x30uxxqjn1)** *(October 22, 2025)*  
+  Pop Mart Q3 revenue jumped 28% to $345M, exceeding expectations & boosting stock. Learn how blind box collectibles and strategic IP fueled its market ...
+- **[Surrogacy Is a Multibillion-Dollar Business. Sometimes the Money Goes Missing.](https://caymanjournal.com/articles/surrogacy-is-a-multibillion-dollar-business-sometimes-the-mo-cmh1cm4uj01ivg7x3sbxayd6x)** *(October 22, 2025)*  
+  Surrogacy funds disappearing? Uncover the unregulated world of surrogacy finance, rampant escrow fraud, and urgent calls for regulation to protect fam...
+- **[David Zaslav’s Future Hangs in Balance as Warner Goes Up for Sale](https://caymanjournal.com/articles/david-zaslavs-future-hangs-in-balance-as-warner-goes-up-for-cmh1cmoq701iyg7x382lpw3jc)** *(October 22, 2025)*  
+  Warner Bros. Discovery faces an existential threat as CEO David Zaslav fights Paramount Global's acquisition bid. Unpack WBD's debt, future, and the i...
+- **[Cable Giant Charter Cuts 1,200 Jobs Amid Industry Headwinds](https://caymanjournal.com/articles/cable-giant-charter-cuts-1200-jobs-amid-industry-headwinds-cmh18bb1h01ijg7x30wl8s8fv)** *(October 21, 2025)*  
+  Charter Communications announces 1,200 layoffs, targeting corporate roles. Learn why Spectrum is restructuring amid cord-cutting & fierce competition.
+- **[Capital One Financial Delinquencies Fall, Helping to Lift Revenue, Profit](https://caymanjournal.com/articles/capital-one-financial-delinquencies-fall-helping-to-lift-rev-cmh142n2k01i2g7x3bc83uwa2)** *(October 21, 2025)*  
+  Capital One's credit quality jumps, boosting profits to $1.8B & driving 3.2% NII growth. Discover integration is on track. Get the full story!
+- **[DraftKings to Launch Groundbreaking Prediction Markets Platform](https://caymanjournal.com/articles/draftkings-to-launch-groundbreaking-prediction-markets-platf-cmh1435f001i5g7x37rki5diy)** *(October 21, 2025)*  
+  DraftKings launches Predictions, entering prediction markets for finance, culture, & entertainment. Discover their strategic pivot & impact.
+- **[Netflix Revenue and Profit Grow as Ad Business Accelerates](https://caymanjournal.com/articles/netflix-revenue-and-profit-grow-as-ad-business-accelerates-cmh143m7p01i8g7x308boej1w)** *(October 21, 2025)*  
+  Netflix reports robust revenue & profit from ads & subs, despite a tax dispute causing shares to slump. Analyze the streaming giant's latest financial...
+- **[Mattel Looks Toward Holiday Season After Order Delays Hurt Third-Quarter Sales](https://caymanjournal.com/articles/mattel-looks-toward-holiday-season-after-order-delays-hurt-t-cmh1442k101ibg7x3shq23txm)** *(October 21, 2025)*  
+  Mattel overcomes Q3 challenges as retailers significantly boost holiday orders. Discover how this late surge fuels optimism & reaffirms their financia...
+- **[Texas Instruments Third-Quarter Revenue Up on Growth Across End Markets](https://caymanjournal.com/articles/texas-instruments-third-quarter-revenue-up-on-growth-across-cmh144l1a01ieg7x3ys68hkky)** *(October 21, 2025)*  
+  Texas Instruments (TI) announces strong Q3 revenue growth and $1.36B profit, fueled by robust industrial & automotive demand. Explore TI's market stre...
+- **[Travis Kelce Teams Up With Investor for Activist Campaign at Six Flags](https://caymanjournal.com/articles/travis-kelce-teams-up-with-investor-for-activist-campaign-at-cmh0zqr7501h0g7x3jtz34s8q)** *(October 21, 2025)*  
+  NFL star Travis Kelce and activist Jana Partners seize a 9% stake in Six Flags. Explore their bold plan to transform the theme park's challenging futu...
 
 ### 🏛️ Economy
 
+- **[Japan’s Exports Rebound for First Time in Five Months](https://caymanjournal.com/articles/japans-exports-rebound-for-first-time-in-five-months-cmh1cl5rz01isg7x36ucddlcs)** *(October 22, 2025)*  
+  Japan's exports surged 4.2% in September, ending a 5-month slump! Discover what's driving this economic boost & its implications for the BOJ.
+- **[Canadian Inflation Hits Seven-Month High, Exceeding Expectations](https://caymanjournal.com/articles/canadian-inflation-hits-seven-month-high-exceeding-expectati-cmh141r7b01hzg7x3chkbthl2)** *(October 21, 2025)*  
+  Canadian inflation jumps to a 7-month high of 2.5%, surprising economists. Learn how this unexpected surge impacts the BoC's rate plans & your finance...
+- **[PulteGroup Profit Falls as Housing Market Remains Stalled](https://caymanjournal.com/articles/pultegroup-profit-falls-as-housing-market-remains-stalled-cmh0n4m5g01dpg7x3k5ybhcnv)** *(October 21, 2025)*  
+  PulteGroup's Q3 profit fell 18% as 7%+ mortgage rates & affordability concerns challenge the housing market. See how builders are adapting.
 - **[BOJ’s Takata Says Now a ‘Prime Opportunity’ to Raise Rates](https://caymanjournal.com/articles/bojs-takata-says-now-a-prime-opportunity-to-raise-rates-cmgyqekvd016ug7x33gfql689)** *(October 20, 2025)*  
   BOJ's Hajime Takata urges a Japanese interest rate hike, seeing a "prime opportunity" as inflation nears target. Understand the impact on global marke...
 - **[China's Economic Slowdown Puts Beijing on Edge Amidst High-Stakes U.S. Trade Talks](https://caymanjournal.com/articles/chinas-economic-slowdown-puts-beijing-on-edge-amidst-high-st-cmgym2nlx0164g7x3e1chhl9p)** *(October 20, 2025)*  
@@ -95,38 +101,44 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Canada's interest rates fate hangs on next week's BoC business outlook & CPI data. See if Governor Macklem cuts rates again or holds due to inflation ...
 - **[The Number of Federal Worker Unemployment Claims Soars to Post-Shutdown High](https://caymanjournal.com/articles/the-number-of-federal-worker-unemployment-claims-soars-to-po-cmgv9zgcf011dg7x3ftofgnip)** *(October 17, 2025)*  
   Federal unemployment claims surge to 2019 shutdown levels, signaling deep anxiety. Understand why public servants face renewed job insecurity & econom...
-- **[Week Ahead for FX, Bonds: U.S. Inflation, PMI Data in Focus as Shutdown Continues](https://caymanjournal.com/articles/week-ahead-for-fx-bonds-us-inflation-pmi-data-in-focus-as-sh-cmgv1jxz1010og7x3wgx6qze5)** *(October 17, 2025)*  
-  Delayed U.S. inflation data (CPI, PCE) will shape Fed interest rates. Understand its impact on bonds, FX, & market volatility amid the government shut...
-- **[China’s Communist Elites Gather to Map Strategy](https://caymanjournal.com/articles/chinas-communist-elites-gather-to-map-strategy-cmgut0yf800z2g7x3lktpvyon)** *(October 17, 2025)*  
-  Beijing's CPC Central Committee meets to set China's economic course. Discover how new policies will impact trade, property, & tech. Uncover key signa...
-- **[Extended Shutdown Leaves Fed Blind as Critical Rate Decision Looms](https://caymanjournal.com/articles/extended-shutdown-leaves-fed-blind-as-critical-rate-decision-cmgtqbcgj00udg7x3kcq3blnk)** *(October 16, 2025)*  
-  Fed faces critical interest rate decisions blind as government shutdown halts key economic data. Understand the risks for monetary policy & markets.
 
 ### 📈 Markets & Finance
 
-- **[BNP Paribas Shares Drop After U.S. Verdict Over Alleged Role in Sudan](https://caymanjournal.com/articles/bnp-paribas-shares-drop-after-us-verdict-over-alleged-role-i-cmgz7ditz018zg7x3tdcyw1vz)** *(October 20, 2025)*  
-  BNP Paribas faces a significant legal setback, shares falling 3.8%, after a U.S. court ruled on its past dealings with the Sudanese government during ...
-- **[Global Markets Gain Ground at Start of Week; Dollar Rises Ahead of Inflation Figures](https://caymanjournal.com/articles/global-markets-gain-ground-at-start-of-week-dollar-rises-ahe-cmgyyw6o8017wg7x3ubuvshrp)** *(October 20, 2025)*  
-  Global markets focus on crucial U.S. inflation data (CPI/PCE) this week. Understand its impact on Fed interest rates and future monetary policy.
-- **[Runaway Insurance Costs Bring Back Talk of Price Caps](https://caymanjournal.com/articles/runaway-insurance-costs-bring-back-talk-of-price-caps-cmgyywt7q017zg7x36j1fkvjb)** *(October 20, 2025)*  
-  Why are insurance premiums skyrocketing? Lawmakers consider price caps amid 20-50% jumps. Unpack the high-stakes debate over affordability vs. market ...
-- **[Thyssenkrupp Naval-Defense Spinoff’s Shares Jump in Market Debut](https://caymanjournal.com/articles/thyssenkrupp-naval-defense-spinoffs-shares-jump-in-market-de-cmgyyxyc30185g7x33rdyciug)** *(October 20, 2025)*  
-  TKMS shares surge from 60 to 99.99 euros in debut, reaching $4.44B market cap. Thyssenkrupp's defense spin-off shines amid rising global defense spend...
-- **[Wall Street Is Betting on an Obamacare Deal. That Won’t Fix Insurers’ Troubles.](https://caymanjournal.com/articles/wall-street-is-betting-on-an-obamacare-deal-that-wont-fix-in-cmgyyxf970182g7x3pxh31pp7)** *(October 20, 2025)*  
-  ACA CSR deal sparks Wall Street optimism for insurers. While it offers short-term stability, deeper market challenges like adverse selection & rising ...
-- **[Stock Market Today: AWS Outage Hits Internet; Dow Futures Tick Up](https://caymanjournal.com/articles/stock-market-today-aws-outage-hits-internet-dow-futures-tick-cmgyyyfoo0188g7x30z4ctjbo)** *(October 20, 2025)*  
-  AWS outage impacts Robinhood, Coinbase & internet. Despite tech woes, Dow Jones futures show gains. Discover why markets remain resilient.
-- **[Holcim Plans to Acquire Xella for $2.16 Billion, Bolstering Building Solutions Portfolio](https://caymanjournal.com/articles/holcim-plans-to-acquire-xella-for-216-billion-bolstering-bui-cmgyqc32g016rg7x3cucr0twa)** *(October 20, 2025)*  
-  Holcim acquires Xella for $2.16B, significantly expanding its sustainable building solutions portfolio. This move accelerates greener, energy-efficien...
-- **[The Fraudster Behind Steve Ballmer’s NBA Nightmare](https://caymanjournal.com/articles/the-fraudster-behind-steve-ballmers-nba-nightmare-cmgyhr7nw015qg7x3hkccmkd9)** *(October 20, 2025)*  
-  Steve Ballmer's Varo Bank investment led to a "no business sense" deal with a Clippers star, causing major financial and reputational issues.
-- **[The Warning Signs Lurking Below the Surface of a Record Market](https://caymanjournal.com/articles/the-warning-signs-lurking-below-the-surface-of-a-record-mark-cmgyhqpft015ng7x3a1b2i4k3)** *(October 20, 2025)*  
-  S&P 500 hits records, but defensive stocks lead. Uncover what this market shift means for investor sentiment, potential volatility, and your portfolio...
-- **[Wealthy Families Are Writing Mission Statements to Avoid Fights, Lost Fortunes](https://caymanjournal.com/articles/wealthy-families-are-writing-mission-statements-to-avoid-fig-cmgyhronh015tg7x3cpjiowcy)** *(October 19, 2025)*  
-  70% of family fortunes are lost. Learn how wealthy families use mission statements to unite generations, avoid conflict, and preserve their legacy.
+- **[Dow Industrials Hit Record, Boosted by Strong Earnings](https://caymanjournal.com/articles/dow-industrials-hit-record-boosted-by-strong-earnings-cmh13yj4c01htg7x3gcf2rywd)** *(October 21, 2025)*  
+  Dow Jones hits a new record 36,899.73! Robust Coca-Cola & 3M earnings (beating forecasts) propelled the surge. Learn how profits defied inflation.
+- **[BlackRock ETFs Among Biggest Investors in Meta’s Giant Data-Center Debt Deal](https://caymanjournal.com/articles/blackrock-etfs-among-biggest-investors-in-metas-giant-data-c-cmh13z6kq01hwg7x3im053u2i)** *(October 21, 2025)*  
+  Meta secured a colossal $27B private debt deal for AI infrastructure. Discover how BlackRock ETFs fueled this landmark financing and the rise of priva...
+- **[Blackstone, TPG to Buy Hologic for Up to $18.3 Billion](https://caymanjournal.com/articles/blackstone-tpg-to-buy-hologic-for-up-to-183-billion-cmh0r3mov01g0g7x3xdzungdq)** *(October 21, 2025)*  
+  Blackstone & TPG acquire women's health leader Hologic for up to $18.3 billion. Explore this major private equity deal reshaping diagnostics.
+- **[Unilever Postpones Ice-Cream Spinoff, Citing U.S. Government Shutdown](https://caymanjournal.com/articles/unilever-postpones-ice-cream-spinoff-citing-us-government-sh-cmh0mtbik01cmg7x3ke2pe6b7)** *(October 21, 2025)*  
+  US government shutdown halts Unilever's ice-cream spinoff. Discover how SEC regulatory hurdles impact the consumer giant's market debut & portfolio st...
+- **[U.S., Australia Deal Advances Critical Minerals Ambitions, While Detail Light](https://caymanjournal.com/articles/us-australia-deal-advances-critical-minerals-ambitions-while-cmh0mu50b01cpg7x3sb4ssf2g)** *(October 21, 2025)*  
+  New US-Australia critical minerals deal sparks market rally, set to reshape global supply chains for clean energy. Understand its impact & what detail...
+- **[Coinbase Bolsters Platform with $375 Million Acquisition of Crypto-Investing Firm Echo](https://caymanjournal.com/articles/coinbase-bolsters-platform-with-375-million-acquisition-of-c-cmh0muufu01csg7x3rhe316ji)** *(October 21, 2025)*  
+  Coinbase expands with Echo acquisition for $375M, its 8th this year. Discover how this deal diversifies offerings & enhances crypto trading.
+- **[ChatGPT Should Make Retailers Nervous](https://caymanjournal.com/articles/chatgpt-should-make-retailers-nervous-cmh0mvobg01cvg7x3ya3pzuoa)** *(October 21, 2025)*  
+  Generative AI threatens to disintermediate retailers' control of the online customer journey. Discover strategies to adapt, protect brand equity, and ...
+- **[U.S. Futures Dip as Dollar Strengthens Amid Easing Geopolitical and Fiscal Woes](https://caymanjournal.com/articles/us-futures-dip-as-dollar-strengthens-amid-easing-geopolitica-cmh0mwb8t01cyg7x3p6etgmf1)** *(October 21, 2025)*  
+  US equity futures dip amid shutdown, but the dollar strengthens on eased US-China trade tensions & credit concerns. Get insights into market sentiment...
+- **[Stock Market Today: Dow Futures Hover Amid Blue-Chip Earnings Blitz](https://caymanjournal.com/articles/stock-market-today-dow-futures-hover-amid-blue-chip-earnings-cmh0mwvv701d1g7x35jh63xa8)** *(October 21, 2025)*  
+  U.S. equity futures flat despite strong GM & 3M earnings; all eyes on Netflix. Discover what's driving market caution & macro concerns today.
+- **[U.S. Banks Scramble for Collateral to Underpin $20 Billion Argentina Lifeline](https://caymanjournal.com/articles/us-banks-scramble-for-collateral-to-underpin-20-billion-arge-cmh0mxv6c01d4g7x3kyszwoms)** *(October 20, 2025)*  
+  Explore the $20B scavenger hunt: U.S. banks seek a federal guarantee to back Argentina's critical reforms, navigating high risks and geopolitical inte...
 
 ### 💻 Technology
 
+- **[China’s Innovent Seals Landmark $11.4 Billion Cancer Drug Pact with Takeda](https://caymanjournal.com/articles/chinas-innovent-seals-landmark-114-billion-cancer-drug-pact-cmh1l624701jag7x30m57d9zx)** *(October 22, 2025)*  
+  Explore the $11.4B Innovent-Takeda cancer drug deal reshaping global pharma. China's innovation takes center stage in this landmark biopharma partners...
+- **[BlackRock ETFs Emerge as Key Investors in Meta's Landmark $27 Billion Data-Center Debt Deal](https://caymanjournal.com/articles/blackrock-etfs-emerge-as-key-investors-in-metas-landmark-27-cmh0zu1kd01h6g7x3ub4judo2)** *(October 21, 2025)*  
+  Meta lands $27B private credit for a Louisiana AI data center, with BlackRock ETFs' unexpected participation. Unpack this finance evolution.
+- **[Can Reddit Keep Its Hot Streak Going?](https://caymanjournal.com/articles/can-reddit-keep-its-hot-streak-going-cmh0vk7yn01gng7x3nuvnociq)** *(October 21, 2025)*  
+  Reddit's post-IPO success hinges on authentic UGC. Learn how growing AI bot proliferation threatens its data licensing deals & long-term value for inv...
+- **[How Sam Altman Tied Tech’s Biggest Players to OpenAI](https://caymanjournal.com/articles/how-sam-altman-tied-techs-biggest-players-to-openai-cmh0nngl101fpg7x32df9ynoa)** *(October 21, 2025)*  
+  Explore how Sam Altman engineered OpenAI's strategic dependencies, making it essential for Microsoft, NVIDIA, and tech giants. Uncover its impact on t...
+- **[Amazon Says Web Services Have Largely Been Restored](https://caymanjournal.com/articles/amazon-says-web-services-have-largely-been-restored-cmh0noax501fsg7x3yhz74i3u)** *(October 20, 2025)*  
+  An hours-long AWS outage crippled vital online services. Discover the cause, widespread impact across the digital economy, and the future of cloud res...
+- **[Apple Stock Hits New Record on Report of Strong iPhone Sales](https://caymanjournal.com/articles/apple-stock-hits-new-record-on-report-of-strong-iphone-sales-cmh0np0ro01fvg7x306whx304)** *(October 20, 2025)*  
+  Apple (AAPL) stock soars to a record high driven by robust iPhone 17 sales, outpacing its predecessor in the US & China. Analysts recalibrate targets.
 - **[Widespread Internet Outage Hits Sites Using Amazon Web Services](https://caymanjournal.com/articles/widespread-internet-outage-hits-sites-using-amazon-web-servi-cmgyyuoss017tg7x31z96ye89)** *(October 20, 2025)*  
   Widespread internet outage traced to AWS US-East-1 brought down Facebook, Snapchat, & Amazon.com, highlighting cloud infrastructure's single point of ...
 - **[Data Centers Rise in Fracking Country](https://caymanjournal.com/articles/data-centers-rise-in-fracking-country-cmgxs2upj014tg7x3gbktx1zr)** *(October 19, 2025)*  
@@ -135,21 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Why is the White House clashing with Anthropic's Jack Clark on AI safety? Unpack the tension over extreme AI risk warnings vs. pragmatic policy goals.
 - **[The A-List Turned on Marc Benioff. Now the Salesforce CEO Regrets His Comments.](https://caymanjournal.com/articles/the-a-list-turned-on-marc-benioff-now-the-salesforce-ceo-reg-cmgvr7g370132g7x359yimtct)** *(October 18, 2025)*  
   Marc Benioff, Salesforce CEO, faced backlash & apologized for National Guard comments. Understand how corporate leaders navigate public discourse and ...
-- **[Tesla Shareholders Urged to Reject Musk’s $1 Trillion Pay Package Amid Governance Concerns](https://caymanjournal.com/articles/tesla-shareholders-urged-to-reject-musks-1-trillion-pay-pack-cmgvinp01012eg7x37902gxl7)** *(October 17, 2025)*  
-  ISS recommends rejecting Elon Musk's "moonshot" $1T Tesla pay package over xAI focus & dilution. Learn why this crucial shareholder vote sparks debate...
-- **[The Age of Flying Cars Has Arrived](https://caymanjournal.com/articles/the-age-of-flying-cars-has-arrived-cmgv1f1b3010fg7x3pxtem5gv)** *(October 17, 2025)*  
-  The future is here! Explore flying cars, autonomous vehicles, AI clones, and decentralized energy. Discover how these innovations are transforming our...
-- **[Goldman Sachs Pursues Bigger Share of AI Infrastructure Financing Boom](https://caymanjournal.com/articles/goldman-sachs-pursues-bigger-share-of-ai-infrastructure-fina-cmgv1fqq4010ig7x3rjzzu8ys)** *(October 17, 2025)*  
-  Goldman Sachs launches a dedicated team to finance AI infrastructure, from data centers to chip fabrication, leveraging a $1T market opportunity. Lear...
-- **[Apple Secures Exclusive Formula One U.S. Streaming Rights](https://caymanjournal.com/articles/apple-secures-exclusive-formula-one-us-streaming-rights-cmgux5pr800zmg7x3nkr8b4os)** *(October 17, 2025)*  
-  Apple secures exclusive F1 U.S. streaming rights starting 2025 on Apple TV+. See how the $500M deal impacts sports broadcasting & F1 fans.
-- **[OpenAI Wants City-Sized AI Supercomputers. First It Needs Custom Chips.](https://caymanjournal.com/articles/openai-wants-city-sized-ai-supercomputers-first-it-needs-cus-cmgux6dud00zpg7x3dqzn7gwj)** *(October 17, 2025)*  
-  OpenAI bets billions on custom ASICs to ditch Nvidia reliance, optimize costs, and control the future of AGI compute infrastructure.
-- **[Oracle Isn’t Answering the Hardest Questions About Its AI Plans](https://caymanjournal.com/articles/oracle-isnt-answering-the-hardest-questions-about-its-ai-pla-cmguojm3g00xrg7x3rhuu4vky)** *(October 17, 2025)*  
-  Oracle's AI push sets ambitious targets, but investors question its CapEx roadmap for colossal infrastructure. Will financing stretch resources & free...
 
 
-*Last updated: October 21, 2025 at 06:26 UTC*
+*Last updated: October 22, 2025 at 06:26 UTC*
 
 <!-- FEED:END -->
 
