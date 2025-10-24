@@ -35,102 +35,108 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Heineken Eyes Half-Billion Euro Savings Through Ambitious Digital Transformation](https://caymanjournal.com/articles/heineken-eyes-half-billion-euro-savings-through-ambitious-di-cmh30mcgf01sig7x3uio8i5wz)** *(October 23, 2025)*  
-  Heineken aims for €500M in annual savings via a global digital transformation. Explore how AI, IoT, & e-commerce optimize brewing to sales.
-- **[Nokia Reports Sharp Rise in Demand From AI and Cloud Customers](https://caymanjournal.com/articles/nokia-reports-sharp-rise-in-demand-from-ai-and-cloud-custome-cmh30mw1g01slg7x3zlv2bxdz)** *(October 23, 2025)*  
-  Nokia's network infrastructure experiences a significant surge in demand, driven by AI & cloud computing. Discover how their solutions power data cent...
-- **[Tesla Supplier STMicroelectronics Expects Lower Annual Sales Amid Slow Recovery in Chip Demand](https://caymanjournal.com/articles/tesla-supplier-stmicroelectronics-expects-lower-annual-sales-cmh30nfde01sog7x3i0ue4kck)** *(October 23, 2025)*  
-  STMicro, a vital Tesla chip supplier, slashes sales outlook due to slow auto & industrial chip demand. Discover industry impact & recovery challenges.
-- **[Renault Sales Rise as Revamp Continues](https://caymanjournal.com/articles/renault-sales-rise-as-revamp-continues-cmh30nxb701srg7x38rlgzgon)** *(October 23, 2025)*  
-  Renault Group sales surge thanks to its Renaulution strategy! See how the shift to value & electrification drives profitability for Renault, Dacia & A...
-- **[Thales Logs Higher Orders as Defense Business Thrives](https://caymanjournal.com/articles/thales-logs-higher-orders-as-defense-business-thrives-cmh30oni701sug7x3dp4f7wfu)** *(October 23, 2025)*  
-  Thales's defense orders skyrocket over 15%, fueled by Western nations boosting military capabilities. See how geopolitical shifts drive this significa...
-- **[Bank of Korea Holds Rate Steady for Third Straight Time](https://caymanjournal.com/articles/bank-of-korea-holds-rate-steady-for-third-straight-time-cmh2s1a5701rlg7x3fes5ulet)** *(October 23, 2025)*  
-  South Korea's BoK maintains benchmark rate for third time. Learn how household debt & global trade tensions drive central bank caution.
-- **[AI Workers Are Putting In 100-Hour Workweeks to Win the New Tech Arms Race](https://caymanjournal.com/articles/ai-workers-are-putting-in-100-hour-workweeks-to-win-the-new-cmh2s6o8n01s0g7x35woifscw)** *(October 23, 2025)*  
-  AI's intense work culture: why elite engineers clock 100-hour weeks in a fierce global tech race, driven by VC and extreme talent scarcity.
-- **[Trump Administration Explores Equity Stakes in Quantum Computing Firms, Signaling Deeper Economic Involvement](https://caymanjournal.com/articles/trump-administration-explores-equity-stakes-in-quantum-compu-cmh2s2wai01rrg7x3fl914v4s)** *(October 23, 2025)*  
-  Trump Admin explored direct equity stakes in U.S. quantum computing firms. A major shift in industrial policy for national security and tech leadershi...
-- **[Trump Administration Explores Taking Equity Stakes in Critical Quantum-Computing Firms](https://caymanjournal.com/articles/trump-administration-explores-taking-equity-stakes-in-critic-cmh2w9c0001s5g7x39qvz81tc)** *(October 23, 2025)*  
-  US gov't explores direct equity in quantum computing firms, signaling a strategic shift to secure tech dominance. Learn what this unprecedented move m...
-- **[Trump Administration Explores Equity Stakes in Quantum-Computing Firms, Signaling Broader Economic Involvement](https://caymanjournal.com/articles/trump-administration-explores-equity-stakes-in-quantum-compu-cmh2s654601rxg7x3kc362zu5)** *(October 23, 2025)*  
-  Washington considers direct equity stakes in pioneering quantum computing firms, marking a major shift in U.S. tech development and national security ...
+- **[Full Impact of Tariffs on Asia-Pacific Still to Come, IMF Warns](https://caymanjournal.com/articles/full-impact-of-tariffs-on-asia-pacific-still-to-come-imf-war-cmh4g6wp5021fg7x3x9pgtb9a)** *(October 24, 2025)*  
+  IMF warns Asia-Pacific economies: US tariff hikes' true, debilitating force is yet to be felt, promising a discernible slowdown & structural shifts ah...
+- **[BOJ Policy Should Align With Government Policy, Japan’s Finance Minister Says](https://caymanjournal.com/articles/boj-policy-should-align-with-government-policy-japans-financ-cmh4bv8vk0210g7x3c3yndow9)** *(October 24, 2025)*  
+  Japan's finance minister calls for close BOJ coordination, reigniting debate on central bank independence. Learn how this impacts the Yen, inflation, ...
+- **[Military Tech Companies, Long Snubbed in Europe, Are Having a Moment](https://caymanjournal.com/articles/military-tech-companies-long-snubbed-in-europe-are-having-a-cmh4g0kai021cg7x32msnqdbk)** *(October 24, 2025)*  
+  Geopolitics fuels a European defense tech boom. Ukraine war & Trump fears attract US investors to innovative startups. Understand Europe's strategic a...
+- **[Will India and China Be Able to Resist U.S. Sanctions on Russian Oil?](https://caymanjournal.com/articles/will-india-and-china-be-able-to-resist-us-sanctions-on-russi-cmh4fzq4k0219g7x3ugxwdh12)** *(October 24, 2025)*  
+  New US sanctions on Russia's oil sector push India & China to their limit. Deeply discounted crude purchases now risk global financial ties.
+- **[Alaska Airlines Grounds Flights Nationwide Amid Crippling Tech Outage](https://caymanjournal.com/articles/alaska-airlines-grounds-flights-nationwide-amid-crippling-te-cmh4bp2gm020xg7x397181wj3)** *(October 24, 2025)*  
+  Alaska Airlines faced a system-wide ground stop due to a tech outage. Learn how it impacted flights, caused delays & what travelers need to know.
+- **[Japan’s Consumer Inflation Picks Up, But Rate Hike Timing Still Unclear](https://caymanjournal.com/articles/japans-consumer-inflation-picks-up-but-rate-hike-timing-stil-cmh47l5s5020mg7x3q72w4nqw)** *(October 24, 2025)*  
+  Japan's inflation rises to 2.9% but the BOJ holds off on tightening. Understand the central bank's cautious approach, wage growth demands & 2024 outlo...
+- **[Strong Earnings Reassure Jittery, Data-Deprived Investors](https://caymanjournal.com/articles/strong-earnings-reassure-jittery-data-deprived-investors-cmh47i9kn020jg7x3odkidszy)** *(October 24, 2025)*  
+  Surprising Q3 corporate earnings beat expectations, easing US market fears on trade wars & corporate health. Discover why investors are re-engaging.
+- **[U.S. Reopens China Trade Dispute, Raising Stakes Ahead of Trump-Xi Summit](https://caymanjournal.com/articles/us-reopens-china-trade-dispute-raising-stakes-ahead-of-trump-cmh3z4tjk0206g7x3ls96b6y9)** *(October 23, 2025)*  
+  U.S. escalates US China trade dispute ahead of Trump-Xi summit, reviewing 'Phase One' deal. Learn why new tariffs could loom for global markets.
+- **[Anthropic Extends Google Cloud Partnership for Access to 1 Million Chips, Bolstering AI Ambitions](https://caymanjournal.com/articles/anthropic-extends-google-cloud-partnership-for-access-to-1-m-cmh3z0d0f0200g7x3zjatphr5)** *(October 23, 2025)*  
+  Anthropic's strategic partnership with Google Cloud expands, granting access to 1 million chips for next-gen AI models. Uncover its impact on AI innov...
+- **[Critical Auto-Aluminum Giant Novelis Fast-Tracks Fire-Damaged Plant Restart to This Year](https://caymanjournal.com/articles/critical-auto-aluminum-giant-novelis-fast-tracks-fire-damage-cmh434gz40209g7x3plqr3pnk)** *(October 23, 2025)*  
+  Automotive relief! Novelis accelerates fire-damaged aluminum plant restart from 2026 to this year, stabilizing crucial supply for EVs & lightweight ve...
 
 ### 🏢 Business
 
-- **[Heineken Eyes Half-Billion Euro Savings Through Ambitious Digital Transformation](https://caymanjournal.com/articles/heineken-eyes-half-billion-euro-savings-through-ambitious-di-cmh30mcgf01sig7x3uio8i5wz)** *(October 23, 2025)*  
-  Heineken aims for €500M in annual savings via a global digital transformation. Explore how AI, IoT, & e-commerce optimize brewing to sales.
-- **[Nokia Reports Sharp Rise in Demand From AI and Cloud Customers](https://caymanjournal.com/articles/nokia-reports-sharp-rise-in-demand-from-ai-and-cloud-custome-cmh30mw1g01slg7x3zlv2bxdz)** *(October 23, 2025)*  
-  Nokia's network infrastructure experiences a significant surge in demand, driven by AI & cloud computing. Discover how their solutions power data cent...
-- **[Tesla Supplier STMicroelectronics Expects Lower Annual Sales Amid Slow Recovery in Chip Demand](https://caymanjournal.com/articles/tesla-supplier-stmicroelectronics-expects-lower-annual-sales-cmh30nfde01sog7x3i0ue4kck)** *(October 23, 2025)*  
-  STMicro, a vital Tesla chip supplier, slashes sales outlook due to slow auto & industrial chip demand. Discover industry impact & recovery challenges.
-- **[Renault Sales Rise as Revamp Continues](https://caymanjournal.com/articles/renault-sales-rise-as-revamp-continues-cmh30nxb701srg7x38rlgzgon)** *(October 23, 2025)*  
-  Renault Group sales surge thanks to its Renaulution strategy! See how the shift to value & electrification drives profitability for Renault, Dacia & A...
-- **[Thales Logs Higher Orders as Defense Business Thrives](https://caymanjournal.com/articles/thales-logs-higher-orders-as-defense-business-thrives-cmh30oni701sug7x3dp4f7wfu)** *(October 23, 2025)*  
-  Thales's defense orders skyrocket over 15%, fueled by Western nations boosting military capabilities. See how geopolitical shifts drive this significa...
-- **[Trump Administration Explores Equity Stakes in Quantum Computing Firms, Signaling Deeper Economic Involvement](https://caymanjournal.com/articles/trump-administration-explores-equity-stakes-in-quantum-compu-cmh2s2wai01rrg7x3fl914v4s)** *(October 23, 2025)*  
-  Trump Admin explored direct equity stakes in U.S. quantum computing firms. A major shift in industrial policy for national security and tech leadershi...
-- **[Warner Bros. Discovery Reportedly Shuns Three Paramount Overtures, Zaslav's Role Eyed](https://caymanjournal.com/articles/warner-bros-discovery-reportedly-shuns-three-paramount-overt-cmh2s3fmh01rug7x379rtdtnt)** *(October 23, 2025)*  
-  Warner Bros. Discovery rejected three Paramount Global merger proposals, despite an Ellison-backed offer for CEO Zaslav. Unpack the high-stakes reason...
-- **[Woodside Energy Signs Up Williams as Investor in Louisiana LNG Project](https://caymanjournal.com/articles/woodside-energy-signs-up-williams-as-investor-in-louisiana-l-cmh2nrsw601r4g7x3vhiw57li)** *(October 22, 2025)*  
-  Woodside Energy's Louisiana LNG project secures Williams as a partner, de-risking the venture & optimizing U.S. natural gas supply. A major step for g...
-- **[Wyndham Hotels Reels In Full-Year Forecast as Q3 Sales Disappoint Investors](https://caymanjournal.com/articles/wyndham-hotels-reels-in-full-year-forecast-as-q3-sales-disap-cmh2ji0y901q4g7x38hmlkbj8)** *(October 22, 2025)*  
-  Wyndham Hotels & Resorts revises 2023 financial outlook. Discover why Q3 revenue missed estimates & new EBITDA forecasts amid slowing leisure demand.
-- **[Tesla Profit Plunges Despite Third-Quarter Rush to Buy EVs](https://caymanjournal.com/articles/tesla-profit-plunges-despite-third-quarter-rush-to-buy-evs-cmh2jiith01q7g7x38e5osiwx)** *(October 22, 2025)*  
-  Tesla's Q3 net income dropped 37% to $1.85B, defying EV sales rush. Unpack how price cuts, tax credit expiry & fierce competition impacted profits.
+- **[Military Tech Companies, Long Snubbed in Europe, Are Having a Moment](https://caymanjournal.com/articles/military-tech-companies-long-snubbed-in-europe-are-having-a-cmh4g0kai021cg7x32msnqdbk)** *(October 24, 2025)*  
+  Geopolitics fuels a European defense tech boom. Ukraine war & Trump fears attract US investors to innovative startups. Understand Europe's strategic a...
+- **[Will India and China Be Able to Resist U.S. Sanctions on Russian Oil?](https://caymanjournal.com/articles/will-india-and-china-be-able-to-resist-us-sanctions-on-russi-cmh4fzq4k0219g7x3ugxwdh12)** *(October 24, 2025)*  
+  New US sanctions on Russia's oil sector push India & China to their limit. Deeply discounted crude purchases now risk global financial ties.
+- **[Alaska Airlines Grounds Flights Nationwide Amid Crippling Tech Outage](https://caymanjournal.com/articles/alaska-airlines-grounds-flights-nationwide-amid-crippling-te-cmh4bp2gm020xg7x397181wj3)** *(October 24, 2025)*  
+  Alaska Airlines faced a system-wide ground stop due to a tech outage. Learn how it impacted flights, caused delays & what travelers need to know.
+- **[Critical Auto-Aluminum Giant Novelis Fast-Tracks Fire-Damaged Plant Restart to This Year](https://caymanjournal.com/articles/critical-auto-aluminum-giant-novelis-fast-tracks-fire-damage-cmh434gz40209g7x3plqr3pnk)** *(October 23, 2025)*  
+  Automotive relief! Novelis accelerates fire-damaged aluminum plant restart from 2026 to this year, stabilizing crucial supply for EVs & lightweight ve...
+- **[Boston Beer Boosts Full-Year Profit Outlook, Sees Lower Tariff Risk](https://caymanjournal.com/articles/boston-beer-boosts-full-year-profit-outlook-sees-lower-tarif-cmh434zan020cg7x3q2hwjbpp)** *(October 23, 2025)*  
+  Boston Beer Company dramatically boosts profit forecast to $15.50-$16.00 EPS. Learn how cost controls and reduced tariff risks drive this surprising u...
+- **[Boyd Gaming Third-Quarter Earnings Boosted by FanDuel Stake Sale](https://caymanjournal.com/articles/boyd-gaming-third-quarter-earnings-boosted-by-fanduel-stake-cmh3yu3mk01zcg7x3soqgpqjc)** *(October 23, 2025)*  
+  Boyd Gaming's $1.44B Q3 profit, driven by its savvy FanDuel stake sale, reshapes its finances. Explore future plans and core business impact.
+- **[Ford Profit More Than Doubles on Pickup, SUV Sales Growth in U.S.](https://caymanjournal.com/articles/ford-profit-more-than-doubles-on-pickup-suv-sales-growth-in-cmh3yuonk01zfg7x3iglqp1x5)** *(October 23, 2025)*  
+  Ford's Q3 profit doubled to $2.5B, fueled by F-Series & SUV demand. The company plans 3,000 hires to boost production & tackle supply chain challenges...
+- **[Target to Slash ~1,000 Corporate Jobs, Eliminate 800 Open Roles Amid Restructuring](https://caymanjournal.com/articles/target-to-slash-1000-corporate-jobs-eliminate-800-open-roles-cmh3yv8b801zig7x313a4a6uf)** *(October 23, 2025)*  
+  Target cuts 1,000 jobs & removes 800 open roles in corporate restructuring. This 8% headcount reduction aims for efficiency amid a challenging retail ...
+- **[Deckers Second-Quarter Profit Rises on Higher Sales for Hoka, Ugg](https://caymanjournal.com/articles/deckers-second-quarter-profit-rises-on-higher-sales-for-hoka-cmh3yvrhu01zlg7x3bile2ez1)** *(October 23, 2025)*  
+  Deckers Outdoor Q2 profit jumps on Hoka & Ugg strength, prompting reinstated full-year guidance. See why this signals market confidence.
+- **[Newmont Revenue, Profit Gain on Surging Gold Prices](https://caymanjournal.com/articles/newmont-revenue-profit-gain-on-surging-gold-prices-cmh3ywcvs01zog7x38lgj08nz)** *(October 23, 2025)*  
+  Newmont's Q3 revenue rose 17% to $4.1B, with profit surging 35% to $850M. High gold prices & operational discipline fueled this robust performance.
 
 ### 🏛️ Economy
 
-- **[Bank of Korea Holds Rate Steady for Third Straight Time](https://caymanjournal.com/articles/bank-of-korea-holds-rate-steady-for-third-straight-time-cmh2s1a5701rlg7x3fes5ulet)** *(October 23, 2025)*  
-  South Korea's BoK maintains benchmark rate for third time. Learn how household debt & global trade tensions drive central bank caution.
-- **[Canada to Take ‘Bold’ Risks to Reset Economy, PM Carney Says](https://caymanjournal.com/articles/canada-to-take-bold-risks-to-reset-economy-pm-carney-says-cmh2s1xyz01rog7x3k4j19gbo)** *(October 23, 2025)*  
-  PM Carney launches Canada's bold economic "reset" plan to double non-U.S. exports in a decade. Explore new trade strategies & innovation investments.
-- **[Fed Officials Lose Key Employment Data Amid Shutdown, Third-Party Provider Pulls Plug](https://caymanjournal.com/articles/fed-officials-lose-key-employment-data-amid-shutdown-third-p-cmh2b2pni01ovg7x3a60olxui)** *(October 22, 2025)*  
-  Government shutdown and ADP data loss create a 'double whammy' for the Federal Reserve. See how the Fed navigates a blind economic landscape.
-- **[Indonesia’s Central Bank Surprises With Rate Hold, Prioritizing Rupiah Stability](https://caymanjournal.com/articles/indonesias-central-bank-surprises-with-rate-hold-prioritizin-cmh1tx1bf01lhg7x3q4qfaajm)** *(October 22, 2025)*  
-  Bank Indonesia unexpectedly held its interest rate at 6.00% to prioritize rupiah stability. Unpack BI's strategic pivot amid global economic shifts.
-- **[U.K. Inflation Unexpectedly Holds Steady](https://caymanjournal.com/articles/uk-inflation-unexpectedly-holds-steady-cmh1pmwbe01kfg7x3zreyx1pc)** *(October 22, 2025)*  
-  UK inflation defied expectations, holding at 6.7% in September. Discover the ONS data's impact on interest rates, households, and the Bank of England'...
-- **[Japan’s Exports Rebound for First Time in Five Months](https://caymanjournal.com/articles/japans-exports-rebound-for-first-time-in-five-months-cmh1cl5rz01isg7x36ucddlcs)** *(October 22, 2025)*  
-  Japan's exports surged 4.2% in September, ending a 5-month slump! Discover what's driving this economic boost & its implications for the BOJ.
-- **[Canadian Inflation Hits Seven-Month High, Exceeding Expectations](https://caymanjournal.com/articles/canadian-inflation-hits-seven-month-high-exceeding-expectati-cmh141r7b01hzg7x3chkbthl2)** *(October 21, 2025)*  
-  Canadian inflation jumps to a 7-month high of 2.5%, surprising economists. Learn how this unexpected surge impacts the BoC's rate plans & your finance...
-- **[PulteGroup Profit Falls as Housing Market Remains Stalled](https://caymanjournal.com/articles/pultegroup-profit-falls-as-housing-market-remains-stalled-cmh0n4m5g01dpg7x3k5ybhcnv)** *(October 21, 2025)*  
-  PulteGroup's Q3 profit fell 18% as 7%+ mortgage rates & affordability concerns challenge the housing market. See how builders are adapting.
-- **[BOJ’s Takata Says Now a ‘Prime Opportunity’ to Raise Rates](https://caymanjournal.com/articles/bojs-takata-says-now-a-prime-opportunity-to-raise-rates-cmgyqekvd016ug7x33gfql689)** *(October 20, 2025)*  
-  BOJ's Hajime Takata urges a Japanese interest rate hike, seeing a "prime opportunity" as inflation nears target. Understand the impact on global marke...
-- **[China's Economic Slowdown Puts Beijing on Edge Amidst High-Stakes U.S. Trade Talks](https://caymanjournal.com/articles/chinas-economic-slowdown-puts-beijing-on-edge-amidst-high-st-cmgym2nlx0164g7x3e1chhl9p)** *(October 20, 2025)*  
-  New data reveals China's GDP growth hit 4.8%, its slowest in a year. Understand the challenges, from energy crunch to real estate, and trade negotiati...
+- **[Full Impact of Tariffs on Asia-Pacific Still to Come, IMF Warns](https://caymanjournal.com/articles/full-impact-of-tariffs-on-asia-pacific-still-to-come-imf-war-cmh4g6wp5021fg7x3x9pgtb9a)** *(October 24, 2025)*  
+  IMF warns Asia-Pacific economies: US tariff hikes' true, debilitating force is yet to be felt, promising a discernible slowdown & structural shifts ah...
+- **[BOJ Policy Should Align With Government Policy, Japan’s Finance Minister Says](https://caymanjournal.com/articles/boj-policy-should-align-with-government-policy-japans-financ-cmh4bv8vk0210g7x3c3yndow9)** *(October 24, 2025)*  
+  Japan's finance minister calls for close BOJ coordination, reigniting debate on central bank independence. Learn how this impacts the Yen, inflation, ...
+- **[Japan’s Consumer Inflation Picks Up, But Rate Hike Timing Still Unclear](https://caymanjournal.com/articles/japans-consumer-inflation-picks-up-but-rate-hike-timing-stil-cmh47l5s5020mg7x3q72w4nqw)** *(October 24, 2025)*  
+  Japan's inflation rises to 2.9% but the BOJ holds off on tightening. Understand the central bank's cautious approach, wage growth demands & 2024 outlo...
+- **[U.S. Reopens China Trade Dispute, Raising Stakes Ahead of Trump-Xi Summit](https://caymanjournal.com/articles/us-reopens-china-trade-dispute-raising-stakes-ahead-of-trump-cmh3z4tjk0206g7x3ls96b6y9)** *(October 23, 2025)*  
+  U.S. escalates US China trade dispute ahead of Trump-Xi summit, reviewing 'Phase One' deal. Learn why new tariffs could loom for global markets.
+- **[Canada Retail Sales Pull Back After Rising 1% in August](https://caymanjournal.com/articles/canada-retail-sales-pull-back-after-rising-1-in-august-cmh3urfvw01yfg7x3yv4tpz7w)** *(October 23, 2025)*  
+  Canadian retail sales dip as consumers curb spending. Understand how inflation, rising interest rates & trade disputes create economic headwinds & unc...
+- **[Central U.S. Manufacturing Activity Increases at Faster Pace](https://caymanjournal.com/articles/central-us-manufacturing-activity-increases-at-faster-pace-cmh3qgu4z01xzg7x3046fjfm3)** *(October 23, 2025)*  
+  US manufacturing booms! Heartland factories report accelerating growth to 56.3. Future expectations hit a year-high, driven by Fed rate cut prospects.
+- **[Home Sales Surge in September as Buyers Capitalize on Easing Mortgage Rates, Reaching Seven-Month High](https://caymanjournal.com/articles/home-sales-surge-in-september-as-buyers-capitalize-on-easing-cmh3m7hvx01xlg7x3rtmoyu2x)** *(October 23, 2025)*  
+  US home sales surged to a 7-month high in Sept. as declining mortgage rates brought buyers back. Will this momentum sustain the housing market's recov...
+- **[The Chinese Communist Party’s new five-year plan emphasizes self-sufficiency and advanced manufacturing as a rivalry with America looms large](https://caymanjournal.com/articles/the-chinese-communist-partys-new-five-year-plan-emphasizes-s-cmh3hrqc501wmg7x33m1gng4j)** *(October 23, 2025)*  
+  China's new five-year plan reveals a bold pivot to technological self-sufficiency, focusing on semiconductors & AI. See how Beijing aims for economic ...
+- **[Turkey’s Central Bank Moderates Rate Cuts Amid Persistent Inflation Concerns](https://caymanjournal.com/articles/turkeys-central-bank-moderates-rate-cuts-amid-persistent-inf-cmh3disfl01vhg7x3cbdjtmof)** *(October 23, 2025)*  
+  CBRT cut Turkey's interest rate to 39.5%, slowing easing amidst 60%+ inflation. Learn how this crucial shift impacts investors & the Turkish economy.
+- **[China Vows to Double Down on Tech Self-Reliance as U.S. Rivalry Heats Up](https://caymanjournal.com/articles/china-vows-to-double-down-on-tech-self-reliance-as-us-rivalr-cmh3djdx701vkg7x38ie457wt)** *(October 23, 2025)*  
+  China's urgent drive for tech self-sufficiency accelerates, fueled by US rivalry. Billions target semiconductors & AI, reshaping global tech & supply ...
 
 ### 📈 Markets & Finance
 
+- **[Strong Earnings Reassure Jittery, Data-Deprived Investors](https://caymanjournal.com/articles/strong-earnings-reassure-jittery-data-deprived-investors-cmh47i9kn020jg7x3odkidszy)** *(October 24, 2025)*  
+  Surprising Q3 corporate earnings beat expectations, easing US market fears on trade wars & corporate health. Discover why investors are re-engaging.
+- **[Blackstone Looks to IPOs for Investment Exits](https://caymanjournal.com/articles/blackstone-looks-to-ipos-for-investment-exits-cmh3z1zpm0203g7x3nef9i12i)** *(October 23, 2025)*  
+  Blackstone forecasts a record IPO pipeline, leveraging robust market conditions for public exits. Uncover how this private equity move drives signific...
+- **[Super Micro Cuts Quarterly Outlook, Sending Shares Tumbling](https://caymanjournal.com/articles/super-micro-cuts-quarterly-outlook-sending-shares-tumbling-cmh3uogqu01ycg7x33d4vw3mc)** *(October 23, 2025)*  
+  Super Micro Computer slashes Q1 revenue forecast, sending stock down 15%. Unpack customer order delays and what they signal for enterprise IT demand.
+- **[Trump Pardons Convicted Binance Founder](https://caymanjournal.com/articles/trump-pardons-convicted-binance-founder-cmh3m3nk701xfg7x3dtqyon76)** *(October 23, 2025)*  
+  Stunning: Trump pardons Binance's CZ after alleged crypto company aid. Unpack legal fallout, market impact, and Trump's shifting crypto policy.
+- **[What Credit-Card Trends Tell Us About the U.S. Consumer, in Charts](https://caymanjournal.com/articles/what-credit-card-trends-tell-us-about-the-us-consumer-in-cha-cmh3m4esy01xig7x3xchuxmdb)** *(October 23, 2025)*  
+  US consumers defy economic fears, spending robustly. Credit card data shows strong growth (4.5% in Q4 2018/Q1 2019). Discover what's driving this resi...
+- **[Elon Musk Raises the Stakes for Vote on His Pay](https://caymanjournal.com/articles/elon-musk-raises-the-stakes-for-vote-on-his-pay-cmh3dfqc001veg7x35qldd2xl)** *(October 23, 2025)*  
+  Explore Tesla's high-stakes shareholder vote on Elon Musk's $56B compensation. It's about founder control, AI's future, and corporate governance princ...
+- **[Popular Leveraged Funds Shock Investors With Huge Losses](https://caymanjournal.com/articles/popular-leveraged-funds-shock-investors-with-huge-losses-cmh3deumh01vbg7x3wrgjio5g)** *(October 23, 2025)*  
+  Confronting massive leveraged fund losses? Learn how daily rebalancing and volatility decay in 2x/3x single-stock ETFs lead to unexpected wealth destr...
+- **[Global Markets, U.S. Futures Mixed; Energy Stocks Boosted by Russian Oil Tariffs](https://caymanjournal.com/articles/global-markets-us-futures-mixed-energy-stocks-boosted-by-rus-cmh394d5t01u8g7x3b63ygl3a)** *(October 23, 2025)*  
+  U.S. stock futures diverge: tech drops on U.S.-China trade war fears, while energy surges on rising oil prices & new tariffs. Analyze market shifts.
+- **[Stock Market Today: Oil Prices Jump on Russia Sanctions as Futures Signal Mixed Open](https://caymanjournal.com/articles/stock-market-today-oil-prices-jump-on-russia-sanctions-as-fu-cmh3951bc01ubg7x344wmhmuj)** *(October 23, 2025)*  
+  Brent crude surges past $90 after new Russia sanctions, sparking market volatility. See how Dow lags, S&P/Nasdaq react, and inflation fears grow.
 - **[Trump Administration Explores Taking Equity Stakes in Critical Quantum-Computing Firms](https://caymanjournal.com/articles/trump-administration-explores-taking-equity-stakes-in-critic-cmh2w9c0001s5g7x39qvz81tc)** *(October 23, 2025)*  
   US gov't explores direct equity in quantum computing firms, signaling a strategic shift to secure tech dominance. Learn what this unprecedented move m...
-- **[Fannie Mae CEO Exits as Trump Considers IPO](https://caymanjournal.com/articles/fannie-mae-ceo-exits-as-trump-considers-ipo-cmh2nolmu01r1g7x36txlvzno)** *(October 22, 2025)*  
-  Fannie Mae CEO Priscilla Almodovar resigns amid Trump administration's IPO considerations. Unpack the implications for housing finance, GSEs, and mark...
-- **[Citigroup CEO Jane Fraser Named Chair, Receives $25 Million Stock Award in Leadership Continuity Move](https://caymanjournal.com/articles/citigroup-ceo-jane-fraser-named-chair-receives-25-million-st-cmh2je9l701pyg7x3hvo002mp)** *(October 22, 2025)*  
-  Citigroup CEO Jane Fraser named Chair, consolidating leadership with a $25M stock award. Discover how this dual role impacts Citi's strategic transfor...
-- **[Stocks Retreat as Trade Fears Resurface](https://caymanjournal.com/articles/stocks-retreat-as-trade-fears-resurface-cmh2jevz101q1g7x3bqla0ibu)** *(October 22, 2025)*  
-  Why did markets slide Friday? Renewed trade policy fears spooked investors, hitting tech stocks and complicating the crucial Q1 earnings season outloo...
-- **[Beyond Meat Goes Meme: Traders Pile Into Struggling Faux Meat Shares](https://caymanjournal.com/articles/beyond-meat-goes-meme-traders-pile-into-struggling-faux-meat-cmh2f7y9t01p5g7x3eyh31pix)** *(October 22, 2025)*  
-  BYND stock skyrocketed 500% in a wild short squeeze! Dive into Beyond Meat's meme stock surge, debt woes, and if fundamentals matter.
-- **[U.S. Crude Oil Stockpiles Post Unexpected Decline Amid Refinery Surge](https://caymanjournal.com/articles/us-crude-oil-stockpiles-post-unexpected-decline-amid-refiner-cmh26nxws01nrg7x3g8ngt1dc)** *(October 22, 2025)*  
-  U.S. crude stockpiles fell 961k barrels, driven by surging refinery activity. Uncover what this unexpected draw means for oil prices & the economy.
-- **[NHL Deal With Kalshi, Polymarket Adds to Pressure on Sports-Betting Companies](https://caymanjournal.com/articles/nhl-deal-with-kalshi-polymarket-adds-to-pressure-on-sports-b-cmh1y5v1a01mog7x3x761oc94)** *(October 22, 2025)*  
-  NHL partners with Kalshi, a regulated prediction market, marking a first for US sports. Understand how this groundbreaking deal disrupts sports bettin...
-- **[Crypto Trading Giant FalconX Eyes Strategic Acquisition of ETF Manager 21shares Amidst IPO Buzz](https://caymanjournal.com/articles/crypto-trading-giant-falconx-eyes-strategic-acquisition-of-e-cmh1ttikd01lbg7x3d9abcnns)** *(October 22, 2025)*  
-  FalconX to acquire 21shares, merging prime brokerage with crypto ETPs. See how this deal reshapes institutional digital asset management & boosts Falc...
-- **[The Bankruptcy Court Where People Can’t Stop Talking About Piercing Their Ears](https://caymanjournal.com/articles/the-bankruptcy-court-where-people-cant-stop-talking-about-pi-cmh1tt0jo01l8g7x31p6239tj)** *(October 22, 2025)*  
-  An unexpected ear-piercing discussion captivated a U.S. bankruptcy court during Claire's restructuring. Explore how personal stories illuminated a ret...
-- **[U.S. Futures, Global Markets Mixed; Sterling Slips After U.K. Inflation Data](https://caymanjournal.com/articles/us-futures-global-markets-mixed-sterling-slips-after-uk-infl-cmh1tubv101leg7x3u5oycyo1)** *(October 22, 2025)*  
-  Global markets show divergence: UK Pound hit by inflation, BoE hopes dashed. US equities steady, Asia stocks dip on commodity selloff. Get the full ma...
 
 ### 💻 Technology
 
-- **[AI Workers Are Putting In 100-Hour Workweeks to Win the New Tech Arms Race](https://caymanjournal.com/articles/ai-workers-are-putting-in-100-hour-workweeks-to-win-the-new-cmh2s6o8n01s0g7x35woifscw)** *(October 23, 2025)*  
-  AI's intense work culture: why elite engineers clock 100-hour weeks in a fierce global tech race, driven by VC and extreme talent scarcity.
+- **[Anthropic Extends Google Cloud Partnership for Access to 1 Million Chips, Bolstering AI Ambitions](https://caymanjournal.com/articles/anthropic-extends-google-cloud-partnership-for-access-to-1-m-cmh3z0d0f0200g7x3zjatphr5)** *(October 23, 2025)*  
+  Anthropic's strategic partnership with Google Cloud expands, granting access to 1 million chips for next-gen AI models. Uncover its impact on AI innov...
+- **[I Tried an AI Web Browser, and Now I’m a Convert](https://caymanjournal.com/articles/i-tried-an-ai-web-browser-and-now-im-a-convert-cmh3umlft01y9g7x3j1ddn952)** *(October 23, 2025)*  
+  AI-powered web browsers transform productivity by intelligently processing & synthesizing complex info across tabs. Essential for modern professionals...
+- **[OpenAI-Backed Creative Studio Wonder Studios Secures $12M Seed Funding for AI Content Push](https://caymanjournal.com/articles/openai-backed-creative-studio-wonder-studios-secures-12m-see-cmh35182y01tng7x3ktcawm1v)** *(October 23, 2025)*  
+  Wonder Studios secures $12M seed funding from OpenAI/DeepMind execs to drive AI content innovation. See how they'll transform entertainment production...
 - **[Trump Administration Explores Equity Stakes in Quantum-Computing Firms, Signaling Broader Economic Involvement](https://caymanjournal.com/articles/trump-administration-explores-equity-stakes-in-quantum-compu-cmh2s654601rxg7x3kc362zu5)** *(October 23, 2025)*  
   Washington considers direct equity stakes in pioneering quantum computing firms, marking a major shift in U.S. tech development and national security ...
+- **[AI Workers Are Putting In 100-Hour Workweeks to Win the New Tech Arms Race](https://caymanjournal.com/articles/ai-workers-are-putting-in-100-hour-workweeks-to-win-the-new-cmh2s6o8n01s0g7x35woifscw)** *(October 23, 2025)*  
+  AI's intense work culture: why elite engineers clock 100-hour weeks in a fierce global tech race, driven by VC and extreme talent scarcity.
 - **[Oracle, OpenAI Unveil $15 Billion Wisconsin Data Center for AI Supercomputing](https://caymanjournal.com/articles/oracle-openai-unveil-15-billion-wisconsin-data-center-for-ai-cmh2jo3z701qsg7x3r45vtn49)** *(October 22, 2025)*  
   Oracle & OpenAI's $15B Port Washington data center powers 4.5GW Stargate AI supercomputing for GPT-5. Learn about its massive scale and impact.
 - **[Amazon Testing New Warehouse Robots and AI Tools for Workers](https://caymanjournal.com/articles/amazon-testing-new-warehouse-robots-and-ai-tools-for-workers-cmh2ay76x01opg7x3uen1pmax)** *(October 22, 2025)*  
@@ -141,15 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   New lawsuit: OpenAI allegedly loosened suicide content policies for engagement before a teen's death, prioritizing profit over safety. Learn more.
 - **[Activist Robby Starbuck Sues Google Over Claims of False AI Info](https://caymanjournal.com/articles/activist-robby-starbuck-sues-google-over-claims-of-false-ai-cmh1y3ir901mig7x3jgw9s2mw)** *(October 22, 2025)*  
   Robby Starbuck's landmark defamation lawsuit against Google's AI alleges fabricated sexual assault claims. Explore AI liability and the future of tech...
-- **[Thermo Scientific Revenue Rises, Boosted by Life Sciences Business](https://caymanjournal.com/articles/thermo-scientific-revenue-rises-boosted-by-life-sciences-bus-cmh1y413g01mlg7x3g3uc3php)** *(October 22, 2025)*  
-  Thermo Fisher Scientific reports $11.12B in Q3 sales, driven by surging life sciences demand. Discover its critical role in scientific innovation.
-- **[Is the Flurry of Circular AI Deals a Win-Win—or Sign of a Bubble?](https://caymanjournal.com/articles/is-the-flurry-of-circular-ai-deals-a-win-winor-sign-of-a-bub-cmh1trbet01l5g7x3uut6jb1b)** *(October 22, 2025)*  
-  Are circular AI deals inflating valuations or building ecosystems? Explore how round-trip capital impacts AI startup growth & market stability.
-- **[China’s Innovent Seals Landmark $11.4 Billion Cancer Drug Pact with Takeda](https://caymanjournal.com/articles/chinas-innovent-seals-landmark-114-billion-cancer-drug-pact-cmh1l624701jag7x30m57d9zx)** *(October 22, 2025)*  
-  Explore the $11.4B Innovent-Takeda cancer drug deal reshaping global pharma. China's innovation takes center stage in this landmark biopharma partners...
 
 
-*Last updated: October 23, 2025 at 06:26 UTC*
+*Last updated: October 24, 2025 at 06:25 UTC*
 
 <!-- FEED:END -->
 
