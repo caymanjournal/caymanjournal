@@ -35,31 +35,37 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
+- **[U.S. Stocks Are Breaking Records. The Rest of the World Is Doing Better.](https://caymanjournal.com/articles/us-stocks-are-breaking-records-the-rest-of-the-world-is-doin-cmh76kvu3029ig7x3u6t1iqcr)** *(October 26, 2025)*  
+  International equities are quietly outpacing the S&P 500 in 2024. Discover why global markets are challenging U.S. dominance and what it means for you...
+- **[A Hiking Death Roils a Fashion Empire and the Heirs to a Fortune](https://caymanjournal.com/articles/a-hiking-death-roils-a-fashion-empire-and-the-heirs-to-a-for-cmh72d6p3029dg7x37g93g5ap)** *(October 26, 2025)*  
+  Isak Andic, Mango's founder, died a year ago, yet his death remains under investigation. Uncover the unsettling questions affecting the global fast-fa...
+- **[The ‘Hands Problem’ Holding Back the Humanoid Revolution](https://caymanjournal.com/articles/the-hands-problem-holding-back-the-humanoid-revolution-cmh6l8co30298g7x3lhljura8)** *(October 25, 2025)*  
+  The human hand is a grand challenge for robotics. Learn how AI & soft robotics are finally cracking the 'hands problem' for future humanoid machines.
+- **[Afraid to Try AI? These Tech-Savvy Seniors Will Change Your Mind](https://caymanjournal.com/articles/afraid-to-try-ai-these-tech-savvy-seniors-will-change-your-m-cmh6cn2ce028sg7x35fz8f2fm)** *(October 25, 2025)*  
+  Scottsdale retirees master AI for daily tasks, from recipes to repairs. Discover how seniors use ChatGPT & Google Gemini to enhance their lives.
+- **[Sanctioned Russian Oil Will Find New Ways to Flow](https://caymanjournal.com/articles/sanctioned-russian-oil-will-find-new-ways-to-flow-cmh643o1f028lg7x30h2qdskw)** *(October 25, 2025)*  
+  Uncover how Russia's "dark fleet" and shadow finance defy US oil sanctions, challenging the G7 price cap & fragmenting global energy markets.
 - **[David Ellison Is Moving Fast and Spending Big to Remake Hollywood](https://caymanjournal.com/articles/david-ellison-is-moving-fast-and-spending-big-to-remake-holl-cmh5vfbgm028eg7x3f9ninjwp)** *(October 25, 2025)*  
   David Ellison's Skydance Media maneuvers could remake Hollywood. Explore his pursuit of Paramount Global and interest in Warner Bros. Discovery, resha...
 - **[Why Bubbles Can Keep Inflating in Plain Sight](https://caymanjournal.com/articles/why-bubbles-can-keep-inflating-in-plain-sight-cmh5r96tt028bg7x36qoq9gwh)** *(October 25, 2025)*  
   AI stock "bubble" warnings are loud, but are they priced in? Explore why AI valuations are driven by transformative tech & capital, not just speculati...
-- **[The Gender Pay Gap Widens to 81 Cents on the Dollar, Largest Since 2016: Is Return to Office to Blame?](https://caymanjournal.com/articles/the-gender-pay-gap-widens-to-81-cents-on-the-dollar-largest-cmh5n2hzb0281g7x3d6xxhsog)** *(October 25, 2025)*  
-  Women's pay gap widens to 81 cents on the dollar, largest since 2016. Learn how RTO, bias, & systemic issues impact pay equity & solutions.
 - **[How Travis Kelce Wound Up on a Wild Ride to Save Six Flags](https://caymanjournal.com/articles/how-travis-kelce-wound-up-on-a-wild-ride-to-save-six-flags-cmh5mznw5027yg7x3nuxu1g1a)** *(October 25, 2025)*  
   Travis Kelce becomes an activist investor, joining a hedge fund's bold campaign to shake up Six Flags and revitalize the struggling theme park. Discov...
-- **[Inside the Tech CEO Campaign to Stop Trump From Sending Troops to San Francisco](https://caymanjournal.com/articles/inside-the-tech-ceo-campaign-to-stop-trump-from-sending-troo-cmh5mxrld027vg7x3d5128zit)** *(October 25, 2025)*  
-  Silicon Valley's tech titans (Altman, Huang, Benioff) and SF Mayor Lurie united to prevent federal troops from deploying. Discover how they swayed Tru...
-- **[The Cracker Barrel Mess Isn’t Over Yet](https://caymanjournal.com/articles/the-cracker-barrel-mess-isnt-over-yet-cmh5r50s80288g7x3mzdice56)** *(October 25, 2025)*  
-  Cracker Barrel's logo refresh ignited a bot-fueled crisis, from CEO calls to green bean outrage. Discover how bots amplify brand controversies.
-- **[Inflation's Easing Pace Offers Little Respite as Americans Grapple with Stubbornly High Costs for Essentials](https://caymanjournal.com/articles/inflations-easing-pace-offers-little-respite-as-americans-gr-cmh5io25z027ig7x3rdjzovvh)** *(October 24, 2025)*  
-  Economists say inflation is down, but your budget feels the squeeze. Unpack the disconnect between CPI data and high grocery, rent, & insurance costs.
-- **[Microsoft’s Xbox Revives Original Halo with Cross-Platform Multiplayer Remake](https://caymanjournal.com/articles/microsofts-xbox-revives-original-halo-with-cross-platform-mu-cmh5ecu76026xg7x39r9fdq76)** *(October 24, 2025)*  
-  Xbox unveils Halo: Campaign Evolved, a classic remake with modern graphics & unprecedented cross-platform multiplayer. Unify players & rediscover a le...
-- **[JPMorgan Accuses Charlie Javice of More Fraud. This Time Over Her Legal Bills.](https://caymanjournal.com/articles/jpmorgan-accuses-charlie-javice-of-more-fraud-this-time-over-cmh5ikbj60279g7x3r02jb3oh)** *(October 24, 2025)*  
-  JPMorgan Chase accuses Charlie Javice of new fraud: submitting $60M+ in inflated legal bills it's obligated to cover. Unpack the shocking turn in the ...
-- **[The Score: Netflix, Amazon.com, Six Flags and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-netflix-amazoncom-six-flags-and-more-stocks-that-d-cmh5ikset027cg7x3q65seeaa)** *(October 24, 2025)*  
-  Wall Street saw Netflix surge (+8.5%), Amazon gain (+2.1%) via AWS/AI, but Six Flags dipped (−5.3%) amid consumer caution. Discover the past week's to...
+- **[Travis Kelce Is Jumping In to Save Six Flags Just When It Needed It Most](https://caymanjournal.com/articles/travis-kelce-is-jumping-in-to-save-six-flags-just-when-it-ne-cmh6gv3mw0291g7x3xl65domz)** *(October 25, 2025)*  
+  Travis Kelce teams with activist hedge fund Atlas Capital, backing a major push to revitalize Six Flags. Discover how the NFL star plans to boost the ...
+- **[The Gender Pay Gap Widens to 81 Cents on the Dollar, Largest Since 2016: Is Return to Office to Blame?](https://caymanjournal.com/articles/the-gender-pay-gap-widens-to-81-cents-on-the-dollar-largest-cmh5n2hzb0281g7x3d6xxhsog)** *(October 25, 2025)*  
+  Women's pay gap widens to 81 cents on the dollar, largest since 2016. Learn how RTO, bias, & systemic issues impact pay equity & solutions.
 
 ### 🏢 Business
 
+- **[A Hiking Death Roils a Fashion Empire and the Heirs to a Fortune](https://caymanjournal.com/articles/a-hiking-death-roils-a-fashion-empire-and-the-heirs-to-a-for-cmh72d6p3029dg7x37g93g5ap)** *(October 26, 2025)*  
+  Isak Andic, Mango's founder, died a year ago, yet his death remains under investigation. Uncover the unsettling questions affecting the global fast-fa...
+- **[The ‘Hands Problem’ Holding Back the Humanoid Revolution](https://caymanjournal.com/articles/the-hands-problem-holding-back-the-humanoid-revolution-cmh6l8co30298g7x3lhljura8)** *(October 25, 2025)*  
+  The human hand is a grand challenge for robotics. Learn how AI & soft robotics are finally cracking the 'hands problem' for future humanoid machines.
 - **[David Ellison Is Moving Fast and Spending Big to Remake Hollywood](https://caymanjournal.com/articles/david-ellison-is-moving-fast-and-spending-big-to-remake-holl-cmh5vfbgm028eg7x3f9ninjwp)** *(October 25, 2025)*  
   David Ellison's Skydance Media maneuvers could remake Hollywood. Explore his pursuit of Paramount Global and interest in Warner Bros. Discovery, resha...
+- **[Travis Kelce Is Jumping In to Save Six Flags Just When It Needed It Most](https://caymanjournal.com/articles/travis-kelce-is-jumping-in-to-save-six-flags-just-when-it-ne-cmh6gv3mw0291g7x3xl65domz)** *(October 25, 2025)*  
+  Travis Kelce teams with activist hedge fund Atlas Capital, backing a major push to revitalize Six Flags. Discover how the NFL star plans to boost the ...
 - **[The Cracker Barrel Mess Isn’t Over Yet](https://caymanjournal.com/articles/the-cracker-barrel-mess-isnt-over-yet-cmh5r50s80288g7x3mzdice56)** *(October 25, 2025)*  
   Cracker Barrel's logo refresh ignited a bot-fueled crisis, from CEO calls to green bean outrage. Discover how bots amplify brand controversies.
 - **[Microsoft’s Xbox Revives Original Halo with Cross-Platform Multiplayer Remake](https://caymanjournal.com/articles/microsofts-xbox-revives-original-halo-with-cross-platform-mu-cmh5ecu76026xg7x39r9fdq76)** *(October 24, 2025)*  
@@ -72,12 +78,6 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Porsche faces an unexpected net loss. Uncover how its struggling EV strategy, weak demand in China/US, and Trump's tariffs impacted the luxury brand.
 - **[GM Cuts More Than 200 White-Collar Jobs in Detroit](https://caymanjournal.com/articles/gm-cuts-more-than-200-white-collar-jobs-in-detroit-cmh51jcrz0259g7x3851waswt)** *(October 24, 2025)*  
   Despite record earnings & stock surge, GM cuts 200+ white-collar jobs. Learn why the auto giant is transforming its workforce for the EV era.
-- **[The Most Inevitable Scandal in Sports History Has Happened. And Will Happen Again.](https://caymanjournal.com/articles/the-most-inevitable-scandal-in-sports-history-has-happened-a-cmh51k5kt025cg7x3klbj5i8b)** *(October 24, 2025)*  
-  An NBA gambling scandal involving a coach & player sparks federal probe. Unpack the integrity risks as legalized betting challenges professional sport...
-- **[Beyond Meat Anticipates Impairment Charge While Revenue Holds Steady](https://caymanjournal.com/articles/beyond-meat-anticipates-impairment-charge-while-revenue-hold-cmh4x88pf024og7x3t0p5wv9e)** *(October 24, 2025)*  
-  Beyond Meat plans an impairment charge, yet revenue hits targets. Understand what this mixed financial news means for investors & the plant-based mark...
-- **[HCA Lifts Outlook as Quarterly Profit, Revenue Rise](https://caymanjournal.com/articles/hca-lifts-outlook-as-quarterly-profit-revenue-rise-cmh4sxu8s0242g7x3dhlimuzn)** *(October 24, 2025)*  
-  HCA Healthcare boosts 2023 financial outlook as Q3 profit soars 17% to $1.25B, revenue climbs 11%, driven by robust patient admissions.
 
 ### 🏛️ Economy
 
@@ -104,6 +104,10 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ### 📈 Markets & Finance
 
+- **[U.S. Stocks Are Breaking Records. The Rest of the World Is Doing Better.](https://caymanjournal.com/articles/us-stocks-are-breaking-records-the-rest-of-the-world-is-doin-cmh76kvu3029ig7x3u6t1iqcr)** *(October 26, 2025)*  
+  International equities are quietly outpacing the S&P 500 in 2024. Discover why global markets are challenging U.S. dominance and what it means for you...
+- **[Sanctioned Russian Oil Will Find New Ways to Flow](https://caymanjournal.com/articles/sanctioned-russian-oil-will-find-new-ways-to-flow-cmh643o1f028lg7x30h2qdskw)** *(October 25, 2025)*  
+  Uncover how Russia's "dark fleet" and shadow finance defy US oil sanctions, challenging the G7 price cap & fragmenting global energy markets.
 - **[Why Bubbles Can Keep Inflating in Plain Sight](https://caymanjournal.com/articles/why-bubbles-can-keep-inflating-in-plain-sight-cmh5r96tt028bg7x36qoq9gwh)** *(October 25, 2025)*  
   AI stock "bubble" warnings are loud, but are they priced in? Explore why AI valuations are driven by transformative tech & capital, not just speculati...
 - **[How Travis Kelce Wound Up on a Wild Ride to Save Six Flags](https://caymanjournal.com/articles/how-travis-kelce-wound-up-on-a-wild-ride-to-save-six-flags-cmh5mznw5027yg7x3nuxu1g1a)** *(October 25, 2025)*  
@@ -120,13 +124,11 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Brookfield explores multi-billion nuclear project in SC to meet AI's power demand. See how nuclear energy leads a resurgence, critical for future tech...
 - **[Big Banks Enter Stablecoin Era by Taking Zelle International](https://caymanjournal.com/articles/big-banks-enter-stablecoin-era-by-taking-zelle-international-cmh55q39q025tg7x3cdbenucm)** *(October 24, 2025)*  
   Zelle eyes global payments with stablecoins. Learn how banks are making cross-border transfers faster & cheaper to compete with crypto.
-- **[NatWest Shares Rise After Strong Customer Activity Boosts Results](https://caymanjournal.com/articles/natwest-shares-rise-after-strong-customer-activity-boosts-re-cmh4sugho023zg7x3n9tr2mtb)** *(October 24, 2025)*  
-  NatWest Group shares surge to 16-year high on robust results, beating expectations & raising guidance. Explore the drivers of this stellar financial p...
-- **[Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down](https://caymanjournal.com/articles/global-markets-rise-us-inflation-data-eyed-gold-oil-down-cmh4ok7g0023ag7x3zeehcxnj)** *(October 24, 2025)*  
-  Markets rally today, but September's U.S. inflation data looms. See how accelerating CPI could force the Fed's hand, affecting bonds, stocks, and comm...
 
 ### 💻 Technology
 
+- **[Afraid to Try AI? These Tech-Savvy Seniors Will Change Your Mind](https://caymanjournal.com/articles/afraid-to-try-ai-these-tech-savvy-seniors-will-change-your-m-cmh6cn2ce028sg7x35fz8f2fm)** *(October 25, 2025)*  
+  Scottsdale retirees master AI for daily tasks, from recipes to repairs. Discover how seniors use ChatGPT & Google Gemini to enhance their lives.
 - **[Inside the Tech CEO Campaign to Stop Trump From Sending Troops to San Francisco](https://caymanjournal.com/articles/inside-the-tech-ceo-campaign-to-stop-trump-from-sending-troo-cmh5mxrld027vg7x3d5128zit)** *(October 25, 2025)*  
   Silicon Valley's tech titans (Altman, Huang, Benioff) and SF Mayor Lurie united to prevent federal troops from deploying. Discover how they swayed Tru...
 - **[Battle of the Nonstick Pans: Which Should You Pick in 2025?](https://caymanjournal.com/articles/battle-of-the-nonstick-pans-which-should-you-pick-in-2025-cmh5efx0u0270g7x3oabiic6h)** *(October 24, 2025)*  
@@ -145,11 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Wonder Studios secures $12M seed funding from OpenAI/DeepMind execs to drive AI content innovation. See how they'll transform entertainment production...
 - **[AI Workers Are Putting In 100-Hour Workweeks to Win the New Tech Arms Race](https://caymanjournal.com/articles/ai-workers-are-putting-in-100-hour-workweeks-to-win-the-new-cmh2s6o8n01s0g7x35woifscw)** *(October 23, 2025)*  
   AI's intense work culture: why elite engineers clock 100-hour weeks in a fierce global tech race, driven by VC and extreme talent scarcity.
-- **[Trump Administration Explores Equity Stakes in Quantum-Computing Firms, Signaling Broader Economic Involvement](https://caymanjournal.com/articles/trump-administration-explores-equity-stakes-in-quantum-compu-cmh2s654601rxg7x3kc362zu5)** *(October 23, 2025)*  
-  Washington considers direct equity stakes in pioneering quantum computing firms, marking a major shift in U.S. tech development and national security ...
 
 
-*Last updated: October 25, 2025 at 06:23 UTC*
+*Last updated: October 26, 2025 at 06:24 UTC*
 
 <!-- FEED:END -->
 
