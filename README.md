@@ -35,98 +35,106 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Softbank-Backed Lenskart Solutions Eyes Up to $829M India IPO for Growth Push](https://caymanjournal.com/articles/softbank-backed-lenskart-solutions-eyes-up-to-829m-india-ipo-cmh8qf27402c6g7x3hpstd66h)** *(October 27, 2025)*  
-  Lenskart, backed by SoftBank, plans a $828.8M IPO on Indian bourses to fund expansion. This significant move highlights India's growing eyewear market...
-- **[Asian Markets Rise as U.S.-China Talks, Trump Asia Tour Fuel Deal Hopes](https://caymanjournal.com/articles/asian-markets-rise-as-us-china-talks-trump-asia-tour-fuel-de-cmh8qay6q02c0g7x33yqpvpi8)** *(October 27, 2025)*  
-  Asian markets surged Monday on thawing US-China trade tensions & Trump's Asia tour. See how renewed dialogue fueled global investor confidence.
-- **[‘Yellowstone’ Creator Taylor Sheridan to Leave Paramount for NBCUniversal](https://caymanjournal.com/articles/yellowstone-creator-taylor-sheridan-to-leave-paramount-for-n-cmh8qfn7l02c9g7x3cpsjzpql)** *(October 27, 2025)*  
-  Taylor Sheridan inks massive NBCUniversal deal, departing Paramount. See how this talent shift impacts streaming, Paramount, & Peacock's future.
-- **[China Industrial Profits Maintain Robust Growth Amid Economic Recovery](https://caymanjournal.com/articles/china-industrial-profits-maintain-robust-growth-amid-economi-cmh8m2z2q02bhg7x34pkj088k)** *(October 27, 2025)*  
-  China's industrial profits soared 21.6% in September, ending a decline. See how this second consecutive surge fuels optimism for a robust economic rec...
-- **[More Big Companies Bet They Can Still Grow Without Hiring](https://caymanjournal.com/articles/more-big-companies-bet-they-can-still-grow-without-hiring-cmh8m43ys02bkg7x3a9m1nb41)** *(October 27, 2025)*  
-  Learn how major employers are embracing 'jobless growth'—using AI & efficiency to expand without increasing headcount. Understand its impact on corpor...
-- **[HSBC Holdings to Book $1.1B Provision Related to Madoff Case](https://caymanjournal.com/articles/hsbc-holdings-to-book-11b-provision-related-to-madoff-case-cmh8httru02b8g7x39nwmy3e5)** *(October 27, 2025)*  
-  HSBC takes a $1.1 billion hit for Madoff Ponzi scheme legal fallout. Understand the significant financial impact on the bank & ongoing repercussions o...
-- **[Novartis Agrees to Acquire Avidity Biosciences for a Staggering $12 Billion](https://caymanjournal.com/articles/novartis-agrees-to-acquire-avidity-biosciences-for-a-stagger-cmh8983vo02b1g7x31wmmia4t)** *(October 26, 2025)*  
-  Novartis acquires Avidity Biosciences for $12 billion, strengthening its neuromuscle disorder pipeline with leading RNA therapeutic platform. Read mor...
-- **[Novartis Agrees to Acquire Avidity Biosciences for $12 Billion, Bolstering Neuromuscular Pipeline](https://caymanjournal.com/articles/novartis-agrees-to-acquire-avidity-biosciences-for-12-billio-cmh8m4ruj02bng7x3b7l8fk9d)** *(October 26, 2025)*  
-  Novartis acquires Avidity Biosciences for $12B, boosting RNA-based therapy for neuromuscular diseases. Discover the AOC platform's potential for DM1 p...
-- **[Trump reaches trade pacts with Southeast Asian nations](https://caymanjournal.com/articles/trump-reaches-trade-pacts-with-southeast-asian-nations-cmh851eeu02aog7x3tyahbkk6)** *(October 26, 2025)*  
-  Trump admin signs bilateral trade deals with Malaysia, Cambodia, Thailand, Vietnam. Get details on tariff exemptions, U.S. exports, & supply chain ben...
-- **[Boeing Defense Workers Decisively Reject Latest Contract Offer](https://caymanjournal.com/articles/boeing-defense-workers-decisively-reject-latest-contract-off-cmh80laiz02aag7x3ytpia8wy)** *(October 26, 2025)*  
-  St. Louis Boeing machinists overwhelmingly reject "final" contract, extending strike into its 2nd month. Get details on wage, pension disputes & defen...
+- **[HSBC's Quarterly Profit Dips 21% Amid $1.1 Billion Madoff Lawsuit Settlement](https://caymanjournal.com/articles/hsbcs-quarterly-profit-dips-21-amid-11-billion-madoff-lawsui-cmha5qvfu02ilg7x345xr7g8x)** *(October 28, 2025)*  
+  HSBC's Q3 net profit tumbles 21% due to a massive $1.1B Madoff legal provision. Discover how this historical fraud still impacts banking giants.
+- **[HSBC's Profit Plummets 21% Amid $1.1 Billion Madoff Lawsuit Settlement](https://caymanjournal.com/articles/hsbcs-profit-plummets-21-amid-11-billion-madoff-lawsuit-sett-cmha5uqwb02iog7x3m3a6y4bl)** *(October 28, 2025)*  
+  HSBC's Q3 net profit plunged 21% to $4.87B, hit hard by a $1.1B charge from the Bernie Madoff lawsuit. Understand the impact on the bank.
+- **[President Trump’s ability to reorder global trade through personal diplomacy will be tested during his tour of Asia this week](https://caymanjournal.com/articles/president-trumps-ability-to-reorder-global-trade-through-per-cmha1ntpt02ieg7x32d9q2uyi)** *(October 28, 2025)*  
+  Trump's Asia tour: A critical test of 'America First' personal diplomacy on global trade. Explore the high stakes in Japan, China, Vietnam & Philippin...
+- **[Why ‘Yellowstone’ Mastermind Taylor Sheridan Decided to Ditch Paramount](https://caymanjournal.com/articles/why-yellowstone-mastermind-taylor-sheridan-decided-to-ditch-cmha1glgd02i5g7x3eza3pmz1)** *(October 28, 2025)*  
+  Hollywood shaken: Taylor Sheridan exits Paramount Global over creative control. Discover the impact on Yellowstone's future & his next big move.
+- **[Argentina's Peronist Bastions Make Historic Shift, Powering Milei's Surprise Midterm Victory](https://caymanjournal.com/articles/argentinas-peronist-bastions-make-historic-shift-powering-mi-cmh9xcimj02htg7x39acwuway)** *(October 28, 2025)*  
+  Milei secures shock midterm win as Argentina's Peronist heartlands defect. Explore the economic woes driving this historic working-class political shi...
+- **[The Great Squeeze: How Americans' Extreme Frugality is Reshaping Consumer Markets](https://caymanjournal.com/articles/the-great-squeeze-how-americans-extreme-frugality-is-reshapi-cmh9xc1qj02hqg7x3v3a8s7a1)** *(October 28, 2025)*  
+  Inflation drives extreme household frugality, from watering soap to buying half a cow. Uncover how this reshapes consumer behavior, brand loyalty & CP...
+- **[The Lengths Americans Are Willing to Go to Make Every Penny Count](https://caymanjournal.com/articles/the-lengths-americans-are-willing-to-go-to-make-every-penny-cmha1h3lw02i8g7x3cl8u9gdy)** *(October 28, 2025)*  
+  American frugality is soaring! See how watering down soap to cow pooling impacts consumer spending, CPG sales, & brand strategies amid inflation.
+- **[South Korea’s Economy Accelerated in Third Quarter](https://caymanjournal.com/articles/south-koreas-economy-accelerated-in-third-quarter-cmh9xd03v02hwg7x3jdq38pvp)** *(October 28, 2025)*  
+  South Korea's GDP expanded 1.2% in Q3, driven by stimulus & resilient exports. Learn how the nation defied global trade friction for robust growth.
+- **[The Good Vibes Are Back on Wall Street](https://caymanjournal.com/articles/the-good-vibes-are-back-on-wall-street-cmh9t0l4402hbg7x39vmr808y)** *(October 27, 2025)*  
+  U.S. stock indexes hit record highs! See how robust corporate earnings, M&A activity, & easing trade tensions drive Wall Street's optimism.
+- **[Amazon to Lay Off Up to 30,000 Corporate Workers](https://caymanjournal.com/articles/amazon-to-lay-off-up-to-30000-corporate-workers-cmh9sz0gc02h8g7x3kyistlkn)** *(October 27, 2025)*  
+  Amazon to cut up to 30,000 jobs, 10% of its corporate workforce. Understand the economic pressures driving this major tech sector restructuring.
 
 ### 🏢 Business
 
-- **[Softbank-Backed Lenskart Solutions Eyes Up to $829M India IPO for Growth Push](https://caymanjournal.com/articles/softbank-backed-lenskart-solutions-eyes-up-to-829m-india-ipo-cmh8qf27402c6g7x3hpstd66h)** *(October 27, 2025)*  
-  Lenskart, backed by SoftBank, plans a $828.8M IPO on Indian bourses to fund expansion. This significant move highlights India's growing eyewear market...
-- **[‘Yellowstone’ Creator Taylor Sheridan to Leave Paramount for NBCUniversal](https://caymanjournal.com/articles/yellowstone-creator-taylor-sheridan-to-leave-paramount-for-n-cmh8qfn7l02c9g7x3cpsjzpql)** *(October 27, 2025)*  
-  Taylor Sheridan inks massive NBCUniversal deal, departing Paramount. See how this talent shift impacts streaming, Paramount, & Peacock's future.
-- **[More Big Companies Bet They Can Still Grow Without Hiring](https://caymanjournal.com/articles/more-big-companies-bet-they-can-still-grow-without-hiring-cmh8m43ys02bkg7x3a9m1nb41)** *(October 27, 2025)*  
-  Learn how major employers are embracing 'jobless growth'—using AI & efficiency to expand without increasing headcount. Understand its impact on corpor...
-- **[Novartis Agrees to Acquire Avidity Biosciences for $12 Billion, Bolstering Neuromuscular Pipeline](https://caymanjournal.com/articles/novartis-agrees-to-acquire-avidity-biosciences-for-12-billio-cmh8m4ruj02bng7x3b7l8fk9d)** *(October 26, 2025)*  
-  Novartis acquires Avidity Biosciences for $12B, boosting RNA-based therapy for neuromuscular diseases. Discover the AOC platform's potential for DM1 p...
-- **[Boeing Defense Workers Decisively Reject Latest Contract Offer](https://caymanjournal.com/articles/boeing-defense-workers-decisively-reject-latest-contract-off-cmh80laiz02aag7x3ytpia8wy)** *(October 26, 2025)*  
-  St. Louis Boeing machinists overwhelmingly reject "final" contract, extending strike into its 2nd month. Get details on wage, pension disputes & defen...
-- **[Condé Nast Navigates Media's New Normal with Glam Events and Digital Paywalls](https://caymanjournal.com/articles/cond-nast-navigates-medias-new-normal-with-glam-events-and-d-cmh80lzjf02adg7x3iibiuvhk)** *(October 26, 2025)*  
-  Condé Nast redefines media's future by investing in exclusive "cultural moments" & robust digital paywalls. Explore their survival strategy.
-- **[A Hiking Death Roils a Fashion Empire and the Heirs to a Fortune](https://caymanjournal.com/articles/a-hiking-death-roils-a-fashion-empire-and-the-heirs-to-a-for-cmh72d6p3029dg7x37g93g5ap)** *(October 26, 2025)*  
-  Isak Andic, Mango's founder, died a year ago, yet his death remains under investigation. Uncover the unsettling questions affecting the global fast-fa...
-- **[The ‘Hands Problem’ Holding Back the Humanoid Revolution](https://caymanjournal.com/articles/the-hands-problem-holding-back-the-humanoid-revolution-cmh6l8co30298g7x3lhljura8)** *(October 25, 2025)*  
-  The human hand is a grand challenge for robotics. Learn how AI & soft robotics are finally cracking the 'hands problem' for future humanoid machines.
-- **[David Ellison Is Moving Fast and Spending Big to Remake Hollywood](https://caymanjournal.com/articles/david-ellison-is-moving-fast-and-spending-big-to-remake-holl-cmh5vfbgm028eg7x3f9ninjwp)** *(October 25, 2025)*  
-  David Ellison's Skydance Media maneuvers could remake Hollywood. Explore his pursuit of Paramount Global and interest in Warner Bros. Discovery, resha...
-- **[Travis Kelce Is Jumping In to Save Six Flags Just When It Needed It Most](https://caymanjournal.com/articles/travis-kelce-is-jumping-in-to-save-six-flags-just-when-it-ne-cmh6gv3mw0291g7x3xl65domz)** *(October 25, 2025)*  
-  Travis Kelce teams with activist hedge fund Atlas Capital, backing a major push to revitalize Six Flags. Discover how the NFL star plans to boost the ...
+- **[HSBC's Quarterly Profit Dips 21% Amid $1.1 Billion Madoff Lawsuit Settlement](https://caymanjournal.com/articles/hsbcs-quarterly-profit-dips-21-amid-11-billion-madoff-lawsui-cmha5qvfu02ilg7x345xr7g8x)** *(October 28, 2025)*  
+  HSBC's Q3 net profit tumbles 21% due to a massive $1.1B Madoff legal provision. Discover how this historical fraud still impacts banking giants.
+- **[Why ‘Yellowstone’ Mastermind Taylor Sheridan Decided to Ditch Paramount](https://caymanjournal.com/articles/why-yellowstone-mastermind-taylor-sheridan-decided-to-ditch-cmha1glgd02i5g7x3eza3pmz1)** *(October 28, 2025)*  
+  Hollywood shaken: Taylor Sheridan exits Paramount Global over creative control. Discover the impact on Yellowstone's future & his next big move.
+- **[The Lengths Americans Are Willing to Go to Make Every Penny Count](https://caymanjournal.com/articles/the-lengths-americans-are-willing-to-go-to-make-every-penny-cmha1h3lw02i8g7x3cl8u9gdy)** *(October 28, 2025)*  
+  American frugality is soaring! See how watering down soap to cow pooling impacts consumer spending, CPG sales, & brand strategies amid inflation.
+- **[F5 Braces for Revenue Dip as Cyber Attack Fallout Spooks Customers](https://caymanjournal.com/articles/f5-braces-for-revenue-dip-as-cyber-attack-fallout-spooks-cus-cmh9svv0s02h2g7x34ochgrmc)** *(October 27, 2025)*  
+  F5 faces a significant 3-7% revenue impact and eroded customer trust following a cyber attack. Understand the deal delays and cancellations.
+- **[Google Revives Dormant Iowa Nuclear Plant to Fuel AI Ambitions](https://caymanjournal.com/articles/google-revives-dormant-iowa-nuclear-plant-to-fuel-ai-ambitio-cmha1hnrl02ibg7x3mmfh3p0k)** *(October 27, 2025)*  
+  Google is reviving Iowa's Duane Arnold nuclear plant for AI power. See how surging AI energy demands drive tech giants to carbon-free nuclear solution...
+- **[Nucor Third-Quarter Profit Climbs on Higher Revenue](https://caymanjournal.com/articles/nucor-third-quarter-profit-climbs-on-higher-revenue-cmh9sw9gd02h5g7x373ht4auc)** *(October 27, 2025)*  
+  Nucor delivers strong Q3 profits but forecasts a sequential earnings dip for current quarter due to lower steel volumes. Get the full industry outlook...
+- **[Amazon to Lay Off Tens of Thousands of Corporate Workers](https://caymanjournal.com/articles/amazon-to-lay-off-tens-of-thousands-of-corporate-workers-cmh9olkkw02gmg7x3s2raau4t)** *(October 27, 2025)*  
+  Amazon implements its largest-ever corporate workforce reduction, cutting tens of thousands of jobs. CEO Jassy confirms a strategic shift for efficien...
+- **[Bed Bath & Beyond Narrows Quarterly Loss, Projects 2024 Revenue Growth, Shares Surge](https://caymanjournal.com/articles/bed-bath--beyond-narrows-quarterly-loss-projects-2024-revenu-cmh9om4vm02gpg7x30hb7ptvy)** *(October 27, 2025)*  
+  Bed Bath & Beyond (BBBY) reports narrowed loss & strong revenue forecast, sending shares soaring. See if strategic overhauls mark a true turnaround.
+- **[Whirlpool’s Sales Edge Higher, Buoyed by Retailer Confidence](https://caymanjournal.com/articles/whirlpools-sales-edge-higher-buoyed-by-retailer-confidence-cmh9omjb402gsg7x31tib3jd7)** *(October 27, 2025)*  
+  Whirlpool sales surge, fueled by KitchenAid innovation and expanded retail shelf space. Learn how strategic investments drive market leadership.
+- **[John Dickerson Departs CBS News Amidst New Editorial Leadership](https://caymanjournal.com/articles/john-dickerson-departs-cbs-news-amidst-new-editorial-leaders-cmh9kerb702g3g7x3c52c3yt6)** *(October 27, 2025)*  
+  John Dickerson departs CBS News following Bari Weiss's appointment as EIC. The move signals a major newsroom shake-up and new editorial vision.
 
 ### 🏛️ Economy
 
+- **[President Trump’s ability to reorder global trade through personal diplomacy will be tested during his tour of Asia this week](https://caymanjournal.com/articles/president-trumps-ability-to-reorder-global-trade-through-per-cmha1ntpt02ieg7x32d9q2uyi)** *(October 28, 2025)*  
+  Trump's Asia tour: A critical test of 'America First' personal diplomacy on global trade. Explore the high stakes in Japan, China, Vietnam & Philippin...
+- **[The Great Squeeze: How Americans' Extreme Frugality is Reshaping Consumer Markets](https://caymanjournal.com/articles/the-great-squeeze-how-americans-extreme-frugality-is-reshapi-cmh9xc1qj02hqg7x3v3a8s7a1)** *(October 28, 2025)*  
+  Inflation drives extreme household frugality, from watering soap to buying half a cow. Uncover how this reshapes consumer behavior, brand loyalty & CP...
+- **[Argentina's Peronist Bastions Make Historic Shift, Powering Milei's Surprise Midterm Victory](https://caymanjournal.com/articles/argentinas-peronist-bastions-make-historic-shift-powering-mi-cmh9xcimj02htg7x39acwuway)** *(October 28, 2025)*  
+  Milei secures shock midterm win as Argentina's Peronist heartlands defect. Explore the economic woes driving this historic working-class political shi...
+- **[South Korea’s Economy Accelerated in Third Quarter](https://caymanjournal.com/articles/south-koreas-economy-accelerated-in-third-quarter-cmh9xd03v02hwg7x3jdq38pvp)** *(October 28, 2025)*  
+  South Korea's GDP expanded 1.2% in Q3, driven by stimulus & resilient exports. Learn how the nation defied global trade friction for robust growth.
+- **[A Shortlist of Candidates to be the Next Fed Chair is Down to Two Current Fed Governors, BlackRock Executive Rick Rieder and Front-Runners Kevin Warsh and Kevin Hassett](https://caymanjournal.com/articles/a-shortlist-of-candidates-to-be-the-next-fed-chair-is-down-t-cmh9g3eso02fog7x3iv1rh6pk)** *(October 27, 2025)*  
+  The high-stakes Fed chair race narrows to 5: two governors, BlackRock's Rieder, Warsh & Hassett. Discover who could lead the Fed & shape global moneta...
+- **[Chicago Fed Estimate Projects Steady Unemployment Ahead](https://caymanjournal.com/articles/chicago-fed-estimate-projects-steady-unemployment-ahead-cmh97it5402exg7x3rk9ez424)** *(October 27, 2025)*  
+  Chicago Fed forecasts October's unemployment rate at a stable 4.35%, a marginal 0.01% shift. Unpack its impact on Fed policy & the job market.
+- **[In 250 Years: How Tech and Demographics Forged Today's 150 Million Strong Workforce](https://caymanjournal.com/articles/in-250-years-how-tech-and-demographics-forged-todays-150-mil-cmh8yy4f402d4g7x3l8yvv20v)** *(October 27, 2025)*  
+  From 1776 farms to today's tech-driven service economy, witness the dramatic evolution of the American workforce. Higher pay, fewer hours, new skills.
+- **[German Business Sentiment Rebounds on Brighter Hopes for Economy](https://caymanjournal.com/articles/german-business-sentiment-rebounds-on-brighter-hopes-for-eco-cmh8yytlh02d7g7x3vv5esaek)** *(October 27, 2025)*  
+  German business confidence rebounds to 87.3 in November! Easing energy prices & improving supply chains spark optimism for Germany's economy.
+- **[ECB to Keep Interest Rates on Hold Amid Hope for Extended Stay in ‘Good Place’](https://caymanjournal.com/articles/ecb-to-keep-interest-rates-on-hold-amid-hope-for-extended-st-cmh8yziag02dag7x3szfqflym)** *(October 27, 2025)*  
+  ECB holds key interest rates at 4.00%. Explore the reasons for the pause, disinflation progress, and what signals mean for future rate cuts.
 - **[China Industrial Profits Maintain Robust Growth Amid Economic Recovery](https://caymanjournal.com/articles/china-industrial-profits-maintain-robust-growth-amid-economi-cmh8m2z2q02bhg7x34pkj088k)** *(October 27, 2025)*  
   China's industrial profits soared 21.6% in September, ending a decline. See how this second consecutive surge fuels optimism for a robust economic rec...
-- **[Trump reaches trade pacts with Southeast Asian nations](https://caymanjournal.com/articles/trump-reaches-trade-pacts-with-southeast-asian-nations-cmh851eeu02aog7x3tyahbkk6)** *(October 26, 2025)*  
-  Trump admin signs bilateral trade deals with Malaysia, Cambodia, Thailand, Vietnam. Get details on tariff exemptions, U.S. exports, & supply chain ben...
-- **[The Gender Pay Gap Widens to 81 Cents on the Dollar, Largest Since 2016: Is Return to Office to Blame?](https://caymanjournal.com/articles/the-gender-pay-gap-widens-to-81-cents-on-the-dollar-largest-cmh5n2hzb0281g7x3d6xxhsog)** *(October 25, 2025)*  
-  Women's pay gap widens to 81 cents on the dollar, largest since 2016. Learn how RTO, bias, & systemic issues impact pay equity & solutions.
-- **[Inflation's Easing Pace Offers Little Respite as Americans Grapple with Stubbornly High Costs for Essentials](https://caymanjournal.com/articles/inflations-easing-pace-offers-little-respite-as-americans-gr-cmh5io25z027ig7x3rdjzovvh)** *(October 24, 2025)*  
-  Economists say inflation is down, but your budget feels the squeeze. Unpack the disconnect between CPI data and high grocery, rent, & insurance costs.
-- **[Week Ahead for FX, Bonds: Fed Rate Cut Looms, U.S.-China Talks in Focus](https://caymanjournal.com/articles/week-ahead-for-fx-bonds-fed-rate-cut-looms-us-china-talks-in-cmh5a2nte026ag7x3arr3ed3j)** *(October 24, 2025)*  
-  Understand the Fed's 25-bp rate cut, its market impact on FX & bonds, plus U.S.-China trade. Navigate volatility with key insights for this crucial we...
-- **[Consumer Sentiment Drops in October Michigan Survey](https://caymanjournal.com/articles/consumer-sentiment-drops-in-october-michigan-survey-cmh51hjl50253g7x37ybqrlds)** *(October 24, 2025)*  
-  Shoppers feel the pinch: Oct. consumer sentiment plummeted to 63.8 as inflation weighs. Learn the impact on retailers & the Fed's policy choices.
-- **[The extended government shutdown has put collecting most October inflation data out of reach for the Bureau of Labor Statistics, according to people familiar with the agency’s operations](https://caymanjournal.com/articles/the-extended-government-shutdown-has-put-collecting-most-oct-cmh51ib8i0256g7x3km44qqz3)** *(October 24, 2025)*  
-  Government shutdown creates an unprecedented data void as BLS misses October inflation data. Learn the profound impact on policymakers, markets & busi...
-- **[Annual Inflation Picked Up Slightly in September, Though Not as Much as Economists Expected](https://caymanjournal.com/articles/annual-inflation-picked-up-slightly-in-september-though-not-cmh4x7805024lg7x3ou0ekf4i)** *(October 24, 2025)*  
-  September US inflation rose to 3.1%, but undershot forecasts. Discover what this mixed CPI report means for Fed rate hikes & household budgets.
-- **[Eurozone Business Activity Picks Up in Continued Show of Resilience](https://caymanjournal.com/articles/eurozone-business-activity-picks-up-in-continued-show-of-res-cmh4onmhz023gg7x3bc2kkup4)** *(October 24, 2025)*  
-  Defying expectations, global business activity surges. Eurozone PMI hits 52.5! See how firms adapt, diversify & grow despite geopolitical friction & t...
-- **[U.K. Retail Sales Rise for Fourth Straight Month](https://caymanjournal.com/articles/uk-retail-sales-rise-for-fourth-straight-month-cmh4kd7wr022cg7x3fe6wsf1j)** *(October 24, 2025)*  
-  UK retail sales jumped 0.5% in Sept for the 4th month, defying expectations. Discover how tech & gold sales hint at surprising consumer resilience.
 
 ### 📈 Markets & Finance
 
-- **[Asian Markets Rise as U.S.-China Talks, Trump Asia Tour Fuel Deal Hopes](https://caymanjournal.com/articles/asian-markets-rise-as-us-china-talks-trump-asia-tour-fuel-de-cmh8qay6q02c0g7x33yqpvpi8)** *(October 27, 2025)*  
-  Asian markets surged Monday on thawing US-China trade tensions & Trump's Asia tour. See how renewed dialogue fueled global investor confidence.
-- **[HSBC Holdings to Book $1.1B Provision Related to Madoff Case](https://caymanjournal.com/articles/hsbc-holdings-to-book-11b-provision-related-to-madoff-case-cmh8httru02b8g7x39nwmy3e5)** *(October 27, 2025)*  
-  HSBC takes a $1.1 billion hit for Madoff Ponzi scheme legal fallout. Understand the significant financial impact on the bank & ongoing repercussions o...
-- **[How Russia’s Sanctioned Arctic Gas Found a Chinese Loophole](https://caymanjournal.com/articles/how-russias-sanctioned-arctic-gas-found-a-chinese-loophole-cmh80qr0l02ajg7x3m4xpdtnj)** *(October 26, 2025)*  
-  Uncover how Russia circumvents Western sanctions on its Arctic LNG 2 project. China's crucial role in financing, off-take, and transport fuels Moscow'...
-- **[U.S. Stocks Are Breaking Records. The Rest of the World Is Doing Better.](https://caymanjournal.com/articles/us-stocks-are-breaking-records-the-rest-of-the-world-is-doin-cmh76kvu3029ig7x3u6t1iqcr)** *(October 26, 2025)*  
-  International equities are quietly outpacing the S&P 500 in 2024. Discover why global markets are challenging U.S. dominance and what it means for you...
-- **[How to Squeeze the Most From the New SALT Cap](https://caymanjournal.com/articles/how-to-squeeze-the-most-from-the-new-salt-cap-cmh8qbu0h02c3g7x34f5ajfm1)** *(October 26, 2025)*  
-  Prepare for 2025's higher SALT cap. Learn how to optimize tax payments, use PTE elections, and re-evaluate itemization to maximize deductions & save o...
-- **[Sanctioned Russian Oil Will Find New Ways to Flow](https://caymanjournal.com/articles/sanctioned-russian-oil-will-find-new-ways-to-flow-cmh643o1f028lg7x30h2qdskw)** *(October 25, 2025)*  
-  Uncover how Russia's "dark fleet" and shadow finance defy US oil sanctions, challenging the G7 price cap & fragmenting global energy markets.
-- **[Why Bubbles Can Keep Inflating in Plain Sight](https://caymanjournal.com/articles/why-bubbles-can-keep-inflating-in-plain-sight-cmh5r96tt028bg7x36qoq9gwh)** *(October 25, 2025)*  
-  AI stock "bubble" warnings are loud, but are they priced in? Explore why AI valuations are driven by transformative tech & capital, not just speculati...
-- **[How Travis Kelce Wound Up on a Wild Ride to Save Six Flags](https://caymanjournal.com/articles/how-travis-kelce-wound-up-on-a-wild-ride-to-save-six-flags-cmh5mznw5027yg7x3nuxu1g1a)** *(October 25, 2025)*  
-  Travis Kelce becomes an activist investor, joining a hedge fund's bold campaign to shake up Six Flags and revitalize the struggling theme park. Discov...
-- **[JPMorgan Accuses Charlie Javice of More Fraud. This Time Over Her Legal Bills.](https://caymanjournal.com/articles/jpmorgan-accuses-charlie-javice-of-more-fraud-this-time-over-cmh5ikbj60279g7x3r02jb3oh)** *(October 24, 2025)*  
-  JPMorgan Chase accuses Charlie Javice of new fraud: submitting $60M+ in inflated legal bills it's obligated to cover. Unpack the shocking turn in the ...
-- **[The Score: Netflix, Amazon.com, Six Flags and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-netflix-amazoncom-six-flags-and-more-stocks-that-d-cmh5ikset027cg7x3q65seeaa)** *(October 24, 2025)*  
-  Wall Street saw Netflix surge (+8.5%), Amazon gain (+2.1%) via AWS/AI, but Six Flags dipped (−5.3%) amid consumer caution. Discover the past week's to...
+- **[HSBC's Profit Plummets 21% Amid $1.1 Billion Madoff Lawsuit Settlement](https://caymanjournal.com/articles/hsbcs-profit-plummets-21-amid-11-billion-madoff-lawsuit-sett-cmha5uqwb02iog7x3m3a6y4bl)** *(October 28, 2025)*  
+  HSBC's Q3 net profit plunged 21% to $4.87B, hit hard by a $1.1B charge from the Bernie Madoff lawsuit. Understand the impact on the bank.
+- **[The Good Vibes Are Back on Wall Street](https://caymanjournal.com/articles/the-good-vibes-are-back-on-wall-street-cmh9t0l4402hbg7x39vmr808y)** *(October 27, 2025)*  
+  U.S. stock indexes hit record highs! See how robust corporate earnings, M&A activity, & easing trade tensions drive Wall Street's optimism.
+- **[Tom Hayes, Face of Libor Scandal, Sues UBS for $400 Million](https://caymanjournal.com/articles/tom-hayes-face-of-libor-scandal-sues-ubs-for-400-million-cmh9oqj0y02gvg7x3630jeh98)** *(October 27, 2025)*  
+  Libor's Tom Hayes sues UBS for $400M alleging wrongful conviction, claiming the bank hid crucial evidence. Revisit the notorious financial scandal.
+- **[Milei’s Clear-Cut Victory Unlocks a Wall Street Windfall](https://caymanjournal.com/articles/mileis-clear-cut-victory-unlocks-a-wall-street-windfall-cmh9kbahd02g0g7x3whav8nhn)** *(October 27, 2025)*  
+  Investors cheer: Argentine assets, including stocks & bonds, soar after Milei's strong election showing. Understand why Wall Street sees a clear path ...
+- **[Argentina's Markets Surge Post-Milei Victory, Eyeing Stronger U.S. Ties](https://caymanjournal.com/articles/argentinas-markets-surge-post-milei-victory-eyeing-stronger-cmh9bqtfd02fbg7x31bpw1ind)** *(October 27, 2025)*  
+  Argentina markets surge post-Milei win, fueled by reform hopes & anticipated Trump support. Bonds climb 10%, MERVAL 12%. Explore rally drivers & futur...
+- **[Janus Henderson Gets $7.2 Billion Offer From Trian, General Catalyst](https://caymanjournal.com/articles/janus-henderson-gets-72-billion-offer-from-trian-general-cat-cmh9brj2302feg7x3eqnax9ue)** *(October 27, 2025)*  
+  Trian & General Catalyst bid $7.2B to acquire asset manager Janus Henderson and take it private. Explore the strategic reasons and industry impact.
+- **[Huntington Reaches $7.4 Billion Deal to Buy Cadence Bank](https://caymanjournal.com/articles/huntington-reaches-74-billion-deal-to-buy-cadence-bank-cmh93603p02e0g7x3bx3a15av)** *(October 27, 2025)*  
+  The Huntington-Cadence $7.4B deal signals a new era of bank consolidation. Learn why mid-tier banks are merging for scale & what challenges lie ahead.
+- **[Global Markets Rise Ahead of Trump, Xi Talks](https://caymanjournal.com/articles/global-markets-rise-ahead-of-trump-xi-talks-cmh936q0902e3g7x3rgb17vn9)** *(October 27, 2025)*  
+  U.S. stock futures surge over 0.8% after positive U.S.-China trade talks. Discover why optimism builds for the Trump-Xi meeting & market's next move.
+- **[Stock Market Today: Dow Futures Rise on U.S.-China Trade Deal Hopes](https://caymanjournal.com/articles/stock-market-today-dow-futures-rise-on-us-china-trade-deal-h-cmh937dth02e6g7x3ff1iky0u)** *(October 27, 2025)*  
+  U.S. equity futures jump on a preliminary U.S.-China trade deal consensus confirmed by Beijing. See how this breakthrough boosts global market confide...
+- **[Softbank-Backed Lenskart Solutions Seeks to Raise Up to $829 Million in India IPO](https://caymanjournal.com/articles/softbank-backed-lenskart-solutions-seeks-to-raise-up-to-829-cmh8uli8c02cgg7x3gcxr7kfg)** *(October 27, 2025)*  
+  India's Lenskart, the Softbank-backed eyewear leader, aims for a $828.8M IPO. Understand its strategy for market growth and dominance.
 
 ### 💻 Technology
 
+- **[Amazon to Lay Off Up to 30,000 Corporate Workers](https://caymanjournal.com/articles/amazon-to-lay-off-up-to-30000-corporate-workers-cmh9sz0gc02h8g7x3kyistlkn)** *(October 27, 2025)*  
+  Amazon to cut up to 30,000 jobs, 10% of its corporate workforce. Understand the economic pressures driving this major tech sector restructuring.
+- **[Qualcomm Stock Surges on AI Chip Launch](https://caymanjournal.com/articles/qualcomm-stock-surges-on-ai-chip-launch-cmh9bxgu102fhg7x31k9xb42l)** *(October 27, 2025)*  
+  Qualcomm enters the AI race! Shares surge 20% on its new AI chip launch, directly challenging Nvidia's market lead. Explore QCOM's bold strategic pivo...
+- **[The AI Startup Fueling ChatGPT’s Expertise Is Now Valued at $10 Billion](https://caymanjournal.com/articles/the-ai-startup-fueling-chatgpts-expertise-is-now-valued-at-1-cmh93emkn02eig7x30ttp6tfk)** *(October 27, 2025)*  
+  Mercor hits a $10B valuation, revealing the vital human feedback powering AI. Learn how its global workforce shapes LLMs like ChatGPT for true intelli...
+- **[Microsoft Needs to Open Up More About Its OpenAI Dealings](https://caymanjournal.com/articles/microsoft-needs-to-open-up-more-about-its-openai-dealings-cmh8z4c6g02djg7x3jzswuqfr)** *(October 27, 2025)*  
+  Microsoft's opaque OpenAI partnership faces intense regulatory and investor pressure for greater transparency. Understand the $13B deal's true financi...
 - **[Novartis Agrees to Acquire Avidity Biosciences for a Staggering $12 Billion](https://caymanjournal.com/articles/novartis-agrees-to-acquire-avidity-biosciences-for-a-stagger-cmh8983vo02b1g7x31wmmia4t)** *(October 26, 2025)*  
   Novartis acquires Avidity Biosciences for $12 billion, strengthening its neuromuscle disorder pipeline with leading RNA therapeutic platform. Read mor...
 - **[It’s Not Just Rich Countries. Tech’s Trillion-Dollar Bet on AI Is Everywhere.](https://caymanjournal.com/articles/its-not-just-rich-countries-techs-trillion-dollar-bet-on-ai-cmh80ownv02agg7x36nu2il78)** *(October 26, 2025)*  
@@ -139,17 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Anthropic, backed by Amazon & Google, offers a sustainable enterprise AI path vs. OpenAI's consumer focus. Learn its B2B strategy for secure, reliable...
 - **[Afraid to Try AI? These Tech-Savvy Seniors Will Change Your Mind](https://caymanjournal.com/articles/afraid-to-try-ai-these-tech-savvy-seniors-will-change-your-m-cmh6cn2ce028sg7x35fz8f2fm)** *(October 25, 2025)*  
   Scottsdale retirees master AI for daily tasks, from recipes to repairs. Discover how seniors use ChatGPT & Google Gemini to enhance their lives.
-- **[Inside the Tech CEO Campaign to Stop Trump From Sending Troops to San Francisco](https://caymanjournal.com/articles/inside-the-tech-ceo-campaign-to-stop-trump-from-sending-troo-cmh5mxrld027vg7x3d5128zit)** *(October 25, 2025)*  
-  Silicon Valley's tech titans (Altman, Huang, Benioff) and SF Mayor Lurie united to prevent federal troops from deploying. Discover how they swayed Tru...
-- **[Battle of the Nonstick Pans: Which Should You Pick in 2025?](https://caymanjournal.com/articles/battle-of-the-nonstick-pans-which-should-you-pick-in-2025-cmh5efx0u0270g7x3oabiic6h)** *(October 24, 2025)*  
-  Expert reviews 12 top nonstick pans for 2025. Understand PFAS concerns, compare durability, and find the best pan for your kitchen.
-- **[Inside Amazon’s AI and Robotics Push](https://caymanjournal.com/articles/inside-amazons-ai-and-robotics-push-cmh51nfyx025fg7x3peis7alm)** *(October 24, 2025)*  
-  AI & Robotics transform Amazon operations, web browsing, urban transport, and cybersecurity. Explore how these innovations redefine logistics and dail...
-- **[Meta Charged by EU Over Handling of Illegal Content, Faces New Digital Services Act Scrutiny](https://caymanjournal.com/articles/meta-charged-by-eu-over-handling-of-illegal-content-faces-ne-cmh4or150023jg7x3n9j21a7w)** *(October 24, 2025)*  
-  EU opens DSA proceedings against Meta for alleged failure in user reporting of illegal content. Billions in fines loom for Facebook & Instagram.
 
 
-*Last updated: October 27, 2025 at 06:29 UTC*
+*Last updated: October 28, 2025 at 06:27 UTC*
 
 <!-- FEED:END -->
 
