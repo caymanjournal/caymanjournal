@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Fireworks AI secures $254M funding at $4B valuation to scale high-performance AI inference. Explore their platform for ultra-low latency LLM deploymen...
 
 
-*Last updated: November 12, 2025 at 06:27 UTC*
+*Last updated: November 13, 2025 at 06:27 UTC*
 
 <!-- FEED:END -->
 
