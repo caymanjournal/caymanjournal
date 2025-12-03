@@ -35,52 +35,62 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Costco Joins Companies Suing Trump Administration Over Tariffs](https://caymanjournal.com/articles/costco-joins-companies-suing-trump-administration-over-tarif-cmio1vll2005s2altfm08wmpy)** *(December 02, 2025)*  
-  Costco joins retail giants challenging Trump's China tariffs. Billions in duties at stake; Supreme Court could redefine US trade policy & power.
-- **[Disney’s Succession Race Enters Final Stage as Iger’s Reign Draws to End](https://caymanjournal.com/articles/disneys-succession-race-enters-final-stage-as-igers-reign-dr-cmio1wirk005v2alt7gmn9856)** *(December 02, 2025)*  
-  Disney's critical CEO succession plan nears conclusion as Bob Iger's reign ends. Discover the two top internal candidates, Josh D’Amaro & Dana Walden,...
-- **[Samsung’s Next Salvo Against Apple: A Triple-Folding Smartphone](https://caymanjournal.com/articles/samsungs-next-salvo-against-apple-a-triple-folding-smartphon-cmio1xmsd005y2altovw395s3)** *(December 02, 2025)*  
-  Samsung's Galaxy Z TriFold: the first triple-folding phone redefining mobile tech. Get tablet-like screen real estate in a pocketable design, challeng...
-- **[Energy Department Renames Key Lab, Signaling Shift Towards Fossil Fuels](https://caymanjournal.com/articles/energy-department-renames-key-lab-signaling-shift-towards-fo-cmio65r1e00672alt9eixtdzf)** *(December 02, 2025)*  
-  Trump's DOE rebrands SERI to CESI, shifting federal energy research from renewables to "all-of-the-above." Uncover the impact on clean energy & jobs.
-- **[Chinese Rare-Earth Dealers Find Ways to Dodge Beijing’s Export Restrictions](https://caymanjournal.com/articles/chinese-rare-earth-dealers-find-ways-to-dodge-beijings-expor-cmio1zamu00642altzy8x8qrr)** *(December 02, 2025)*  
-  Facing strict rare-earth export curbs, Chinese firms subtly alter magnet formulas and embed them in products, ensuring critical supply for Western ind...
-- **[Europe’s Green Energy Rush Slashed Emissions—and Crippled the Economy](https://caymanjournal.com/articles/europes-green-energy-rush-slashed-emissionsand-crippled-the-cmio1ynrh00612altcbnvjefa)** *(December 02, 2025)*  
-  Europe cut emissions 32%, but industrial electricity costs soared 200-300%. Learn how this green paradox cripples vital industries & fuels deindustria...
-- **[Apple to Revamp AI Team After Announcing Top Exec’s Departure](https://caymanjournal.com/articles/apple-to-revamp-ai-team-after-announcing-top-execs-departure-cminxsoxm00562altimsikx1w)** *(December 02, 2025)*  
-  Apple overhauls its AI strategy after a top executive's exit, signaling a major push to accelerate generative AI and compete with rivals. Learn more.
-- **[Officially, the Fed Chair Search Continues, But All Eyes Are on Kevin Hassett](https://caymanjournal.com/articles/officially-the-fed-chair-search-continues-but-all-eyes-are-o-cminxnnop004r2altiwf9x5kn)** *(December 02, 2025)*  
-  The race for the next Federal Reserve chair seems decided: Kevin Hassett is Trump's pick. Discover why his unique blend of trust & credibility matters...
-- **[FAA Ramps Up Probe on Airlines’ Flight Reductions During Government Shutdown](https://caymanjournal.com/articles/faa-ramps-up-probe-on-airlines-flight-reductions-during-gove-cminxoapn004u2alt8tw98uae)** *(December 02, 2025)*  
-  FAA launches major probe into whether airlines manipulated flight reductions during a shutdown to secure valuable airport slots at 40 key hubs.
-- **[Trump Administration to Take Equity Stake in Former Intel CEO’s Chip Startup](https://caymanjournal.com/articles/trump-administration-to-take-equity-stake-in-former-intel-ce-cminxt9fv00592altm1q55iqs)** *(December 02, 2025)*  
-  US gov't takes $150M equity stake in XLight, funding Dr. Thorne's advanced laser tech for next-gen semiconductor lithography. Explore this CHIPS Act i...
+- **[Svedka Unleashes AI-Powered 'Fembot' for Landmark Super Bowl Debut](https://caymanjournal.com/articles/svedka-unleashes-ai-powered-fembot-for-landmark-super-bowl-d-cmiplo1m000dr2altcrydav3e)** *(December 03, 2025)*  
+  Svedka's Super Bowl ad goes AI! See how their Fembot returns in an AI-produced spot, challenging traditional ad production & setting new benchmarks.
+- **[HSBC Holdings Board Appoints Brendan Nelson as Group Chair](https://caymanjournal.com/articles/hsbc-holdings-board-appoints-brendan-nelson-as-group-chair-cmipllgm000do2altg5ll6kzq)** *(December 03, 2025)*  
+  HSBC appoints Brendan Nelson as permanent Group Chair. Learn how this leadership solidifies global strategy, governance & future growth for the bankin...
+- **[Waymo’s Self-Driving Cars Are Suddenly Behaving Like New York Cabbies](https://caymanjournal.com/articles/waymos-self-driving-cars-are-suddenly-behaving-like-new-york-cmiphh3gw00df2alt2ox6dywb)** *(December 03, 2025)*  
+  Waymo's autonomous vehicles now exhibit surprising human-like, assertive driving in San Francisco. Discover how AI learns to bend rules for urban effi...
+- **[Perseus Mining Launches $1.3 Billion Takeover Bid for Predictive Discovery, Outbidding Rival](https://caymanjournal.com/articles/perseus-mining-launches-13-billion-takeover-bid-for-predicti-cmiphbcmg00d62altax1rnr88)** *(December 03, 2025)*  
+  Perseus Mining makes a $1.3B unsolicited bid for Predictive Discovery, challenging Robex's merger. Explore the intense West African gold M&A bidding w...
+- **[China’s Services-Sector Activity Growth Slows Amidst Post-Pandemic Headwinds](https://caymanjournal.com/articles/chinas-services-sector-activity-growth-slows-amidst-post-pan-cmiphdv8d00d92alti0edk49w)** *(December 03, 2025)*  
+  China's service sector growth hits a 5-month low as RatingDog PMI drops to 52.1. Unpack the implications of this slowdown for the economy & consumers.
+- **[Could $1,000 “Trump Accounts” for newborns, plus an additional $250 for some children 10 and under, convince Americans to have more kids?](https://caymanjournal.com/articles/could-1000-trump-accounts-for-newborns-plus-an-additional-25-cmiphek5l00dc2altg5868rln)** *(December 03, 2025)*  
+  Explore the 'Trump Accounts' proposal: $1K for newborns, $250 annually for kids under 10. Will it boost birth rates or just signal commitment? Dive in...
+- **[Australia’s Q3 Economic Growth Signals Underlying Resilience Amidst Missed Estimates](https://caymanjournal.com/articles/australias-q3-economic-growth-signals-underlying-resilience-cmipd2wss00cl2alt881q8ipw)** *(December 03, 2025)*  
+  Australian economy grew 0.4% in Q3, below forecasts. Discover how strong consumer spending, business investment & govt outlays underpinned growth desp...
+- **[Retailers Are Snatching Up Real Estate Again](https://caymanjournal.com/articles/retailers-are-snatching-up-real-estate-again-cmipd3fyv00co2altwlew5rh5)** *(December 03, 2025)*  
+  Brick-and-mortar retail defies economic headwinds! Dollar Tree & Tractor Supply lead a surprising store expansion trend across the US. Uncover the str...
+- **[Perseus Mining Launches $1.3 Billion Takeover Bid for Predictive Discovery](https://caymanjournal.com/articles/perseus-mining-launches-13-billion-takeover-bid-for-predicti-cmipd3zfc00cr2althqjovfzs)** *(December 03, 2025)*  
+  Perseus Mining acquires Predictive Discovery for $1.3B, a major gold sector M&A move. Learn how this expands West African gold resources & production ...
+- **[Trump Administration Halts Fed Chair Interviews Amid Signals of Imminent Decision](https://caymanjournal.com/articles/trump-administration-halts-fed-chair-interviews-amid-signals-cmip8tvlt00bv2alt7bgo3m5d)** *(December 02, 2025)*  
+  Trump abruptly cancels Fed chair interviews, hinting at Kevin Hassett as his choice. Understand the impact on central bank independence, interest rate...
 
 ### 🏢 Business
 
-- **[Costco Joins Companies Suing Trump Administration Over Tariffs](https://caymanjournal.com/articles/costco-joins-companies-suing-trump-administration-over-tarif-cmio1vll2005s2altfm08wmpy)** *(December 02, 2025)*  
-  Costco joins retail giants challenging Trump's China tariffs. Billions in duties at stake; Supreme Court could redefine US trade policy & power.
-- **[Disney’s Succession Race Enters Final Stage as Iger’s Reign Draws to End](https://caymanjournal.com/articles/disneys-succession-race-enters-final-stage-as-igers-reign-dr-cmio1wirk005v2alt7gmn9856)** *(December 02, 2025)*  
-  Disney's critical CEO succession plan nears conclusion as Bob Iger's reign ends. Discover the two top internal candidates, Josh D’Amaro & Dana Walden,...
-- **[Samsung’s Next Salvo Against Apple: A Triple-Folding Smartphone](https://caymanjournal.com/articles/samsungs-next-salvo-against-apple-a-triple-folding-smartphon-cmio1xmsd005y2altovw395s3)** *(December 02, 2025)*  
-  Samsung's Galaxy Z TriFold: the first triple-folding phone redefining mobile tech. Get tablet-like screen real estate in a pocketable design, challeng...
-- **[Energy Department Renames Key Lab, Signaling Shift Towards Fossil Fuels](https://caymanjournal.com/articles/energy-department-renames-key-lab-signaling-shift-towards-fo-cmio65r1e00672alt9eixtdzf)** *(December 02, 2025)*  
-  Trump's DOE rebrands SERI to CESI, shifting federal energy research from renewables to "all-of-the-above." Uncover the impact on clean energy & jobs.
-- **[Chinese Rare-Earth Dealers Find Ways to Dodge Beijing’s Export Restrictions](https://caymanjournal.com/articles/chinese-rare-earth-dealers-find-ways-to-dodge-beijings-expor-cmio1zamu00642altzy8x8qrr)** *(December 02, 2025)*  
-  Facing strict rare-earth export curbs, Chinese firms subtly alter magnet formulas and embed them in products, ensuring critical supply for Western ind...
-- **[Europe’s Green Energy Rush Slashed Emissions—and Crippled the Economy](https://caymanjournal.com/articles/europes-green-energy-rush-slashed-emissionsand-crippled-the-cmio1ynrh00612altcbnvjefa)** *(December 02, 2025)*  
-  Europe cut emissions 32%, but industrial electricity costs soared 200-300%. Learn how this green paradox cripples vital industries & fuels deindustria...
-- **[FAA Ramps Up Probe on Airlines’ Flight Reductions During Government Shutdown](https://caymanjournal.com/articles/faa-ramps-up-probe-on-airlines-flight-reductions-during-gove-cminxoapn004u2alt8tw98uae)** *(December 02, 2025)*  
-  FAA launches major probe into whether airlines manipulated flight reductions during a shutdown to secure valuable airport slots at 40 key hubs.
-- **[Why HSBC Has Struggled to Fill One of the Biggest Jobs in Global Finance](https://caymanjournal.com/articles/why-hsbc-has-struggled-to-fill-one-of-the-biggest-jobs-in-gl-cminxoyn4004x2alt62q7oxi9)** *(December 02, 2025)*  
-  HSBC struggles to fill a vital global leadership role. Discover why navigating East-West geopolitical tensions makes finding this 'Chief Navigator' ne...
-- **[New White House Website Feature Escalates Administration's War on the Press](https://caymanjournal.com/articles/new-white-house-website-feature-escalates-administrations-wa-cminxpt3o00502alt9jmt0bxo)** *(December 02, 2025)*  
-  White House's "Hall of Shame" targets journalists, raising alarm over press freedom. Explore its impact on media credibility, safety, and the future o...
-- **[Netflix Makes Majority Cash Bid for Warner Discovery](https://caymanjournal.com/articles/netflix-makes-majority-cash-bid-for-warner-discovery-cminxqnoh00532alt1u1iiht7)** *(December 02, 2025)*  
-  Netflix's majority cash bid for Warner Discovery intensifies streaming wars. Explore what this game-changing move means for content, competitors, and ...
+- **[Svedka Unleashes AI-Powered 'Fembot' for Landmark Super Bowl Debut](https://caymanjournal.com/articles/svedka-unleashes-ai-powered-fembot-for-landmark-super-bowl-d-cmiplo1m000dr2altcrydav3e)** *(December 03, 2025)*  
+  Svedka's Super Bowl ad goes AI! See how their Fembot returns in an AI-produced spot, challenging traditional ad production & setting new benchmarks.
+- **[Retailers Are Snatching Up Real Estate Again](https://caymanjournal.com/articles/retailers-are-snatching-up-real-estate-again-cmipd3fyv00co2altwlew5rh5)** *(December 03, 2025)*  
+  Brick-and-mortar retail defies economic headwinds! Dollar Tree & Tractor Supply lead a surprising store expansion trend across the US. Uncover the str...
+- **[Perseus Mining Launches $1.3 Billion Takeover Bid for Predictive Discovery](https://caymanjournal.com/articles/perseus-mining-launches-13-billion-takeover-bid-for-predicti-cmipd3zfc00cr2althqjovfzs)** *(December 03, 2025)*  
+  Perseus Mining acquires Predictive Discovery for $1.3B, a major gold sector M&A move. Learn how this expands West African gold resources & production ...
+- **[Nike Shakes Up Leadership Team as Turnaround Plan Continues](https://caymanjournal.com/articles/nike-shakes-up-leadership-team-as-turnaround-plan-continues-cmip8ues000by2alt9yxz3mss)** *(December 02, 2025)*  
+  Nike overhauls executive leadership, creating a COO role & empowering regional heads. See how this strategy sharpens focus on performance sportswear &...
+- **[Marvell Technology to Acquire Celestial AI in $3.25 Billion Deal](https://caymanjournal.com/articles/marvell-technology-to-acquire-celestial-ai-in-325-billion-de-cmip8v3mj00c12altuayym27d)** *(December 02, 2025)*  
+  Marvell acquires Celestial AI for $3.25B, boosting AI compute infrastructure. Understand how optical interconnect addresses AI accelerator bottlenecks...
+- **[CrowdStrike Narrows Outlook, Logs Higher Sales](https://caymanjournal.com/articles/crowdstrike-narrows-outlook-logs-higher-sales-cmip8vpac00c42alta239uqmx)** *(December 02, 2025)*  
+  CrowdStrike's Q3 shows higher sales but a widened $34M net loss & narrowed outlook. Learn what these financials mean for investors and profitability.
+- **[American Eagle Boosts Guidance on Strong Start to Holiday Season](https://caymanjournal.com/articles/american-eagle-boosts-guidance-on-strong-start-to-holiday-se-cmip8wbic00c72altba2q502c)** *(December 02, 2025)*  
+  American Eagle Outfitters boosts Q4 guidance to 8-9% comparable sales growth. Strong holiday demand signals healthier margins & strategic success.
+- **[GitLab Swings to Loss Despite Sales Gain](https://caymanjournal.com/articles/gitlab-swings-to-loss-despite-sales-gain-cmip8wwpe00ca2altrcnby5uk)** *(December 02, 2025)*  
+  GitLab reports $35M net loss despite 28% sales increase. Discover how new CFO Jessica Ross plans to optimize finances & guide the DevOps platform to p...
+- **[San Francisco Sues Food Makers Over Ultraprocessed Products](https://caymanjournal.com/articles/san-francisco-sues-food-makers-over-ultraprocessed-products-cmip4kjvx00aw2altj76g1uf6)** *(December 02, 2025)*  
+  San Francisco sues food giants over harmful ultraprocessed foods, citing health crises & huge costs. A landmark lawsuit set to reshape the industry.
+- **[The New, In-Demand Job Skill: Being a TikTok Influencer for Your Company](https://caymanjournal.com/articles/the-new-in-demand-job-skill-being-a-tiktok-influencer-for-yo-cmip0bmuj00al2alt7ldk5a08)** *(December 02, 2025)*  
+  Discover how Starbucks & Delta leverage employees as content creators for employer branding. Boost recruitment & reach with authentic workplace storie...
 
 ### 🏛️ Economy
 
+- **[China’s Services-Sector Activity Growth Slows Amidst Post-Pandemic Headwinds](https://caymanjournal.com/articles/chinas-services-sector-activity-growth-slows-amidst-post-pan-cmiphdv8d00d92alti0edk49w)** *(December 03, 2025)*  
+  China's service sector growth hits a 5-month low as RatingDog PMI drops to 52.1. Unpack the implications of this slowdown for the economy & consumers.
+- **[Could $1,000 “Trump Accounts” for newborns, plus an additional $250 for some children 10 and under, convince Americans to have more kids?](https://caymanjournal.com/articles/could-1000-trump-accounts-for-newborns-plus-an-additional-25-cmiphek5l00dc2altg5868rln)** *(December 03, 2025)*  
+  Explore the 'Trump Accounts' proposal: $1K for newborns, $250 annually for kids under 10. Will it boost birth rates or just signal commitment? Dive in...
+- **[Australia’s Q3 Economic Growth Signals Underlying Resilience Amidst Missed Estimates](https://caymanjournal.com/articles/australias-q3-economic-growth-signals-underlying-resilience-cmipd2wss00cl2alt881q8ipw)** *(December 03, 2025)*  
+  Australian economy grew 0.4% in Q3, below forecasts. Discover how strong consumer spending, business investment & govt outlays underpinned growth desp...
+- **[Trump Administration Halts Fed Chair Interviews Amid Signals of Imminent Decision](https://caymanjournal.com/articles/trump-administration-halts-fed-chair-interviews-amid-signals-cmip8tvlt00bv2alt7bgo3m5d)** *(December 02, 2025)*  
+  Trump abruptly cancels Fed chair interviews, hinting at Kevin Hassett as his choice. Understand the impact on central bank independence, interest rate...
+- **[Growth to Slow as Tariffs Bite, But AI Investments May Cushion the Blow](https://caymanjournal.com/articles/growth-to-slow-as-tariffs-bite-but-ai-investments-may-cushio-cmioj8ubb007n2alt03n5tl45)** *(December 02, 2025)*  
+  Global economy faces tariff-induced slowdown. Explore how massive AI investment is driving productivity & providing a vital cushion for businesses.
 - **[Officially, the Fed Chair Search Continues, But All Eyes Are on Kevin Hassett](https://caymanjournal.com/articles/officially-the-fed-chair-search-continues-but-all-eyes-are-o-cminxnnop004r2altiwf9x5kn)** *(December 02, 2025)*  
   The race for the next Federal Reserve chair seems decided: Kevin Hassett is Trump's pick. Discover why his unique blend of trust & credibility matters...
 - **[South Korea’s Inflation Holds Steady, Above Target](https://caymanjournal.com/articles/south-koreas-inflation-holds-steady-above-target-cmintdrho003w2altuzxetpr2)** *(December 01, 2025)*  
@@ -91,42 +101,44 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   US factory activity contracted unexpectedly in November as ISM PMI hit 48.2, a 4th straight month of decline. Trade war impacts spark economic worry.
 - **[The Coming Interest-Rate Decision by the Federal Reserve Could Be an Unusually Close Call. Here’s a Breakdown of the Stance of the 12 Policymakers Who Will Vote on Dec. 10.](https://caymanjournal.com/articles/the-coming-interest-rate-decision-by-the-federal-reserve-cou-cmin3ooxh000b2althh2r297t)** *(December 01, 2025)*  
   Fed Chair Powell navigates a divided FOMC for the Dec 10 interest-rate decision. Understand the hawk vs. dove clash, inflation, and recession risks fo...
-- **[Bitcoin Falls as Prospect of Rate Rise in Japan Spooks Investors](https://caymanjournal.com/articles/bitcoin-falls-as-prospect-of-rate-rise-in-japan-spooks-inves-cmin3pd3z000e2altwybqde0y)** *(December 01, 2025)*  
-  Bitcoin dips as BOJ signals policy shift. Understand how Japan's monetary changes impact global markets, risk assets, and the yen's future.
-- **[Asia Manufacturers Signal Brighter Outlook Despite PMI Weakness](https://caymanjournal.com/articles/asia-manufacturers-signal-brighter-outlook-despite-pmi-weakn-cmimv42xv01j7ohl0r8zt79vy)** *(December 01, 2025)*  
-  Asia's manufacturing PMIs contract (49.2), yet S&P Global reveals surging business sentiment (58.5) for future output. Uncover the 2026 rebound outloo...
-- **[Economists Predicted a Global Shock from President Trump’s Tariffs, But Some of Them Are Now Revising Their Global Growth Predictions Upward](https://caymanjournal.com/articles/economists-predicted-a-global-shock-from-president-trumps-ta-cmimqtcir01itohl0gfvrexdd)** *(December 01, 2025)*  
-  Remember the alarm over Trump's tariffs? Global growth forecasts are now rising. Uncover why the economy proved more resilient than experts predicted.
-- **[China Private Gauge Signals Weaker Manufacturing Activity](https://caymanjournal.com/articles/china-private-gauge-signals-weaker-manufacturing-activity-cmimmlfoz01ilohl00bh5xiss)** *(December 01, 2025)*  
-  China's manufacturing stalls: weak domestic demand hits production, while exports offer modest relief. The Caixin PMI reveals challenges for the econo...
-- **[Rate Hikes Wouldn’t Put Brakes on Japan’s Economy, BOJ’s Ueda Says](https://caymanjournal.com/articles/rate-hikes-wouldnt-put-brakes-on-japans-economy-bojs-ueda-sa-cmimmlx5901ioohl0axyn3iws)** *(December 01, 2025)*  
-  BOJ Governor Ueda signals a historic interest rate hike, potentially ending ultra-loose policy. Uncover the impact on Japan's economy, businesses & ye...
 
 ### 📈 Markets & Finance
 
-- **[Why [HSBC Has Struggled](https://www.hsbc.com/) to Fill One of the Biggest Jobs in Global Finance](https://caymanjournal.com/articles/why-hsbc-has-struggledhttpswwwhsbccom-to-fill-one-of-the-big-cminxl421004k2altyf59jwg7)** *(December 02, 2025)*  
-  HSBC's struggle to fill its top roles reveals why it's global finance's toughest job. Uncover the geopolitical minefield, vast regulations, and unique...
-- **[Bitcoin Rout Picks Up Steam as Investors Fret Over a New ‘Crypto Winter’](https://caymanjournal.com/articles/bitcoin-rout-picks-up-steam-as-investors-fret-over-a-new-cry-cmintapn0003q2altnnj16tr7)** *(December 01, 2025)*  
-  Bitcoin's 30% plunge ignites "crypto winter" fears. Analyze the market's brutal sell-off, macroeconomic headwinds, and the uncertain future for digita...
-- **[Prospect of Japanese Rate Rise Spills Into U.S. Markets](https://caymanjournal.com/articles/prospect-of-japanese-rate-rise-spills-into-us-markets-cmintbco5003t2altik09mc5p)** *(December 01, 2025)*  
-  Japan's BoJ policy shift pushes JGB yields to 2008 highs, rippling through global bonds & US equities. Understand its impact on your portfolio.
-- **[Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn](https://caymanjournal.com/articles/strategy-the-bitcoin-buying-company-raises-144-billion-to-we-cminkt0pm00302altk3g48alm)** *(December 01, 2025)*  
-  MicroStrategy secures $1.44B via convertible notes to bolster its balance sheet and buy more Bitcoin. Learn how Saylor navigates crypto's bear market.
-- **[Goldman Makes a $2 Billion Bet on ‘Boomer Candy’](https://caymanjournal.com/articles/goldman-makes-a-2-billion-bet-on-boomer-candy-cmingkck0002s2altqtce6zj2)** *(December 01, 2025)*  
-  Goldman Sachs acquires Innovator Capital, making a $2B bet on "Boomer Candy" ETFs. Secure retirement wealth with defined outcome protection.
-- **[Australia's SecondQuarter Ventures Targets US$2.6 Billion Opportunity with Third Secondary Fund](https://caymanjournal.com/articles/australias-secondquarter-ventures-targets-us26-billion-oppor-cmincbdqk00262altpuoyi94u)** *(December 01, 2025)*  
-  SecondQuarter Ventures raises its 3rd fund to address Australia's $2.6B tech liquidity demand. Discover how secondary funds offer vital exits for foun...
-- **[UBS Charged in Switzerland Over Credit Suisse ‘Tuna Bonds’ Scandal](https://caymanjournal.com/articles/ubs-charged-in-switzerland-over-credit-suisse-tuna-bonds-sca-cmin80r9y001a2altvf967c4y)** *(December 01, 2025)*  
-  Swiss prosecutors charge UBS over Credit Suisse 'Tuna Bonds' scandal, revealing major legacy risks from the merger. Understand enduring accountability...
-- **[Silver Hits Record High on U.S. Rate-Cut Bets, Supply Tightness](https://caymanjournal.com/articles/silver-hits-record-high-on-us-rate-cut-bets-supply-tightness-cmin81j6r001d2altwshllfue)** *(December 01, 2025)*  
-  Silver prices surge to an unprecedented record high, fueled by aggressive Fed rate cut expectations and critical industrial demand amidst tight supply...
-- **[Why Bonds Won’t Protect You From an AI Bubble](https://caymanjournal.com/articles/why-bonds-wont-protect-you-from-an-ai-bubble-cmin3lr9a00052altdaq0ng8s)** *(December 01, 2025)*  
-  AI's debt-fueled boom challenges bond diversification. Discover why traditional safe havens may fail in an AI downturn & how to truly protect your por...
-- **[Where Do Fed Voters Stand on a December Rate Cut?](https://caymanjournal.com/articles/where-do-fed-voters-stand-on-a-december-rate-cut-cmin3kz0t00022altb7igjyn9)** *(December 01, 2025)*  
-  The Federal Reserve's December meeting sets 2024's policy trajectory. Deep FOMC divisions on rate cuts, inflation, and jobs are central to the outlook...
+- **[HSBC Holdings Board Appoints Brendan Nelson as Group Chair](https://caymanjournal.com/articles/hsbc-holdings-board-appoints-brendan-nelson-as-group-chair-cmipllgm000do2altg5ll6kzq)** *(December 03, 2025)*  
+  HSBC appoints Brendan Nelson as permanent Group Chair. Learn how this leadership solidifies global strategy, governance & future growth for the bankin...
+- **[Perseus Mining Launches $1.3 Billion Takeover Bid for Predictive Discovery, Outbidding Rival](https://caymanjournal.com/articles/perseus-mining-launches-13-billion-takeover-bid-for-predicti-cmiphbcmg00d62altax1rnr88)** *(December 03, 2025)*  
+  Perseus Mining makes a $1.3B unsolicited bid for Predictive Discovery, challenging Robex's merger. Explore the intense West African gold M&A bidding w...
+- **[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://caymanjournal.com/articles/harvards-big-wager-on-bitcoin-came-right-before-the-bust-cmip8qk6w00bp2alttfca86l6)** *(December 02, 2025)*  
+  Harvard's $500M crypto bet: See how the largest endowment invested in digital assets right before the brutal bear market plunge. A critical case study...
+- **[Stocks Rebound, and Bitcoin Makes Full Recovery From Monday’s Selloff](https://caymanjournal.com/articles/stocks-rebound-and-bitcoin-makes-full-recovery-from-mondays-cmip8rm8a00bs2alts83m50lp)** *(December 02, 2025)*  
+  Financial markets rebound sharply! S&P 500 nears record high, Bitcoin recovers losses. Learn what factors are driving this swift market resilience.
+- **[Prediction Market Kalshi Hits $11 Billion Valuation in New Funding Round](https://caymanjournal.com/articles/prediction-market-kalshi-hits-11-billion-valuation-in-new-fu-cmip0957300ai2alt04pqg6nm)** *(December 02, 2025)*  
+  Kalshi, a leader in prediction markets, achieves an $11B valuation & $1B weekly trading volume. Understand its rise as a regulated financial instrumen...
+- **[Saudi Fund to Own Almost All of Electronic Arts After Buyout](https://caymanjournal.com/articles/saudi-fund-to-own-almost-all-of-electronic-arts-after-buyout-cmiovycvv009j2alt80y9o3ha)** *(December 02, 2025)*  
+  Saudi Arabia's PIF nears a $29B deal for 93% of EA, impacting FIFA, Apex Legends, & the future of gaming. Uncover the strategic shift and industry imp...
+- **[Scotiabank Eyes Strong Earnings Growth, Buoyed by Capital Markets Strength](https://caymanjournal.com/articles/scotiabank-eyes-strong-earnings-growth-buoyed-by-capital-mar-cmiovyy0h009m2altrilcye85)** *(December 02, 2025)*  
+  Scotiabank projects robust earnings growth amidst global uncertainty, leveraging strong capital markets, digital focus & solid capital. Learn their st...
+- **[Can Arizona Miners Unleash an American Copper Boom?](https://caymanjournal.com/articles/can-arizona-miners-unleash-an-american-copper-boom-cmiovzmq8009p2altki25ghws)** *(December 02, 2025)*  
+  The world needs copper. Discover how Rio Tinto's Nuton uses microbes to sustainably unlock vast low-grade copper deposits, transforming US supply.
+- **[How to Get the Most Out of Your Gift Cards: Don't Leave Money on the Table](https://caymanjournal.com/articles/how-to-get-the-most-out-of-your-gift-cards-dont-leave-money-cmiow0fzb009s2altki8rjiae)** *(December 02, 2025)*  
+  Don't lose money to gift card breakage! See how to cash out small balances in 7+ states & reclaim billions lost. Maximize your gift card value now.
+- **[Michael and Susan Dell Donate $6.25 Billion to ‘Trump Accounts’ for Children](https://caymanjournal.com/articles/michael-and-susan-dell-donate-625-billion-to-trump-accounts-cmiorndse008e2alth52dgpjt)** *(December 02, 2025)*  
+  Michael Dell donates $6.25B to "Trump Accounts," funding tax-deferred investment accounts for 25M American children. Learn about this generational wea...
 
 ### 💻 Technology
 
+- **[Waymo’s Self-Driving Cars Are Suddenly Behaving Like New York Cabbies](https://caymanjournal.com/articles/waymos-self-driving-cars-are-suddenly-behaving-like-new-york-cmiphh3gw00df2alt2ox6dywb)** *(December 03, 2025)*  
+  Waymo's autonomous vehicles now exhibit surprising human-like, assertive driving in San Francisco. Discover how AI learns to bend rules for urban effi...
+- **[Amazon AWS Unleashes Autonomous AI Agents for Multi-Day Enterprise Workflows](https://caymanjournal.com/articles/amazon-aws-unleashes-autonomous-ai-agents-for-multi-day-ente-cmip05ztj00ac2altv6sbd6oa)** *(December 02, 2025)*  
+  AWS re:Invent unveils AI agents that autonomously manage complex business processes for days, reducing costs & accelerating projects. Revolutionize en...
+- **[This AI Startup Wants to Remake the $800 Billion Chip Industry](https://caymanjournal.com/articles/this-ai-startup-wants-to-remake-the-800-billion-chip-industr-cmip06kis00af2alt79y7g7f7)** *(December 02, 2025)*  
+  AI startup Ricursive secures $35M to automate complex chip design, slashing development cycles & costs. Aims to transform the $800B semiconductor indu...
+- **[Amazon’s Custom Chips Pose Another Threat to Nvidia](https://caymanjournal.com/articles/amazons-custom-chips-pose-another-threat-to-nvidia-cmiovvpow009g2altanrcdz6r)** *(December 02, 2025)*  
+  Amazon sells Trainium3 AI training chips, directly challenging Nvidia's market dominance. This offers a new alternative for AI compute supply diversif...
+- **[How Estée Lauder and Google Taught AI to Sell Fragrances](https://caymanjournal.com/articles/how-este-lauder-and-google-taught-ai-to-sell-fragrances-cmionclir007u2alt41q2p5z1)** *(December 02, 2025)*  
+  Estée Lauder & Google's AI bot transforms online fragrance sales. Learn how AI at Jo Malone London personalizes scent recommendations digitally.
+- **[OpenAI’s Altman Declares ‘Code Red’ to Improve ChatGPT as Google Threatens AI Lead](https://caymanjournal.com/articles/openais-altman-declares-code-red-to-improve-chatgpt-as-googl-cmioaimoo006o2alt4n52kt26)** *(December 02, 2025)*  
+  OpenAI's Sam Altman issues 'Code Red' for ChatGPT, prioritizing core experience over monetization amidst Google's intensifying AI challenge. Unpack th...
 - **[Apple to Revamp AI Team After Announcing Top Exec’s Departure](https://caymanjournal.com/articles/apple-to-revamp-ai-team-after-announcing-top-execs-departure-cminxsoxm00562altimsikx1w)** *(December 02, 2025)*  
   Apple overhauls its AI strategy after a top executive's exit, signaling a major push to accelerate generative AI and compete with rivals. Learn more.
 - **[Trump Administration to Take Equity Stake in Former Intel CEO’s Chip Startup](https://caymanjournal.com/articles/trump-administration-to-take-equity-stake-in-former-intel-ce-cminxt9fv00592altm1q55iqs)** *(December 02, 2025)*  
@@ -135,21 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Cursor AI: The AI IDE that captured 2M+ developers. Explore its rapid boom, massive LLM costs, brutal competition, and fight for survival.
 - **[An AI Startup Looks Toward the Post-Transformer Era](https://caymanjournal.com/articles/an-ai-startup-looks-toward-the-post-transformer-era-cmin7yb1c00172alts3bxwm0q)** *(December 01, 2025)*  
   Pathway's Dragon Hatchling pioneers new AI architecture, addressing Transformer limits. Achieve 2-5x efficiency for future LLMs & enterprise solutions...
-- **[I Fixed My Bad Family Photos. Here’s How to Do It—and When to Stop.](https://caymanjournal.com/articles/i-fixed-my-bad-family-photos-heres-how-to-do-itand-when-to-s-cmilsgl5s01gpohl0m0qr9bf0)** *(November 30, 2025)*  
-  Explore AI photo editing tools from Google, Adobe & Apple. Enhance photos with ease, but learn the crucial line between perfect memories and terrifyin...
-- **[Trump’s Focus on Drug War Means Big Business for Defense Startups](https://caymanjournal.com/articles/trumps-focus-on-drug-war-means-big-business-for-defense-star-cmil6zpkw01fyohl02qw6dwkc)** *(November 30, 2025)*  
-  Drones & AI from battlefields now target 'narco-terror.' Explore how defense tech startups are seizing a huge market in a renewed war on drugs under T...
-- **[AI Adoption Among Workers Is Slow and Uneven. Bosses Can Speed It Up.](https://caymanjournal.com/articles/ai-adoption-among-workers-is-slow-and-uneven-bosses-can-spee-cmiitet1f01ctohl0hk91kzpm)** *(November 28, 2025)*  
-  Despite AI buzz, most employees don't use it. Discover why AI adoption is slow & 4 leadership strategies to integrate generative AI, boosting workplac...
-- **[Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://caymanjournal.com/articles/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-cmiic60ts01apohl05pij6mtj)** *(November 28, 2025)*  
-  Tech giants pour $75M+ into aggressive AI lobbying, threatening opponents to deter state regulation. Explore the high-stakes battle for AI's future.
-- **[‘We Do Fail … a Lot’: Defense Startup Anduril Hits Setbacks With Weapons Tech](https://caymanjournal.com/articles/we-do-fail--a-lot-defense-startup-anduril-hits-setbacks-with-cmihuysb3019tohl0h4vca3aa)** *(November 27, 2025)*  
-  Internal admission: Anduril's defense tech faces major reliability issues. Discover critical drone failures, breakdowns, and safety concerns reported ...
-- **[Intel Defends Its Star Executive Hire in Legal Clash With TSMC](https://caymanjournal.com/articles/intel-defends-its-star-executive-hire-in-legal-clash-with-ts-cmihdwl0c018mohl0tuxexezp)** *(November 27, 2025)*  
-  Intel faces TSMC lawsuit over key executive Wei-Jen Lo, sparking fierce semiconductor talent war. Learn how this impacts chip supremacy.
 
 
-*Last updated: December 02, 2025 at 06:29 UTC*
+*Last updated: December 03, 2025 at 06:29 UTC*
 
 <!-- FEED:END -->
 
