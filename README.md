@@ -35,29 +35,37 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
+- **[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://caymanjournal.com/articles/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-cmj5bl9jt02542altnawkivy0)** *(December 14, 2025)*  
+  The AI boom echoes the dot-com bubble. Unpack striking similarities in valuations and speculative fervor, plus crucial differences making today's tech...
+- **[The Publicity War Between AT&T and T-Mobile Is Getting Ugly](https://caymanjournal.com/articles/the-publicity-war-between-att-and-t-mobile-is-getting-ugly-cmj575riq024u2altivpvly87)** *(December 14, 2025)*  
+  The US wireless market sees AT&T & T-Mobile wage war with aggressive poaching, lawsuits & deals. Explore how Verizon is affected & the consumer impact...
+- **[The Chinese Billionaires Having Dozens of U.S.-Born Babies Via Surrogate](https://caymanjournal.com/articles/the-chinese-billionaires-having-dozens-of-us-born-babies-via-cmj578tw9024x2altn9y1wcli)** *(December 14, 2025)*  
+  Discover how China's ultra-wealthy, like Xu Bo, build mega-families (100+ children) via U.S. surrogacy for citizenship, legacy, and wealth preservatio...
+- **[Readers’ Strategies for Preparing Their Partners to Manage Money After They Die](https://caymanjournal.com/articles/readers-strategies-for-preparing-their-partners-to-manage-mo-cmj530ec9024l2alt9cemwd2g)** *(December 14, 2025)*  
+  Learn how to financially empower your surviving partner. Explore modern legacy planning with instructional videos & family involvement for smooth tran...
+- **[OpenAI Scraps 'Vesting Cliff' for New Hires in Bid to Win AI Talent War](https://caymanjournal.com/articles/openai-scraps-vesting-cliff-for-new-hires-in-bid-to-win-ai-t-cmj4ykyhv024d2altzptypyj8)** *(December 13, 2025)*  
+  OpenAI eliminates its vesting cliff for new hires, offering immediate equity to attract top AI talent. Learn how this policy shift impacts compensatio...
+- **[OpenAI Scraps 'Vesting Cliff' for New Hires Amid Escalating AI Talent War](https://caymanjournal.com/articles/openai-scraps-vesting-cliff-for-new-hires-amid-escalating-ai-cmj4ynt48024g2alto7fx7vxn)** *(December 13, 2025)*  
+  OpenAI removes its 1-year vesting cliff for new hires, allowing immediate equity vesting. A key strategy in the fierce AI talent war vs. xAI.
+- **[Trump’s Surprise Answer to Vehicle Affordability: ‘Cute’ Tiny Cars](https://caymanjournal.com/articles/trumps-surprise-answer-to-vehicle-affordability-cute-tiny-ca-cmj4lsufl02462alt3tqz5i28)** *(December 13, 2025)*  
+  Trump's "cute tiny car" idea: Can Japan's affordable ($10k) kei cars solve the US affordability crisis? Unpack the challenges & future of small vehicl...
+- **[News Quiz for Dec. 13, 2025](https://caymanjournal.com/articles/news-quiz-for-dec-13-2025-cmj4daqsl023z2altgyj7napy)** *(December 13, 2025)*  
+  Explore Dec 13th, 2025's key market drivers: QuantumLogic's AI chip innovation, ECB rates, & sustainable retail growth. Navigate 2026's complex global...
+- **[The Fed Did Banks a Solid This Week. More Favors May Be Needed](https://caymanjournal.com/articles/the-fed-did-banks-a-solid-this-week-more-favors-may-be-neede-cmj48xnwu023u2altd5iyfshc)** *(December 13, 2025)*  
+  The Fed signals slowing QT, offering relief to banks facing dwindling reserves. Discover why this balance sheet pivot is crucial for financial stabili...
 - **[AI Can Make Decisions Better Than People Do. So Why Don’t We Trust It?](https://caymanjournal.com/articles/ai-can-make-decisions-better-than-people-do-so-why-dont-we-t-cmj3rs4zf023m2altajj40uvj)** *(December 13, 2025)*  
   AI excels but lacks trust due to opacity. Discover how Explainable AI (XAI) provides crucial transparency, making decisions understandable and buildin...
-- **[Inside the Invitation-Only Stock Market for the Wealthy](https://caymanjournal.com/articles/inside-the-invitation-only-stock-market-for-the-wealthy-cmj3rv92p023p2altb642ck2g)** *(December 13, 2025)*  
-  Uncover the exclusive private markets where elite investors gain pre-IPO access to tomorrow's titans, widening the wealth gap. Learn its impact.
-- **[SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year](https://caymanjournal.com/articles/spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-cmj3nj11b023c2altody0kylj)** *(December 13, 2025)*  
-  SpaceX plans 2025 IPO to fund Starship, Starlink, and orbital data centers. Learn why Musk's private company is going public & what it means for space...
-- **[The Highflying Hedge Fund With a Habit of Giving Investors IOUs](https://caymanjournal.com/articles/the-highflying-hedge-fund-with-a-habit-of-giving-investors-i-cmj3nm1xx023f2altm9fwkdse)** *(December 13, 2025)*  
-  Armistice Capital repeatedly pays redemptions with new shares, not cash, 4 times in 2 years. Learn how this hedge fund's illiquid assets impact invest...
-- **[We Followed the Mandarin Oriental’s Head Chef During the Craziest Time of the Year](https://caymanjournal.com/articles/we-followed-the-mandarin-orientals-head-chef-during-the-craz-cmj3nfip102362alt5h3q5z17)** *(December 13, 2025)*  
-  Learn how Executive Chef Sylvain Delpique leads Mandarin Oriental NY's kitchen, absorbing stress to ensure calm, quality, and staff retention during p...
-- **[The Hottest Toy of the Year Is Made by a Tech Startup You’ve Never Heard Of](https://caymanjournal.com/articles/the-hottest-toy-of-the-year-is-made-by-a-tech-startup-youve-cmj3ng85902392alt7pqbhdni)** *(December 13, 2025)*  
-  PlayForge Innovations faced collapse. Discover how their audacious pivot created AuraPets, the AI-powered toys captivating kids worldwide.
-- **[Trump’s OK of AI Chip Sales in China Called ‘Dangerous’ by Senate Democrats](https://caymanjournal.com/articles/trumps-ok-of-ai-chip-sales-in-china-called-dangerous-by-sena-cmj3j7ikb022l2altscj26xk8)** *(December 12, 2025)*  
-  Senate Democrats accuse Trump of approving advanced Nvidia H200 AI chip sales to China, endangering US national security and tech superiority.
-- **[The Score: Warner Bros., GameStop, Campbell’s, Lululemon and More Stocks That Defined The Week](https://caymanjournal.com/articles/the-score-warner-bros-gamestop-campbells-lululemon-and-more-cmj3jal07022o2alt8wvb5gzu)** *(December 12, 2025)*  
-  Unpack a week of market volatility. From GameStop's surge to WBD's dip and Lululemon's gains, discover key investor sentiment & stock movers.
-- **[Fresh Concerns About AI Spending Are Rattling Wall Street](https://caymanjournal.com/articles/fresh-concerns-about-ai-spending-are-rattling-wall-street-cmj3jb4gf022r2altznvbdtf1)** *(December 12, 2025)*  
-  Wall Street questions the AI spending boom. Broadcom & Oracle dips signal growing demand for clear ROI and tangible returns from AI investments.
-- **[First Brands Seeks Expedited Access to $250 Million in Customer Receipts](https://caymanjournal.com/articles/first-brands-seeks-expedited-access-to-250-million-in-custom-cmj3f0cho022c2altm9v9y4kq)** *(December 12, 2025)*  
-  Facing liquidity crisis, First Brands urgently requests $250M in customer receipts from bankruptcy court to fund operations. Get details on its fight.
 
 ### 🏢 Business
 
+- **[The Publicity War Between AT&T and T-Mobile Is Getting Ugly](https://caymanjournal.com/articles/the-publicity-war-between-att-and-t-mobile-is-getting-ugly-cmj575riq024u2altivpvly87)** *(December 14, 2025)*  
+  The US wireless market sees AT&T & T-Mobile wage war with aggressive poaching, lawsuits & deals. Explore how Verizon is affected & the consumer impact...
+- **[OpenAI Scraps 'Vesting Cliff' for New Hires in Bid to Win AI Talent War](https://caymanjournal.com/articles/openai-scraps-vesting-cliff-for-new-hires-in-bid-to-win-ai-t-cmj4ykyhv024d2altzptypyj8)** *(December 13, 2025)*  
+  OpenAI eliminates its vesting cliff for new hires, offering immediate equity to attract top AI talent. Learn how this policy shift impacts compensatio...
+- **[Trump’s Surprise Answer to Vehicle Affordability: ‘Cute’ Tiny Cars](https://caymanjournal.com/articles/trumps-surprise-answer-to-vehicle-affordability-cute-tiny-ca-cmj4lsufl02462alt3tqz5i28)** *(December 13, 2025)*  
+  Trump's "cute tiny car" idea: Can Japan's affordable ($10k) kei cars solve the US affordability crisis? Unpack the challenges & future of small vehicl...
+- **[News Quiz for Dec. 13, 2025](https://caymanjournal.com/articles/news-quiz-for-dec-13-2025-cmj4daqsl023z2altgyj7napy)** *(December 13, 2025)*  
+  Explore Dec 13th, 2025's key market drivers: QuantumLogic's AI chip innovation, ECB rates, & sustainable retail growth. Navigate 2026's complex global...
 - **[The Hottest Toy of the Year Is Made by a Tech Startup You’ve Never Heard Of](https://caymanjournal.com/articles/the-hottest-toy-of-the-year-is-made-by-a-tech-startup-youve-cmj3ng85902392alt7pqbhdni)** *(December 13, 2025)*  
   PlayForge Innovations faced collapse. Discover how their audacious pivot created AuraPets, the AI-powered toys captivating kids worldwide.
 - **[We Followed the Mandarin Oriental’s Head Chef During the Craziest Time of the Year](https://caymanjournal.com/articles/we-followed-the-mandarin-orientals-head-chef-during-the-craz-cmj3nfip102362alt5h3q5z17)** *(December 13, 2025)*  
@@ -70,14 +78,6 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Reddit challenges Australia's U16 social media ban in court. See how this legal fight over free speech, child safety & age verification impacts platfo...
 - **[Polish Fashion Retailer LPP Shares Jump on Higher Sales Forecast](https://caymanjournal.com/articles/polish-fashion-retailer-lpp-shares-jump-on-higher-sales-fore-cmj2xthn402082altoguvxnkv)** *(December 12, 2025)*  
   LPP shares jump >10% on revised sales forecast & stellar Q3 performance. Discover how the Polish fashion giant plans sustained growth into 2026.
-- **[Ryder System Names John Diez CEO as Robert Sanchez Retires](https://caymanjournal.com/articles/ryder-system-names-john-diez-ceo-as-robert-sanchez-retires-cmj2xu1m1020b2alty0d2bh07)** *(December 12, 2025)*  
-  Ryder System names John Diez as its new CEO after Robert Sanchez retires. Explore the internal transition and future strategy for the logistics giant.
-- **[Companies Are Desperately Seeking ‘Storytellers’](https://caymanjournal.com/articles/companies-are-desperately-seeking-storytellers-cmj2xupzf020e2altoxmv9xgd)** *(December 12, 2025)*  
-  Brands are desperate for narrative control. Discover how corporate storytelling and new 'storyteller' roles build trust, loyalty, and cut through toda...
-- **[Law Professor's Lawsuit Against Boeing Highlights Industry's Fume Event Crisis](https://caymanjournal.com/articles/law-professors-lawsuit-against-boeing-highlights-industrys-f-cmj2tlkb901zr2altcdmc91yu)** *(December 12, 2025)*  
-  A professor's lawsuit against Boeing for toxic cabin air threatens to reshape airline liability and aircraft design standards. Read about the stakes.
-- **[Oil Poised for Significant Weekly Loss Amid Ukraine Diplomacy, Bearish Supply Outlook](https://caymanjournal.com/articles/oil-poised-for-significant-weekly-loss-amid-ukraine-diplomac-cmj2p8jit01yv2altwejfhrcn)** *(December 12, 2025)*  
-  Crude oil prices mark a notable weekly decline. Geopolitical risk from Ukraine unwinds, coupled with bearish supply outlooks & potential Iran oil deal...
 
 ### 🏛️ Economy
 
@@ -104,6 +104,12 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ### 📈 Markets & Finance
 
+- **[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://caymanjournal.com/articles/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-cmj5bl9jt02542altnawkivy0)** *(December 14, 2025)*  
+  The AI boom echoes the dot-com bubble. Unpack striking similarities in valuations and speculative fervor, plus crucial differences making today's tech...
+- **[Readers’ Strategies for Preparing Their Partners to Manage Money After They Die](https://caymanjournal.com/articles/readers-strategies-for-preparing-their-partners-to-manage-mo-cmj530ec9024l2alt9cemwd2g)** *(December 14, 2025)*  
+  Learn how to financially empower your surviving partner. Explore modern legacy planning with instructional videos & family involvement for smooth tran...
+- **[The Fed Did Banks a Solid This Week. More Favors May Be Needed](https://caymanjournal.com/articles/the-fed-did-banks-a-solid-this-week-more-favors-may-be-neede-cmj48xnwu023u2altd5iyfshc)** *(December 13, 2025)*  
+  The Fed signals slowing QT, offering relief to banks facing dwindling reserves. Discover why this balance sheet pivot is crucial for financial stabili...
 - **[Inside the Invitation-Only Stock Market for the Wealthy](https://caymanjournal.com/articles/inside-the-invitation-only-stock-market-for-the-wealthy-cmj3rv92p023p2altb642ck2g)** *(December 13, 2025)*  
   Uncover the exclusive private markets where elite investors gain pre-IPO access to tomorrow's titans, widening the wealth gap. Learn its impact.
 - **[The Highflying Hedge Fund With a Habit of Giving Investors IOUs](https://caymanjournal.com/articles/the-highflying-hedge-fund-with-a-habit-of-giving-investors-i-cmj3nm1xx023f2altm9fwkdse)** *(December 13, 2025)*  
@@ -118,15 +124,13 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Bank of America stock hits $55.08, surpassing its pre-crisis peak for the first time since 2006. A testament to BofA's resilience & recovery.
 - **[Trump Administration Approves First Round of Crypto-Focused Banks](https://caymanjournal.com/articles/trump-administration-approves-first-round-of-crypto-focused-cmj3aq3zg021w2altf6s3hnff)** *(December 12, 2025)*  
   Trump admin conditionally approves crypto firms, including Circle & Paxos, as federally chartered banks. Discover how this integrates digital assets i...
-- **[Wall Street Is Having One of Its Best Years Ever](https://caymanjournal.com/articles/wall-street-is-having-one-of-its-best-years-ever-cmj36hv1z021h2altvurejpwd)** *(December 12, 2025)*  
-  Wall Street faces a euphoric year of record profits driven by surging trading revenues (FICC, equities) and a robust investment banking boom.
-- **[Schwab CEO Wurster Draws a ‘Bright Line’ Between Investing and Gambling](https://caymanjournal.com/articles/schwab-ceo-wurster-draws-a-bright-line-between-investing-and-cmj36ied7021k2altly2o71x1)** *(December 12, 2025)*  
-  Charles Schwab CEO Walt Wurster draws a "bright line" against speculative products & prediction markets, championing responsible, long-term wealth bui...
-- **[UBS Shares Soar to 17-Year High on Proposed Swiss Capital Rule Easing](https://caymanjournal.com/articles/ubs-shares-soar-to-17-year-high-on-proposed-swiss-capital-ru-cmj2xpj0z02022altzgq5y3ru)** *(December 12, 2025)*  
-  UBS shares surge to a 17-year high after Swiss legislators propose cutting bank capital burdens. Learn how this shift could unlock billions, boost pro...
 
 ### 💻 Technology
 
+- **[The Chinese Billionaires Having Dozens of U.S.-Born Babies Via Surrogate](https://caymanjournal.com/articles/the-chinese-billionaires-having-dozens-of-us-born-babies-via-cmj578tw9024x2altn9y1wcli)** *(December 14, 2025)*  
+  Discover how China's ultra-wealthy, like Xu Bo, build mega-families (100+ children) via U.S. surrogacy for citizenship, legacy, and wealth preservatio...
+- **[OpenAI Scraps 'Vesting Cliff' for New Hires Amid Escalating AI Talent War](https://caymanjournal.com/articles/openai-scraps-vesting-cliff-for-new-hires-amid-escalating-ai-cmj4ynt48024g2alto7fx7vxn)** *(December 13, 2025)*  
+  OpenAI removes its 1-year vesting cliff for new hires, allowing immediate equity vesting. A key strategy in the fierce AI talent war vs. xAI.
 - **[AI Can Make Decisions Better Than People Do. So Why Don’t We Trust It?](https://caymanjournal.com/articles/ai-can-make-decisions-better-than-people-do-so-why-dont-we-t-cmj3rs4zf023m2altajj40uvj)** *(December 13, 2025)*  
   AI excels but lacks trust due to opacity. Discover how Explainable AI (XAI) provides crucial transparency, making decisions understandable and buildin...
 - **[SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year](https://caymanjournal.com/articles/spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-cmj3nj11b023c2altody0kylj)** *(December 13, 2025)*  
@@ -143,13 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   OpenAI's GPT-5.2 boosts knowledge worker productivity, intensifying the enterprise AI battle. Explore its impact and competition with Google & Anthrop...
 - **[Trump Signs Executive Order to Curtail State AI Laws](https://caymanjournal.com/articles/trump-signs-executive-order-to-curtail-state-ai-laws-cmj27zm3v01xi2altixyyybbx)** *(December 12, 2025)*  
   President Trump signs EO granting Justice Dept. power over state AI regulations, pushing for a federal standard to accelerate innovation & US competit...
-- **[Broadcom Beats Revenue and Profit Forecasts as AI Chip Sales Climb](https://caymanjournal.com/articles/broadcom-beats-revenue-and-profit-forecasts-as-ai-chip-sales-cmj23pb9501wt2altj9mrswxj)** *(December 11, 2025)*  
-  Broadcom's stellar quarter driven by booming AI chip demand. Revenue hit $12.5B (+20% YoY), beating profit forecasts. See its pivotal role in AI infra...
-- **[Oracle Shares Tumble on AI Spending Worries](https://caymanjournal.com/articles/oracle-shares-tumble-on-ai-spending-worries-cmj1zi34f01w72alt389neaw9)** *(December 11, 2025)*  
-  Oracle shares plunge 8.5% as investors worry AI infrastructure spending could squeeze profits and outstrip returns. Is tech's AI bet too costly?
 
 
-*Last updated: December 13, 2025 at 06:27 UTC*
+*Last updated: December 14, 2025 at 06:27 UTC*
 
 <!-- FEED:END -->
 
