@@ -35,52 +35,58 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Ten-Year JGB Yield Hits 26-Year High as BOJ's Hawkish Stance Takes Hold](https://caymanjournal.com/articles/ten-year-jgb-yield-hits-26-year-high-as-bojs-hawkish-stance-cmjgr3oxj03bk2alt12s81h0s)** *(December 22, 2025)*  
-  Japan's bond market undergoes a seismic shift as 10-year JGB yield hits 26-year high. Unpack BOJ's policy moves & economic impact.
-- **[CBS News Pulls '60 Minutes' Segment Amid Political Firestorm; Correspondent Cries Foul](https://caymanjournal.com/articles/cbs-news-pulls-60-minutes-segment-amid-political-firestorm-c-cmjgmono803b92altnibqfpxb)** *(December 22, 2025)*  
-  Discover why CBS News suddenly pulled a 60 Minutes report on Trump deportees & El Salvador prisons. Was it political pressure or 'additional reporting...
-- **[‘He Was Poisoned.’ Toxic Fumes on Planes Blamed for Deaths of Pilots and Crew](https://caymanjournal.com/articles/he-was-poisoned-toxic-fumes-on-planes-blamed-for-deaths-of-p-cmjgmpi7f03bc2alt3uns395q)** *(December 22, 2025)*  
-  Is cabin air poisoning pilots? New evidence links 'fume events' to severe crew illness & neurological damage. Uncover the aviation health crisis.
-- **[One of Elon Musk’s Old Enemies Joins the Race to Run GM](https://caymanjournal.com/articles/one-of-elon-musks-old-enemies-joins-the-race-to-run-gm-cmjgmq1qv03bf2alt1s3t0mus)** *(December 22, 2025)*  
-  Robotics expert Sterling Anderson joins GM's C-suite after Tesla & Argo AI, signaling a tech shake-up. See how he'll drive GM's EV and self-driving fu...
-- **[These Teenagers Are Already Running Their Own AI Companies](https://caymanjournal.com/articles/these-teenagers-are-already-running-their-own-ai-companies-cmjgiefix03ax2altew7vrh6b)** *(December 22, 2025)*  
-  Explore how Gen Z entrepreneurs leverage "vibe-coding" and digital fluency to launch successful AI startups. Meet the teens behind AuraLens & EchoMind...
-- **[Permira-, Warburg-Led Consortium to Acquire Clearwater Analytics in $8.4B Deal](https://caymanjournal.com/articles/permira--warburg-led-consortium-to-acquire-clearwater-analyt-cmjgiezjn03b02alteh815wrb)** *(December 22, 2025)*  
-  Permira, Warburg Pincus acquire Clearwater Analytics for $8.4B. Discover why this major fintech deal underscores mission-critical investment software.
-- **[U.S. Coast Guard Intensifies Maritime Interdiction as Another Tanker Targeted in Venezuela Oil Blockade](https://caymanjournal.com/articles/us-coast-guard-intensifies-maritime-interdiction-as-another-cmjge3zwm03ag2altd3x3ncy1)** *(December 21, 2025)*  
-  US Coast Guard chases an oil tanker, escalating economic warfare against Venezuela. Understand the impact on global shipping, sanctions, & maritime la...
-- **[Third ‘Avatar’ Movie Off to Slower Box Office Start Than Predecessor](https://caymanjournal.com/articles/third-avatar-movie-off-to-slower-box-office-start-than-prede-cmjg5lequ039x2altd7vcuiqh)** *(December 21, 2025)*  
-  Avatar 3 opens to $345M, a 21.8% dip from its predecessor. Explore what this softer box office start means for Disney and the future of the epic franc...
-- **[FAO Schwarz Entices Toy Shoppers With the One Thing They Can’t Get Online](https://caymanjournal.com/articles/fao-schwarz-entices-toy-shoppers-with-the-one-thing-they-can-cmjg1b444039s2altglehxpe2)** *(December 21, 2025)*  
-  FAO Schwarz is pioneering experiential retail, transforming its iconic NYC store into an immersive destination. See how 'retailtainment' creates unfor...
-- **[Four More Impulse-Buying Days ’Til Christmas](https://caymanjournal.com/articles/four-more-impulse-buying-days-til-christmas-cmjfx355u039k2alt5c0ja7lb)** *(December 21, 2025)*  
-  Amid Q4 holiday shopping chaos, an AI vending machine went rogue in Dallas. Discover 2023's AI revolution, its retail impact, and growing ethical conc...
+- **[Inside Bari Weiss’s Decision to Pull a ‘60 Minutes’ Segment](https://caymanjournal.com/articles/inside-bari-weisss-decision-to-pull-a-60-minutes-segment-cmji6h14c03hc2alt7ha8kibi)** *(December 23, 2025)*  
+  Bari Weiss abruptly pulled a 60 Minutes segment, sparking fierce debate at CBS News over editorial standards vs. journalistic autonomy. Uncover the fu...
+- **[Trump’s First-Term Trust Buster Is Now Working to Get Paramount Its Deal](https://caymanjournal.com/articles/trumps-first-term-trust-buster-is-now-working-to-get-paramou-cmji26kn603h42alt0x9ecbax)** *(December 23, 2025)*  
+  Makan Delrahim leads Paramount Global's high-stakes bid for Warner Bros. Discovery content. Discover how his antitrust expertise tackles streaming's i...
+- **[I’m Worried About Toxic Fumes on My Upcoming Flight, What Can I Do?](https://caymanjournal.com/articles/im-worried-about-toxic-fumes-on-my-upcoming-flight-what-can-cmji2753503h72altvh1qeow1)** *(December 23, 2025)*  
+  That burnt smell on planes? It could be a fume event. Learn about toxic cabin air, health risks (TCPs), and essential passenger safety steps.
+- **[U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://caymanjournal.com/articles/us-bans-new-china-made-drones-sparking-outrage-among-pilots-cmjhxyui503gx2altxwl1fusu)** *(December 23, 2025)*  
+  US drone market faces turmoil as a ban on China-made drones like DJI looms. Understand the impact on pilots, innovation, costs, and supply chain.
+- **[Trump Targets Defense Firms on Weapons Speed, Stock Buybacks](https://caymanjournal.com/articles/trump-targets-defense-firms-on-weapons-speed-stock-buybacks-cmjhxttv503gu2alt065ef6ru)** *(December 23, 2025)*  
+  Trump blasts defense contractors for prioritizing stock buybacks over new factories & faster weapons production. Learn how his potential return could ...
+- **[Democratic Attorneys General Sue Russell Vought Over CFPB Funding](https://caymanjournal.com/articles/democratic-attorneys-general-sue-russell-vought-over-cfpb-fu-cmjhtjtyk03gc2altcorr0dzp)** *(December 22, 2025)*  
+  Democratic AGs sue Russell Vought to halt efforts to defund the CFPB. Explore this pivotal legal battle impacting consumer protection & federal agency...
+- **[Stocks Advance Toward Records in Broad Rally](https://caymanjournal.com/articles/stocks-advance-toward-records-in-broad-rally-cmjhtke4j03gf2altr5whu2t9)** *(December 22, 2025)*  
+  US stocks surge toward new records, with the S&P 500 up 1.1%! Unpack the broad rally's drivers: strong earnings, resilient economy & Fed rate cut hope...
+- **[Amtrak Faces More Delays Rolling Out New Trains](https://caymanjournal.com/articles/amtrak-faces-more-delays-rolling-out-new-trains-cmjhpevrh03g12alt37csc6ll)** *(December 22, 2025)*  
+  Amtrak's new trains arrive, but federal warnings reveal unprepared maintenance facilities. Expect costly idling, service delays, and a major infrastru...
+- **[How Charlie Javice’s Legal Fees Hit $74 Million: Gummy Bears and Star Lawyers](https://caymanjournal.com/articles/how-charlie-javices-legal-fees-hit-74-million-gummy-bears-an-cmjhpbr3t03fy2alt73vdwl2d)** *(December 22, 2025)*  
+  Charlie Javice's defense racked up $74M in legal fees, including $530 for gummy bears! See the shocking costs of elite corporate litigation.
+- **[Trump Administration Delivers Shockwave, Halting All Offshore Wind Projects Citing 'National Security'](https://caymanjournal.com/articles/trump-administration-delivers-shockwave-halting-all-offshore-cmjhl50pw03fr2altqhktocvx)** *(December 22, 2025)*  
+  Trump admin halts all federal offshore wind projects citing vague "national security risks." $20B investment frozen, 5 GW lost, imperiling US clean en...
 
 ### 🏢 Business
 
-- **[CBS News Pulls '60 Minutes' Segment Amid Political Firestorm; Correspondent Cries Foul](https://caymanjournal.com/articles/cbs-news-pulls-60-minutes-segment-amid-political-firestorm-c-cmjgmono803b92altnibqfpxb)** *(December 22, 2025)*  
-  Discover why CBS News suddenly pulled a 60 Minutes report on Trump deportees & El Salvador prisons. Was it political pressure or 'additional reporting...
-- **[One of Elon Musk’s Old Enemies Joins the Race to Run GM](https://caymanjournal.com/articles/one-of-elon-musks-old-enemies-joins-the-race-to-run-gm-cmjgmq1qv03bf2alt1s3t0mus)** *(December 22, 2025)*  
-  Robotics expert Sterling Anderson joins GM's C-suite after Tesla & Argo AI, signaling a tech shake-up. See how he'll drive GM's EV and self-driving fu...
-- **[‘He Was Poisoned.’ Toxic Fumes on Planes Blamed for Deaths of Pilots and Crew](https://caymanjournal.com/articles/he-was-poisoned-toxic-fumes-on-planes-blamed-for-deaths-of-p-cmjgmpi7f03bc2alt3uns395q)** *(December 22, 2025)*  
-  Is cabin air poisoning pilots? New evidence links 'fume events' to severe crew illness & neurological damage. Uncover the aviation health crisis.
-- **[These Teenagers Are Already Running Their Own AI Companies](https://caymanjournal.com/articles/these-teenagers-are-already-running-their-own-ai-companies-cmjgiefix03ax2altew7vrh6b)** *(December 22, 2025)*  
-  Explore how Gen Z entrepreneurs leverage "vibe-coding" and digital fluency to launch successful AI startups. Meet the teens behind AuraLens & EchoMind...
-- **[Permira-, Warburg-Led Consortium to Acquire Clearwater Analytics in $8.4B Deal](https://caymanjournal.com/articles/permira--warburg-led-consortium-to-acquire-clearwater-analyt-cmjgiezjn03b02alteh815wrb)** *(December 22, 2025)*  
-  Permira, Warburg Pincus acquire Clearwater Analytics for $8.4B. Discover why this major fintech deal underscores mission-critical investment software.
-- **[U.S. Coast Guard Intensifies Maritime Interdiction as Another Tanker Targeted in Venezuela Oil Blockade](https://caymanjournal.com/articles/us-coast-guard-intensifies-maritime-interdiction-as-another-cmjge3zwm03ag2altd3x3ncy1)** *(December 21, 2025)*  
-  US Coast Guard chases an oil tanker, escalating economic warfare against Venezuela. Understand the impact on global shipping, sanctions, & maritime la...
-- **[Third ‘Avatar’ Movie Off to Slower Box Office Start Than Predecessor](https://caymanjournal.com/articles/third-avatar-movie-off-to-slower-box-office-start-than-prede-cmjg5lequ039x2altd7vcuiqh)** *(December 21, 2025)*  
-  Avatar 3 opens to $345M, a 21.8% dip from its predecessor. Explore what this softer box office start means for Disney and the future of the epic franc...
-- **[FAO Schwarz Entices Toy Shoppers With the One Thing They Can’t Get Online](https://caymanjournal.com/articles/fao-schwarz-entices-toy-shoppers-with-the-one-thing-they-can-cmjg1b444039s2altglehxpe2)** *(December 21, 2025)*  
-  FAO Schwarz is pioneering experiential retail, transforming its iconic NYC store into an immersive destination. See how 'retailtainment' creates unfor...
-- **[Can a Hemorrhoid Cream Be Cool?](https://caymanjournal.com/articles/can-a-hemorrhoid-cream-be-cool-cmjfst4b4039d2altnce9djze)** *(December 21, 2025)*  
-  Pete Davidson invests in Norms, a brand destigmatizing hemorrhoid cream with retro branding. It's revolutionizing the personal care CPG market.
-- **[How Ford Failed to Bottle Tesla’s EV Magic](https://caymanjournal.com/articles/how-ford-failed-to-bottle-teslas-ev-magic-cmjfok0zn03982altmiftbx00)** *(December 21, 2025)*  
-  Ford F-150 Lightning's journey: Despite 200K reservations, this electric pickup struggled with profitability and the 'expectations game' against Tesla...
+- **[Inside Bari Weiss’s Decision to Pull a ‘60 Minutes’ Segment](https://caymanjournal.com/articles/inside-bari-weisss-decision-to-pull-a-60-minutes-segment-cmji6h14c03hc2alt7ha8kibi)** *(December 23, 2025)*  
+  Bari Weiss abruptly pulled a 60 Minutes segment, sparking fierce debate at CBS News over editorial standards vs. journalistic autonomy. Uncover the fu...
+- **[I’m Worried About Toxic Fumes on My Upcoming Flight, What Can I Do?](https://caymanjournal.com/articles/im-worried-about-toxic-fumes-on-my-upcoming-flight-what-can-cmji2753503h72altvh1qeow1)** *(December 23, 2025)*  
+  That burnt smell on planes? It could be a fume event. Learn about toxic cabin air, health risks (TCPs), and essential passenger safety steps.
+- **[Trump’s First-Term Trust Buster Is Now Working to Get Paramount Its Deal](https://caymanjournal.com/articles/trumps-first-term-trust-buster-is-now-working-to-get-paramou-cmji26kn603h42alt0x9ecbax)** *(December 23, 2025)*  
+  Makan Delrahim leads Paramount Global's high-stakes bid for Warner Bros. Discovery content. Discover how his antitrust expertise tackles streaming's i...
+- **[Amtrak Faces More Delays Rolling Out New Trains](https://caymanjournal.com/articles/amtrak-faces-more-delays-rolling-out-new-trains-cmjhpevrh03g12alt37csc6ll)** *(December 22, 2025)*  
+  Amtrak's new trains arrive, but federal warnings reveal unprepared maintenance facilities. Expect costly idling, service delays, and a major infrastru...
+- **[Trump Administration Delivers Shockwave, Halting All Offshore Wind Projects Citing 'National Security'](https://caymanjournal.com/articles/trump-administration-delivers-shockwave-halting-all-offshore-cmjhl50pw03fr2altqhktocvx)** *(December 22, 2025)*  
+  Trump admin halts all federal offshore wind projects citing vague "national security risks." $20B investment frozen, 5 GW lost, imperiling US clean en...
+- **[Alphabet to Acquire Intersect for **$4.75 Billion** Amid Escalating AI Infrastructure Race](https://caymanjournal.com/articles/alphabet-to-acquire-intersect-for-475-billion-amid-escalatin-cmjhguzdn03f62altanfrtdio)** *(December 22, 2025)*  
+  Alphabet acquires Intersect for $4.75B to scale AI infrastructure. This strategic move secures vital data centers & energy capacity for Google's AI fu...
+- **[Ralph Lauren Was Always Cool. Now Gen Z Knows Why.](https://caymanjournal.com/articles/ralph-lauren-was-always-cool-now-gen-z-knows-why-cmjhgvjn403f92altxtq3hwh2)** *(December 22, 2025)*  
+  How Ralph Lauren became cool again for Gen Z. Unpack the viral TikTok trends, Taylor Swift's influence, & smart strategies driving its fashion resurge...
+- **[Alphabet to Buy Intersect for $4.75 Billion in Cash](https://caymanjournal.com/articles/alphabet-to-buy-intersect-for-475-billion-in-cash-cmjhgw0wx03fc2altmds89dwx)** *(December 22, 2025)*  
+  Alphabet's $4.75B Intersect acquisition fuels Google Cloud with future data centers, gigawatts of sustainable energy, and expert teams for massive gro...
+- **[Janus Henderson to Be Bought by Trian and General Catalyst for $7.4 Billion](https://caymanjournal.com/articles/janus-henderson-to-be-bought-by-trian-and-general-catalyst-f-cmjhckiex03ef2altudslp3vk)** *(December 22, 2025)*  
+  Janus Henderson acquired for $7.4B by Trian & General Catalyst. See how this activist/tech VC alliance will redefine asset management.
+- **[CBS News Editor Bari Weiss Defends Decision to Pull ‘60 Minutes’ Segment](https://caymanjournal.com/articles/cbs-news-editor-bari-weiss-defends-decision-to-pull-60-minut-cmjhcl0fb03ei2alt42dj1j7m)** *(December 22, 2025)*  
+  CBS News editor Bari Weiss explains why a high-profile 60 Minutes segment was pulled. Learn how journalistic integrity and accuracy guided the tough d...
 
 ### 🏛️ Economy
 
+- **[Canada’s Consumer Heads Into 2026 on Firmer Footing](https://caymanjournal.com/articles/canadas-consumer-heads-into-2026-on-firmer-footing-cmjhgu47g03f32alt7jybsjo6)** *(December 22, 2025)*  
+  Canadian consumers exit 2025 in strong shape, shrugging off fears for confident spending into 2026. Discover Canada's resilient economic outlook and k...
+- **[The U.S. labor market is ending 2025 on a sour note: Many companies trimmed head count and wage gains slowed.](https://caymanjournal.com/articles/the-us-labor-market-is-ending-2025-on-a-sour-note-many-compa-cmjh425e703d52altlsh7v6y6)** *(December 22, 2025)*  
+  US labor market faces downturn: Unemployment hits 4.2%, wage growth cools to 2.8%. Companies cut jobs, signaling broader economic softening for 2026.
+- **[China Vanke’s Brewing Crisis Suggests Limited Property Easing to Come](https://caymanjournal.com/articles/china-vankes-brewing-crisis-suggests-limited-property-easing-cmjgzsntg03cj2alt2ixm8p26)** *(December 22, 2025)*  
+  Vanke's crisis tests Beijing's real estate strategy as China's slump enters its 6th year. Explore what this means for intervention & the economy's fut...
 - **[Millions of Homeowners Are Stuck: The Ultralow Rate Lock-In Effect Reshaping the Housing Market](https://caymanjournal.com/articles/millions-of-homeowners-are-stuck-the-ultralow-rate-lock-in-e-cmjf35a71038i2alt251f0xyp)** *(December 21, 2025)*  
   Understand how 30M homeowners with ultralow mortgage rates create a 'lock-in' phenomenon, reshaping the US housing market & fueling an affordability c...
 - **[President Trump Pitches Economic Control in North Carolina as Voters Grapple with Costs](https://caymanjournal.com/articles/president-trump-pitches-economic-control-in-north-carolina-a-cmjdw8htg037c2alt017n8v8w)** *(December 20, 2025)*  
@@ -95,38 +101,38 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Is the U.S. labor market cooling? The Conference Board's ETI decline signals increased caution for hiring, businesses & the economy. Get the full anal...
 - **[Consumer Sentiment Rose in December But Remains Dim, Michigan Survey Suggests](https://caymanjournal.com/articles/consumer-sentiment-rose-in-december-but-remains-dim-michigan-cmjd6pym8035k2altwasl0dfx)** *(December 19, 2025)*  
   Despite a December uptick in consumer economic outlook, persistent inflation & a challenging job market keep sentiment broadly subdued. Get expert ins...
-- **[Home sales rose in November for the third straight month, with lower mortgage rates injecting some fresh momentum into the long sluggish housing market](https://caymanjournal.com/articles/home-sales-rose-in-november-for-the-third-straight-month-wit-cmjd2cs7n03412altnej25ksx)** *(December 19, 2025)*  
-  The U.S. housing market is shaking off its slump. Sales climbed for the 3rd month, hitting levels not seen since Feb as mortgage rates dipped below 7%...
-- **[Russia’s Central Bank Cuts Key Rate, But Policy to Stay Tight](https://caymanjournal.com/articles/russias-central-bank-cuts-key-rate-but-policy-to-stay-tight-cmjcti47r031v2altarfwjupv)** *(December 19, 2025)*  
-  Bank of Russia cuts key rate to 15.75%, its first cut, but warns of tight policy for longer. Understand the slow path to lower borrowing costs for Rus...
-- **[EU Delays Mercosur Deal Sign-Off to January](https://caymanjournal.com/articles/eu-delays-mercosur-deal-sign-off-to-january-cmjctiqdd031y2alt55jys0nr)** *(December 19, 2025)*  
-  Brussels delays EU-Mercosur trade deal to January. Uncover the "outlying issues," including agriculture and environment, stalling the landmark agreeme...
 
 ### 📈 Markets & Finance
 
-- **[Ten-Year JGB Yield Hits 26-Year High as BOJ's Hawkish Stance Takes Hold](https://caymanjournal.com/articles/ten-year-jgb-yield-hits-26-year-high-as-bojs-hawkish-stance-cmjgr3oxj03bk2alt12s81h0s)** *(December 22, 2025)*  
-  Japan's bond market undergoes a seismic shift as 10-year JGB yield hits 26-year high. Unpack BOJ's policy moves & economic impact.
-- **[The Private-Credit Party Turns Ugly for Individual Investors](https://caymanjournal.com/articles/the-private-credit-party-turns-ugly-for-individual-investors-cmjfoghlv03922alt04z3p33x)** *(December 21, 2025)*  
-  Private credit democratizes, but BDCs' -8.5% 2025 crash warns Main Street. Understand illiquidity, credit quality, & fees before investing.
-- **[Makers of Everyday Essentials Once Offered Investors Safety. Do They Still?](https://caymanjournal.com/articles/makers-of-everyday-essentials-once-offered-investors-safety-cmjfoh3k203952altos3rz2wr)** *(December 21, 2025)*  
-  Consumer staples' safety has evolved. Explore why shifts in consumer habits & digital disruption mean investors must keenly re-evaluate these essentia...
-- **[The Former Ice-Hockey Player Who Nailed This Year’s AI Trade](https://caymanjournal.com/articles/the-former-ice-hockey-player-who-nailed-this-years-ai-trade-cmjed8cqx037w2alttmfd7jzb)** *(December 20, 2025)*  
-  How ex-NHL star Xavier Majic's hedge fund gained 60% by investing in AI's hidden bedrock: hard drives & memory chips. Uncover his secret.
-- **[S&P 500 Hovers Near Record With Wall Street Hoping for a Year-End Rally](https://caymanjournal.com/articles/sp-500-hovers-near-record-with-wall-street-hoping-for-a-year-cmjdjb3xu03662altj2rtm5q0)** *(December 19, 2025)*  
-  S&P 500 nears records, fueled by resilience & Fed pivot hopes. Navigate economic uncertainty, mixed data, and inflation delays for year-end rally outl...
-- **[The Score: Medline, Tesla, Warner, Trump Media and More Stocks That Defined the Week](https://caymanjournal.com/articles/the-score-medline-tesla-warner-trump-media-and-more-stocks-t-cmjdjbp3y03692altv0mz7275)** *(December 19, 2025)*  
-  Unpack this week's stock market volatility. Dive into DJT, Tesla, WBD, and tech sector performance, guided by sentiment, earnings, and macro trends.
-- **[Why My Generation Is Turning to ‘Financial Nihilism’](https://caymanjournal.com/articles/why-my-generation-is-turning-to-financial-nihilism-cmjd6kooo03552altvx9aywbl)** *(December 19, 2025)*  
-  Gen Z's embrace of high-risk ventures like crypto & betting is "financial nihilism." Understand why they see it as a rational response to a broken sys...
-- **[When Your Private Fund Turns $1 into 60 Cents](https://caymanjournal.com/articles/when-your-private-fund-turns-1-into-60-cents-cmjd29s1r033y2altm8fddgia)** *(December 19, 2025)*  
-  Your $1 private investment could be worth 60 cents on public markets. Understand the valuation gap in nontraded funds & its impact on investors.
-- **[Searchlight-Backed Integrated Power Services to Buy TechPro in $350 Million Deal](https://caymanjournal.com/articles/searchlight-backed-integrated-power-services-to-buy-techpro-cmjcxztfp03332altz04s5qgh)** *(December 19, 2025)*  
-  IPS acquires TechPro for $350M, driving digital transformation in industrial services. Learn how AI predictive maintenance will optimize assets & cut ...
-- **[Insurance Rates Should Fall Next Year. Hopefully Not Too Much.](https://caymanjournal.com/articles/insurance-rates-should-fall-next-year-hopefully-not-too-much-cmjctpgrp03272althabyrycl)** *(December 19, 2025)*  
-  Will property insurance premiums drop after 2023's quiet hurricane season? Uncover why secondary perils, inflation, and reinsurance limit rate relief.
+- **[Trump Targets Defense Firms on Weapons Speed, Stock Buybacks](https://caymanjournal.com/articles/trump-targets-defense-firms-on-weapons-speed-stock-buybacks-cmjhxttv503gu2alt065ef6ru)** *(December 23, 2025)*  
+  Trump blasts defense contractors for prioritizing stock buybacks over new factories & faster weapons production. Learn how his potential return could ...
+- **[Democratic Attorneys General Sue Russell Vought Over CFPB Funding](https://caymanjournal.com/articles/democratic-attorneys-general-sue-russell-vought-over-cfpb-fu-cmjhtjtyk03gc2altcorr0dzp)** *(December 22, 2025)*  
+  Democratic AGs sue Russell Vought to halt efforts to defund the CFPB. Explore this pivotal legal battle impacting consumer protection & federal agency...
+- **[Stocks Advance Toward Records in Broad Rally](https://caymanjournal.com/articles/stocks-advance-toward-records-in-broad-rally-cmjhtke4j03gf2altr5whu2t9)** *(December 22, 2025)*  
+  US stocks surge toward new records, with the S&P 500 up 1.1%! Unpack the broad rally's drivers: strong earnings, resilient economy & Fed rate cut hope...
+- **[How Charlie Javice’s Legal Fees Hit $74 Million: Gummy Bears and Star Lawyers](https://caymanjournal.com/articles/how-charlie-javices-legal-fees-hit-74-million-gummy-bears-an-cmjhpbr3t03fy2alt73vdwl2d)** *(December 22, 2025)*  
+  Charlie Javice's defense racked up $74M in legal fees, including $530 for gummy bears! See the shocking costs of elite corporate litigation.
+- **[These 20 Objects Defined Culture in 2025. How Many Can You Name?](https://caymanjournal.com/articles/these-20-objects-defined-culture-in-2025-how-many-can-you-na-cmjhgrdqr03f02altzkrckwpm)** *(December 22, 2025)*  
+  The multi-billion-dollar collecting trend for art toys & brand mascots is reshaping commerce, driven by nostalgia, virality, and tangibility.
+- **[Nelson Peltz’s Trian and General Catalyst to Take Janus Henderson Private](https://caymanjournal.com/articles/nelson-peltzs-trian-and-general-catalyst-to-take-janus-hende-cmjhcgswy03e92altedl1xx5q)** *(December 22, 2025)*  
+  Trian Fund & General Catalyst acquire Janus Henderson for $7.4B, taking it private. Analyze this strategic move in global asset management.
+- **[An Unloved Energy Bet Is Set to Become the Most Profitable Private-Equity Deal Ever](https://caymanjournal.com/articles/an-unloved-energy-bet-is-set-to-become-the-most-profitable-p-cmjhchg6d03ec2altxlc81fkh)** *(December 22, 2025)*  
+  Discover how ECP turned 'unloved' Calpine into the most profitable PE deal ever, generating over $25B. A masterclass in contrarian energy investing.
+- **[U.S. Futures, Asian Markets Rise, But European Indexes Fall; Gold Hits New High](https://caymanjournal.com/articles/us-futures-asian-markets-rise-but-european-indexes-fall-gold-cmjgzpany03cd2alt4gfx8cfw)** *(December 22, 2025)*  
+  Tech powers U.S. stock futures higher, S&P 500 & Nasdaq gain. European markets dip, while gold hits an all-time high above $2,200. Get market insights...
+- **[Oil Gains on Venezuela Supply Risks](https://caymanjournal.com/articles/oil-gains-on-venezuela-supply-risks-cmjh3zkuw03d22altworto09x)** *(December 22, 2025)*  
+  Why did oil prices jump? US sanctions on Venezuela threaten crude supply, pushing Brent & WTI higher. Get insights on global market volatility.
+- **[Stock Market Today: S&P 500 Futures Gain; Gold, Silver Prices Rally Amid Geopolitical Tensions](https://caymanjournal.com/articles/stock-market-today-sp-500-futures-gain-gold-silver-prices-ra-cmjgzpxay03cg2alt33opxake)** *(December 22, 2025)*  
+  S&P 500 futures rise 0.3%, yet gold & silver rally 1.8-2.5% as oil jumps on Venezuela tensions. Get the full market outlook.
 
 ### 💻 Technology
 
+- **[U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://caymanjournal.com/articles/us-bans-new-china-made-drones-sparking-outrage-among-pilots-cmjhxyui503gx2altxwl1fusu)** *(December 23, 2025)*  
+  US drone market faces turmoil as a ban on China-made drones like DJI looms. Understand the impact on pilots, innovation, costs, and supply chain.
+- **[Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow](https://caymanjournal.com/articles/alphabet-to-buy-intersect-for-475-billion-as-ai-investment-p-cmjhkz17603fo2alt5d3fssoy)** *(December 22, 2025)*  
+  Alphabet acquires Intersect for $4.75B to secure data centers & gigawatts of energy, crucial for scaling Google's AI infrastructure & future innovatio...
+- **[Chinese AI Chip Maker Biren Technology Plans $623 Million Hong Kong IPO](https://caymanjournal.com/articles/chinese-ai-chip-maker-biren-technology-plans-623-million-hon-cmjgvbebc03bt2altf964gesn)** *(December 22, 2025)*  
+  Chinese AI chip giant Biren Technology targets HK$4.85B IPO in Hong Kong. Learn how this 'Little Dragon' fuels China's semiconductor self-sufficiency ...
 - **[Four More Impulse-Buying Days ’Til Christmas](https://caymanjournal.com/articles/four-more-impulse-buying-days-til-christmas-cmjfx355u039k2alt5c0ja7lb)** *(December 21, 2025)*  
   Amid Q4 holiday shopping chaos, an AI vending machine went rogue in Dallas. Discover 2023's AI revolution, its retail impact, and growing ethical conc...
 - **[The Proactive Edge: A Tech Columnist’s Guide to Helping Family With Their Gadgets](https://caymanjournal.com/articles/the-proactive-edge-a-tech-columnists-guide-to-helping-family-cmjfx3ufa039n2alt7nu8dvct)** *(December 21, 2025)*  
@@ -141,15 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   BioMarin acquires Amicus Therapeutics for $4.8B cash, poised to reshape the rare disease landscape. Explore the impact on pipeline and patients.
 - **[High-Tech Clothes Promise Wellness Benefits](https://caymanjournal.com/articles/high-tech-clothes-promise-wellness-benefits-cmjd6hp1u03522altqya0rme3)** *(December 19, 2025)*  
   From smart clothing monitoring health to AI-driven vending & safer cars, explore how tech is deeply embedding into daily life for wellness, safety, an...
-- **[U.S. Clamps Down on Investment in Chinese Tech Companies, Citing National Security Concerns](https://caymanjournal.com/articles/us-clamps-down-on-investment-in-chinese-tech-companies-citin-cmjccjrqj030a2altnbyy2z8g)** *(December 19, 2025)*  
-  Washington clamps down on U.S. investment in China tech. Discover how the new NDAA targets AI, quantum, & surveillance, reshaping global capital & nat...
-- **[OpenAI Eyes Staggering $830 Billion Valuation Amidst AI Bubble Concerns](https://caymanjournal.com/articles/openai-eyes-staggering-830-billion-valuation-amidst-ai-bubbl-cmjc41vp702yw2alt2tp171tm)** *(December 18, 2025)*  
-  OpenAI explores a stunning $830 billion valuation, solidifying its private AI leadership. Discover how this generative AI giant defies public market '...
-- **[Meta Is Developing a New AI Image and Video Model Code-Named ‘Mango’](https://caymanjournal.com/articles/meta-is-developing-a-new-ai-image-and-video-model-code-named-cmjc42hun02yz2alt47d3qrme)** *(December 18, 2025)*  
-  Meta Platforms introduces Mango (AI image/video generation) & Avocado (LLM), signaling a major expansion in its generative AI capabilities.
 
 
-*Last updated: December 22, 2025 at 06:32 UTC*
+*Last updated: December 23, 2025 at 06:31 UTC*
 
 <!-- FEED:END -->
 
