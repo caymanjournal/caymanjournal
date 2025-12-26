@@ -35,29 +35,37 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[The Boss Who Gave His Employees a $240 Million Gift](https://caymanjournal.com/articles/the-boss-who-gave-his-employees-a-240-million-gift-cmjkwzwqx03p82altj3ua4s5o)** *(December 25, 2025)*  
-  Louisiana CEO Graham Walker gifted 540 employees $240M ($444,444 each) from his company sale. A powerful statement on loyalty and human capital.
-- **[Saks Clients Complained About Stylist Long Before He Was Accused of $400,000 Scam](https://caymanjournal.com/articles/saks-clients-complained-about-stylist-long-before-he-was-acc-cmjkx0goy03pb2altl8gfxcab)** *(December 25, 2025)*  
-  Suhail Kwatra, Saks stylist, faces $400K fraud charges. Article reveals how early red flags were missed, impacting luxury retail trust.
-- **[Nvidia Licenses Groq’s AI Technology as Demand for Cutting-Edge Chips Grows](https://caymanjournal.com/articles/nvidia-licenses-groqs-ai-technology-as-demand-for-cutting-ed-cmjkohfm403p12alt61zh58cm)** *(December 24, 2025)*  
-  Nvidia licenses Groq's LPU AI tech & acquires its CEO/talent to boost inference capabilities. Learn how Nvidia consolidates its dominance in the rapid...
-- **[Tesla Under Investigation by U.S. Regulator for Model 3 Door Release Defects](https://caymanjournal.com/articles/tesla-under-investigation-by-us-regulator-for-model-3-door-r-cmjkbksfj03or2alt2ue0h19i)** *(December 24, 2025)*  
-  Breaking: NHTSA launches formal investigation into 179,000 Tesla Model 3s for door release defects. See if your car is affected & learn next steps.
-- **[Nike Stock Price Gets a Lift After Apple’s Tim Cook Doubles His Stake](https://caymanjournal.com/articles/nike-stock-price-gets-a-lift-after-apples-tim-cook-doubles-h-cmjkbq0ay03ou2altn1eaoapf)** *(December 24, 2025)*  
-  Tim Cook, Nike's independent director, spent $2.9M to double his stake in Nike stock after a recent dip. This insider move boosts market confidence.
-- **[Nike Shares Get a Lift After Apple’s Tim Cook Doubles His Personal Stake](https://caymanjournal.com/articles/nike-shares-get-a-lift-after-apples-tim-cook-doubles-his-per-cmjk7awan03oe2altbho9nvtl)** *(December 24, 2025)*  
-  Apple CEO Tim Cook doubles his Nike stock stake with a $2.9M purchase, providing a huge confidence boost after recent setbacks for the sportswear gian...
-- **[Armandino Batali, Seattle Chef Who Turned to Salami After Working at Boeing, Dies at 88](https://caymanjournal.com/articles/armandino-batali-seattle-chef-who-turned-to-salami-after-wor-cmjk7bhgb03oh2altq3zlq8bi)** *(December 24, 2025)*  
-  Seattle mourns charcuterie pioneer Armandino Batali. Discover how the Salumi founder, a former Boeing engineer, redefined American cured meats.
-- **[Jobless Claims Fell Last Week](https://caymanjournal.com/articles/jobless-claims-fell-last-week-cmjk7a2qu03ob2alt89eghg2j)** *(December 24, 2025)*  
-  Unexpected dip in US jobless claims to 210K offers resilience, but rising continuing claims hint at a complex labor market. Read the analysis.
-- **[Stock Futures Inch Lower; Metals Extend Rally](https://caymanjournal.com/articles/stock-futures-inch-lower-metals-extend-rally-cmjk2zsh403nv2altiiec4l4b)** *(December 24, 2025)*  
-  Commodity markets surge: Copper tops $10K, gold climbs amid inflation & demand. Understand this metals rally & its divergence from quiet equities.
-- **[More Private-Equity Firms Plan to Sell Stakes to Raise Cash](https://caymanjournal.com/articles/more-private-equity-firms-plan-to-sell-stakes-to-raise-cash-cmjk30oww03ny2altpol0djke)** *(December 24, 2025)*  
-  PE firms increasingly sell GP stakes for liquidity & growth capital. Will buyer demand match soaring supply and high valuations to secure their future...
+- **[America’s Biggest Oil Field Is Turning Into a Pressure Cooker](https://caymanjournal.com/articles/americas-biggest-oil-field-is-turning-into-a-pressure-cooker-cmjmgqjd603zp2alt7u96wo2g)** *(December 26, 2025)*  
+  Permian Basin's future is threatened by escalating wastewater injection. Earthquakes, infrastructure damage & oil production challenges are critical c...
+- **[Family Offices Have Become the New Power Players on Wall Street](https://caymanjournal.com/articles/family-offices-have-become-the-new-power-players-on-wall-str-cmjmcm0yu03x22altbqlc1ozr)** *(December 26, 2025)*  
+  Family offices are quietly transforming global finance. Discover how these agile, patient capital power players are moving to direct investing & resha...
+- **[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://caymanjournal.com/articles/even-the-companies-making-humanoid-robots-think-theyre-overh-cmjmcgud003wu2alt17lqr8b3)** *(December 26, 2025)*  
+  Leading robotics founders and engineers admit humanoid robots are overhyped. Unpack the real AI and engineering challenges slowing general-purpose dep...
+- **[Japan Unveils Record $785 Billion Budget, Signaling Takaichi's Growth Push](https://caymanjournal.com/articles/japan-unveils-record-785-billion-budget-signaling-takaichis-cmjmcfslp03wr2altszlp6z08)** *(December 26, 2025)*  
+  Tokyo approves Japan's $785B record budget under PM Takaichi. See how aggressive spending targets tech, green energy, welfare, & defense amidst econom...
+- **[Japan Nears 2% Inflation Target, BOJ Governor Signals Further Rate Hikes](https://caymanjournal.com/articles/japan-nears-2-inflation-target-boj-governor-signals-further-cmjm85ejd03tq2altstx3m6c1)** *(December 25, 2025)*  
+  Japan's BOJ confirms nearing its 2% inflation target, signaling further interest rate hikes. Learn how wage growth is ending deflation & transforming ...
+- **[Nike’s Revival of Classic Brand Has a Hitch—Soccer Coach Grabbed the Trademark](https://caymanjournal.com/articles/nikes-revival-of-classic-brand-has-a-hitchsoccer-coach-grabb-cmjlr2ezc03q02alt4hpetlah)** *(December 25, 2025)*  
+  Nike's Total 90 World Cup relaunch is threatened! A youth soccer coach secured their forgotten trademark. Discover Nike's options & the impact.
+- **[Big Corporations are Booming on AI and Record Profits—But Small Businesses Face Tariffs, Rising Costs, and Job Cuts, Widening America’s Economic Divide](https://caymanjournal.com/articles/big-corporations-are-booming-on-ai-and-record-profitsbut-sma-cmjleao1o03ps2altm49gv4dc)** *(December 25, 2025)*  
+  Explore America's K-shaped economy: AI drives tech giants to record profits, as tariffs & costs squeeze small businesses, causing job cuts.
+- **[Warren Buffett and Private Equity Both Love Insurance. The Similarities End There.](https://caymanjournal.com/articles/warren-buffett-and-private-equity-both-love-insurance-the-si-cmjle87ga03pp2altvus781mt)** *(December 25, 2025)*  
+  Buffett's long-term compounding vs. PE's rapid returns: See how these titans invest insurance float, the financial world's unique, interest-free capit...
+- **[The Widening Chasm: How the Economic Divide Between Big and Small Companies Is Growing](https://caymanjournal.com/articles/the-widening-chasm-how-the-economic-divide-between-big-and-s-cmjlebm1503pv2altkmfp1nbt)** *(December 25, 2025)*  
+  A startling economic divide emerges between corporate giants and SMEs. Learn how capital, tech, and talent gaps reshape markets and economic resilienc...
+- **[Goldman Sachs’s Private-Credit Company Struggles to Clean Up Soured Bets](https://caymanjournal.com/articles/goldman-sachss-private-credit-company-struggles-to-clean-up-cmjle7n4403pm2altxaessr06)** *(December 25, 2025)*  
+  Goldman Sachs BDC grapples with souring private credit investments as interest rates rise. Its stock tumbled 15%. Discover the challenges facing the $...
 
 ### 🏢 Business
 
+- **[America’s Biggest Oil Field Is Turning Into a Pressure Cooker](https://caymanjournal.com/articles/americas-biggest-oil-field-is-turning-into-a-pressure-cooker-cmjmgqjd603zp2alt7u96wo2g)** *(December 26, 2025)*  
+  Permian Basin's future is threatened by escalating wastewater injection. Earthquakes, infrastructure damage & oil production challenges are critical c...
+- **[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://caymanjournal.com/articles/even-the-companies-making-humanoid-robots-think-theyre-overh-cmjmcgud003wu2alt17lqr8b3)** *(December 26, 2025)*  
+  Leading robotics founders and engineers admit humanoid robots are overhyped. Unpack the real AI and engineering challenges slowing general-purpose dep...
+- **[Nike’s Revival of Classic Brand Has a Hitch—Soccer Coach Grabbed the Trademark](https://caymanjournal.com/articles/nikes-revival-of-classic-brand-has-a-hitchsoccer-coach-grabb-cmjlr2ezc03q02alt4hpetlah)** *(December 25, 2025)*  
+  Nike's Total 90 World Cup relaunch is threatened! A youth soccer coach secured their forgotten trademark. Discover Nike's options & the impact.
+- **[The Widening Chasm: How the Economic Divide Between Big and Small Companies Is Growing](https://caymanjournal.com/articles/the-widening-chasm-how-the-economic-divide-between-big-and-s-cmjlebm1503pv2altkmfp1nbt)** *(December 25, 2025)*  
+  A startling economic divide emerges between corporate giants and SMEs. Learn how capital, tech, and talent gaps reshape markets and economic resilienc...
 - **[The Boss Who Gave His Employees a $240 Million Gift](https://caymanjournal.com/articles/the-boss-who-gave-his-employees-a-240-million-gift-cmjkwzwqx03p82altj3ua4s5o)** *(December 25, 2025)*  
   Louisiana CEO Graham Walker gifted 540 employees $240M ($444,444 each) from his company sale. A powerful statement on loyalty and human capital.
 - **[Saks Clients Complained About Stylist Long Before He Was Accused of $400,000 Scam](https://caymanjournal.com/articles/saks-clients-complained-about-stylist-long-before-he-was-acc-cmjkx0goy03pb2altl8gfxcab)** *(December 25, 2025)*  
@@ -70,17 +78,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Seattle mourns charcuterie pioneer Armandino Batali. Discover how the Salumi founder, a former Boeing engineer, redefined American cured meats.
 - **[AI Construction Costs Can Be an Accounting ‘Black Box’](https://caymanjournal.com/articles/ai-construction-costs-can-be-an-accounting-black-box-cmjjytqsk03no2altjdak263j)** *(December 24, 2025)*  
   AI infrastructure investments create an accounting 'black box.' Discover how rapid chip obsolescence distorts asset values & misleadingly inflates pro...
-- **[Sapporo to Sell Real-Estate Business to KKR-PAG Consortium in Major Strategic Shift](https://caymanjournal.com/articles/sapporo-to-sell-real-estate-business-to-kkr-pag-consortium-i-cmjjuhiao03mz2altdb3aplik)** *(December 24, 2025)*  
-  Sapporo sells its $3B real estate subsidiary to KKR & PAG consortium, sharpening its focus on core beverage & food businesses. Learn the impact.
-- **[Sanofi to Buy Vaccine Maker Dynavax in $2.2 Billion Deal](https://caymanjournal.com/articles/sanofi-to-buy-vaccine-maker-dynavax-in-22-billion-deal-cmjjq75za03ms2alticay1zbm)** *(December 24, 2025)*  
-  Sanofi acquires Dynavax for $2.2B, fortifying its vaccine portfolio with revolutionary CpG 1018 adjuvant technology to accelerate development.
-- **[Waymo to Update Software Across Fleet After San Francisco Power Outage](https://caymanjournal.com/articles/waymo-to-update-software-across-fleet-after-san-francisco-po-cmjjlzv7q03ml2altk0k65psa)** *(December 24, 2025)*  
-  Waymo rolls out a critical software update across its self-driving fleet after AVs froze during a San Francisco power outage. Learn how it boosts safe...
-- **[BP Is Near Deal to Sell Majority Stake in Castrol to Stonepeak in $10 Billion Deal](https://caymanjournal.com/articles/bp-is-near-deal-to-sell-majority-stake-in-castrol-to-stonepe-cmjjhq8j903mb2alt6sftypob)** *(December 24, 2025)*  
-  BP to divest majority Castrol stake to Stonepeak for $10B, fueling its low-carbon transition and $20B asset sale goal. Explore the deal's impact.
 
 ### 🏛️ Economy
 
+- **[Japan Unveils Record $785 Billion Budget, Signaling Takaichi's Growth Push](https://caymanjournal.com/articles/japan-unveils-record-785-billion-budget-signaling-takaichis-cmjmcfslp03wr2altszlp6z08)** *(December 26, 2025)*  
+  Tokyo approves Japan's $785B record budget under PM Takaichi. See how aggressive spending targets tech, green energy, welfare, & defense amidst econom...
+- **[Japan Nears 2% Inflation Target, BOJ Governor Signals Further Rate Hikes](https://caymanjournal.com/articles/japan-nears-2-inflation-target-boj-governor-signals-further-cmjm85ejd03tq2altstx3m6c1)** *(December 25, 2025)*  
+  Japan's BOJ confirms nearing its 2% inflation target, signaling further interest rate hikes. Learn how wage growth is ending deflation & transforming ...
+- **[Big Corporations are Booming on AI and Record Profits—But Small Businesses Face Tariffs, Rising Costs, and Job Cuts, Widening America’s Economic Divide](https://caymanjournal.com/articles/big-corporations-are-booming-on-ai-and-record-profitsbut-sma-cmjleao1o03ps2altm49gv4dc)** *(December 25, 2025)*  
+  Explore America's K-shaped economy: AI drives tech giants to record profits, as tariffs & costs squeeze small businesses, causing job cuts.
 - **[Jobless Claims Fell Last Week](https://caymanjournal.com/articles/jobless-claims-fell-last-week-cmjk7a2qu03ob2alt89eghg2j)** *(December 24, 2025)*  
   Unexpected dip in US jobless claims to 210K offers resilience, but rising continuing claims hint at a complex labor market. Read the analysis.
 - **[Capital Account: President Trump’s Social-Media Post Shows Worries About Kevin Hassett Miss the Point. Trump’s Conditions Compromise All the Candidates.](https://caymanjournal.com/articles/capital-account-president-trumps-social-media-post-shows-wor-cmjjysqzv03nl2alt1grbz5jj)** *(December 24, 2025)*  
@@ -95,15 +101,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   US economy's Q3 GDP growth hits a robust 4.3%, a major positive surprise beating estimates & easing recession fears. Understand its implications.
 - **[Durable-Goods Orders Swing to October Decline, Signaling Economic Cooling](https://caymanjournal.com/articles/durable-goods-orders-swing-to-october-decline-signaling-econ-cmjis32pg03jn2alt5boyzdj2)** *(December 23, 2025)*  
   October US durable goods orders plunged 5.4%, revealing a manufacturing setback. Discover the impact on the economy, inflation & interest rate policy.
-- **[Canada's GDP Edges Up Marginally in November, Following October's Steep Contraction](https://caymanjournal.com/articles/canadas-gdp-edges-up-marginally-in-november-following-octobe-cmjis3loc03jq2altvprn38zk)** *(December 23, 2025)*  
-  Canada's GDP likely rose 0.1% in November after October's 0.5% contraction. Understand the uneven Q4 2025 economy & BoC's interest rate dilemma.
-- **[Heard on the Street: Japan Was a Global Bright Spot in 2025, Likely to Remain So in 2026](https://caymanjournal.com/articles/heard-on-the-street-japan-was-a-global-bright-spot-in-2025-l-cmjinjvta03in2alt19kpma49)** *(December 23, 2025)*  
-  Forget Japan's debt headlines! Learn how internal JGB ownership, corporate transformation, and export booms drove 2025 growth, setting a bright outloo...
-- **[Canada’s Consumer Heads Into 2026 on Firmer Footing](https://caymanjournal.com/articles/canadas-consumer-heads-into-2026-on-firmer-footing-cmjhgu47g03f32alt7jybsjo6)** *(December 22, 2025)*  
-  Canadian consumers exit 2025 in strong shape, shrugging off fears for confident spending into 2026. Discover Canada's resilient economic outlook and k...
 
 ### 📈 Markets & Finance
 
+- **[Family Offices Have Become the New Power Players on Wall Street](https://caymanjournal.com/articles/family-offices-have-become-the-new-power-players-on-wall-str-cmjmcm0yu03x22altbqlc1ozr)** *(December 26, 2025)*  
+  Family offices are quietly transforming global finance. Discover how these agile, patient capital power players are moving to direct investing & resha...
+- **[Goldman Sachs’s Private-Credit Company Struggles to Clean Up Soured Bets](https://caymanjournal.com/articles/goldman-sachss-private-credit-company-struggles-to-clean-up-cmjle7n4403pm2altxaessr06)** *(December 25, 2025)*  
+  Goldman Sachs BDC grapples with souring private credit investments as interest rates rise. Its stock tumbled 15%. Discover the challenges facing the $...
+- **[Warren Buffett and Private Equity Both Love Insurance. The Similarities End There.](https://caymanjournal.com/articles/warren-buffett-and-private-equity-both-love-insurance-the-si-cmjle87ga03pp2altvus781mt)** *(December 25, 2025)*  
+  Buffett's long-term compounding vs. PE's rapid returns: See how these titans invest insurance float, the financial world's unique, interest-free capit...
 - **[Nike Stock Price Gets a Lift After Apple’s Tim Cook Doubles His Stake](https://caymanjournal.com/articles/nike-stock-price-gets-a-lift-after-apples-tim-cook-doubles-h-cmjkbq0ay03ou2altn1eaoapf)** *(December 24, 2025)*  
   Tim Cook, Nike's independent director, spent $2.9M to double his stake in Nike stock after a recent dip. This insider move boosts market confidence.
 - **[Stock Futures Inch Lower; Metals Extend Rally](https://caymanjournal.com/articles/stock-futures-inch-lower-metals-extend-rally-cmjk2zsh403nv2altiiec4l4b)** *(December 24, 2025)*  
@@ -118,12 +124,6 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   South Korean Won (KRW) gains after policymakers issue a stern warning against "excessive weakness." Understand the economic stakes and why interventio...
 - **[S&P 500 Hits Record on Fourth Straight Up Day](https://caymanjournal.com/articles/sp-500-hits-record-on-fourth-straight-up-day-cmjj92h6w03l62altxho3o16m)** *(December 23, 2025)*  
   S&P 500 soars to new records 4 days straight, propelled by tech giants Nvidia & Broadcom. Explore AI's transformative role & market growth prospects.
-- **[Oil Futures Slip With Venezuela, Russia-Ukraine in Focus](https://caymanjournal.com/articles/oil-futures-slip-with-venezuela-russia-ukraine-in-focus-cmjirzvyk03jh2altjdy7jqjs)** *(December 23, 2025)*  
-  Oil futures dip after Venezuela sanctions rally. Understand the complex interplay of supply, geopolitics, and demand shaping crude oil prices today.
-- **[Why Japan’s Stock Market Can Keep Rising](https://caymanjournal.com/articles/why-japans-stock-market-can-keep-rising-cmjinpdp903iq2altwf34hsqi)** *(December 23, 2025)*  
-  Japan's stock market defies fears. Learn why the Nikkei's historic rally is sustainable, driven by BoJ normalization, corporate reform, and unique deb...
-- **[Oil Prices Flat After Hitting Largest Gain Since October on Monday](https://caymanjournal.com/articles/oil-prices-flat-after-hitting-largest-gain-since-october-on-cmjijg65h03ig2altr7p83fzy)** *(December 23, 2025)*  
-  Oil prices flatten after Monday's huge jump. Learn how geopolitical risks, economic growth, & supply/demand shape crude oil's volatile future.
 
 ### 💻 Technology
 
@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Chinese AI chip giant Biren Technology targets HK$4.85B IPO in Hong Kong. Learn how this 'Little Dragon' fuels China's semiconductor self-sufficiency ...
 
 
-*Last updated: December 25, 2025 at 06:30 UTC*
+*Last updated: December 26, 2025 at 06:29 UTC*
 
 <!-- FEED:END -->
 
