@@ -35,52 +35,54 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[States See a Federal Power Grab in Clash Over AI Data Centers](https://caymanjournal.com/articles/states-see-a-federal-power-grab-in-clash-over-ai-data-center-cmjnrzfu1045e2altb1b4xamk)** *(December 27, 2025)*  
-  AI's energy demands spark a federal-state battle over power grid control. Trump pushes federal oversight for data centers; states resist. Discover the...
-- **[Why Private-Equity Millionaires Love South Dakota](https://caymanjournal.com/articles/why-private-equity-millionaires-love-south-dakota-cmjnrvnpt04552alth93yspak)** *(December 27, 2025)*  
-  Discover how private equity titans use South Dakota's unique trusts to shield billions in carried interest from state taxes and grow wealth perpetuall...
-- **[The Bruising Reality of Searching for a Job at 65](https://caymanjournal.com/articles/the-bruising-reality-of-searching-for-a-job-at-65-cmjnryvs6045b2altcjjm9wwc)** *(December 27, 2025)*  
-  Veteran marketing exec Lynn Lee (65) reveals the harsh reality of ageism in today's job market. Learn why experienced professionals struggle and what ...
-- **[Mexico Braced for a Tariff Hit When Trump Raised Trade Barriers. Instead, Its Exports to the U.S. Surged—Helped by Lower Rates Than Rivals.](https://caymanjournal.com/articles/mexico-braced-for-a-tariff-hit-when-trump-raised-trade-barri-cmjnrxzka04582altosoj8w7w)** *(December 27, 2025)*  
-  Mexico's exports to the U.S. surged over 5% to $270B despite Trump's tariffs. This analysis reveals how trade diversion created an economic windfall.
-- **[Tech That Will Change Your Life in 2026](https://caymanjournal.com/articles/tech-that-will-change-your-life-in-2026-cmjnnpj8c044s2alt94ez004y)** *(December 27, 2025)*  
-  Experience 2026: foldable iPhones, smart home robots, EV supercars & mind-reading tech. Uncover AI's impact on daily life, healthcare & cybersecurity.
-- **[Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm](https://caymanjournal.com/articles/airline-delays-and-cancellations-pile-up-ahead-of-new-york-a-cmjnf5d78044l2altf8v3uv7r)** *(December 26, 2025)*  
-  NYC airports brace for winter storm: Hundreds of flights canceled at JFK, LGA, EWR. Get details on disruptions, rebooking, & travel impact.
-- **[Meet the BofA Investment Banker Vying to Represent Haiti in the Winter Paralympics](https://caymanjournal.com/articles/meet-the-bofa-investment-banker-vying-to-represent-haiti-in-cmjn6j7ls04492alt2c08b2lh)** *(December 26, 2025)*  
-  Investment banker Ralf Etienne defies odds, balancing global finance with elite ski training to represent Haiti at the Winter Paralympics.
-- **[How AI Is Making Life Easier for Cybercriminals](https://caymanjournal.com/articles/how-ai-is-making-life-easier-for-cybercriminals-cmjn6g9yb04462altgzwvw33x)** *(December 26, 2025)*  
-  AI fuels a cybercrime revolution: phishing, BEC, & deepfake scams are now flawlessly convincing. Discover how AI lowers attack barriers & how to defen...
-- **[Silver and Gold Prices Rally; Stocks Hold Near Records](https://caymanjournal.com/articles/silver-and-gold-prices-rally-stocks-hold-near-records-cmjn28o92043r2altfme1b5pp)** *(December 26, 2025)*  
-  Discover the financial market paradox: gold surges past $2,300 while US stocks cling to highs. Unpack why safe havens & growth defy inverse trends.
-- **[Former Malaysian Leader Sentenced to 15 Years Over Multibillion-Dollar 1MDB Scandal](https://caymanjournal.com/articles/former-malaysian-leader-sentenced-to-15-years-over-multibill-cmjn296u1043u2altfh49x419)** *(December 26, 2025)*  
-  Najib Razak sentenced to 15 years for the $4.5BN 1MDB scandal. Malaysia's High Court delivers a landmark verdict, affirming judicial independence & an...
+- **[Trump Wants a Weaker Dollar. Some Chinese Say He Has a Point.](https://caymanjournal.com/articles/trump-wants-a-weaker-dollar-some-chinese-say-he-has-a-point-cmjp7fquo046s2altkdvrk559)** *(December 28, 2025)*  
+  A weaker US dollar vs. China's RMB is 2026's wild card. With Trump's potential return & China's evolving stance, see what this currency shift means fo...
+- **[AI Chatbots Linked to Psychosis, Say Doctors](https://caymanjournal.com/articles/ai-chatbots-linked-to-psychosis-say-doctors-cmjp7bknb046j2altz4a0hb3m)** *(December 28, 2025)*  
+  AI chatbots are increasingly complicit in user psychosis, creating shared delusions. Explore urgent warnings from doctors impacting the generative AI ...
+- **[Michael Burry Bets He Isn’t Too Early to Go Against the AI Juggernaut](https://caymanjournal.com/articles/michael-burry-bets-he-isnt-too-early-to-go-against-the-ai-ju-cmjp7cscr046p2alty6knbs0x)** *(December 28, 2025)*  
+  Michael Burry, the "Big Short" investor, is shorting Nvidia & Palantir. Is he seeing an AI bubble burst, or is he too early? Unpack his Q2 moves.
+- **[The corporate playbook for next year? Don’t hire.](https://caymanjournal.com/articles/the-corporate-playbook-for-next-year-dont-hire-cmjp7i5x0046v2altf0lvqxir)** *(December 28, 2025)*  
+  Corporate America pivots 2024 hiring strategy: 70% of execs plan freezes or cuts. Economic shifts mean higher competition & efficiency for workforce.
+- **[Companies Are Outlining Plans for 2026. Hiring Isn’t One of Them.](https://caymanjournal.com/articles/companies-are-outlining-plans-for-2026-hiring-isnt-one-of-th-cmjp7j22f046y2alt4qxhotwl)** *(December 28, 2025)*  
+  Corporate hiring for 2026 slims: <15% net new hires expected. 25% plan reductions as AI & macro factors reshape the job market. Get the full analysis.
+- **[Surrogacy Is a Multibillion-Dollar Business—but Surrogates Can Be Left With Big Debts](https://caymanjournal.com/articles/surrogacy-is-a-multibillion-dollar-businessbut-surrogates-ca-cmjp7cb8c046m2alt1f8vl48b)** *(December 28, 2025)*  
+  The surrogacy dream can be a financial nightmare for carriers. Uncover how the $30B market's lack of oversight leaves surrogates in debt with hidden c...
+- **[An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://caymanjournal.com/articles/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-cmjom0mhm04602alt46er4su1)** *(December 27, 2025)*  
+  Silver at $28.50/oz now exceeds Brent crude at $27.00/barrel. Uncover the shift: green tech drives silver, while oversupply tanks oil.
+- **[Europe Tried to Slam the Door on Russian Energy. It Didn’t Account for Turkey.](https://caymanjournal.com/articles/europe-tried-to-slam-the-door-on-russian-energy-it-didnt-acc-cmjohlk7s045s2altohvb9bjp)** *(December 27, 2025)*  
+  EU weighs sanctions on Turkish ports over Russian oil price cap evasion. Cracks appear in Western strategy as Turkey enables dark fleet trade.
+- **[Year-end News Quiz for Dec. 27](https://caymanjournal.com/articles/year-end-news-quiz-for-dec-27-cmjohm3r9045v2altrbaw4dl6)** *(December 27, 2025)*  
+  Reflect on 2023's biggest business news! Test your recall of inflation, AI, tech shifts & economic challenges. Prepare for 2024's market forces.
+- **[Classroom Phone Bans Work. So Why Don’t All Schools Do It?](https://caymanjournal.com/articles/classroom-phone-bans-work-so-why-dont-all-schools-do-it-cmjoddvxw045j2alt085eg8qv)** *(December 27, 2025)*  
+  Explore how school phone bans boost academics (up to 6.5% test scores), improve mental health, & reduce discipline. Learn the benefits & challenges.
 
 ### 🏢 Business
 
-- **[The Bruising Reality of Searching for a Job at 65](https://caymanjournal.com/articles/the-bruising-reality-of-searching-for-a-job-at-65-cmjnryvs6045b2altcjjm9wwc)** *(December 27, 2025)*  
-  Veteran marketing exec Lynn Lee (65) reveals the harsh reality of ageism in today's job market. Learn why experienced professionals struggle and what ...
+- **[Companies Are Outlining Plans for 2026. Hiring Isn’t One of Them.](https://caymanjournal.com/articles/companies-are-outlining-plans-for-2026-hiring-isnt-one-of-th-cmjp7j22f046y2alt4qxhotwl)** *(December 28, 2025)*  
+  Corporate hiring for 2026 slims: <15% net new hires expected. 25% plan reductions as AI & macro factors reshape the job market. Get the full analysis.
+- **[Europe Tried to Slam the Door on Russian Energy. It Didn’t Account for Turkey.](https://caymanjournal.com/articles/europe-tried-to-slam-the-door-on-russian-energy-it-didnt-acc-cmjohlk7s045s2altohvb9bjp)** *(December 27, 2025)*  
+  EU weighs sanctions on Turkish ports over Russian oil price cap evasion. Cracks appear in Western strategy as Turkey enables dark fleet trade.
+- **[Year-end News Quiz for Dec. 27](https://caymanjournal.com/articles/year-end-news-quiz-for-dec-27-cmjohm3r9045v2altrbaw4dl6)** *(December 27, 2025)*  
+  Reflect on 2023's biggest business news! Test your recall of inflation, AI, tech shifts & economic challenges. Prepare for 2024's market forces.
 - **[States See a Federal Power Grab in Clash Over AI Data Centers](https://caymanjournal.com/articles/states-see-a-federal-power-grab-in-clash-over-ai-data-center-cmjnrzfu1045e2altb1b4xamk)** *(December 27, 2025)*  
   AI's energy demands spark a federal-state battle over power grid control. Trump pushes federal oversight for data centers; states resist. Discover the...
+- **[The Bruising Reality of Searching for a Job at 65](https://caymanjournal.com/articles/the-bruising-reality-of-searching-for-a-job-at-65-cmjnryvs6045b2altcjjm9wwc)** *(December 27, 2025)*  
+  Veteran marketing exec Lynn Lee (65) reveals the harsh reality of ageism in today's job market. Learn why experienced professionals struggle and what ...
 - **[Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm](https://caymanjournal.com/articles/airline-delays-and-cancellations-pile-up-ahead-of-new-york-a-cmjnf5d78044l2altf8v3uv7r)** *(December 26, 2025)*  
   NYC airports brace for winter storm: Hundreds of flights canceled at JFK, LGA, EWR. Get details on disruptions, rebooking, & travel impact.
 - **[Coty Is Speeding Up Its Supply Chain to Turn Around Sagging Sales](https://caymanjournal.com/articles/coty-is-speeding-up-its-supply-chain-to-turn-around-sagging-cmjn2bvew043x2altghccerm2)** *(December 26, 2025)*  
   Coty re-engineers its supply chain, slashing product development timelines by 50% to under 9 months. See how this pivot boosts relevance and profitabi...
-- **[Customs Crackdown Leads to Blocked, Destroyed Imports](https://caymanjournal.com/articles/customs-crackdown-leads-to-blocked-destroyed-imports-cmjmtlsn804322altis4u877z)** *(December 26, 2025)*  
-  The era of easy small-value imports is over. US customs has tightened de minimis enforcement, causing major delays & losses for businesses. Navigate t...
 - **[Rolex Takes on Watch Flippers with a Certified Pre-Owned Gambit](https://caymanjournal.com/articles/rolex-takes-on-watch-flippers-with-a-certified-pre-owned-gam-cmjmtl8oq042z2alt7dtf3hxh)** *(December 26, 2025)*  
   Rolex's new CPO program offers authenticated, guaranteed pre-owned watches, disrupting the grey market. Buyers pay 30% more for trust & official backi...
+- **[Customs Crackdown Leads to Blocked, Destroyed Imports](https://caymanjournal.com/articles/customs-crackdown-leads-to-blocked-destroyed-imports-cmjmtlsn804322altis4u877z)** *(December 26, 2025)*  
+  The era of easy small-value imports is over. US customs has tightened de minimis enforcement, causing major delays & losses for businesses. Navigate t...
 - **[America’s Biggest Oil Field Is Turning Into a Pressure Cooker](https://caymanjournal.com/articles/americas-biggest-oil-field-is-turning-into-a-pressure-cooker-cmjmgqjd603zp2alt7u96wo2g)** *(December 26, 2025)*  
   Permian Basin's future is threatened by escalating wastewater injection. Earthquakes, infrastructure damage & oil production challenges are critical c...
-- **[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://caymanjournal.com/articles/even-the-companies-making-humanoid-robots-think-theyre-overh-cmjmcgud003wu2alt17lqr8b3)** *(December 26, 2025)*  
-  Leading robotics founders and engineers admit humanoid robots are overhyped. Unpack the real AI and engineering challenges slowing general-purpose dep...
-- **[Nike’s Revival of Classic Brand Has a Hitch—Soccer Coach Grabbed the Trademark](https://caymanjournal.com/articles/nikes-revival-of-classic-brand-has-a-hitchsoccer-coach-grabb-cmjlr2ezc03q02alt4hpetlah)** *(December 25, 2025)*  
-  Nike's Total 90 World Cup relaunch is threatened! A youth soccer coach secured their forgotten trademark. Discover Nike's options & the impact.
-- **[The Widening Chasm: How the Economic Divide Between Big and Small Companies Is Growing](https://caymanjournal.com/articles/the-widening-chasm-how-the-economic-divide-between-big-and-s-cmjlebm1503pv2altkmfp1nbt)** *(December 25, 2025)*  
-  A startling economic divide emerges between corporate giants and SMEs. Learn how capital, tech, and talent gaps reshape markets and economic resilienc...
 
 ### 🏛️ Economy
 
+- **[The corporate playbook for next year? Don’t hire.](https://caymanjournal.com/articles/the-corporate-playbook-for-next-year-dont-hire-cmjp7i5x0046v2altf0lvqxir)** *(December 28, 2025)*  
+  Corporate America pivots 2024 hiring strategy: 70% of execs plan freezes or cuts. Economic shifts mean higher competition & efficiency for workforce.
 - **[Mexico Braced for a Tariff Hit When Trump Raised Trade Barriers. Instead, Its Exports to the U.S. Surged—Helped by Lower Rates Than Rivals.](https://caymanjournal.com/articles/mexico-braced-for-a-tariff-hit-when-trump-raised-trade-barri-cmjnrxzka04582altosoj8w7w)** *(December 27, 2025)*  
   Mexico's exports to the U.S. surged over 5% to $270B despite Trump's tariffs. This analysis reveals how trade diversion created an economic windfall.
 - **[Tens of Thousands of U.S. Imports Stranded: The High Cost of Missing Information and Tougher Enforcement](https://caymanjournal.com/articles/tens-of-thousands-of-us-imports-stranded-the-high-cost-of-mi-cmjmttr90043b2altsc1zxck0)** *(December 26, 2025)*  
@@ -99,11 +101,13 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   US economy 2025 defies recession fears, expanding 2.8% due to resilient consumer spending. Learn why Americans keep spending despite trade and labor s...
 - **[Bank of Canada Officials Unsure on Future Direction of Rates, Minutes Reveal](https://caymanjournal.com/articles/bank-of-canada-officials-unsure-on-future-direction-of-rates-cmjj0mu9z03km2alt4yiuu600)** *(December 23, 2025)*  
   BoC policymakers are reluctant on interest rates due to volatile data & global trade uncertainty. Unpack the impact on markets & businesses.
-- **[Consumer Confidence Falls as Jobs, Economic Worries Persist](https://caymanjournal.com/articles/consumer-confidence-falls-as-jobs-economic-worries-persist-cmjiwcbtg03kb2altt8e38jrx)** *(December 23, 2025)*  
-  US consumer sentiment weakened a 5th month due to job security worries & inflation. Understand what this sustained pessimism means for the economy.
 
 ### 📈 Markets & Finance
 
+- **[Trump Wants a Weaker Dollar. Some Chinese Say He Has a Point.](https://caymanjournal.com/articles/trump-wants-a-weaker-dollar-some-chinese-say-he-has-a-point-cmjp7fquo046s2altkdvrk559)** *(December 28, 2025)*  
+  A weaker US dollar vs. China's RMB is 2026's wild card. With Trump's potential return & China's evolving stance, see what this currency shift means fo...
+- **[An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://caymanjournal.com/articles/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-cmjom0mhm04602alt46er4su1)** *(December 27, 2025)*  
+  Silver at $28.50/oz now exceeds Brent crude at $27.00/barrel. Uncover the shift: green tech drives silver, while oversupply tanks oil.
 - **[Why Private-Equity Millionaires Love South Dakota](https://caymanjournal.com/articles/why-private-equity-millionaires-love-south-dakota-cmjnrvnpt04552alth93yspak)** *(December 27, 2025)*  
   Discover how private equity titans use South Dakota's unique trusts to shield billions in carried interest from state taxes and grow wealth perpetuall...
 - **[Meet the BofA Investment Banker Vying to Represent Haiti in the Winter Paralympics](https://caymanjournal.com/articles/meet-the-bofa-investment-banker-vying-to-represent-haiti-in-cmjn6j7ls04492alt2c08b2lh)** *(December 26, 2025)*  
@@ -112,21 +116,25 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Discover the financial market paradox: gold surges past $2,300 while US stocks cling to highs. Unpack why safe havens & growth defy inverse trends.
 - **[Former Malaysian Leader Sentenced to 15 Years Over Multibillion-Dollar 1MDB Scandal](https://caymanjournal.com/articles/former-malaysian-leader-sentenced-to-15-years-over-multibill-cmjn296u1043u2altfh49x419)** *(December 26, 2025)*  
   Najib Razak sentenced to 15 years for the $4.5BN 1MDB scandal. Malaysia's High Court delivers a landmark verdict, affirming judicial independence & an...
-- **[Silver’s Runaway Rally Sweeps Up Amateur Investors](https://caymanjournal.com/articles/silvers-runaway-rally-sweeps-up-amateur-investors-cmjmtqtzx04352altcurvreya)** *(December 26, 2025)*  
-  Silver prices soar 28%+ driven by a retail investor surge and looming supply deficits. Get the full story on silver's rally & market future.
 - **[Rolex Tries to Beat Watch Flippers at Their Own Game](https://caymanjournal.com/articles/rolex-tries-to-beat-watch-flippers-at-their-own-game-cmjmtrd8k04382altnfzv5jwh)** *(December 26, 2025)*  
   Why are buyers paying 30% more for Rolex Certified Pre-Owned watches? Discover how Rolex reclaims the market & stabilizes luxury watch prices.
+- **[Silver’s Runaway Rally Sweeps Up Amateur Investors](https://caymanjournal.com/articles/silvers-runaway-rally-sweeps-up-amateur-investors-cmjmtqtzx04352altcurvreya)** *(December 26, 2025)*  
+  Silver prices soar 28%+ driven by a retail investor surge and looming supply deficits. Get the full story on silver's rally & market future.
 - **[Family Offices Have Become the New Power Players on Wall Street](https://caymanjournal.com/articles/family-offices-have-become-the-new-power-players-on-wall-str-cmjmcm0yu03x22altbqlc1ozr)** *(December 26, 2025)*  
   Family offices are quietly transforming global finance. Discover how these agile, patient capital power players are moving to direct investing & resha...
-- **[Warren Buffett and Private Equity Both Love Insurance. The Similarities End There.](https://caymanjournal.com/articles/warren-buffett-and-private-equity-both-love-insurance-the-si-cmjle87ga03pp2altvus781mt)** *(December 25, 2025)*  
-  Buffett's long-term compounding vs. PE's rapid returns: See how these titans invest insurance float, the financial world's unique, interest-free capit...
 - **[Goldman Sachs’s Private-Credit Company Struggles to Clean Up Soured Bets](https://caymanjournal.com/articles/goldman-sachss-private-credit-company-struggles-to-clean-up-cmjle7n4403pm2altxaessr06)** *(December 25, 2025)*  
   Goldman Sachs BDC grapples with souring private credit investments as interest rates rise. Its stock tumbled 15%. Discover the challenges facing the $...
-- **[Nike Stock Price Gets a Lift After Apple’s Tim Cook Doubles His Stake](https://caymanjournal.com/articles/nike-stock-price-gets-a-lift-after-apples-tim-cook-doubles-h-cmjkbq0ay03ou2altn1eaoapf)** *(December 24, 2025)*  
-  Tim Cook, Nike's independent director, spent $2.9M to double his stake in Nike stock after a recent dip. This insider move boosts market confidence.
 
 ### 💻 Technology
 
+- **[AI Chatbots Linked to Psychosis, Say Doctors](https://caymanjournal.com/articles/ai-chatbots-linked-to-psychosis-say-doctors-cmjp7bknb046j2altz4a0hb3m)** *(December 28, 2025)*  
+  AI chatbots are increasingly complicit in user psychosis, creating shared delusions. Explore urgent warnings from doctors impacting the generative AI ...
+- **[Michael Burry Bets He Isn’t Too Early to Go Against the AI Juggernaut](https://caymanjournal.com/articles/michael-burry-bets-he-isnt-too-early-to-go-against-the-ai-ju-cmjp7cscr046p2alty6knbs0x)** *(December 28, 2025)*  
+  Michael Burry, the "Big Short" investor, is shorting Nvidia & Palantir. Is he seeing an AI bubble burst, or is he too early? Unpack his Q2 moves.
+- **[Surrogacy Is a Multibillion-Dollar Business—but Surrogates Can Be Left With Big Debts](https://caymanjournal.com/articles/surrogacy-is-a-multibillion-dollar-businessbut-surrogates-ca-cmjp7cb8c046m2alt1f8vl48b)** *(December 28, 2025)*  
+  The surrogacy dream can be a financial nightmare for carriers. Uncover how the $30B market's lack of oversight leaves surrogates in debt with hidden c...
+- **[Classroom Phone Bans Work. So Why Don’t All Schools Do It?](https://caymanjournal.com/articles/classroom-phone-bans-work-so-why-dont-all-schools-do-it-cmjoddvxw045j2alt085eg8qv)** *(December 27, 2025)*  
+  Explore how school phone bans boost academics (up to 6.5% test scores), improve mental health, & reduce discipline. Learn the benefits & challenges.
 - **[Tech That Will Change Your Life in 2026](https://caymanjournal.com/articles/tech-that-will-change-your-life-in-2026-cmjnnpj8c044s2alt94ez004y)** *(December 27, 2025)*  
   Experience 2026: foldable iPhones, smart home robots, EV supercars & mind-reading tech. Uncover AI's impact on daily life, healthcare & cybersecurity.
 - **[How AI Is Making Life Easier for Cybercriminals](https://caymanjournal.com/articles/how-ai-is-making-life-easier-for-cybercriminals-cmjn6g9yb04462altgzwvw33x)** *(December 26, 2025)*  
@@ -139,17 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Italy's antitrust authority orders Meta to open WhatsApp to rival AI chatbots. Discover why regulators are forcing big tech to ensure fair AI competit...
 - **[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://caymanjournal.com/articles/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tam-cmjjluhd303mi2alt262jdga7)** *(December 24, 2025)*  
   China's strict AI regulations aim to control information & ideology, creating a dilemma for tech giants. Will this stifle innovation or secure Party r...
-- **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://caymanjournal.com/articles/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-cmjjhk68o03m52altbnqd2z9q)** *(December 24, 2025)*  
-  Why did a Bitcoin mining ETF soar 90%? Miners are strategically retooling data centers into AI infrastructure, unlocking stable revenue & growth.
-- **[Billionaire’s Heirs to Pay $750 Million in Biggest-Ever U.S. Tax Fraud Case](https://caymanjournal.com/articles/billionaires-heirs-to-pay-750-million-in-biggest-ever-us-tax-cmjj8zi7003l32altlpa331r3)** *(December 23, 2025)*  
-  Robert Brockman's heirs pay $750M in the largest US tax fraud settlement ever. This signals a major crackdown on offshore tax evasion schemes.
-- **[How to Make Your Economy-Class Seat a Little Less Miserable](https://caymanjournal.com/articles/how-to-make-your-economy-class-seat-a-little-less-miserable-cmjiw6u9303k52alt48wo2cak)** *(December 23, 2025)*  
-  Elevate your economy class travel! Discover how smart gear upgrades & strategic planning can transform long-haul flights into a comfortable, luxurious...
-- **[U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://caymanjournal.com/articles/us-bans-new-china-made-drones-sparking-outrage-among-pilots-cmjhxyui503gx2altxwl1fusu)** *(December 23, 2025)*  
-  US drone market faces turmoil as a ban on China-made drones like DJI looms. Understand the impact on pilots, innovation, costs, and supply chain.
 
 
-*Last updated: December 27, 2025 at 06:28 UTC*
+*Last updated: December 28, 2025 at 06:28 UTC*
 
 <!-- FEED:END -->
 
