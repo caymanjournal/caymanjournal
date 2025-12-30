@@ -35,6 +35,8 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
+- **[Swiss Asset Manager GAM Opposes Motherson's Honda Unit Takeover, Citing Undervaluation](https://caymanjournal.com/articles/swiss-asset-manager-gam-opposes-mothersons-honda-unit-takeov-cmjqvgj5b049o2altbxeeq794)** *(December 29, 2025)*  
+  Swiss firm GAM objects to Motherson's Honda unit takeover, alleging undervaluation and risking shareholder fairness. Will the cross-border auto deal b...
 - **[How an Office Romance Sparked an Overhaul at Nestlé](https://caymanjournal.com/articles/how-an-office-romance-sparked-an-overhaul-at-nestl-cmjqr1o0c049f2alt9syu965q)** *(December 29, 2025)*  
   Nestlé's new CEO Elara Vance uses an office romance fallout to transform its "clubby" culture & spark major brand divestitures. Learn about the CHF 10...
 - **[How Investors Are Preparing for a New Fed](https://caymanjournal.com/articles/how-investors-are-preparing-for-a-new-fed-cmjqmwi5n04942alte378grnd)** *(December 29, 2025)*  
@@ -53,11 +55,11 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Japan restarts Takahama nuclear reactor, signaling a strategic shift post-Fukushima. Understand the push for energy security, decarbonization, and ¥1 ...
 - **[Our Tech Columnists’ Annual Predictions: Folding iPhones, Mind-Reading Tech, EV Supercars](https://caymanjournal.com/articles/our-tech-columnists-annual-predictions-folding-iphones-mind-cmjpx3yki04812altc5it0vhy)** *(December 28, 2025)*  
   Explore 2024 tech predictions: folding iPhone, mind-reading tech, EV supercars. Plus, current AI chip shifts, humanoid robots & China's AI fears.
-- **[Britain Pushed Ahead With Green Power. Its Grid Can’t Handle It.](https://caymanjournal.com/articles/britain-pushed-ahead-with-green-power-its-grid-cant-handle-i-cmjpstwop047q2alt2dys7huv)** *(December 28, 2025)*  
-  The UK's outdated power grid delays vital green energy projects for years, jeopardizing net-zero goals and the nation's AI infrastructure investment.
 
 ### 🏢 Business
 
+- **[Swiss Asset Manager GAM Opposes Motherson's Honda Unit Takeover, Citing Undervaluation](https://caymanjournal.com/articles/swiss-asset-manager-gam-opposes-mothersons-honda-unit-takeov-cmjqvgj5b049o2altbxeeq794)** *(December 29, 2025)*  
+  Swiss firm GAM objects to Motherson's Honda unit takeover, alleging undervaluation and risking shareholder fairness. Will the cross-border auto deal b...
 - **[How an Office Romance Sparked an Overhaul at Nestlé](https://caymanjournal.com/articles/how-an-office-romance-sparked-an-overhaul-at-nestl-cmjqr1o0c049f2alt9syu965q)** *(December 29, 2025)*  
   Nestlé's new CEO Elara Vance uses an office romance fallout to transform its "clubby" culture & spark major brand divestitures. Learn about the CHF 10...
 - **[Sam’s Club Is Beating Costco at Its Own Game—in China](https://caymanjournal.com/articles/sams-club-is-beating-costco-at-its-own-gamein-china-cmjqmrd3e04912altd96qqs3m)** *(December 29, 2025)*  
@@ -76,8 +78,6 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Dallas faces a downtown paradox: soaring metro growth vs. 28% CBD office vacancy. Learn why companies choose suburbs & what's next for the city's core...
 - **[Companies Are Outlining Plans for 2026. Hiring Isn’t One of Them.](https://caymanjournal.com/articles/companies-are-outlining-plans-for-2026-hiring-isnt-one-of-th-cmjp7j22f046y2alt4qxhotwl)** *(December 28, 2025)*  
   Corporate hiring for 2026 slims: <15% net new hires expected. 25% plan reductions as AI & macro factors reshape the job market. Get the full analysis.
-- **[Europe Tried to Slam the Door on Russian Energy. It Didn’t Account for Turkey.](https://caymanjournal.com/articles/europe-tried-to-slam-the-door-on-russian-energy-it-didnt-acc-cmjohlk7s045s2altohvb9bjp)** *(December 27, 2025)*  
-  EU weighs sanctions on Turkish ports over Russian oil price cap evasion. Cracks appear in Western strategy as Turkey enables dark fleet trade.
 
 ### 🏛️ Economy
 
@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Italy's antitrust authority orders Meta to open WhatsApp to rival AI chatbots. Discover why regulators are forcing big tech to ensure fair AI competit...
 
 
-*Last updated: December 29, 2025 at 06:32 UTC*
+*Last updated: December 30, 2025 at 06:30 UTC*
 
 <!-- FEED:END -->
 
