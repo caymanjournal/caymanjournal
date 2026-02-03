@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Italy's antitrust authority orders Meta to open WhatsApp to rival AI chatbots. Discover why regulators are forcing big tech to ensure fair AI competit...
 
 
-*Last updated: February 02, 2026 at 06:59 UTC*
+*Last updated: February 03, 2026 at 06:48 UTC*
 
 <!-- FEED:END -->
 
