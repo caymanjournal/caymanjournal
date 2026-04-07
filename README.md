@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Trump Administration's Budget Relies on Growth Projections Far Exceeding Mainstream Economic Consensus](https://caymanjournal.com/articles/trump-administrations-budget-relies-on-growth-projections-fa-cmnjg6z5a00wbv9lr5860ub2e)** *(April 03, 2026)*  
-  Trump's 3%+ GDP forecast faces skepticism from economists projecting 2% growth. See how this divergence shapes the US budget, national debt, and futur...
-- **[These charts show the bulk of March’s job gains were concentrated in just a handful of sectors](https://caymanjournal.com/articles/these-charts-show-the-bulk-of-marchs-job-gains-were-concentr-cmnjg7eo700wev9lrv9e5w3w0)** *(April 03, 2026)*  
-  March job report reveals 275K jobs, yet gains are heavily concentrated in healthcare & seasonal industries. Uncover underlying trends in the US labor ...
-- **[OpenAI’s Top Executive Fidji Simo to Take Medical Leave From Company](https://caymanjournal.com/articles/openais-top-executive-fidji-simo-to-take-medical-leave-from-cmnjbxqg200vyv9lrwo4ton7d)** *(April 03, 2026)*  
-  OpenAI executive Fidji Simo takes medical leave as company announces major organizational changes, including new Enterprise Solutions, ahead of its an...
-- **[AI Trainer Mercor Offers to Pay People for Prior Work—Work Employers Might Own](https://caymanjournal.com/articles/ai-trainer-mercor-offers-to-pay-people-for-prior-workwork-em-cmnjbyc9q00w1v9lrimrzaufz)** *(April 03, 2026)*  
-  Mercor pays for past work for AI training, but a huge catch exists. Monetizing your 'prior work' risks massive intellectual property disputes with emp...
-- **[Judge Rejects Bid to Revive Subpoenas Targeting Powell](https://caymanjournal.com/articles/judge-rejects-bid-to-revive-subpoenas-targeting-powell-cmnj7nfc500vav9lrkqh3hm5r)** *(April 03, 2026)*  
-  Judge rejects Powell subpoenas, a win for Fed independence. But an appeal looms, threatening Trump's controversial Fed pick's confirmation & economic ...
-- **[‘Project Hail Mary’ Is a Box Office Hit, Driving a Publishing Resurgence for Weir’s Sci-Fi Novel](https://caymanjournal.com/articles/project-hail-mary-is-a-box-office-hit-driving-a-publishing-r-cmnj7p0l900vjv9lr3iv57ezi)** *(April 03, 2026)*  
-  The Project Hail Mary film exploded with $185M, driving the book's sales up 300%! Unpack how this sci-fi hit proves the power of successful IP adaptat...
-- **[Healthcare Sector Continues Unstoppable March, Bolstering Decades of Consistent Job Growth](https://caymanjournal.com/articles/healthcare-sector-continues-unstoppable-march-bolstering-dec-cmnj7nymo00vdv9lrhpibul3y)** *(April 03, 2026)*  
-  Healthcare added 72,000 jobs in March, extending decades of stable growth. Unpack drivers like demographics & tech, key roles, and future trends for t...
-- **[Would You Let AI Day Trade Your Money?](https://caymanjournal.com/articles/would-you-let-ai-day-trade-your-money-cmnj3k00k00uwv9lra7vj96ad)** *(April 03, 2026)*  
-  Would you let AI trade your money? Discover its impact on high-frequency finance, ingenious cyber-defense, and creating future jobs, reshaping markets...
-- **[S&P Global’s Services PMI Shows First Contraction in More Than Three Years](https://caymanjournal.com/articles/sp-globals-services-pmi-shows-first-contraction-in-more-than-cmnj7ofvj00vgv9lreesbshaf)** *(April 03, 2026)*  
-  US services sector contracts to 49.8 PMI in March—first time in 3+ years. Surging energy costs spark economic downturn & stagflation risk.
-- **[A Grubhub Founder Wants to Change Your Flat Tire Now](https://caymanjournal.com/articles/a-grubhub-founder-wants-to-change-your-flat-tire-now-cmnj3bsik00twv9lr7kczuskt)** *(April 03, 2026)*  
-  Grubhub co-founder Mike Evans' RapidRoad redefines roadside assistance with transparent pricing, real-time tracking, and on-demand service.
+- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
+  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
+- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
+  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
+- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
+  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
+- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
+  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
+- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
+  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
+- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
+  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
+- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
+  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
+  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
+- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
+  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
+- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
+  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 🏢 Business
 
-- **[Trump Administration's Budget Relies on Growth Projections Far Exceeding Mainstream Economic Consensus](https://caymanjournal.com/articles/trump-administrations-budget-relies-on-growth-projections-fa-cmnjg6z5a00wbv9lr5860ub2e)** *(April 03, 2026)*  
-  Trump's 3%+ GDP forecast faces skepticism from economists projecting 2% growth. See how this divergence shapes the US budget, national debt, and futur...
-- **[These charts show the bulk of March’s job gains were concentrated in just a handful of sectors](https://caymanjournal.com/articles/these-charts-show-the-bulk-of-marchs-job-gains-were-concentr-cmnjg7eo700wev9lrv9e5w3w0)** *(April 03, 2026)*  
-  March job report reveals 275K jobs, yet gains are heavily concentrated in healthcare & seasonal industries. Uncover underlying trends in the US labor ...
-- **[OpenAI’s Top Executive Fidji Simo to Take Medical Leave From Company](https://caymanjournal.com/articles/openais-top-executive-fidji-simo-to-take-medical-leave-from-cmnjbxqg200vyv9lrwo4ton7d)** *(April 03, 2026)*  
-  OpenAI executive Fidji Simo takes medical leave as company announces major organizational changes, including new Enterprise Solutions, ahead of its an...
-- **[AI Trainer Mercor Offers to Pay People for Prior Work—Work Employers Might Own](https://caymanjournal.com/articles/ai-trainer-mercor-offers-to-pay-people-for-prior-workwork-em-cmnjbyc9q00w1v9lrimrzaufz)** *(April 03, 2026)*  
-  Mercor pays for past work for AI training, but a huge catch exists. Monetizing your 'prior work' risks massive intellectual property disputes with emp...
-- **[Judge Rejects Bid to Revive Subpoenas Targeting Powell](https://caymanjournal.com/articles/judge-rejects-bid-to-revive-subpoenas-targeting-powell-cmnj7nfc500vav9lrkqh3hm5r)** *(April 03, 2026)*  
-  Judge rejects Powell subpoenas, a win for Fed independence. But an appeal looms, threatening Trump's controversial Fed pick's confirmation & economic ...
-- **[‘Project Hail Mary’ Is a Box Office Hit, Driving a Publishing Resurgence for Weir’s Sci-Fi Novel](https://caymanjournal.com/articles/project-hail-mary-is-a-box-office-hit-driving-a-publishing-r-cmnj7p0l900vjv9lr3iv57ezi)** *(April 03, 2026)*  
-  The Project Hail Mary film exploded with $185M, driving the book's sales up 300%! Unpack how this sci-fi hit proves the power of successful IP adaptat...
-- **[Healthcare Sector Continues Unstoppable March, Bolstering Decades of Consistent Job Growth](https://caymanjournal.com/articles/healthcare-sector-continues-unstoppable-march-bolstering-dec-cmnj7nymo00vdv9lrhpibul3y)** *(April 03, 2026)*  
-  Healthcare added 72,000 jobs in March, extending decades of stable growth. Unpack drivers like demographics & tech, key roles, and future trends for t...
-- **[Would You Let AI Day Trade Your Money?](https://caymanjournal.com/articles/would-you-let-ai-day-trade-your-money-cmnj3k00k00uwv9lra7vj96ad)** *(April 03, 2026)*  
-  Would you let AI trade your money? Discover its impact on high-frequency finance, ingenious cyber-defense, and creating future jobs, reshaping markets...
-- **[S&P Global’s Services PMI Shows First Contraction in More Than Three Years](https://caymanjournal.com/articles/sp-globals-services-pmi-shows-first-contraction-in-more-than-cmnj7ofvj00vgv9lreesbshaf)** *(April 03, 2026)*  
-  US services sector contracts to 49.8 PMI in March—first time in 3+ years. Surging energy costs spark economic downturn & stagflation risk.
-- **[A Grubhub Founder Wants to Change Your Flat Tire Now](https://caymanjournal.com/articles/a-grubhub-founder-wants-to-change-your-flat-tire-now-cmnj3bsik00twv9lr7kczuskt)** *(April 03, 2026)*  
-  Grubhub co-founder Mike Evans' RapidRoad redefines roadside assistance with transparent pricing, real-time tracking, and on-demand service.
+- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
+  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
+- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
+  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
+- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
+  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
+- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
+  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
+- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
+  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
+- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
+  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
+- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
+  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
+  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
+- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
+  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
+- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
+  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 🏛️ Economy
 
-- **[Trump Administration's Budget Relies on Growth Projections Far Exceeding Mainstream Economic Consensus](https://caymanjournal.com/articles/trump-administrations-budget-relies-on-growth-projections-fa-cmnjg6z5a00wbv9lr5860ub2e)** *(April 03, 2026)*  
-  Trump's 3%+ GDP forecast faces skepticism from economists projecting 2% growth. See how this divergence shapes the US budget, national debt, and futur...
-- **[These charts show the bulk of March’s job gains were concentrated in just a handful of sectors](https://caymanjournal.com/articles/these-charts-show-the-bulk-of-marchs-job-gains-were-concentr-cmnjg7eo700wev9lrv9e5w3w0)** *(April 03, 2026)*  
-  March job report reveals 275K jobs, yet gains are heavily concentrated in healthcare & seasonal industries. Uncover underlying trends in the US labor ...
-- **[OpenAI’s Top Executive Fidji Simo to Take Medical Leave From Company](https://caymanjournal.com/articles/openais-top-executive-fidji-simo-to-take-medical-leave-from-cmnjbxqg200vyv9lrwo4ton7d)** *(April 03, 2026)*  
-  OpenAI executive Fidji Simo takes medical leave as company announces major organizational changes, including new Enterprise Solutions, ahead of its an...
-- **[AI Trainer Mercor Offers to Pay People for Prior Work—Work Employers Might Own](https://caymanjournal.com/articles/ai-trainer-mercor-offers-to-pay-people-for-prior-workwork-em-cmnjbyc9q00w1v9lrimrzaufz)** *(April 03, 2026)*  
-  Mercor pays for past work for AI training, but a huge catch exists. Monetizing your 'prior work' risks massive intellectual property disputes with emp...
-- **[Judge Rejects Bid to Revive Subpoenas Targeting Powell](https://caymanjournal.com/articles/judge-rejects-bid-to-revive-subpoenas-targeting-powell-cmnj7nfc500vav9lrkqh3hm5r)** *(April 03, 2026)*  
-  Judge rejects Powell subpoenas, a win for Fed independence. But an appeal looms, threatening Trump's controversial Fed pick's confirmation & economic ...
-- **[‘Project Hail Mary’ Is a Box Office Hit, Driving a Publishing Resurgence for Weir’s Sci-Fi Novel](https://caymanjournal.com/articles/project-hail-mary-is-a-box-office-hit-driving-a-publishing-r-cmnj7p0l900vjv9lr3iv57ezi)** *(April 03, 2026)*  
-  The Project Hail Mary film exploded with $185M, driving the book's sales up 300%! Unpack how this sci-fi hit proves the power of successful IP adaptat...
-- **[Healthcare Sector Continues Unstoppable March, Bolstering Decades of Consistent Job Growth](https://caymanjournal.com/articles/healthcare-sector-continues-unstoppable-march-bolstering-dec-cmnj7nymo00vdv9lrhpibul3y)** *(April 03, 2026)*  
-  Healthcare added 72,000 jobs in March, extending decades of stable growth. Unpack drivers like demographics & tech, key roles, and future trends for t...
-- **[Would You Let AI Day Trade Your Money?](https://caymanjournal.com/articles/would-you-let-ai-day-trade-your-money-cmnj3k00k00uwv9lra7vj96ad)** *(April 03, 2026)*  
-  Would you let AI trade your money? Discover its impact on high-frequency finance, ingenious cyber-defense, and creating future jobs, reshaping markets...
-- **[S&P Global’s Services PMI Shows First Contraction in More Than Three Years](https://caymanjournal.com/articles/sp-globals-services-pmi-shows-first-contraction-in-more-than-cmnj7ofvj00vgv9lreesbshaf)** *(April 03, 2026)*  
-  US services sector contracts to 49.8 PMI in March—first time in 3+ years. Surging energy costs spark economic downturn & stagflation risk.
-- **[A Grubhub Founder Wants to Change Your Flat Tire Now](https://caymanjournal.com/articles/a-grubhub-founder-wants-to-change-your-flat-tire-now-cmnj3bsik00twv9lr7kczuskt)** *(April 03, 2026)*  
-  Grubhub co-founder Mike Evans' RapidRoad redefines roadside assistance with transparent pricing, real-time tracking, and on-demand service.
+- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
+  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
+- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
+  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
+- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
+  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
+- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
+  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
+- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
+  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
+- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
+  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
+- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
+  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
+  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
+- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
+  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
+- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
+  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 📈 Markets & Finance
 
-- **[Trump Administration's Budget Relies on Growth Projections Far Exceeding Mainstream Economic Consensus](https://caymanjournal.com/articles/trump-administrations-budget-relies-on-growth-projections-fa-cmnjg6z5a00wbv9lr5860ub2e)** *(April 03, 2026)*  
-  Trump's 3%+ GDP forecast faces skepticism from economists projecting 2% growth. See how this divergence shapes the US budget, national debt, and futur...
-- **[These charts show the bulk of March’s job gains were concentrated in just a handful of sectors](https://caymanjournal.com/articles/these-charts-show-the-bulk-of-marchs-job-gains-were-concentr-cmnjg7eo700wev9lrv9e5w3w0)** *(April 03, 2026)*  
-  March job report reveals 275K jobs, yet gains are heavily concentrated in healthcare & seasonal industries. Uncover underlying trends in the US labor ...
-- **[OpenAI’s Top Executive Fidji Simo to Take Medical Leave From Company](https://caymanjournal.com/articles/openais-top-executive-fidji-simo-to-take-medical-leave-from-cmnjbxqg200vyv9lrwo4ton7d)** *(April 03, 2026)*  
-  OpenAI executive Fidji Simo takes medical leave as company announces major organizational changes, including new Enterprise Solutions, ahead of its an...
-- **[AI Trainer Mercor Offers to Pay People for Prior Work—Work Employers Might Own](https://caymanjournal.com/articles/ai-trainer-mercor-offers-to-pay-people-for-prior-workwork-em-cmnjbyc9q00w1v9lrimrzaufz)** *(April 03, 2026)*  
-  Mercor pays for past work for AI training, but a huge catch exists. Monetizing your 'prior work' risks massive intellectual property disputes with emp...
-- **[Judge Rejects Bid to Revive Subpoenas Targeting Powell](https://caymanjournal.com/articles/judge-rejects-bid-to-revive-subpoenas-targeting-powell-cmnj7nfc500vav9lrkqh3hm5r)** *(April 03, 2026)*  
-  Judge rejects Powell subpoenas, a win for Fed independence. But an appeal looms, threatening Trump's controversial Fed pick's confirmation & economic ...
-- **[‘Project Hail Mary’ Is a Box Office Hit, Driving a Publishing Resurgence for Weir’s Sci-Fi Novel](https://caymanjournal.com/articles/project-hail-mary-is-a-box-office-hit-driving-a-publishing-r-cmnj7p0l900vjv9lr3iv57ezi)** *(April 03, 2026)*  
-  The Project Hail Mary film exploded with $185M, driving the book's sales up 300%! Unpack how this sci-fi hit proves the power of successful IP adaptat...
-- **[Healthcare Sector Continues Unstoppable March, Bolstering Decades of Consistent Job Growth](https://caymanjournal.com/articles/healthcare-sector-continues-unstoppable-march-bolstering-dec-cmnj7nymo00vdv9lrhpibul3y)** *(April 03, 2026)*  
-  Healthcare added 72,000 jobs in March, extending decades of stable growth. Unpack drivers like demographics & tech, key roles, and future trends for t...
-- **[Would You Let AI Day Trade Your Money?](https://caymanjournal.com/articles/would-you-let-ai-day-trade-your-money-cmnj3k00k00uwv9lra7vj96ad)** *(April 03, 2026)*  
-  Would you let AI trade your money? Discover its impact on high-frequency finance, ingenious cyber-defense, and creating future jobs, reshaping markets...
-- **[S&P Global’s Services PMI Shows First Contraction in More Than Three Years](https://caymanjournal.com/articles/sp-globals-services-pmi-shows-first-contraction-in-more-than-cmnj7ofvj00vgv9lreesbshaf)** *(April 03, 2026)*  
-  US services sector contracts to 49.8 PMI in March—first time in 3+ years. Surging energy costs spark economic downturn & stagflation risk.
-- **[A Grubhub Founder Wants to Change Your Flat Tire Now](https://caymanjournal.com/articles/a-grubhub-founder-wants-to-change-your-flat-tire-now-cmnj3bsik00twv9lr7kczuskt)** *(April 03, 2026)*  
-  Grubhub co-founder Mike Evans' RapidRoad redefines roadside assistance with transparent pricing, real-time tracking, and on-demand service.
+- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
+  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
+- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
+  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
+- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
+  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
+- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
+  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
+- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
+  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
+- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
+  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
+- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
+  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
+  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
+- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
+  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
+- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
+  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 💻 Technology
 
-- **[Trump Administration's Budget Relies on Growth Projections Far Exceeding Mainstream Economic Consensus](https://caymanjournal.com/articles/trump-administrations-budget-relies-on-growth-projections-fa-cmnjg6z5a00wbv9lr5860ub2e)** *(April 03, 2026)*  
-  Trump's 3%+ GDP forecast faces skepticism from economists projecting 2% growth. See how this divergence shapes the US budget, national debt, and futur...
-- **[These charts show the bulk of March’s job gains were concentrated in just a handful of sectors](https://caymanjournal.com/articles/these-charts-show-the-bulk-of-marchs-job-gains-were-concentr-cmnjg7eo700wev9lrv9e5w3w0)** *(April 03, 2026)*  
-  March job report reveals 275K jobs, yet gains are heavily concentrated in healthcare & seasonal industries. Uncover underlying trends in the US labor ...
-- **[OpenAI’s Top Executive Fidji Simo to Take Medical Leave From Company](https://caymanjournal.com/articles/openais-top-executive-fidji-simo-to-take-medical-leave-from-cmnjbxqg200vyv9lrwo4ton7d)** *(April 03, 2026)*  
-  OpenAI executive Fidji Simo takes medical leave as company announces major organizational changes, including new Enterprise Solutions, ahead of its an...
-- **[AI Trainer Mercor Offers to Pay People for Prior Work—Work Employers Might Own](https://caymanjournal.com/articles/ai-trainer-mercor-offers-to-pay-people-for-prior-workwork-em-cmnjbyc9q00w1v9lrimrzaufz)** *(April 03, 2026)*  
-  Mercor pays for past work for AI training, but a huge catch exists. Monetizing your 'prior work' risks massive intellectual property disputes with emp...
-- **[Judge Rejects Bid to Revive Subpoenas Targeting Powell](https://caymanjournal.com/articles/judge-rejects-bid-to-revive-subpoenas-targeting-powell-cmnj7nfc500vav9lrkqh3hm5r)** *(April 03, 2026)*  
-  Judge rejects Powell subpoenas, a win for Fed independence. But an appeal looms, threatening Trump's controversial Fed pick's confirmation & economic ...
-- **[‘Project Hail Mary’ Is a Box Office Hit, Driving a Publishing Resurgence for Weir’s Sci-Fi Novel](https://caymanjournal.com/articles/project-hail-mary-is-a-box-office-hit-driving-a-publishing-r-cmnj7p0l900vjv9lr3iv57ezi)** *(April 03, 2026)*  
-  The Project Hail Mary film exploded with $185M, driving the book's sales up 300%! Unpack how this sci-fi hit proves the power of successful IP adaptat...
-- **[Healthcare Sector Continues Unstoppable March, Bolstering Decades of Consistent Job Growth](https://caymanjournal.com/articles/healthcare-sector-continues-unstoppable-march-bolstering-dec-cmnj7nymo00vdv9lrhpibul3y)** *(April 03, 2026)*  
-  Healthcare added 72,000 jobs in March, extending decades of stable growth. Unpack drivers like demographics & tech, key roles, and future trends for t...
-- **[Would You Let AI Day Trade Your Money?](https://caymanjournal.com/articles/would-you-let-ai-day-trade-your-money-cmnj3k00k00uwv9lra7vj96ad)** *(April 03, 2026)*  
-  Would you let AI trade your money? Discover its impact on high-frequency finance, ingenious cyber-defense, and creating future jobs, reshaping markets...
-- **[S&P Global’s Services PMI Shows First Contraction in More Than Three Years](https://caymanjournal.com/articles/sp-globals-services-pmi-shows-first-contraction-in-more-than-cmnj7ofvj00vgv9lreesbshaf)** *(April 03, 2026)*  
-  US services sector contracts to 49.8 PMI in March—first time in 3+ years. Surging energy costs spark economic downturn & stagflation risk.
-- **[A Grubhub Founder Wants to Change Your Flat Tire Now](https://caymanjournal.com/articles/a-grubhub-founder-wants-to-change-your-flat-tire-now-cmnj3bsik00twv9lr7kczuskt)** *(April 03, 2026)*  
-  Grubhub co-founder Mike Evans' RapidRoad redefines roadside assistance with transparent pricing, real-time tracking, and on-demand service.
+- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
+  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
+- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
+  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
+- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
+  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
+- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
+  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
+- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
+  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
+- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
+  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
+- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
+  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
+  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
+- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
+  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
+- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
+  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 
-*Last updated: April 06, 2026 at 07:26 UTC*
+*Last updated: April 07, 2026 at 07:13 UTC*
 
 <!-- FEED:END -->
 
