@@ -35,6 +35,12 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
+- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
+  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
+- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
+  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
+- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
+  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
 - **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
   The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
 - **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
@@ -49,15 +55,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
 - **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
   Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
-- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
-  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
-- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
-  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
-- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
-  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 🏢 Business
 
+- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
+  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
+- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
+  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
+- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
+  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
 - **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
   The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
 - **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
@@ -72,15 +78,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
 - **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
   Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
-- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
-  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
-- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
-  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
-- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
-  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 🏛️ Economy
 
+- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
+  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
+- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
+  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
+- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
+  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
 - **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
   The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
 - **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
@@ -95,15 +101,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
 - **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
   Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
-- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
-  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
-- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
-  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
-- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
-  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 📈 Markets & Finance
 
+- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
+  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
+- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
+  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
+- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
+  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
 - **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
   The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
 - **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
@@ -118,15 +124,15 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
 - **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
   Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
-- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
-  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
-- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
-  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
-- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
-  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 ### 💻 Technology
 
+- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
+  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
+- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
+  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
+- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
+  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
 - **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
   The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
 - **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
@@ -141,15 +147,9 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
 - **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
   Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
-- **[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://caymanjournal.com/articles/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-cmnnuvaas009j47iqfemrjhtr)** *(April 06, 2026)*  
-  Broadcom expands AI collaboration with Google, supplying custom AI chips for infrastructure, and provides computing capacity to Anthropic for LLMs.
-- **[A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain](https://caymanjournal.com/articles/a-new-goldman-sachs-report-analyzing-past-technology-waves-w-cmnnqogiz009447iqpdpurxn2)** *(April 06, 2026)*  
-  Goldman Sachs warns AI job displacement will cause prolonged economic struggle for workers, hitting white-collar roles. Urgent retraining & support ne...
-- **[Astronauts Set New Human Spaceflight Record](https://caymanjournal.com/articles/astronauts-set-new-human-spaceflight-record-cmnnqht5l008v47iquxkx118b)** *(April 06, 2026)*  
-  New space record (878 days!) fuels Mars ambitions. Plus: Trump's Iran warning shakes oil markets & a teen chess prodigy stuns grandmasters.
 
 
-*Last updated: April 07, 2026 at 07:13 UTC*
+*Last updated: April 08, 2026 at 07:15 UTC*
 
 <!-- FEED:END -->
 
