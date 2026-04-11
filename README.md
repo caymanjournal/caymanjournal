@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
-  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
-- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
-  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
-- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
-  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
-- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
-  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
-- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
-  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
-- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
-  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
-- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
-  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
-- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
-  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
-- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
-  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
-- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
-  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
+  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
+- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
+  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
+- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
+  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
+- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
+  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
+- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
+  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
+- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
+  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
+- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
+  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
+- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
+  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
+- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
+  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
+- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
+  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
 
 ### 🏢 Business
 
-- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
-  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
-- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
-  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
-- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
-  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
-- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
-  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
-- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
-  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
-- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
-  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
-- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
-  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
-- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
-  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
-- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
-  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
-- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
-  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
+  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
+- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
+  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
+- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
+  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
+- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
+  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
+- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
+  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
+- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
+  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
+- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
+  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
+- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
+  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
+- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
+  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
+- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
+  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
 
 ### 🏛️ Economy
 
-- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
-  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
-- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
-  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
-- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
-  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
-- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
-  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
-- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
-  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
-- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
-  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
-- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
-  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
-- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
-  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
-- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
-  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
-- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
-  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
+  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
+- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
+  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
+- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
+  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
+- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
+  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
+- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
+  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
+- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
+  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
+- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
+  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
+- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
+  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
+- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
+  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
+- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
+  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
 
 ### 📈 Markets & Finance
 
-- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
-  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
-- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
-  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
-- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
-  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
-- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
-  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
-- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
-  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
-- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
-  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
-- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
-  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
-- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
-  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
-- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
-  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
-- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
-  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
+  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
+- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
+  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
+- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
+  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
+- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
+  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
+- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
+  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
+- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
+  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
+- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
+  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
+- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
+  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
+- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
+  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
+- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
+  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
 
 ### 💻 Technology
 
-- **[Stock Market Today: Oil Climbs as Trump's Hormuz Deadline Nears](https://caymanjournal.com/articles/stock-market-today-oil-climbs-as-trumps-hormuz-deadline-near-cmnoc2g2a00am47iqagcflrzo)** *(April 07, 2026)*  
-  Strait of Hormuz tension drives oil prices higher & U.S. stock futures down. Geopolitical fears and Trump's deadline create market uncertainty.
-- **[Ackman’s Pershing Square Offers to Buy Universal Music Group for More Than $63 Billion](https://caymanjournal.com/articles/ackmans-pershing-square-offers-to-buy-universal-music-group-cmnobxdxv00ag47iq59b8exyt)** *(April 07, 2026)*  
-  Bill Ackman's Pershing Square bids over $63B for Universal Music Group. Discover details of the proposed NYSE listing, its impact on the music titan, ...
-- **[Saudi Arabia Raises Crude Prices to Record Premiums as Iran War Strains Global Supply](https://caymanjournal.com/articles/saudi-arabia-raises-crude-prices-to-record-premiums-as-iran-cmnoby2ua00aj47iqh10wa4sw)** *(April 07, 2026)*  
-  Saudi Arabia raises crude oil prices to multi-year highs, citing "Iran war" geopolitical tensions & tight global supply. See impacts on fuel costs & e...
-- **[Oil Prices Likely to Be Headline-Sensitive in Short Term](https://caymanjournal.com/articles/oil-prices-likely-to-be-headline-sensitive-in-short-term-cmno7r0hd00a647iqf2nv02yh)** *(April 07, 2026)*  
-  The oil market's new reality: Geopolitics, not supply & demand, now drives prices. Conflicts, headlines, & shipping disruptions create extreme volatil...
-- **[LG Electronics Expects First-Quarter Earnings Rebound](https://caymanjournal.com/articles/lg-electronics-expects-first-quarter-earnings-rebound-cmno3cndt00a047iqvai6xf0h)** *(April 07, 2026)*  
-  LG Electronics forecasts a strong Q1 earnings rebound, signaling a turnaround. H&A, HE, & VS divisions drive improved profitability & strategic growth...
-- **[Not Eager to Take on the AI Revolution at Work? These People Are Retiring Instead.](https://caymanjournal.com/articles/not-eager-to-take-on-the-ai-revolution-at-work-these-people-cmno3ilmo00a347iqpg8fud7i)** *(April 07, 2026)*  
-  AI sparks an exodus of senior professionals into early retirement. Learn why experienced workers are opting out & how businesses face a critical knowl...
-- **[The Workers Opting to Retire Instead of Taking on AI](https://caymanjournal.com/articles/the-workers-opting-to-retire-instead-of-taking-on-ai-cmnnz2emf009u47iqhq7ucqt0)** *(April 07, 2026)*  
-  Adaptable veterans exit early: AI's re-skilling mandate & tech fatigue drive seasoned professionals to retire. Discover business implications.
-- **[Anthropic in Talks to Invest $200 Million in New Private-Equity Venture](https://caymanjournal.com/articles/anthropic-in-talks-to-invest-200-million-in-new-private-equi-cmnnz2w1w009x47iq3tq3z1tj)** *(April 07, 2026)*  
-  Anthropic, the AI firm behind Claude, is poised to invest $200M in a private equity fund, partnering with financial heavyweights. Discover the impact.
-- **[Samsung Forecasts Record First-Quarter Operating Profit](https://caymanjournal.com/articles/samsung-forecasts-record-first-quarter-operating-profit-cmnnus031009d47iqnnc7ts0p)** *(April 06, 2026)*  
-  Samsung projects an 8x Q1 operating profit jump to $4.88B, powered by surging demand for AI semiconductors and HBM memory chips.
-- **[Kanye West Is Seeking Redemption. There’s a Long Road Ahead](https://caymanjournal.com/articles/kanye-west-is-seeking-redemption-theres-a-long-road-ahead-cmnnusikj009g47iqfpwtmksm)** *(April 06, 2026)*  
-  Kanye West (Ye) seeks redemption after controversy. A No. 2 album & stadium shows mark his comeback attempt. Can he rebuild his brand and career?
+- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
+  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
+- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
+  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
+- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
+  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
+- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
+  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
+- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
+  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
+- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
+  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
+- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
+  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
+- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
+  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
+- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
+  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
+- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
+  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
 
 
-*Last updated: April 10, 2026 at 07:24 UTC*
+*Last updated: April 11, 2026 at 06:58 UTC*
 
 <!-- FEED:END -->
 
