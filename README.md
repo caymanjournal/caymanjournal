@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
-  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
-- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
-  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
-- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
-  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
-- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
-  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
-- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
-  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
-- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
-  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
-- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
-  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
-- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
-  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
-- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
-  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
-- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
-  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
+- **[The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.](https://caymanjournal.com/articles/the-us-sank-one-of-irans-navies-the-other-still-controls-hor-cmnv8jywk00gjt5bjoxvktjmv)** *(April 12, 2026)*  
+  Discover the paradox in the Persian Gulf: US naval might vs. Iran's IRGCN asymmetric tactics. Learn how Iran holds sway in the Strait of Hormuz, impac...
+- **[Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole](https://caymanjournal.com/articles/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-cmnv49m1400g5t5bjiflgzrxk)** *(April 12, 2026)*  
+  A Vitol star trader reportedly lost hundreds of millions in volatile oil markets, caught by the Iran conflict. A stark look at immense commodity tradi...
+- **[Over 4,732 Messages, He Fell In Love With an AI Chatbot. Now He’s Dead.](https://caymanjournal.com/articles/over-4732-messages-he-fell-in-love-with-an-ai-chatbot-now-he-cmnv4cziv00get5bjydoeb0na)** *(April 12, 2026)*  
+  A software engineer's death linked to AI chatbot dependency spotlights critical AI ethics. Uncover the urgent call for user safety & regulation in the...
+- **[Gas Prices Turn the Gig Worker Economy Upside Down](https://caymanjournal.com/articles/gas-prices-turn-the-gig-worker-economy-upside-down-cmnv4b45q00gbt5bj4uucszzh)** *(April 12, 2026)*  
+  Skyrocketing fuel costs are eroding gig economy driver profits, forcing new strategies & impacting consumers. Learn how this crisis reshapes the on-de...
+- **[Gig Drivers and Delivery Workers Are Adjusting Schedules, Turning Down Longer Rides, and Working More Hours to Make Up for Lost Income](https://caymanjournal.com/articles/gig-drivers-and-delivery-workers-are-adjusting-schedules-tur-cmnv4apfi00g8t5bja2nw5wnv)** *(April 12, 2026)*  
+  Gig economy workers' pay is shrinking 15-20% amid inflation & high gas. Learn why drivers reject long trips & work 70+ hours just to survive.
+- **[Did Millennials or Boomers Have It Harder? We Went Searching for the Answer](https://caymanjournal.com/articles/did-millennials-or-boomers-have-it-harder-we-went-searching-cmnuzz9yx00g0t5bjt6rishca)** *(April 11, 2026)*  
+  Generational economic debate: Data reveals how Boomers' vs. Millennials' income, housing, & student debt experiences differ. See the structural shifts...
+- **[How to Switch AI Chatbots—and Why You Might Want To](https://caymanjournal.com/articles/how-to-switch-ai-chatbotsand-why-you-might-want-to-cmnun6w2200fvt5bj2e1cdhq7)** *(April 11, 2026)*  
+  Your AI chatbot builds a profile on you. Learn to access, edit, and migrate its accumulated 'memory' to new platforms, addressing privacy & vendor loc...
+- **[Nearly three years after arriving to play for Major League Soccer’s Inter Miami, Lionel Messi has become a one-man economic stimulus engine for the Miami area](https://caymanjournal.com/articles/nearly-three-years-after-arriving-to-play-for-major-league-s-cmnun4upj00fst5bjk45ysa0n)** *(April 11, 2026)*  
+  Messi's arrival sparked a $1B economic boom in Miami. The new Nu Stadium anchors urban growth, driving tourism, real estate, & job creation.
+- **[The Ships Sailing Through Iran’s Controlled ‘Tollbooth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-tollbooth-cmnuitymr00fht5bjn4wg7t81)** *(April 11, 2026)*  
+  Understand the Strait of Hormuz: 100+ vessels navigate Iran's influence, high shipping risks, and rising insurance premiums impacting global energy fl...
+- **[The Ships Sailing Through Iran’s Controlled ‘Toll Booth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-toll-booth-cmnuiueea00fkt5bjrljv61ai)** *(April 11, 2026)*  
+  Iran's 'toll booth' dynamic in the Strait of Hormuz now impacts global trade, oil prices & shipping. Over 100 crossings monthly reveal its strategic l...
 
 ### 🏢 Business
 
-- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
-  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
-- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
-  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
-- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
-  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
-- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
-  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
-- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
-  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
-- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
-  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
-- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
-  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
-- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
-  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
-- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
-  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
-- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
-  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
+- **[The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.](https://caymanjournal.com/articles/the-us-sank-one-of-irans-navies-the-other-still-controls-hor-cmnv8jywk00gjt5bjoxvktjmv)** *(April 12, 2026)*  
+  Discover the paradox in the Persian Gulf: US naval might vs. Iran's IRGCN asymmetric tactics. Learn how Iran holds sway in the Strait of Hormuz, impac...
+- **[Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole](https://caymanjournal.com/articles/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-cmnv49m1400g5t5bjiflgzrxk)** *(April 12, 2026)*  
+  A Vitol star trader reportedly lost hundreds of millions in volatile oil markets, caught by the Iran conflict. A stark look at immense commodity tradi...
+- **[Over 4,732 Messages, He Fell In Love With an AI Chatbot. Now He’s Dead.](https://caymanjournal.com/articles/over-4732-messages-he-fell-in-love-with-an-ai-chatbot-now-he-cmnv4cziv00get5bjydoeb0na)** *(April 12, 2026)*  
+  A software engineer's death linked to AI chatbot dependency spotlights critical AI ethics. Uncover the urgent call for user safety & regulation in the...
+- **[Gas Prices Turn the Gig Worker Economy Upside Down](https://caymanjournal.com/articles/gas-prices-turn-the-gig-worker-economy-upside-down-cmnv4b45q00gbt5bj4uucszzh)** *(April 12, 2026)*  
+  Skyrocketing fuel costs are eroding gig economy driver profits, forcing new strategies & impacting consumers. Learn how this crisis reshapes the on-de...
+- **[Gig Drivers and Delivery Workers Are Adjusting Schedules, Turning Down Longer Rides, and Working More Hours to Make Up for Lost Income](https://caymanjournal.com/articles/gig-drivers-and-delivery-workers-are-adjusting-schedules-tur-cmnv4apfi00g8t5bja2nw5wnv)** *(April 12, 2026)*  
+  Gig economy workers' pay is shrinking 15-20% amid inflation & high gas. Learn why drivers reject long trips & work 70+ hours just to survive.
+- **[Did Millennials or Boomers Have It Harder? We Went Searching for the Answer](https://caymanjournal.com/articles/did-millennials-or-boomers-have-it-harder-we-went-searching-cmnuzz9yx00g0t5bjt6rishca)** *(April 11, 2026)*  
+  Generational economic debate: Data reveals how Boomers' vs. Millennials' income, housing, & student debt experiences differ. See the structural shifts...
+- **[How to Switch AI Chatbots—and Why You Might Want To](https://caymanjournal.com/articles/how-to-switch-ai-chatbotsand-why-you-might-want-to-cmnun6w2200fvt5bj2e1cdhq7)** *(April 11, 2026)*  
+  Your AI chatbot builds a profile on you. Learn to access, edit, and migrate its accumulated 'memory' to new platforms, addressing privacy & vendor loc...
+- **[Nearly three years after arriving to play for Major League Soccer’s Inter Miami, Lionel Messi has become a one-man economic stimulus engine for the Miami area](https://caymanjournal.com/articles/nearly-three-years-after-arriving-to-play-for-major-league-s-cmnun4upj00fst5bjk45ysa0n)** *(April 11, 2026)*  
+  Messi's arrival sparked a $1B economic boom in Miami. The new Nu Stadium anchors urban growth, driving tourism, real estate, & job creation.
+- **[The Ships Sailing Through Iran’s Controlled ‘Tollbooth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-tollbooth-cmnuitymr00fht5bjn4wg7t81)** *(April 11, 2026)*  
+  Understand the Strait of Hormuz: 100+ vessels navigate Iran's influence, high shipping risks, and rising insurance premiums impacting global energy fl...
+- **[The Ships Sailing Through Iran’s Controlled ‘Toll Booth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-toll-booth-cmnuiueea00fkt5bjrljv61ai)** *(April 11, 2026)*  
+  Iran's 'toll booth' dynamic in the Strait of Hormuz now impacts global trade, oil prices & shipping. Over 100 crossings monthly reveal its strategic l...
 
 ### 🏛️ Economy
 
-- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
-  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
-- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
-  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
-- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
-  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
-- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
-  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
-- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
-  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
-- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
-  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
-- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
-  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
-- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
-  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
-- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
-  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
-- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
-  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
+- **[The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.](https://caymanjournal.com/articles/the-us-sank-one-of-irans-navies-the-other-still-controls-hor-cmnv8jywk00gjt5bjoxvktjmv)** *(April 12, 2026)*  
+  Discover the paradox in the Persian Gulf: US naval might vs. Iran's IRGCN asymmetric tactics. Learn how Iran holds sway in the Strait of Hormuz, impac...
+- **[Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole](https://caymanjournal.com/articles/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-cmnv49m1400g5t5bjiflgzrxk)** *(April 12, 2026)*  
+  A Vitol star trader reportedly lost hundreds of millions in volatile oil markets, caught by the Iran conflict. A stark look at immense commodity tradi...
+- **[Over 4,732 Messages, He Fell In Love With an AI Chatbot. Now He’s Dead.](https://caymanjournal.com/articles/over-4732-messages-he-fell-in-love-with-an-ai-chatbot-now-he-cmnv4cziv00get5bjydoeb0na)** *(April 12, 2026)*  
+  A software engineer's death linked to AI chatbot dependency spotlights critical AI ethics. Uncover the urgent call for user safety & regulation in the...
+- **[Gas Prices Turn the Gig Worker Economy Upside Down](https://caymanjournal.com/articles/gas-prices-turn-the-gig-worker-economy-upside-down-cmnv4b45q00gbt5bj4uucszzh)** *(April 12, 2026)*  
+  Skyrocketing fuel costs are eroding gig economy driver profits, forcing new strategies & impacting consumers. Learn how this crisis reshapes the on-de...
+- **[Gig Drivers and Delivery Workers Are Adjusting Schedules, Turning Down Longer Rides, and Working More Hours to Make Up for Lost Income](https://caymanjournal.com/articles/gig-drivers-and-delivery-workers-are-adjusting-schedules-tur-cmnv4apfi00g8t5bja2nw5wnv)** *(April 12, 2026)*  
+  Gig economy workers' pay is shrinking 15-20% amid inflation & high gas. Learn why drivers reject long trips & work 70+ hours just to survive.
+- **[Did Millennials or Boomers Have It Harder? We Went Searching for the Answer](https://caymanjournal.com/articles/did-millennials-or-boomers-have-it-harder-we-went-searching-cmnuzz9yx00g0t5bjt6rishca)** *(April 11, 2026)*  
+  Generational economic debate: Data reveals how Boomers' vs. Millennials' income, housing, & student debt experiences differ. See the structural shifts...
+- **[How to Switch AI Chatbots—and Why You Might Want To](https://caymanjournal.com/articles/how-to-switch-ai-chatbotsand-why-you-might-want-to-cmnun6w2200fvt5bj2e1cdhq7)** *(April 11, 2026)*  
+  Your AI chatbot builds a profile on you. Learn to access, edit, and migrate its accumulated 'memory' to new platforms, addressing privacy & vendor loc...
+- **[Nearly three years after arriving to play for Major League Soccer’s Inter Miami, Lionel Messi has become a one-man economic stimulus engine for the Miami area](https://caymanjournal.com/articles/nearly-three-years-after-arriving-to-play-for-major-league-s-cmnun4upj00fst5bjk45ysa0n)** *(April 11, 2026)*  
+  Messi's arrival sparked a $1B economic boom in Miami. The new Nu Stadium anchors urban growth, driving tourism, real estate, & job creation.
+- **[The Ships Sailing Through Iran’s Controlled ‘Tollbooth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-tollbooth-cmnuitymr00fht5bjn4wg7t81)** *(April 11, 2026)*  
+  Understand the Strait of Hormuz: 100+ vessels navigate Iran's influence, high shipping risks, and rising insurance premiums impacting global energy fl...
+- **[The Ships Sailing Through Iran’s Controlled ‘Toll Booth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-toll-booth-cmnuiueea00fkt5bjrljv61ai)** *(April 11, 2026)*  
+  Iran's 'toll booth' dynamic in the Strait of Hormuz now impacts global trade, oil prices & shipping. Over 100 crossings monthly reveal its strategic l...
 
 ### 📈 Markets & Finance
 
-- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
-  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
-- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
-  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
-- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
-  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
-- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
-  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
-- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
-  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
-- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
-  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
-- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
-  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
-- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
-  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
-- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
-  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
-- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
-  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
+- **[The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.](https://caymanjournal.com/articles/the-us-sank-one-of-irans-navies-the-other-still-controls-hor-cmnv8jywk00gjt5bjoxvktjmv)** *(April 12, 2026)*  
+  Discover the paradox in the Persian Gulf: US naval might vs. Iran's IRGCN asymmetric tactics. Learn how Iran holds sway in the Strait of Hormuz, impac...
+- **[Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole](https://caymanjournal.com/articles/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-cmnv49m1400g5t5bjiflgzrxk)** *(April 12, 2026)*  
+  A Vitol star trader reportedly lost hundreds of millions in volatile oil markets, caught by the Iran conflict. A stark look at immense commodity tradi...
+- **[Over 4,732 Messages, He Fell In Love With an AI Chatbot. Now He’s Dead.](https://caymanjournal.com/articles/over-4732-messages-he-fell-in-love-with-an-ai-chatbot-now-he-cmnv4cziv00get5bjydoeb0na)** *(April 12, 2026)*  
+  A software engineer's death linked to AI chatbot dependency spotlights critical AI ethics. Uncover the urgent call for user safety & regulation in the...
+- **[Gas Prices Turn the Gig Worker Economy Upside Down](https://caymanjournal.com/articles/gas-prices-turn-the-gig-worker-economy-upside-down-cmnv4b45q00gbt5bj4uucszzh)** *(April 12, 2026)*  
+  Skyrocketing fuel costs are eroding gig economy driver profits, forcing new strategies & impacting consumers. Learn how this crisis reshapes the on-de...
+- **[Gig Drivers and Delivery Workers Are Adjusting Schedules, Turning Down Longer Rides, and Working More Hours to Make Up for Lost Income](https://caymanjournal.com/articles/gig-drivers-and-delivery-workers-are-adjusting-schedules-tur-cmnv4apfi00g8t5bja2nw5wnv)** *(April 12, 2026)*  
+  Gig economy workers' pay is shrinking 15-20% amid inflation & high gas. Learn why drivers reject long trips & work 70+ hours just to survive.
+- **[Did Millennials or Boomers Have It Harder? We Went Searching for the Answer](https://caymanjournal.com/articles/did-millennials-or-boomers-have-it-harder-we-went-searching-cmnuzz9yx00g0t5bjt6rishca)** *(April 11, 2026)*  
+  Generational economic debate: Data reveals how Boomers' vs. Millennials' income, housing, & student debt experiences differ. See the structural shifts...
+- **[How to Switch AI Chatbots—and Why You Might Want To](https://caymanjournal.com/articles/how-to-switch-ai-chatbotsand-why-you-might-want-to-cmnun6w2200fvt5bj2e1cdhq7)** *(April 11, 2026)*  
+  Your AI chatbot builds a profile on you. Learn to access, edit, and migrate its accumulated 'memory' to new platforms, addressing privacy & vendor loc...
+- **[Nearly three years after arriving to play for Major League Soccer’s Inter Miami, Lionel Messi has become a one-man economic stimulus engine for the Miami area](https://caymanjournal.com/articles/nearly-three-years-after-arriving-to-play-for-major-league-s-cmnun4upj00fst5bjk45ysa0n)** *(April 11, 2026)*  
+  Messi's arrival sparked a $1B economic boom in Miami. The new Nu Stadium anchors urban growth, driving tourism, real estate, & job creation.
+- **[The Ships Sailing Through Iran’s Controlled ‘Tollbooth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-tollbooth-cmnuitymr00fht5bjn4wg7t81)** *(April 11, 2026)*  
+  Understand the Strait of Hormuz: 100+ vessels navigate Iran's influence, high shipping risks, and rising insurance premiums impacting global energy fl...
+- **[The Ships Sailing Through Iran’s Controlled ‘Toll Booth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-toll-booth-cmnuiueea00fkt5bjrljv61ai)** *(April 11, 2026)*  
+  Iran's 'toll booth' dynamic in the Strait of Hormuz now impacts global trade, oil prices & shipping. Over 100 crossings monthly reveal its strategic l...
 
 ### 💻 Technology
 
-- **[Big Pharma Is Turning to China for the Newest Drug Ideas](https://caymanjournal.com/articles/big-pharma-is-turning-to-china-for-the-newest-drug-ideas-cmntt5gzb00f1t5bjiinfvg51)** *(April 11, 2026)*  
-  Western Big Pharma pivots to China's biotech for next-gen drugs. Faster innovation, lower costs, and a booming talent pool are redrawing global R&D.
-- **[White House Races to Head Off Threats From Powerful AI Tools](https://caymanjournal.com/articles/white-house-races-to-head-off-threats-from-powerful-ai-tools-cmntkkriq00eyt5bjojq10qey)** *(April 10, 2026)*  
-  The White House launches a critical sprint to secure cutting-edge AI models from OpenAI & Anthropic, proactively identifying vulnerabilities pre-launc...
-- **[Trump Administration Pushes Biggest Noncombat Ship Upgrade in Decades](https://caymanjournal.com/articles/trump-administration-pushes-biggest-noncombat-ship-upgrade-i-cmntg9pud00est5bjzfqpzaol)** *(April 10, 2026)*  
-  Trump's multi-billion noncombat ship upgrade plan revives US industrial power, creates jobs, strengthens logistics, & counters China's maritime rise.
-- **[U.S. Stocks Roared Back This Week, Buoyed by a Middle East Cease-Fire](https://caymanjournal.com/articles/us-stocks-roared-back-this-week-buoyed-by-a-middle-east-ceas-cmntgcecm00evt5bjosn9xznd)** *(April 10, 2026)*  
-  U.S. stocks surged on Mideast cease-fire hopes (S&P +2.5%), but rising CPI data (3.7% annualized) fueled inflation fears. Discover the market impact &...
-- **[Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon. And that has severely eaten into U.S. paychecks](https://caymanjournal.com/articles/consumer-prices-in-march-rose-at-their-fastest-annual-rate-i-cmntg92ri00ept5bjji042qbg)** *(April 10, 2026)*  
-  The Iran war pushes gasoline prices above $4, driving inflation & squeezing American households. Understand the impact on your paycheck.
-- **[Fund Investors Absorb a Tough Quarter](https://caymanjournal.com/articles/fund-investors-absorb-a-tough-quarter-cmntc2cl000eit5bj2o2vmstc)** *(April 10, 2026)*  
-  Amid a tough Q1 with US stock funds down 2.8%, learn why volatility is normal. Get expert analysis on inflation, rates, and long-term investment strat...
-- **[Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody](https://caymanjournal.com/articles/sam-altmans-home-attacked-with-molotov-cocktail-suspect-take-cmntc0knb00ect5bj552x1qdi)** *(April 10, 2026)*  
-  Sam Altman's home targeted in Molotov cocktail attack after OpenAI HQ threats. Incident raises alarm over AI leader security amid rising pressures.
-- **[Want to Improve Your Golf Game? Play With a Political Ally](https://caymanjournal.com/articles/want-to-improve-your-golf-game-play-with-a-political-ally-cmntbysxk00e9t5bjs6hvw7eb)** *(April 10, 2026)*  
-  New study reveals how political differences impact golf performance & workplace focus. Learn to mitigate cognitive load & build psychological safety.
-- **[How AI Is Reimagining the Game of Golf—for Both Players and Courses](https://caymanjournal.com/articles/how-ai-is-reimagining-the-game-of-golffor-both-players-and-c-cmntc14cr00eft5bjzwdjnmz2)** *(April 10, 2026)*  
-  AI is revolutionizing golf. From smart tee time booking and personalized coaching to sustainable course management & 20-30% water savings, explore how...
-- **[Nike Switches Up Its Innovation Leadership](https://caymanjournal.com/articles/nike-switches-up-its-innovation-leadership-cmnt7q2xo00drt5bj5mieq2q7)** *(April 10, 2026)*  
-  Nike's Chief Innovation Officer Tony Bignell exits as the company faces innovation struggles. Discover the pressure on Nike's strategy & its future di...
+- **[The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.](https://caymanjournal.com/articles/the-us-sank-one-of-irans-navies-the-other-still-controls-hor-cmnv8jywk00gjt5bjoxvktjmv)** *(April 12, 2026)*  
+  Discover the paradox in the Persian Gulf: US naval might vs. Iran's IRGCN asymmetric tactics. Learn how Iran holds sway in the Strait of Hormuz, impac...
+- **[Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole](https://caymanjournal.com/articles/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-cmnv49m1400g5t5bjiflgzrxk)** *(April 12, 2026)*  
+  A Vitol star trader reportedly lost hundreds of millions in volatile oil markets, caught by the Iran conflict. A stark look at immense commodity tradi...
+- **[Over 4,732 Messages, He Fell In Love With an AI Chatbot. Now He’s Dead.](https://caymanjournal.com/articles/over-4732-messages-he-fell-in-love-with-an-ai-chatbot-now-he-cmnv4cziv00get5bjydoeb0na)** *(April 12, 2026)*  
+  A software engineer's death linked to AI chatbot dependency spotlights critical AI ethics. Uncover the urgent call for user safety & regulation in the...
+- **[Gas Prices Turn the Gig Worker Economy Upside Down](https://caymanjournal.com/articles/gas-prices-turn-the-gig-worker-economy-upside-down-cmnv4b45q00gbt5bj4uucszzh)** *(April 12, 2026)*  
+  Skyrocketing fuel costs are eroding gig economy driver profits, forcing new strategies & impacting consumers. Learn how this crisis reshapes the on-de...
+- **[Gig Drivers and Delivery Workers Are Adjusting Schedules, Turning Down Longer Rides, and Working More Hours to Make Up for Lost Income](https://caymanjournal.com/articles/gig-drivers-and-delivery-workers-are-adjusting-schedules-tur-cmnv4apfi00g8t5bja2nw5wnv)** *(April 12, 2026)*  
+  Gig economy workers' pay is shrinking 15-20% amid inflation & high gas. Learn why drivers reject long trips & work 70+ hours just to survive.
+- **[Did Millennials or Boomers Have It Harder? We Went Searching for the Answer](https://caymanjournal.com/articles/did-millennials-or-boomers-have-it-harder-we-went-searching-cmnuzz9yx00g0t5bjt6rishca)** *(April 11, 2026)*  
+  Generational economic debate: Data reveals how Boomers' vs. Millennials' income, housing, & student debt experiences differ. See the structural shifts...
+- **[How to Switch AI Chatbots—and Why You Might Want To](https://caymanjournal.com/articles/how-to-switch-ai-chatbotsand-why-you-might-want-to-cmnun6w2200fvt5bj2e1cdhq7)** *(April 11, 2026)*  
+  Your AI chatbot builds a profile on you. Learn to access, edit, and migrate its accumulated 'memory' to new platforms, addressing privacy & vendor loc...
+- **[Nearly three years after arriving to play for Major League Soccer’s Inter Miami, Lionel Messi has become a one-man economic stimulus engine for the Miami area](https://caymanjournal.com/articles/nearly-three-years-after-arriving-to-play-for-major-league-s-cmnun4upj00fst5bjk45ysa0n)** *(April 11, 2026)*  
+  Messi's arrival sparked a $1B economic boom in Miami. The new Nu Stadium anchors urban growth, driving tourism, real estate, & job creation.
+- **[The Ships Sailing Through Iran’s Controlled ‘Tollbooth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-tollbooth-cmnuitymr00fht5bjn4wg7t81)** *(April 11, 2026)*  
+  Understand the Strait of Hormuz: 100+ vessels navigate Iran's influence, high shipping risks, and rising insurance premiums impacting global energy fl...
+- **[The Ships Sailing Through Iran’s Controlled ‘Toll Booth’](https://caymanjournal.com/articles/the-ships-sailing-through-irans-controlled-toll-booth-cmnuiueea00fkt5bjrljv61ai)** *(April 11, 2026)*  
+  Iran's 'toll booth' dynamic in the Strait of Hormuz now impacts global trade, oil prices & shipping. Over 100 crossings monthly reveal its strategic l...
 
 
-*Last updated: April 11, 2026 at 06:58 UTC*
+*Last updated: April 12, 2026 at 07:11 UTC*
 
 <!-- FEED:END -->
 
