@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Nokia Reports Rising Sales From AI and Data-Center Customers](https://caymanjournal.com/articles/nokia-reports-rising-sales-from-ai-and-data-center-customers-cmob2oppa01z8t5bj628rng2n)** *(April 23, 2026)*  
-  Nokia significantly raises network infrastructure sales forecast to 12-14% growth, driven by AI & data center demand. See their pivotal role.
-- **[Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand](https://caymanjournal.com/articles/apple-supplier-stmicroelectronics-logs-higher-sales-on-stron-cmob2p4v201zbt5bjsesjqxwj)** *(April 23, 2026)*  
-  STMicroelectronics' revenue jumps 23% driven by soaring AI demand. Discover how this semiconductor giant powers AI's expansion from cloud to edge.
-- **[Renault Revenue Rises on Brand Momentum](https://caymanjournal.com/articles/renault-revenue-rises-on-brand-momentum-cmob2pls401zet5bj4w6etv9y)** *(April 23, 2026)*  
-  Renault reports robust financial performance with 8.8% revenue growth, driven by premium vehicles & key brands. Learn how they manage global supply ch...
-- **[Heineken Taps Higher Pricing, Volume Recovery to Fuel Strong First-Quarter Revenue](https://caymanjournal.com/articles/heineken-taps-higher-pricing-volume-recovery-to-fuel-strong-cmob2pzav01zht5bjtqtfrm0u)** *(April 23, 2026)*  
-  Heineken reports strong Q1 revenue: 2.8% organic growth & 1.2% volume recovery. Learn how pricing power fuels their promising start.
-- **[Roche Backs Full-Year View as Quarterly Sales Surge on Innovation Demand](https://caymanjournal.com/articles/roche-backs-full-year-view-as-quarterly-sales-surge-on-innov-cmob2qhzl01zkt5bjs8smu0dv)** *(April 23, 2026)*  
-  Roche's Q1 sales grew +7% to CHF 15.3B, fueled by innovative medicines & diagnostics. Read why the company confidently reaffirms its full-year financi...
-- **[Nestle Reports Drop in Sales Amid Strategic Overhaul](https://caymanjournal.com/articles/nestle-reports-drop-in-sales-amid-strategic-overhaul-cmob2r0va01znt5bjpbipba5p)** *(April 23, 2026)*  
-  Nestle's revenue drops to SFr 27.17B as CEO Navratil pushes a major strategic overhaul. Unpack the impact of divestitures and future growth plans.
-- **[Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer](https://caymanjournal.com/articles/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-s-cmob2unnd01zwt5bjcdjk7tln)** *(April 23, 2026)*  
-  Asian equity markets surged on chip optimism, but geopolitical risk and oil volatility quickly erased gains. Understand what's impacting investor sent...
-- **[Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries](https://caymanjournal.com/articles/safran-posts-double-digit-revenue-growth-on-surge-in-engine-cmob2rks101zqt5bjt8yjm6le)** *(April 23, 2026)*  
-  Safran reports robust 19% Q1 revenue growth, fueled by accelerated LEAP engine deliveries. Discover insights into the aerospace sector's strong recove...
-- **[WTI Crude Prices Shaped by Tug-Of-War Between Risk, Reality](https://caymanjournal.com/articles/wti-crude-prices-shaped-by-tug-of-war-between-risk-reality-cmob2v83u01zzt5bj0mr2hbop)** *(April 23, 2026)*  
-  The global oil market faces intense WTI crude price uncertainty, battling geopolitical risks vs. economic reality. Understand market volatility & outl...
-- **[China’s DeepSeek Looks to Tap External Investors Including Alibaba, Tencent](https://caymanjournal.com/articles/chinas-deepseek-looks-to-tap-external-investors-including-al-cmob2tdmk01ztt5bjmj1dyzhv)** *(April 23, 2026)*  
-  DeepSeek AI, a leading Chinese AI startup, seeks its first external investment from Alibaba & Tencent. This pivotal move fuels LLM research in a compe...
+- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
+  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
+- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
+  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
+- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
+  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
+- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
+  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
+- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
+  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
+- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
+  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
+- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
+  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
+- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
+  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
+- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
+  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
+- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
+  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
 
 ### 🏢 Business
 
-- **[Nokia Reports Rising Sales From AI and Data-Center Customers](https://caymanjournal.com/articles/nokia-reports-rising-sales-from-ai-and-data-center-customers-cmob2oppa01z8t5bj628rng2n)** *(April 23, 2026)*  
-  Nokia significantly raises network infrastructure sales forecast to 12-14% growth, driven by AI & data center demand. See their pivotal role.
-- **[Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand](https://caymanjournal.com/articles/apple-supplier-stmicroelectronics-logs-higher-sales-on-stron-cmob2p4v201zbt5bjsesjqxwj)** *(April 23, 2026)*  
-  STMicroelectronics' revenue jumps 23% driven by soaring AI demand. Discover how this semiconductor giant powers AI's expansion from cloud to edge.
-- **[Renault Revenue Rises on Brand Momentum](https://caymanjournal.com/articles/renault-revenue-rises-on-brand-momentum-cmob2pls401zet5bj4w6etv9y)** *(April 23, 2026)*  
-  Renault reports robust financial performance with 8.8% revenue growth, driven by premium vehicles & key brands. Learn how they manage global supply ch...
-- **[Heineken Taps Higher Pricing, Volume Recovery to Fuel Strong First-Quarter Revenue](https://caymanjournal.com/articles/heineken-taps-higher-pricing-volume-recovery-to-fuel-strong-cmob2pzav01zht5bjtqtfrm0u)** *(April 23, 2026)*  
-  Heineken reports strong Q1 revenue: 2.8% organic growth & 1.2% volume recovery. Learn how pricing power fuels their promising start.
-- **[Roche Backs Full-Year View as Quarterly Sales Surge on Innovation Demand](https://caymanjournal.com/articles/roche-backs-full-year-view-as-quarterly-sales-surge-on-innov-cmob2qhzl01zkt5bjs8smu0dv)** *(April 23, 2026)*  
-  Roche's Q1 sales grew +7% to CHF 15.3B, fueled by innovative medicines & diagnostics. Read why the company confidently reaffirms its full-year financi...
-- **[Nestle Reports Drop in Sales Amid Strategic Overhaul](https://caymanjournal.com/articles/nestle-reports-drop-in-sales-amid-strategic-overhaul-cmob2r0va01znt5bjpbipba5p)** *(April 23, 2026)*  
-  Nestle's revenue drops to SFr 27.17B as CEO Navratil pushes a major strategic overhaul. Unpack the impact of divestitures and future growth plans.
-- **[Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer](https://caymanjournal.com/articles/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-s-cmob2unnd01zwt5bjcdjk7tln)** *(April 23, 2026)*  
-  Asian equity markets surged on chip optimism, but geopolitical risk and oil volatility quickly erased gains. Understand what's impacting investor sent...
-- **[Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries](https://caymanjournal.com/articles/safran-posts-double-digit-revenue-growth-on-surge-in-engine-cmob2rks101zqt5bjt8yjm6le)** *(April 23, 2026)*  
-  Safran reports robust 19% Q1 revenue growth, fueled by accelerated LEAP engine deliveries. Discover insights into the aerospace sector's strong recove...
-- **[WTI Crude Prices Shaped by Tug-Of-War Between Risk, Reality](https://caymanjournal.com/articles/wti-crude-prices-shaped-by-tug-of-war-between-risk-reality-cmob2v83u01zzt5bj0mr2hbop)** *(April 23, 2026)*  
-  The global oil market faces intense WTI crude price uncertainty, battling geopolitical risks vs. economic reality. Understand market volatility & outl...
-- **[China’s DeepSeek Looks to Tap External Investors Including Alibaba, Tencent](https://caymanjournal.com/articles/chinas-deepseek-looks-to-tap-external-investors-including-al-cmob2tdmk01ztt5bjmj1dyzhv)** *(April 23, 2026)*  
-  DeepSeek AI, a leading Chinese AI startup, seeks its first external investment from Alibaba & Tencent. This pivotal move fuels LLM research in a compe...
+- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
+  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
+- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
+  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
+- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
+  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
+- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
+  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
+- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
+  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
+- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
+  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
+- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
+  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
+- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
+  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
+- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
+  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
+- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
+  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
 
 ### 🏛️ Economy
 
-- **[Nokia Reports Rising Sales From AI and Data-Center Customers](https://caymanjournal.com/articles/nokia-reports-rising-sales-from-ai-and-data-center-customers-cmob2oppa01z8t5bj628rng2n)** *(April 23, 2026)*  
-  Nokia significantly raises network infrastructure sales forecast to 12-14% growth, driven by AI & data center demand. See their pivotal role.
-- **[Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand](https://caymanjournal.com/articles/apple-supplier-stmicroelectronics-logs-higher-sales-on-stron-cmob2p4v201zbt5bjsesjqxwj)** *(April 23, 2026)*  
-  STMicroelectronics' revenue jumps 23% driven by soaring AI demand. Discover how this semiconductor giant powers AI's expansion from cloud to edge.
-- **[Renault Revenue Rises on Brand Momentum](https://caymanjournal.com/articles/renault-revenue-rises-on-brand-momentum-cmob2pls401zet5bj4w6etv9y)** *(April 23, 2026)*  
-  Renault reports robust financial performance with 8.8% revenue growth, driven by premium vehicles & key brands. Learn how they manage global supply ch...
-- **[Heineken Taps Higher Pricing, Volume Recovery to Fuel Strong First-Quarter Revenue](https://caymanjournal.com/articles/heineken-taps-higher-pricing-volume-recovery-to-fuel-strong-cmob2pzav01zht5bjtqtfrm0u)** *(April 23, 2026)*  
-  Heineken reports strong Q1 revenue: 2.8% organic growth & 1.2% volume recovery. Learn how pricing power fuels their promising start.
-- **[Roche Backs Full-Year View as Quarterly Sales Surge on Innovation Demand](https://caymanjournal.com/articles/roche-backs-full-year-view-as-quarterly-sales-surge-on-innov-cmob2qhzl01zkt5bjs8smu0dv)** *(April 23, 2026)*  
-  Roche's Q1 sales grew +7% to CHF 15.3B, fueled by innovative medicines & diagnostics. Read why the company confidently reaffirms its full-year financi...
-- **[Nestle Reports Drop in Sales Amid Strategic Overhaul](https://caymanjournal.com/articles/nestle-reports-drop-in-sales-amid-strategic-overhaul-cmob2r0va01znt5bjpbipba5p)** *(April 23, 2026)*  
-  Nestle's revenue drops to SFr 27.17B as CEO Navratil pushes a major strategic overhaul. Unpack the impact of divestitures and future growth plans.
-- **[Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer](https://caymanjournal.com/articles/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-s-cmob2unnd01zwt5bjcdjk7tln)** *(April 23, 2026)*  
-  Asian equity markets surged on chip optimism, but geopolitical risk and oil volatility quickly erased gains. Understand what's impacting investor sent...
-- **[Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries](https://caymanjournal.com/articles/safran-posts-double-digit-revenue-growth-on-surge-in-engine-cmob2rks101zqt5bjt8yjm6le)** *(April 23, 2026)*  
-  Safran reports robust 19% Q1 revenue growth, fueled by accelerated LEAP engine deliveries. Discover insights into the aerospace sector's strong recove...
-- **[WTI Crude Prices Shaped by Tug-Of-War Between Risk, Reality](https://caymanjournal.com/articles/wti-crude-prices-shaped-by-tug-of-war-between-risk-reality-cmob2v83u01zzt5bj0mr2hbop)** *(April 23, 2026)*  
-  The global oil market faces intense WTI crude price uncertainty, battling geopolitical risks vs. economic reality. Understand market volatility & outl...
-- **[China’s DeepSeek Looks to Tap External Investors Including Alibaba, Tencent](https://caymanjournal.com/articles/chinas-deepseek-looks-to-tap-external-investors-including-al-cmob2tdmk01ztt5bjmj1dyzhv)** *(April 23, 2026)*  
-  DeepSeek AI, a leading Chinese AI startup, seeks its first external investment from Alibaba & Tencent. This pivotal move fuels LLM research in a compe...
+- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
+  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
+- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
+  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
+- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
+  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
+- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
+  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
+- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
+  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
+- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
+  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
+- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
+  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
+- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
+  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
+- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
+  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
+- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
+  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
 
 ### 📈 Markets & Finance
 
-- **[Nokia Reports Rising Sales From AI and Data-Center Customers](https://caymanjournal.com/articles/nokia-reports-rising-sales-from-ai-and-data-center-customers-cmob2oppa01z8t5bj628rng2n)** *(April 23, 2026)*  
-  Nokia significantly raises network infrastructure sales forecast to 12-14% growth, driven by AI & data center demand. See their pivotal role.
-- **[Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand](https://caymanjournal.com/articles/apple-supplier-stmicroelectronics-logs-higher-sales-on-stron-cmob2p4v201zbt5bjsesjqxwj)** *(April 23, 2026)*  
-  STMicroelectronics' revenue jumps 23% driven by soaring AI demand. Discover how this semiconductor giant powers AI's expansion from cloud to edge.
-- **[Renault Revenue Rises on Brand Momentum](https://caymanjournal.com/articles/renault-revenue-rises-on-brand-momentum-cmob2pls401zet5bj4w6etv9y)** *(April 23, 2026)*  
-  Renault reports robust financial performance with 8.8% revenue growth, driven by premium vehicles & key brands. Learn how they manage global supply ch...
-- **[Heineken Taps Higher Pricing, Volume Recovery to Fuel Strong First-Quarter Revenue](https://caymanjournal.com/articles/heineken-taps-higher-pricing-volume-recovery-to-fuel-strong-cmob2pzav01zht5bjtqtfrm0u)** *(April 23, 2026)*  
-  Heineken reports strong Q1 revenue: 2.8% organic growth & 1.2% volume recovery. Learn how pricing power fuels their promising start.
-- **[Roche Backs Full-Year View as Quarterly Sales Surge on Innovation Demand](https://caymanjournal.com/articles/roche-backs-full-year-view-as-quarterly-sales-surge-on-innov-cmob2qhzl01zkt5bjs8smu0dv)** *(April 23, 2026)*  
-  Roche's Q1 sales grew +7% to CHF 15.3B, fueled by innovative medicines & diagnostics. Read why the company confidently reaffirms its full-year financi...
-- **[Nestle Reports Drop in Sales Amid Strategic Overhaul](https://caymanjournal.com/articles/nestle-reports-drop-in-sales-amid-strategic-overhaul-cmob2r0va01znt5bjpbipba5p)** *(April 23, 2026)*  
-  Nestle's revenue drops to SFr 27.17B as CEO Navratil pushes a major strategic overhaul. Unpack the impact of divestitures and future growth plans.
-- **[Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer](https://caymanjournal.com/articles/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-s-cmob2unnd01zwt5bjcdjk7tln)** *(April 23, 2026)*  
-  Asian equity markets surged on chip optimism, but geopolitical risk and oil volatility quickly erased gains. Understand what's impacting investor sent...
-- **[Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries](https://caymanjournal.com/articles/safran-posts-double-digit-revenue-growth-on-surge-in-engine-cmob2rks101zqt5bjt8yjm6le)** *(April 23, 2026)*  
-  Safran reports robust 19% Q1 revenue growth, fueled by accelerated LEAP engine deliveries. Discover insights into the aerospace sector's strong recove...
-- **[WTI Crude Prices Shaped by Tug-Of-War Between Risk, Reality](https://caymanjournal.com/articles/wti-crude-prices-shaped-by-tug-of-war-between-risk-reality-cmob2v83u01zzt5bj0mr2hbop)** *(April 23, 2026)*  
-  The global oil market faces intense WTI crude price uncertainty, battling geopolitical risks vs. economic reality. Understand market volatility & outl...
-- **[China’s DeepSeek Looks to Tap External Investors Including Alibaba, Tencent](https://caymanjournal.com/articles/chinas-deepseek-looks-to-tap-external-investors-including-al-cmob2tdmk01ztt5bjmj1dyzhv)** *(April 23, 2026)*  
-  DeepSeek AI, a leading Chinese AI startup, seeks its first external investment from Alibaba & Tencent. This pivotal move fuels LLM research in a compe...
+- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
+  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
+- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
+  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
+- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
+  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
+- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
+  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
+- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
+  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
+- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
+  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
+- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
+  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
+- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
+  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
+- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
+  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
+- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
+  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
 
 ### 💻 Technology
 
-- **[Nokia Reports Rising Sales From AI and Data-Center Customers](https://caymanjournal.com/articles/nokia-reports-rising-sales-from-ai-and-data-center-customers-cmob2oppa01z8t5bj628rng2n)** *(April 23, 2026)*  
-  Nokia significantly raises network infrastructure sales forecast to 12-14% growth, driven by AI & data center demand. See their pivotal role.
-- **[Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand](https://caymanjournal.com/articles/apple-supplier-stmicroelectronics-logs-higher-sales-on-stron-cmob2p4v201zbt5bjsesjqxwj)** *(April 23, 2026)*  
-  STMicroelectronics' revenue jumps 23% driven by soaring AI demand. Discover how this semiconductor giant powers AI's expansion from cloud to edge.
-- **[Renault Revenue Rises on Brand Momentum](https://caymanjournal.com/articles/renault-revenue-rises-on-brand-momentum-cmob2pls401zet5bj4w6etv9y)** *(April 23, 2026)*  
-  Renault reports robust financial performance with 8.8% revenue growth, driven by premium vehicles & key brands. Learn how they manage global supply ch...
-- **[Heineken Taps Higher Pricing, Volume Recovery to Fuel Strong First-Quarter Revenue](https://caymanjournal.com/articles/heineken-taps-higher-pricing-volume-recovery-to-fuel-strong-cmob2pzav01zht5bjtqtfrm0u)** *(April 23, 2026)*  
-  Heineken reports strong Q1 revenue: 2.8% organic growth & 1.2% volume recovery. Learn how pricing power fuels their promising start.
-- **[Roche Backs Full-Year View as Quarterly Sales Surge on Innovation Demand](https://caymanjournal.com/articles/roche-backs-full-year-view-as-quarterly-sales-surge-on-innov-cmob2qhzl01zkt5bjs8smu0dv)** *(April 23, 2026)*  
-  Roche's Q1 sales grew +7% to CHF 15.3B, fueled by innovative medicines & diagnostics. Read why the company confidently reaffirms its full-year financi...
-- **[Nestle Reports Drop in Sales Amid Strategic Overhaul](https://caymanjournal.com/articles/nestle-reports-drop-in-sales-amid-strategic-overhaul-cmob2r0va01znt5bjpbipba5p)** *(April 23, 2026)*  
-  Nestle's revenue drops to SFr 27.17B as CEO Navratil pushes a major strategic overhaul. Unpack the impact of divestitures and future growth plans.
-- **[Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer](https://caymanjournal.com/articles/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-s-cmob2unnd01zwt5bjcdjk7tln)** *(April 23, 2026)*  
-  Asian equity markets surged on chip optimism, but geopolitical risk and oil volatility quickly erased gains. Understand what's impacting investor sent...
-- **[Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries](https://caymanjournal.com/articles/safran-posts-double-digit-revenue-growth-on-surge-in-engine-cmob2rks101zqt5bjt8yjm6le)** *(April 23, 2026)*  
-  Safran reports robust 19% Q1 revenue growth, fueled by accelerated LEAP engine deliveries. Discover insights into the aerospace sector's strong recove...
-- **[WTI Crude Prices Shaped by Tug-Of-War Between Risk, Reality](https://caymanjournal.com/articles/wti-crude-prices-shaped-by-tug-of-war-between-risk-reality-cmob2v83u01zzt5bj0mr2hbop)** *(April 23, 2026)*  
-  The global oil market faces intense WTI crude price uncertainty, battling geopolitical risks vs. economic reality. Understand market volatility & outl...
-- **[China’s DeepSeek Looks to Tap External Investors Including Alibaba, Tencent](https://caymanjournal.com/articles/chinas-deepseek-looks-to-tap-external-investors-including-al-cmob2tdmk01ztt5bjmj1dyzhv)** *(April 23, 2026)*  
-  DeepSeek AI, a leading Chinese AI startup, seeks its first external investment from Alibaba & Tencent. This pivotal move fuels LLM research in a compe...
+- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
+  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
+- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
+  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
+- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
+  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
+- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
+  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
+- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
+  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
+- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
+  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
+- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
+  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
+- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
+  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
+- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
+  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
+- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
+  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
 
 
-*Last updated: April 23, 2026 at 07:48 UTC*
+*Last updated: April 24, 2026 at 08:00 UTC*
 
 <!-- FEED:END -->
 
