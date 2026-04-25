@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
-  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
-- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
-  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
-- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
-  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
-- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
-  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
-- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
-  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
-- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
-  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
-- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
-  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
-- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
-  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
-- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
-  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
-- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
-  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
+- **[United’s Card-Counting CEO Made a Huge Bet—and It’s Paying Off](https://caymanjournal.com/articles/uniteds-card-counting-ceo-made-a-huge-betand-its-paying-off-cmodp10zj02fht5bjdvoypipy)** *(April 25, 2026)*  
+  Scott Kirby's audacious bet on premium travel has United Airlines challenging Delta, yielding soaring revenue & high satisfaction from top-tier custom...
+- **[U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf](https://caymanjournal.com/articles/us-energy-exports-hit-records-as-world-adjusts-to-a-closed-p-cmodozqjc02fet5bjz8qvm2ky)** *(April 25, 2026)*  
+  US energy exports soar amid global tensions. Discover how unprecedented oil & gas shipments solidify its linchpin role, but face hurdles for sustained...
+- **[Maine Governor Vetoes Bill to Temporarily Ban Data Centers](https://caymanjournal.com/articles/maine-governor-vetoes-bill-to-temporarily-ban-data-centers-cmodghnrk02f3t5bj1umq16dn)** *(April 24, 2026)*  
+  Maine Gov. Mills vetoes data center moratorium, pushing for nuanced growth. Unpack the debate over energy, environment & economic development.
+- **[Hollywood Writers Approve Four-Year Deal With Studios](https://caymanjournal.com/articles/hollywood-writers-approve-four-year-deal-with-studios-cmodgf3gu02ext5bjly61c7jv)** *(April 24, 2026)*  
+  Hollywood is back! WGA overwhelmingly ratifies new contract, ending strikes. Discover key gains for writers, AI protections, and industry stability.
+- **[With Powell’s Probe Dropped, All Eyes on Warsh’s Fed Nomination](https://caymanjournal.com/articles/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-cmodgfo4j02f0t5bjdro4jaay)** *(April 24, 2026)*  
+  Trump drops Fed probe, clearing Kevin Warsh's path to Fed Chair. Discover how his hawkish views could mean faster rate hikes & a new era for monetary ...
+- **[Intel Surge Propels S&P 500, Nasdaq to New Records](https://caymanjournal.com/articles/intel-surge-propels-sp-500-nasdaq-to-new-records-cmodgjaqm02f9t5bjc8eqphk3)** *(April 24, 2026)*  
+  Intel's stock soared, propelling S&P 500 & Nasdaq to record highs. The semiconductor rally, fueled by AI demand, signals enduring tech sector strength...
+- **[OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police](https://caymanjournal.com/articles/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-cmodgi3xm02f6t5bj9mywnjpg)** *(April 24, 2026)*  
+  OpenAI CEO Sam Altman apologizes for critical oversight in mass shooting case. Explore AI ethics, user privacy, and new public safety protocols from O...
+- **[Private Equity-Backed Anesthesia Provider Settles FTC Monopolization Charges](https://caymanjournal.com/articles/private-equity-backed-anesthesia-provider-settles-ftc-monopo-cmodc8ml802eht5bjr9e1sqde)** *(April 24, 2026)*  
+  FTC settles with Anesthesia Partners of America & TPG Capital over healthcare monopoly. Landmark case targets private equity roll-up strategies, resha...
+- **[Is AI Smarter Than Humans? It’s Complicated](https://caymanjournal.com/articles/is-ai-smarter-than-humans-its-complicated-cmodc7gk902eet5bjd0rjdlo1)** *(April 24, 2026)*  
+  Dr. Anya Sharma's study upends AI expectations. Learn where AI excels (data) and humans maintain an irreplaceable edge (creativity, empathy) for effec...
+- **[AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://caymanjournal.com/articles/ai-is-cannibalizing-human-intelligence-heres-how-to-stop-it-cmodc6vs302ebt5bj049fpdxi)** *(April 24, 2026)*  
+  Is AI eroding your critical thinking? Dr. Sharma's study reveals how AI reliance dulls human cognitive skills. Discover 4 strategies to boost your bra...
 
 ### 🏢 Business
 
-- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
-  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
-- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
-  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
-- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
-  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
-- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
-  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
-- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
-  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
-- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
-  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
-- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
-  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
-- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
-  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
-- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
-  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
-- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
-  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
+- **[United’s Card-Counting CEO Made a Huge Bet—and It’s Paying Off](https://caymanjournal.com/articles/uniteds-card-counting-ceo-made-a-huge-betand-its-paying-off-cmodp10zj02fht5bjdvoypipy)** *(April 25, 2026)*  
+  Scott Kirby's audacious bet on premium travel has United Airlines challenging Delta, yielding soaring revenue & high satisfaction from top-tier custom...
+- **[U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf](https://caymanjournal.com/articles/us-energy-exports-hit-records-as-world-adjusts-to-a-closed-p-cmodozqjc02fet5bjz8qvm2ky)** *(April 25, 2026)*  
+  US energy exports soar amid global tensions. Discover how unprecedented oil & gas shipments solidify its linchpin role, but face hurdles for sustained...
+- **[Maine Governor Vetoes Bill to Temporarily Ban Data Centers](https://caymanjournal.com/articles/maine-governor-vetoes-bill-to-temporarily-ban-data-centers-cmodghnrk02f3t5bj1umq16dn)** *(April 24, 2026)*  
+  Maine Gov. Mills vetoes data center moratorium, pushing for nuanced growth. Unpack the debate over energy, environment & economic development.
+- **[Hollywood Writers Approve Four-Year Deal With Studios](https://caymanjournal.com/articles/hollywood-writers-approve-four-year-deal-with-studios-cmodgf3gu02ext5bjly61c7jv)** *(April 24, 2026)*  
+  Hollywood is back! WGA overwhelmingly ratifies new contract, ending strikes. Discover key gains for writers, AI protections, and industry stability.
+- **[With Powell’s Probe Dropped, All Eyes on Warsh’s Fed Nomination](https://caymanjournal.com/articles/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-cmodgfo4j02f0t5bjdro4jaay)** *(April 24, 2026)*  
+  Trump drops Fed probe, clearing Kevin Warsh's path to Fed Chair. Discover how his hawkish views could mean faster rate hikes & a new era for monetary ...
+- **[Intel Surge Propels S&P 500, Nasdaq to New Records](https://caymanjournal.com/articles/intel-surge-propels-sp-500-nasdaq-to-new-records-cmodgjaqm02f9t5bjc8eqphk3)** *(April 24, 2026)*  
+  Intel's stock soared, propelling S&P 500 & Nasdaq to record highs. The semiconductor rally, fueled by AI demand, signals enduring tech sector strength...
+- **[OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police](https://caymanjournal.com/articles/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-cmodgi3xm02f6t5bj9mywnjpg)** *(April 24, 2026)*  
+  OpenAI CEO Sam Altman apologizes for critical oversight in mass shooting case. Explore AI ethics, user privacy, and new public safety protocols from O...
+- **[Private Equity-Backed Anesthesia Provider Settles FTC Monopolization Charges](https://caymanjournal.com/articles/private-equity-backed-anesthesia-provider-settles-ftc-monopo-cmodc8ml802eht5bjr9e1sqde)** *(April 24, 2026)*  
+  FTC settles with Anesthesia Partners of America & TPG Capital over healthcare monopoly. Landmark case targets private equity roll-up strategies, resha...
+- **[Is AI Smarter Than Humans? It’s Complicated](https://caymanjournal.com/articles/is-ai-smarter-than-humans-its-complicated-cmodc7gk902eet5bjd0rjdlo1)** *(April 24, 2026)*  
+  Dr. Anya Sharma's study upends AI expectations. Learn where AI excels (data) and humans maintain an irreplaceable edge (creativity, empathy) for effec...
+- **[AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://caymanjournal.com/articles/ai-is-cannibalizing-human-intelligence-heres-how-to-stop-it-cmodc6vs302ebt5bj049fpdxi)** *(April 24, 2026)*  
+  Is AI eroding your critical thinking? Dr. Sharma's study reveals how AI reliance dulls human cognitive skills. Discover 4 strategies to boost your bra...
 
 ### 🏛️ Economy
 
-- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
-  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
-- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
-  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
-- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
-  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
-- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
-  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
-- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
-  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
-- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
-  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
-- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
-  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
-- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
-  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
-- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
-  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
-- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
-  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
+- **[United’s Card-Counting CEO Made a Huge Bet—and It’s Paying Off](https://caymanjournal.com/articles/uniteds-card-counting-ceo-made-a-huge-betand-its-paying-off-cmodp10zj02fht5bjdvoypipy)** *(April 25, 2026)*  
+  Scott Kirby's audacious bet on premium travel has United Airlines challenging Delta, yielding soaring revenue & high satisfaction from top-tier custom...
+- **[U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf](https://caymanjournal.com/articles/us-energy-exports-hit-records-as-world-adjusts-to-a-closed-p-cmodozqjc02fet5bjz8qvm2ky)** *(April 25, 2026)*  
+  US energy exports soar amid global tensions. Discover how unprecedented oil & gas shipments solidify its linchpin role, but face hurdles for sustained...
+- **[Maine Governor Vetoes Bill to Temporarily Ban Data Centers](https://caymanjournal.com/articles/maine-governor-vetoes-bill-to-temporarily-ban-data-centers-cmodghnrk02f3t5bj1umq16dn)** *(April 24, 2026)*  
+  Maine Gov. Mills vetoes data center moratorium, pushing for nuanced growth. Unpack the debate over energy, environment & economic development.
+- **[Hollywood Writers Approve Four-Year Deal With Studios](https://caymanjournal.com/articles/hollywood-writers-approve-four-year-deal-with-studios-cmodgf3gu02ext5bjly61c7jv)** *(April 24, 2026)*  
+  Hollywood is back! WGA overwhelmingly ratifies new contract, ending strikes. Discover key gains for writers, AI protections, and industry stability.
+- **[With Powell’s Probe Dropped, All Eyes on Warsh’s Fed Nomination](https://caymanjournal.com/articles/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-cmodgfo4j02f0t5bjdro4jaay)** *(April 24, 2026)*  
+  Trump drops Fed probe, clearing Kevin Warsh's path to Fed Chair. Discover how his hawkish views could mean faster rate hikes & a new era for monetary ...
+- **[Intel Surge Propels S&P 500, Nasdaq to New Records](https://caymanjournal.com/articles/intel-surge-propels-sp-500-nasdaq-to-new-records-cmodgjaqm02f9t5bjc8eqphk3)** *(April 24, 2026)*  
+  Intel's stock soared, propelling S&P 500 & Nasdaq to record highs. The semiconductor rally, fueled by AI demand, signals enduring tech sector strength...
+- **[OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police](https://caymanjournal.com/articles/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-cmodgi3xm02f6t5bj9mywnjpg)** *(April 24, 2026)*  
+  OpenAI CEO Sam Altman apologizes for critical oversight in mass shooting case. Explore AI ethics, user privacy, and new public safety protocols from O...
+- **[Private Equity-Backed Anesthesia Provider Settles FTC Monopolization Charges](https://caymanjournal.com/articles/private-equity-backed-anesthesia-provider-settles-ftc-monopo-cmodc8ml802eht5bjr9e1sqde)** *(April 24, 2026)*  
+  FTC settles with Anesthesia Partners of America & TPG Capital over healthcare monopoly. Landmark case targets private equity roll-up strategies, resha...
+- **[Is AI Smarter Than Humans? It’s Complicated](https://caymanjournal.com/articles/is-ai-smarter-than-humans-its-complicated-cmodc7gk902eet5bjd0rjdlo1)** *(April 24, 2026)*  
+  Dr. Anya Sharma's study upends AI expectations. Learn where AI excels (data) and humans maintain an irreplaceable edge (creativity, empathy) for effec...
+- **[AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://caymanjournal.com/articles/ai-is-cannibalizing-human-intelligence-heres-how-to-stop-it-cmodc6vs302ebt5bj049fpdxi)** *(April 24, 2026)*  
+  Is AI eroding your critical thinking? Dr. Sharma's study reveals how AI reliance dulls human cognitive skills. Discover 4 strategies to boost your bra...
 
 ### 📈 Markets & Finance
 
-- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
-  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
-- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
-  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
-- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
-  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
-- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
-  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
-- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
-  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
-- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
-  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
-- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
-  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
-- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
-  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
-- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
-  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
-- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
-  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
+- **[United’s Card-Counting CEO Made a Huge Bet—and It’s Paying Off](https://caymanjournal.com/articles/uniteds-card-counting-ceo-made-a-huge-betand-its-paying-off-cmodp10zj02fht5bjdvoypipy)** *(April 25, 2026)*  
+  Scott Kirby's audacious bet on premium travel has United Airlines challenging Delta, yielding soaring revenue & high satisfaction from top-tier custom...
+- **[U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf](https://caymanjournal.com/articles/us-energy-exports-hit-records-as-world-adjusts-to-a-closed-p-cmodozqjc02fet5bjz8qvm2ky)** *(April 25, 2026)*  
+  US energy exports soar amid global tensions. Discover how unprecedented oil & gas shipments solidify its linchpin role, but face hurdles for sustained...
+- **[Maine Governor Vetoes Bill to Temporarily Ban Data Centers](https://caymanjournal.com/articles/maine-governor-vetoes-bill-to-temporarily-ban-data-centers-cmodghnrk02f3t5bj1umq16dn)** *(April 24, 2026)*  
+  Maine Gov. Mills vetoes data center moratorium, pushing for nuanced growth. Unpack the debate over energy, environment & economic development.
+- **[Hollywood Writers Approve Four-Year Deal With Studios](https://caymanjournal.com/articles/hollywood-writers-approve-four-year-deal-with-studios-cmodgf3gu02ext5bjly61c7jv)** *(April 24, 2026)*  
+  Hollywood is back! WGA overwhelmingly ratifies new contract, ending strikes. Discover key gains for writers, AI protections, and industry stability.
+- **[With Powell’s Probe Dropped, All Eyes on Warsh’s Fed Nomination](https://caymanjournal.com/articles/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-cmodgfo4j02f0t5bjdro4jaay)** *(April 24, 2026)*  
+  Trump drops Fed probe, clearing Kevin Warsh's path to Fed Chair. Discover how his hawkish views could mean faster rate hikes & a new era for monetary ...
+- **[Intel Surge Propels S&P 500, Nasdaq to New Records](https://caymanjournal.com/articles/intel-surge-propels-sp-500-nasdaq-to-new-records-cmodgjaqm02f9t5bjc8eqphk3)** *(April 24, 2026)*  
+  Intel's stock soared, propelling S&P 500 & Nasdaq to record highs. The semiconductor rally, fueled by AI demand, signals enduring tech sector strength...
+- **[OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police](https://caymanjournal.com/articles/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-cmodgi3xm02f6t5bj9mywnjpg)** *(April 24, 2026)*  
+  OpenAI CEO Sam Altman apologizes for critical oversight in mass shooting case. Explore AI ethics, user privacy, and new public safety protocols from O...
+- **[Private Equity-Backed Anesthesia Provider Settles FTC Monopolization Charges](https://caymanjournal.com/articles/private-equity-backed-anesthesia-provider-settles-ftc-monopo-cmodc8ml802eht5bjr9e1sqde)** *(April 24, 2026)*  
+  FTC settles with Anesthesia Partners of America & TPG Capital over healthcare monopoly. Landmark case targets private equity roll-up strategies, resha...
+- **[Is AI Smarter Than Humans? It’s Complicated](https://caymanjournal.com/articles/is-ai-smarter-than-humans-its-complicated-cmodc7gk902eet5bjd0rjdlo1)** *(April 24, 2026)*  
+  Dr. Anya Sharma's study upends AI expectations. Learn where AI excels (data) and humans maintain an irreplaceable edge (creativity, empathy) for effec...
+- **[AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://caymanjournal.com/articles/ai-is-cannibalizing-human-intelligence-heres-how-to-stop-it-cmodc6vs302ebt5bj049fpdxi)** *(April 24, 2026)*  
+  Is AI eroding your critical thinking? Dr. Sharma's study reveals how AI reliance dulls human cognitive skills. Discover 4 strategies to boost your bra...
 
 ### 💻 Technology
 
-- **[China's DeepSeek Breaks Silence, Unveils Long-Awaited V4 AI Model](https://caymanjournal.com/articles/chinas-deepseek-breaks-silence-unveils-long-awaited-v4-ai-mo-cmoci6md30298t5bjpnflbm86)** *(April 24, 2026)*  
-  DeepSeek launches V4 AI model previews, ending its silence. Explore how China's AI leader aims to set new standards and intensify global competition.
-- **[Kuehne + Nagel Lifts Lower-End of Earnings Guidance](https://caymanjournal.com/articles/kuehne--nagel-lifts-lower-end-of-earnings-guidance-cmoci4frq0295t5bjsrpgcpbu)** *(April 24, 2026)*  
-  Kuehne + Nagel boosts full-year earnings outlook despite Q1 sea freight hit. Learn how diversified air, road & contract logistics fuel confidence.
-- **[TSMC Shares Surge as Taiwan Eases Investment Limits for Funds](https://caymanjournal.com/articles/tsmc-shares-surge-as-taiwan-eases-investment-limits-for-fund-cmoci7v0k029bt5bj5hjj6918)** *(April 24, 2026)*  
-  TSMC stock gains after Taiwan regulators ease fund investment limits. Explore how FSC's decision bolsters liquidity & TSMC's market standing.
-- **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://caymanjournal.com/articles/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-cmocdw93u028rt5bjegt2etqg)** *(April 24, 2026)*  
-  Unpack Meta's deep cuts: not just efficiency, but a strategic AI pivot. See how tens of thousands of roles are impacted as AI becomes Meta's new OS.
-- **[The Arbitrage Trade That’s Making Private-Credit Withdrawals Worse](https://caymanjournal.com/articles/the-arbitrage-trade-thats-making-private-credit-withdrawals-cmocdxk8e028ut5bj11lok1gw)** *(April 24, 2026)*  
-  Discover how a quiet arbitrage strategy exploits valuation gaps in private credit, intensifying investor withdrawals & creating liquidity stress for f...
-- **[Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit](https://caymanjournal.com/articles/oracles-deluge-of-ai-debt-pushes-wall-street-to-the-limit-cmoc9k0au028bt5bje9i8uykq)** *(April 24, 2026)*  
-  The AI gold rush hits an inflection point: explore the staggering costs, power limits & public backlash threatening its infrastructure. Oracle faces s...
-- **[Oil Markets Roiled as Strait of Hormuz Closure Fuels Price Surge](https://caymanjournal.com/articles/oil-markets-roiled-as-strait-of-hormuz-closure-fuels-price-s-cmoci8dat029et5bju5qweh3d)** *(April 24, 2026)*  
-  Oil prices surge over 4% as the critical Strait of Hormuz closes due to a security incident. Understand the far-reaching global energy, economic, and ...
-- **[The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead.](https://caymanjournal.com/articles/the-sphere-looked-like-a-disaster-its-become-a-huge-hit-inst-cmoc9lqpf028ht5bjh4qbcp1q)** *(April 24, 2026)*  
-  The Sphere in Las Vegas defied critics, becoming the world's highest-grossing arena. Discover its immersive tech, rapid ROI, and why it's redefining l...
-- **[Japan Consumer Inflation Picks Up Amid Middle East Tensions](https://caymanjournal.com/articles/japan-consumer-inflation-picks-up-amid-middle-east-tensions-cmoc9l41h028et5bjppvfizl7)** *(April 23, 2026)*  
-  Japan's core inflation jumps 1.8%, driven by rising energy costs and a weak yen. This external-led surge challenges BOJ policy & consumer budgets.
-- **[Trump on Spirit Airlines: ‘I Think We’d Just Buy It’](https://caymanjournal.com/articles/trump-on-spirit-airlines-i-think-wed-just-buy-it-cmoc59o80027yt5bj9x07imff)** *(April 23, 2026)*  
-  Trump proposes US government "buy" Spirit Airlines. Learn how unprecedented federal ownership could reshape the ailing airline industry's bailout.
+- **[United’s Card-Counting CEO Made a Huge Bet—and It’s Paying Off](https://caymanjournal.com/articles/uniteds-card-counting-ceo-made-a-huge-betand-its-paying-off-cmodp10zj02fht5bjdvoypipy)** *(April 25, 2026)*  
+  Scott Kirby's audacious bet on premium travel has United Airlines challenging Delta, yielding soaring revenue & high satisfaction from top-tier custom...
+- **[U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf](https://caymanjournal.com/articles/us-energy-exports-hit-records-as-world-adjusts-to-a-closed-p-cmodozqjc02fet5bjz8qvm2ky)** *(April 25, 2026)*  
+  US energy exports soar amid global tensions. Discover how unprecedented oil & gas shipments solidify its linchpin role, but face hurdles for sustained...
+- **[Maine Governor Vetoes Bill to Temporarily Ban Data Centers](https://caymanjournal.com/articles/maine-governor-vetoes-bill-to-temporarily-ban-data-centers-cmodghnrk02f3t5bj1umq16dn)** *(April 24, 2026)*  
+  Maine Gov. Mills vetoes data center moratorium, pushing for nuanced growth. Unpack the debate over energy, environment & economic development.
+- **[Hollywood Writers Approve Four-Year Deal With Studios](https://caymanjournal.com/articles/hollywood-writers-approve-four-year-deal-with-studios-cmodgf3gu02ext5bjly61c7jv)** *(April 24, 2026)*  
+  Hollywood is back! WGA overwhelmingly ratifies new contract, ending strikes. Discover key gains for writers, AI protections, and industry stability.
+- **[With Powell’s Probe Dropped, All Eyes on Warsh’s Fed Nomination](https://caymanjournal.com/articles/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-cmodgfo4j02f0t5bjdro4jaay)** *(April 24, 2026)*  
+  Trump drops Fed probe, clearing Kevin Warsh's path to Fed Chair. Discover how his hawkish views could mean faster rate hikes & a new era for monetary ...
+- **[Intel Surge Propels S&P 500, Nasdaq to New Records](https://caymanjournal.com/articles/intel-surge-propels-sp-500-nasdaq-to-new-records-cmodgjaqm02f9t5bjc8eqphk3)** *(April 24, 2026)*  
+  Intel's stock soared, propelling S&P 500 & Nasdaq to record highs. The semiconductor rally, fueled by AI demand, signals enduring tech sector strength...
+- **[OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police](https://caymanjournal.com/articles/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-cmodgi3xm02f6t5bj9mywnjpg)** *(April 24, 2026)*  
+  OpenAI CEO Sam Altman apologizes for critical oversight in mass shooting case. Explore AI ethics, user privacy, and new public safety protocols from O...
+- **[Private Equity-Backed Anesthesia Provider Settles FTC Monopolization Charges](https://caymanjournal.com/articles/private-equity-backed-anesthesia-provider-settles-ftc-monopo-cmodc8ml802eht5bjr9e1sqde)** *(April 24, 2026)*  
+  FTC settles with Anesthesia Partners of America & TPG Capital over healthcare monopoly. Landmark case targets private equity roll-up strategies, resha...
+- **[Is AI Smarter Than Humans? It’s Complicated](https://caymanjournal.com/articles/is-ai-smarter-than-humans-its-complicated-cmodc7gk902eet5bjd0rjdlo1)** *(April 24, 2026)*  
+  Dr. Anya Sharma's study upends AI expectations. Learn where AI excels (data) and humans maintain an irreplaceable edge (creativity, empathy) for effec...
+- **[AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://caymanjournal.com/articles/ai-is-cannibalizing-human-intelligence-heres-how-to-stop-it-cmodc6vs302ebt5bj049fpdxi)** *(April 24, 2026)*  
+  Is AI eroding your critical thinking? Dr. Sharma's study reveals how AI reliance dulls human cognitive skills. Discover 4 strategies to boost your bra...
 
 
-*Last updated: April 24, 2026 at 08:00 UTC*
+*Last updated: April 25, 2026 at 07:12 UTC*
 
 <!-- FEED:END -->
 
