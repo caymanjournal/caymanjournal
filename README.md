@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://caymanjournal.com/articles/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-cmofd2jgh02gst5bj83nw6ehi)** *(April 26, 2026)*  
-  AI fuels market records as Anthropic & OpenAI IPOs loom. Uncover signs of froth & whether this boom mirrors past tech bubbles.
-- **[America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt](https://caymanjournal.com/articles/americas-pandemic-car-bubble-is-now-trapping-buyers-in-debt-cmof8ps6j02gpt5bj8hmqfoki)** *(April 26, 2026)*  
-  Millions are underwater on car loans as negative equity soars 40% since 2021. Uncover the auto debt crisis & its financial impact.
-- **[See How the Energy Crisis Is Spreading Across the World](https://caymanjournal.com/articles/see-how-the-energy-crisis-is-spreading-across-the-world-cmof4fh6s02ght5bjxeqgqil1)** *(April 26, 2026)*  
-  "War" among oil exporters rocks global energy markets. Understand how soaring costs impact economies, businesses, and inflation worldwide.
-- **[The Small Midwest Community Leading America’s Crusade Against Data Centers](https://caymanjournal.com/articles/the-small-midwest-community-leading-americas-crusade-against-cmof4i8xa02gkt5bjvnku42q5)** *(April 26, 2026)*  
-  Harmony Creek fights back against data centers & corporate interests, triggering recalls over power, water & tax breaks. A national battle for local a...
-- **[Trump’s Crypto Luncheon Draws ‘Superstars,’ But His Token Hovers Near Low](https://caymanjournal.com/articles/trumps-crypto-luncheon-draws-superstars-but-his-token-hovers-cmoermwbq02gct5bja9696r8h)** *(April 25, 2026)*  
-  Trump hosted crypto whales at Mar-a-Lago, championing digital assets amid a 60% slump for his $TRUMP memecoin. Explore his strategic crypto pivot.
-- **[The Race to Make the World’s Most In-Demand Machine](https://caymanjournal.com/articles/the-race-to-make-the-worlds-most-in-demand-machine-cmoenb0ee02g7t5bjdqv431dq)** *(April 25, 2026)*  
-  Uncover how ASML, a little-known Dutch firm, is the critical bottleneck for global AI dominance, producing the essential machines for advanced AI chip...
-- **[The Greatest Entrepreneurs in U.S. History, According to Business Historians](https://caymanjournal.com/articles/the-greatest-entrepreneurs-in-us-history-according-to-busine-cmoej032702g2t5bj5wjwzufa)** *(April 25, 2026)*  
-  Explore 30 years of America's most impactful entrepreneurs. Discover how greatness in business leadership evolved from industry titans to digital pion...
-- **[When Financial Cheating Leads to Divorce](https://caymanjournal.com/articles/when-financial-cheating-leads-to-divorce-cmoeahng202fwt5bjzg6uass3)** *(April 25, 2026)*  
-  Financial infidelity fuels 30% of divorces with hidden debts & accounts. Explore evolving cannabis health risks, Apple's AR future, and the surprising...
-- **[We’re All Talking to Each Other Less Than We Did a Decade Ago](https://caymanjournal.com/articles/were-all-talking-to-each-other-less-than-we-did-a-decade-ago-cmoeai3et02fzt5bjqq3o04zw)** *(April 25, 2026)*  
-  The convenience economy is eroding human interaction. Discover how this impacts your business, customer loyalty & team cohesion, and what to do.
-- **[News Quiz for April 25, 2026](https://caymanjournal.com/articles/news-quiz-for-april-25-2026-cmoeafc1m02ftt5bjf4t6bhp7)** *(April 25, 2026)*  
-  April 2026's key headlines: Synapse AI's NeuralNet 7 launch, Fed's rate decision, a €15B green energy investment & a major creator platform acquisitio...
+- **[Galp's Key Earnings Metric Soars on Production Surge and Favorable Pricing](https://caymanjournal.com/articles/galps-key-earnings-metric-soars-on-production-surge-and-favo-cmogwqzay02j7t5bjc1iuk7qm)** *(April 27, 2026)*  
+  Galp's Q1 adjusted net profit soared 41% to €272M, fueled by strategic efficiency, higher production, & strong commodity prices. Get the full analysis...
+- **[Forvia Divests Auto Interiors Arm to Apollo Funds in Strategic $2.1 Billion Move](https://caymanjournal.com/articles/forvia-divests-auto-interiors-arm-to-apollo-funds-in-strateg-cmogwsmay02jat5bj89hiyhp1)** *(April 27, 2026)*  
+  Forvia sells Auto Interiors to Apollo for $2.1B, strategically pivoting to EV tech & sustainable mobility. Unpack this landmark automotive industry sh...
+- **[German Consumer Sentiment Slumps to Three-Year Low on Iran War Impact](https://caymanjournal.com/articles/german-consumer-sentiment-slumps-to-three-year-low-on-iran-w-cmogwq9zj02j4t5bjorkt152f)** *(April 27, 2026)*  
+  German consumer sentiment plunges to a 3-year low of -29.7 in April, driven by Middle East conflict fears and surging energy prices. Will Germany's re...
+- **[Oil Above $100 Signals Supply Stress](https://caymanjournal.com/articles/oil-above-100-signals-supply-stress-cmogsih5u02iqt5bjizk3ylqh)** *(April 27, 2026)*  
+  Brent crude oil surges past $100. Geopolitical instability, thin supply & demand resilience make this the new floor, fueling global inflation & costs.
+- **[China’s Industrial Profits Jump Despite Tighter Energy Markets](https://caymanjournal.com/articles/chinas-industrial-profits-jump-despite-tighter-energy-market-cmogo9g1s02ilt5bjp2872kx7)** *(April 27, 2026)*  
+  China's industrial profits jumped 15.8% in March, defying soaring global energy costs. Learn how domestic demand & gov't support fueled this surprisin...
+- **[Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal](https://caymanjournal.com/articles/sun-pharma-to-buy-us-healthcare-firm-organon-in-1175-billion-cmogo5p4a02ift5bjxexhxvwh)** *(April 27, 2026)*  
+  Sun Pharma acquires Organon for $11.75B, targeting top 3 global women's health leadership. See how this blockbuster deal transforms pharma.
+- **[Elon Musk Is an Underdog in His $180 Billion Fight Against OpenAI](https://caymanjournal.com/articles/elon-musk-is-an-underdog-in-his-180-billion-fight-against-op-cmogo7thx02iit5bjjl33vcku)** *(April 27, 2026)*  
+  Elon Musk's lawsuit against OpenAI challenges its core mission, seeking to claw back billions. Explore this complex fight for AI's soul and governance...
+- **[Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan](https://caymanjournal.com/articles/budget-airlines-pitch-trump-administration-on-25-billion-rel-cmogjwxmv02i9t5bj24p6ym3d)** *(April 27, 2026)*  
+  Spirit Airlines & budget carriers lobby the Trump Administration for a $2.5B relief package, seeking grants and tax breaks to avert layoffs.
+- **[Sun Pharmaceutical to Acquire Organon in Landmark $11.75 Billion All-Cash Deal](https://caymanjournal.com/articles/sun-pharmaceutical-to-acquire-organon-in-landmark-1175-billi-cmogjxf0t02ict5bjgqj34j10)** *(April 27, 2026)*  
+  India's Sun Pharma to acquire Organon for $11.75 billion in cash, expanding its global footprint in women's health and biosimilars. Get details.
+- **[Corporate America Is Minting Money—and Not Just in Tech and Finance](https://caymanjournal.com/articles/corporate-america-is-minting-moneyand-not-just-in-tech-and-f-cmogjvctu02i3t5bjy8jx3f70)** *(April 27, 2026)*  
+  US corporations defy economic headwinds, posting record profits across diverse sectors. Explore how pricing power & efficiency drive this surprising b...
 
 ### 🏢 Business
 
-- **[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://caymanjournal.com/articles/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-cmofd2jgh02gst5bj83nw6ehi)** *(April 26, 2026)*  
-  AI fuels market records as Anthropic & OpenAI IPOs loom. Uncover signs of froth & whether this boom mirrors past tech bubbles.
-- **[America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt](https://caymanjournal.com/articles/americas-pandemic-car-bubble-is-now-trapping-buyers-in-debt-cmof8ps6j02gpt5bj8hmqfoki)** *(April 26, 2026)*  
-  Millions are underwater on car loans as negative equity soars 40% since 2021. Uncover the auto debt crisis & its financial impact.
-- **[See How the Energy Crisis Is Spreading Across the World](https://caymanjournal.com/articles/see-how-the-energy-crisis-is-spreading-across-the-world-cmof4fh6s02ght5bjxeqgqil1)** *(April 26, 2026)*  
-  "War" among oil exporters rocks global energy markets. Understand how soaring costs impact economies, businesses, and inflation worldwide.
-- **[The Small Midwest Community Leading America’s Crusade Against Data Centers](https://caymanjournal.com/articles/the-small-midwest-community-leading-americas-crusade-against-cmof4i8xa02gkt5bjvnku42q5)** *(April 26, 2026)*  
-  Harmony Creek fights back against data centers & corporate interests, triggering recalls over power, water & tax breaks. A national battle for local a...
-- **[Trump’s Crypto Luncheon Draws ‘Superstars,’ But His Token Hovers Near Low](https://caymanjournal.com/articles/trumps-crypto-luncheon-draws-superstars-but-his-token-hovers-cmoermwbq02gct5bja9696r8h)** *(April 25, 2026)*  
-  Trump hosted crypto whales at Mar-a-Lago, championing digital assets amid a 60% slump for his $TRUMP memecoin. Explore his strategic crypto pivot.
-- **[The Race to Make the World’s Most In-Demand Machine](https://caymanjournal.com/articles/the-race-to-make-the-worlds-most-in-demand-machine-cmoenb0ee02g7t5bjdqv431dq)** *(April 25, 2026)*  
-  Uncover how ASML, a little-known Dutch firm, is the critical bottleneck for global AI dominance, producing the essential machines for advanced AI chip...
-- **[The Greatest Entrepreneurs in U.S. History, According to Business Historians](https://caymanjournal.com/articles/the-greatest-entrepreneurs-in-us-history-according-to-busine-cmoej032702g2t5bj5wjwzufa)** *(April 25, 2026)*  
-  Explore 30 years of America's most impactful entrepreneurs. Discover how greatness in business leadership evolved from industry titans to digital pion...
-- **[When Financial Cheating Leads to Divorce](https://caymanjournal.com/articles/when-financial-cheating-leads-to-divorce-cmoeahng202fwt5bjzg6uass3)** *(April 25, 2026)*  
-  Financial infidelity fuels 30% of divorces with hidden debts & accounts. Explore evolving cannabis health risks, Apple's AR future, and the surprising...
-- **[We’re All Talking to Each Other Less Than We Did a Decade Ago](https://caymanjournal.com/articles/were-all-talking-to-each-other-less-than-we-did-a-decade-ago-cmoeai3et02fzt5bjqq3o04zw)** *(April 25, 2026)*  
-  The convenience economy is eroding human interaction. Discover how this impacts your business, customer loyalty & team cohesion, and what to do.
-- **[News Quiz for April 25, 2026](https://caymanjournal.com/articles/news-quiz-for-april-25-2026-cmoeafc1m02ftt5bjf4t6bhp7)** *(April 25, 2026)*  
-  April 2026's key headlines: Synapse AI's NeuralNet 7 launch, Fed's rate decision, a €15B green energy investment & a major creator platform acquisitio...
+- **[Galp's Key Earnings Metric Soars on Production Surge and Favorable Pricing](https://caymanjournal.com/articles/galps-key-earnings-metric-soars-on-production-surge-and-favo-cmogwqzay02j7t5bjc1iuk7qm)** *(April 27, 2026)*  
+  Galp's Q1 adjusted net profit soared 41% to €272M, fueled by strategic efficiency, higher production, & strong commodity prices. Get the full analysis...
+- **[Forvia Divests Auto Interiors Arm to Apollo Funds in Strategic $2.1 Billion Move](https://caymanjournal.com/articles/forvia-divests-auto-interiors-arm-to-apollo-funds-in-strateg-cmogwsmay02jat5bj89hiyhp1)** *(April 27, 2026)*  
+  Forvia sells Auto Interiors to Apollo for $2.1B, strategically pivoting to EV tech & sustainable mobility. Unpack this landmark automotive industry sh...
+- **[German Consumer Sentiment Slumps to Three-Year Low on Iran War Impact](https://caymanjournal.com/articles/german-consumer-sentiment-slumps-to-three-year-low-on-iran-w-cmogwq9zj02j4t5bjorkt152f)** *(April 27, 2026)*  
+  German consumer sentiment plunges to a 3-year low of -29.7 in April, driven by Middle East conflict fears and surging energy prices. Will Germany's re...
+- **[Oil Above $100 Signals Supply Stress](https://caymanjournal.com/articles/oil-above-100-signals-supply-stress-cmogsih5u02iqt5bjizk3ylqh)** *(April 27, 2026)*  
+  Brent crude oil surges past $100. Geopolitical instability, thin supply & demand resilience make this the new floor, fueling global inflation & costs.
+- **[China’s Industrial Profits Jump Despite Tighter Energy Markets](https://caymanjournal.com/articles/chinas-industrial-profits-jump-despite-tighter-energy-market-cmogo9g1s02ilt5bjp2872kx7)** *(April 27, 2026)*  
+  China's industrial profits jumped 15.8% in March, defying soaring global energy costs. Learn how domestic demand & gov't support fueled this surprisin...
+- **[Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal](https://caymanjournal.com/articles/sun-pharma-to-buy-us-healthcare-firm-organon-in-1175-billion-cmogo5p4a02ift5bjxexhxvwh)** *(April 27, 2026)*  
+  Sun Pharma acquires Organon for $11.75B, targeting top 3 global women's health leadership. See how this blockbuster deal transforms pharma.
+- **[Elon Musk Is an Underdog in His $180 Billion Fight Against OpenAI](https://caymanjournal.com/articles/elon-musk-is-an-underdog-in-his-180-billion-fight-against-op-cmogo7thx02iit5bjjl33vcku)** *(April 27, 2026)*  
+  Elon Musk's lawsuit against OpenAI challenges its core mission, seeking to claw back billions. Explore this complex fight for AI's soul and governance...
+- **[Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan](https://caymanjournal.com/articles/budget-airlines-pitch-trump-administration-on-25-billion-rel-cmogjwxmv02i9t5bj24p6ym3d)** *(April 27, 2026)*  
+  Spirit Airlines & budget carriers lobby the Trump Administration for a $2.5B relief package, seeking grants and tax breaks to avert layoffs.
+- **[Sun Pharmaceutical to Acquire Organon in Landmark $11.75 Billion All-Cash Deal](https://caymanjournal.com/articles/sun-pharmaceutical-to-acquire-organon-in-landmark-1175-billi-cmogjxf0t02ict5bjgqj34j10)** *(April 27, 2026)*  
+  India's Sun Pharma to acquire Organon for $11.75 billion in cash, expanding its global footprint in women's health and biosimilars. Get details.
+- **[Corporate America Is Minting Money—and Not Just in Tech and Finance](https://caymanjournal.com/articles/corporate-america-is-minting-moneyand-not-just-in-tech-and-f-cmogjvctu02i3t5bjy8jx3f70)** *(April 27, 2026)*  
+  US corporations defy economic headwinds, posting record profits across diverse sectors. Explore how pricing power & efficiency drive this surprising b...
 
 ### 🏛️ Economy
 
-- **[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://caymanjournal.com/articles/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-cmofd2jgh02gst5bj83nw6ehi)** *(April 26, 2026)*  
-  AI fuels market records as Anthropic & OpenAI IPOs loom. Uncover signs of froth & whether this boom mirrors past tech bubbles.
-- **[America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt](https://caymanjournal.com/articles/americas-pandemic-car-bubble-is-now-trapping-buyers-in-debt-cmof8ps6j02gpt5bj8hmqfoki)** *(April 26, 2026)*  
-  Millions are underwater on car loans as negative equity soars 40% since 2021. Uncover the auto debt crisis & its financial impact.
-- **[See How the Energy Crisis Is Spreading Across the World](https://caymanjournal.com/articles/see-how-the-energy-crisis-is-spreading-across-the-world-cmof4fh6s02ght5bjxeqgqil1)** *(April 26, 2026)*  
-  "War" among oil exporters rocks global energy markets. Understand how soaring costs impact economies, businesses, and inflation worldwide.
-- **[The Small Midwest Community Leading America’s Crusade Against Data Centers](https://caymanjournal.com/articles/the-small-midwest-community-leading-americas-crusade-against-cmof4i8xa02gkt5bjvnku42q5)** *(April 26, 2026)*  
-  Harmony Creek fights back against data centers & corporate interests, triggering recalls over power, water & tax breaks. A national battle for local a...
-- **[Trump’s Crypto Luncheon Draws ‘Superstars,’ But His Token Hovers Near Low](https://caymanjournal.com/articles/trumps-crypto-luncheon-draws-superstars-but-his-token-hovers-cmoermwbq02gct5bja9696r8h)** *(April 25, 2026)*  
-  Trump hosted crypto whales at Mar-a-Lago, championing digital assets amid a 60% slump for his $TRUMP memecoin. Explore his strategic crypto pivot.
-- **[The Race to Make the World’s Most In-Demand Machine](https://caymanjournal.com/articles/the-race-to-make-the-worlds-most-in-demand-machine-cmoenb0ee02g7t5bjdqv431dq)** *(April 25, 2026)*  
-  Uncover how ASML, a little-known Dutch firm, is the critical bottleneck for global AI dominance, producing the essential machines for advanced AI chip...
-- **[The Greatest Entrepreneurs in U.S. History, According to Business Historians](https://caymanjournal.com/articles/the-greatest-entrepreneurs-in-us-history-according-to-busine-cmoej032702g2t5bj5wjwzufa)** *(April 25, 2026)*  
-  Explore 30 years of America's most impactful entrepreneurs. Discover how greatness in business leadership evolved from industry titans to digital pion...
-- **[When Financial Cheating Leads to Divorce](https://caymanjournal.com/articles/when-financial-cheating-leads-to-divorce-cmoeahng202fwt5bjzg6uass3)** *(April 25, 2026)*  
-  Financial infidelity fuels 30% of divorces with hidden debts & accounts. Explore evolving cannabis health risks, Apple's AR future, and the surprising...
-- **[We’re All Talking to Each Other Less Than We Did a Decade Ago](https://caymanjournal.com/articles/were-all-talking-to-each-other-less-than-we-did-a-decade-ago-cmoeai3et02fzt5bjqq3o04zw)** *(April 25, 2026)*  
-  The convenience economy is eroding human interaction. Discover how this impacts your business, customer loyalty & team cohesion, and what to do.
-- **[News Quiz for April 25, 2026](https://caymanjournal.com/articles/news-quiz-for-april-25-2026-cmoeafc1m02ftt5bjf4t6bhp7)** *(April 25, 2026)*  
-  April 2026's key headlines: Synapse AI's NeuralNet 7 launch, Fed's rate decision, a €15B green energy investment & a major creator platform acquisitio...
+- **[Galp's Key Earnings Metric Soars on Production Surge and Favorable Pricing](https://caymanjournal.com/articles/galps-key-earnings-metric-soars-on-production-surge-and-favo-cmogwqzay02j7t5bjc1iuk7qm)** *(April 27, 2026)*  
+  Galp's Q1 adjusted net profit soared 41% to €272M, fueled by strategic efficiency, higher production, & strong commodity prices. Get the full analysis...
+- **[Forvia Divests Auto Interiors Arm to Apollo Funds in Strategic $2.1 Billion Move](https://caymanjournal.com/articles/forvia-divests-auto-interiors-arm-to-apollo-funds-in-strateg-cmogwsmay02jat5bj89hiyhp1)** *(April 27, 2026)*  
+  Forvia sells Auto Interiors to Apollo for $2.1B, strategically pivoting to EV tech & sustainable mobility. Unpack this landmark automotive industry sh...
+- **[German Consumer Sentiment Slumps to Three-Year Low on Iran War Impact](https://caymanjournal.com/articles/german-consumer-sentiment-slumps-to-three-year-low-on-iran-w-cmogwq9zj02j4t5bjorkt152f)** *(April 27, 2026)*  
+  German consumer sentiment plunges to a 3-year low of -29.7 in April, driven by Middle East conflict fears and surging energy prices. Will Germany's re...
+- **[Oil Above $100 Signals Supply Stress](https://caymanjournal.com/articles/oil-above-100-signals-supply-stress-cmogsih5u02iqt5bjizk3ylqh)** *(April 27, 2026)*  
+  Brent crude oil surges past $100. Geopolitical instability, thin supply & demand resilience make this the new floor, fueling global inflation & costs.
+- **[China’s Industrial Profits Jump Despite Tighter Energy Markets](https://caymanjournal.com/articles/chinas-industrial-profits-jump-despite-tighter-energy-market-cmogo9g1s02ilt5bjp2872kx7)** *(April 27, 2026)*  
+  China's industrial profits jumped 15.8% in March, defying soaring global energy costs. Learn how domestic demand & gov't support fueled this surprisin...
+- **[Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal](https://caymanjournal.com/articles/sun-pharma-to-buy-us-healthcare-firm-organon-in-1175-billion-cmogo5p4a02ift5bjxexhxvwh)** *(April 27, 2026)*  
+  Sun Pharma acquires Organon for $11.75B, targeting top 3 global women's health leadership. See how this blockbuster deal transforms pharma.
+- **[Elon Musk Is an Underdog in His $180 Billion Fight Against OpenAI](https://caymanjournal.com/articles/elon-musk-is-an-underdog-in-his-180-billion-fight-against-op-cmogo7thx02iit5bjjl33vcku)** *(April 27, 2026)*  
+  Elon Musk's lawsuit against OpenAI challenges its core mission, seeking to claw back billions. Explore this complex fight for AI's soul and governance...
+- **[Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan](https://caymanjournal.com/articles/budget-airlines-pitch-trump-administration-on-25-billion-rel-cmogjwxmv02i9t5bj24p6ym3d)** *(April 27, 2026)*  
+  Spirit Airlines & budget carriers lobby the Trump Administration for a $2.5B relief package, seeking grants and tax breaks to avert layoffs.
+- **[Sun Pharmaceutical to Acquire Organon in Landmark $11.75 Billion All-Cash Deal](https://caymanjournal.com/articles/sun-pharmaceutical-to-acquire-organon-in-landmark-1175-billi-cmogjxf0t02ict5bjgqj34j10)** *(April 27, 2026)*  
+  India's Sun Pharma to acquire Organon for $11.75 billion in cash, expanding its global footprint in women's health and biosimilars. Get details.
+- **[Corporate America Is Minting Money—and Not Just in Tech and Finance](https://caymanjournal.com/articles/corporate-america-is-minting-moneyand-not-just-in-tech-and-f-cmogjvctu02i3t5bjy8jx3f70)** *(April 27, 2026)*  
+  US corporations defy economic headwinds, posting record profits across diverse sectors. Explore how pricing power & efficiency drive this surprising b...
 
 ### 📈 Markets & Finance
 
-- **[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://caymanjournal.com/articles/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-cmofd2jgh02gst5bj83nw6ehi)** *(April 26, 2026)*  
-  AI fuels market records as Anthropic & OpenAI IPOs loom. Uncover signs of froth & whether this boom mirrors past tech bubbles.
-- **[America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt](https://caymanjournal.com/articles/americas-pandemic-car-bubble-is-now-trapping-buyers-in-debt-cmof8ps6j02gpt5bj8hmqfoki)** *(April 26, 2026)*  
-  Millions are underwater on car loans as negative equity soars 40% since 2021. Uncover the auto debt crisis & its financial impact.
-- **[See How the Energy Crisis Is Spreading Across the World](https://caymanjournal.com/articles/see-how-the-energy-crisis-is-spreading-across-the-world-cmof4fh6s02ght5bjxeqgqil1)** *(April 26, 2026)*  
-  "War" among oil exporters rocks global energy markets. Understand how soaring costs impact economies, businesses, and inflation worldwide.
-- **[The Small Midwest Community Leading America’s Crusade Against Data Centers](https://caymanjournal.com/articles/the-small-midwest-community-leading-americas-crusade-against-cmof4i8xa02gkt5bjvnku42q5)** *(April 26, 2026)*  
-  Harmony Creek fights back against data centers & corporate interests, triggering recalls over power, water & tax breaks. A national battle for local a...
-- **[Trump’s Crypto Luncheon Draws ‘Superstars,’ But His Token Hovers Near Low](https://caymanjournal.com/articles/trumps-crypto-luncheon-draws-superstars-but-his-token-hovers-cmoermwbq02gct5bja9696r8h)** *(April 25, 2026)*  
-  Trump hosted crypto whales at Mar-a-Lago, championing digital assets amid a 60% slump for his $TRUMP memecoin. Explore his strategic crypto pivot.
-- **[The Race to Make the World’s Most In-Demand Machine](https://caymanjournal.com/articles/the-race-to-make-the-worlds-most-in-demand-machine-cmoenb0ee02g7t5bjdqv431dq)** *(April 25, 2026)*  
-  Uncover how ASML, a little-known Dutch firm, is the critical bottleneck for global AI dominance, producing the essential machines for advanced AI chip...
-- **[The Greatest Entrepreneurs in U.S. History, According to Business Historians](https://caymanjournal.com/articles/the-greatest-entrepreneurs-in-us-history-according-to-busine-cmoej032702g2t5bj5wjwzufa)** *(April 25, 2026)*  
-  Explore 30 years of America's most impactful entrepreneurs. Discover how greatness in business leadership evolved from industry titans to digital pion...
-- **[When Financial Cheating Leads to Divorce](https://caymanjournal.com/articles/when-financial-cheating-leads-to-divorce-cmoeahng202fwt5bjzg6uass3)** *(April 25, 2026)*  
-  Financial infidelity fuels 30% of divorces with hidden debts & accounts. Explore evolving cannabis health risks, Apple's AR future, and the surprising...
-- **[We’re All Talking to Each Other Less Than We Did a Decade Ago](https://caymanjournal.com/articles/were-all-talking-to-each-other-less-than-we-did-a-decade-ago-cmoeai3et02fzt5bjqq3o04zw)** *(April 25, 2026)*  
-  The convenience economy is eroding human interaction. Discover how this impacts your business, customer loyalty & team cohesion, and what to do.
-- **[News Quiz for April 25, 2026](https://caymanjournal.com/articles/news-quiz-for-april-25-2026-cmoeafc1m02ftt5bjf4t6bhp7)** *(April 25, 2026)*  
-  April 2026's key headlines: Synapse AI's NeuralNet 7 launch, Fed's rate decision, a €15B green energy investment & a major creator platform acquisitio...
+- **[Galp's Key Earnings Metric Soars on Production Surge and Favorable Pricing](https://caymanjournal.com/articles/galps-key-earnings-metric-soars-on-production-surge-and-favo-cmogwqzay02j7t5bjc1iuk7qm)** *(April 27, 2026)*  
+  Galp's Q1 adjusted net profit soared 41% to €272M, fueled by strategic efficiency, higher production, & strong commodity prices. Get the full analysis...
+- **[Forvia Divests Auto Interiors Arm to Apollo Funds in Strategic $2.1 Billion Move](https://caymanjournal.com/articles/forvia-divests-auto-interiors-arm-to-apollo-funds-in-strateg-cmogwsmay02jat5bj89hiyhp1)** *(April 27, 2026)*  
+  Forvia sells Auto Interiors to Apollo for $2.1B, strategically pivoting to EV tech & sustainable mobility. Unpack this landmark automotive industry sh...
+- **[German Consumer Sentiment Slumps to Three-Year Low on Iran War Impact](https://caymanjournal.com/articles/german-consumer-sentiment-slumps-to-three-year-low-on-iran-w-cmogwq9zj02j4t5bjorkt152f)** *(April 27, 2026)*  
+  German consumer sentiment plunges to a 3-year low of -29.7 in April, driven by Middle East conflict fears and surging energy prices. Will Germany's re...
+- **[Oil Above $100 Signals Supply Stress](https://caymanjournal.com/articles/oil-above-100-signals-supply-stress-cmogsih5u02iqt5bjizk3ylqh)** *(April 27, 2026)*  
+  Brent crude oil surges past $100. Geopolitical instability, thin supply & demand resilience make this the new floor, fueling global inflation & costs.
+- **[China’s Industrial Profits Jump Despite Tighter Energy Markets](https://caymanjournal.com/articles/chinas-industrial-profits-jump-despite-tighter-energy-market-cmogo9g1s02ilt5bjp2872kx7)** *(April 27, 2026)*  
+  China's industrial profits jumped 15.8% in March, defying soaring global energy costs. Learn how domestic demand & gov't support fueled this surprisin...
+- **[Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal](https://caymanjournal.com/articles/sun-pharma-to-buy-us-healthcare-firm-organon-in-1175-billion-cmogo5p4a02ift5bjxexhxvwh)** *(April 27, 2026)*  
+  Sun Pharma acquires Organon for $11.75B, targeting top 3 global women's health leadership. See how this blockbuster deal transforms pharma.
+- **[Elon Musk Is an Underdog in His $180 Billion Fight Against OpenAI](https://caymanjournal.com/articles/elon-musk-is-an-underdog-in-his-180-billion-fight-against-op-cmogo7thx02iit5bjjl33vcku)** *(April 27, 2026)*  
+  Elon Musk's lawsuit against OpenAI challenges its core mission, seeking to claw back billions. Explore this complex fight for AI's soul and governance...
+- **[Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan](https://caymanjournal.com/articles/budget-airlines-pitch-trump-administration-on-25-billion-rel-cmogjwxmv02i9t5bj24p6ym3d)** *(April 27, 2026)*  
+  Spirit Airlines & budget carriers lobby the Trump Administration for a $2.5B relief package, seeking grants and tax breaks to avert layoffs.
+- **[Sun Pharmaceutical to Acquire Organon in Landmark $11.75 Billion All-Cash Deal](https://caymanjournal.com/articles/sun-pharmaceutical-to-acquire-organon-in-landmark-1175-billi-cmogjxf0t02ict5bjgqj34j10)** *(April 27, 2026)*  
+  India's Sun Pharma to acquire Organon for $11.75 billion in cash, expanding its global footprint in women's health and biosimilars. Get details.
+- **[Corporate America Is Minting Money—and Not Just in Tech and Finance](https://caymanjournal.com/articles/corporate-america-is-minting-moneyand-not-just-in-tech-and-f-cmogjvctu02i3t5bjy8jx3f70)** *(April 27, 2026)*  
+  US corporations defy economic headwinds, posting record profits across diverse sectors. Explore how pricing power & efficiency drive this surprising b...
 
 ### 💻 Technology
 
-- **[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://caymanjournal.com/articles/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-cmofd2jgh02gst5bj83nw6ehi)** *(April 26, 2026)*  
-  AI fuels market records as Anthropic & OpenAI IPOs loom. Uncover signs of froth & whether this boom mirrors past tech bubbles.
-- **[America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt](https://caymanjournal.com/articles/americas-pandemic-car-bubble-is-now-trapping-buyers-in-debt-cmof8ps6j02gpt5bj8hmqfoki)** *(April 26, 2026)*  
-  Millions are underwater on car loans as negative equity soars 40% since 2021. Uncover the auto debt crisis & its financial impact.
-- **[See How the Energy Crisis Is Spreading Across the World](https://caymanjournal.com/articles/see-how-the-energy-crisis-is-spreading-across-the-world-cmof4fh6s02ght5bjxeqgqil1)** *(April 26, 2026)*  
-  "War" among oil exporters rocks global energy markets. Understand how soaring costs impact economies, businesses, and inflation worldwide.
-- **[The Small Midwest Community Leading America’s Crusade Against Data Centers](https://caymanjournal.com/articles/the-small-midwest-community-leading-americas-crusade-against-cmof4i8xa02gkt5bjvnku42q5)** *(April 26, 2026)*  
-  Harmony Creek fights back against data centers & corporate interests, triggering recalls over power, water & tax breaks. A national battle for local a...
-- **[Trump’s Crypto Luncheon Draws ‘Superstars,’ But His Token Hovers Near Low](https://caymanjournal.com/articles/trumps-crypto-luncheon-draws-superstars-but-his-token-hovers-cmoermwbq02gct5bja9696r8h)** *(April 25, 2026)*  
-  Trump hosted crypto whales at Mar-a-Lago, championing digital assets amid a 60% slump for his $TRUMP memecoin. Explore his strategic crypto pivot.
-- **[The Race to Make the World’s Most In-Demand Machine](https://caymanjournal.com/articles/the-race-to-make-the-worlds-most-in-demand-machine-cmoenb0ee02g7t5bjdqv431dq)** *(April 25, 2026)*  
-  Uncover how ASML, a little-known Dutch firm, is the critical bottleneck for global AI dominance, producing the essential machines for advanced AI chip...
-- **[The Greatest Entrepreneurs in U.S. History, According to Business Historians](https://caymanjournal.com/articles/the-greatest-entrepreneurs-in-us-history-according-to-busine-cmoej032702g2t5bj5wjwzufa)** *(April 25, 2026)*  
-  Explore 30 years of America's most impactful entrepreneurs. Discover how greatness in business leadership evolved from industry titans to digital pion...
-- **[When Financial Cheating Leads to Divorce](https://caymanjournal.com/articles/when-financial-cheating-leads-to-divorce-cmoeahng202fwt5bjzg6uass3)** *(April 25, 2026)*  
-  Financial infidelity fuels 30% of divorces with hidden debts & accounts. Explore evolving cannabis health risks, Apple's AR future, and the surprising...
-- **[We’re All Talking to Each Other Less Than We Did a Decade Ago](https://caymanjournal.com/articles/were-all-talking-to-each-other-less-than-we-did-a-decade-ago-cmoeai3et02fzt5bjqq3o04zw)** *(April 25, 2026)*  
-  The convenience economy is eroding human interaction. Discover how this impacts your business, customer loyalty & team cohesion, and what to do.
-- **[News Quiz for April 25, 2026](https://caymanjournal.com/articles/news-quiz-for-april-25-2026-cmoeafc1m02ftt5bjf4t6bhp7)** *(April 25, 2026)*  
-  April 2026's key headlines: Synapse AI's NeuralNet 7 launch, Fed's rate decision, a €15B green energy investment & a major creator platform acquisitio...
+- **[Galp's Key Earnings Metric Soars on Production Surge and Favorable Pricing](https://caymanjournal.com/articles/galps-key-earnings-metric-soars-on-production-surge-and-favo-cmogwqzay02j7t5bjc1iuk7qm)** *(April 27, 2026)*  
+  Galp's Q1 adjusted net profit soared 41% to €272M, fueled by strategic efficiency, higher production, & strong commodity prices. Get the full analysis...
+- **[Forvia Divests Auto Interiors Arm to Apollo Funds in Strategic $2.1 Billion Move](https://caymanjournal.com/articles/forvia-divests-auto-interiors-arm-to-apollo-funds-in-strateg-cmogwsmay02jat5bj89hiyhp1)** *(April 27, 2026)*  
+  Forvia sells Auto Interiors to Apollo for $2.1B, strategically pivoting to EV tech & sustainable mobility. Unpack this landmark automotive industry sh...
+- **[German Consumer Sentiment Slumps to Three-Year Low on Iran War Impact](https://caymanjournal.com/articles/german-consumer-sentiment-slumps-to-three-year-low-on-iran-w-cmogwq9zj02j4t5bjorkt152f)** *(April 27, 2026)*  
+  German consumer sentiment plunges to a 3-year low of -29.7 in April, driven by Middle East conflict fears and surging energy prices. Will Germany's re...
+- **[Oil Above $100 Signals Supply Stress](https://caymanjournal.com/articles/oil-above-100-signals-supply-stress-cmogsih5u02iqt5bjizk3ylqh)** *(April 27, 2026)*  
+  Brent crude oil surges past $100. Geopolitical instability, thin supply & demand resilience make this the new floor, fueling global inflation & costs.
+- **[China’s Industrial Profits Jump Despite Tighter Energy Markets](https://caymanjournal.com/articles/chinas-industrial-profits-jump-despite-tighter-energy-market-cmogo9g1s02ilt5bjp2872kx7)** *(April 27, 2026)*  
+  China's industrial profits jumped 15.8% in March, defying soaring global energy costs. Learn how domestic demand & gov't support fueled this surprisin...
+- **[Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal](https://caymanjournal.com/articles/sun-pharma-to-buy-us-healthcare-firm-organon-in-1175-billion-cmogo5p4a02ift5bjxexhxvwh)** *(April 27, 2026)*  
+  Sun Pharma acquires Organon for $11.75B, targeting top 3 global women's health leadership. See how this blockbuster deal transforms pharma.
+- **[Elon Musk Is an Underdog in His $180 Billion Fight Against OpenAI](https://caymanjournal.com/articles/elon-musk-is-an-underdog-in-his-180-billion-fight-against-op-cmogo7thx02iit5bjjl33vcku)** *(April 27, 2026)*  
+  Elon Musk's lawsuit against OpenAI challenges its core mission, seeking to claw back billions. Explore this complex fight for AI's soul and governance...
+- **[Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan](https://caymanjournal.com/articles/budget-airlines-pitch-trump-administration-on-25-billion-rel-cmogjwxmv02i9t5bj24p6ym3d)** *(April 27, 2026)*  
+  Spirit Airlines & budget carriers lobby the Trump Administration for a $2.5B relief package, seeking grants and tax breaks to avert layoffs.
+- **[Sun Pharmaceutical to Acquire Organon in Landmark $11.75 Billion All-Cash Deal](https://caymanjournal.com/articles/sun-pharmaceutical-to-acquire-organon-in-landmark-1175-billi-cmogjxf0t02ict5bjgqj34j10)** *(April 27, 2026)*  
+  India's Sun Pharma to acquire Organon for $11.75 billion in cash, expanding its global footprint in women's health and biosimilars. Get details.
+- **[Corporate America Is Minting Money—and Not Just in Tech and Finance](https://caymanjournal.com/articles/corporate-america-is-minting-moneyand-not-just-in-tech-and-f-cmogjvctu02i3t5bjy8jx3f70)** *(April 27, 2026)*  
+  US corporations defy economic headwinds, posting record profits across diverse sectors. Explore how pricing power & efficiency drive this surprising b...
 
 
-*Last updated: April 26, 2026 at 07:25 UTC*
+*Last updated: April 27, 2026 at 08:20 UTC*
 
 <!-- FEED:END -->
 
