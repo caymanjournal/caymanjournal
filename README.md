@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Telenor Cuts Outlook as Nordic Growth Engine Stutters](https://caymanjournal.com/articles/telenor-cuts-outlook-as-nordic-growth-engine-stutters-cmoic6a3x02p0t5bjh7rlufc4)** *(April 28, 2026)*  
-  Telenor cuts full-year organic revenue growth outlook to 1.5-2.5% after a weak Q1 in Nordic markets. Understand impact of competition, inflation & low...
-- **[WPP Key Metric Slides as Main Segments Decline](https://caymanjournal.com/articles/wpp-key-metric-slides-as-main-segments-decline-cmoic6uf902p3t5bje9m3hqbz)** *(April 28, 2026)*  
-  Global ad giant WPP reports declining performance across all units. CEO Mark Read's turnaround strategy faces immense pressure amid account losses & i...
-- **[Anglo American Confirms Guidance on Steady Copper, Iron Production](https://caymanjournal.com/articles/anglo-american-confirms-guidance-on-steady-copper-iron-produ-cmoicayty02pit5bjpqmx7slb)** *(April 28, 2026)*  
-  Anglo American confirms 2024 production guidance after stable Q1, with copper output up 1% to 170k tons. Understand its resilience & investor impact.
-- **[BP Profits Double as Iran War Boosts Oil Traders](https://caymanjournal.com/articles/bp-profits-double-as-iran-war-boosts-oil-traders-cmoic7aw902p6t5bjb4bvuq9z)** *(April 28, 2026)*  
-  BP's Q3 2024 profits hit $3.2B, doubling earnings. Its trading operations capitalized on extreme oil market volatility from the Iran conflict.
-- **[Barclays Posts Higher Profit on Top-Line Growth](https://caymanjournal.com/articles/barclays-posts-higher-profit-on-top-line-growth-cmoic7oul02p9t5bj1n6uzajf)** *(April 28, 2026)*  
-  Barclays reveals strong pretax profit surge & robust top-line growth across core businesses. Bank reaffirms ambitious financial targets, signaling con...
-- **[BP Earnings Jump as Oil Traders Get Boost From Middle East Conflict](https://caymanjournal.com/articles/bp-earnings-jump-as-oil-traders-get-boost-from-middle-east-c-cmoic82al02pct5bjo3fywrju)** *(April 28, 2026)*  
-  BP's profits doubled to $6.5B, driven by its oil trading arm capitalizing on extreme market volatility fueled by the Middle East conflict. Discover ho...
-- **[Air Liquide Revenue Rises on Gas, Services Business Strength](https://caymanjournal.com/articles/air-liquide-revenue-rises-on-gas-services-business-strength-cmoic8i9r02pft5bj8m6zx2z6)** *(April 28, 2026)*  
-  Explore Air Liquide's robust Q1 performance: €6.79B revenue, up 1.9% comparable. See how essential industrial gases ensure stable growth amidst volati...
-- **[Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement](https://caymanjournal.com/articles/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-cmoi7x5ww02opt5bjtyu7rl67)** *(April 28, 2026)*  
-  CATL, the global EV battery leader, is raising $5 billion to expand into renewables and energy storage, solidifying its role in the clean energy trans...
-- **[Japan’s Central Bank Holds Firm on Rates, Signals Heightened Inflationary Concerns](https://caymanjournal.com/articles/japans-central-bank-holds-firm-on-rates-signals-heightened-i-cmoi3p84k02omt5bjna9snaux)** *(April 28, 2026)*  
-  BoJ holds steady on rates but sharply raises inflation forecasts & trims growth outlook. Discover Japan's central bank's tough balancing act amidst pe...
-- **[Japan’s Mitsui O.S.K. Planning REIT to Boost Property Gains](https://caymanjournal.com/articles/japans-mitsui-osk-planning-reit-to-boost-property-gains-cmoi3lfwi02ogt5bjse0hmlq1)** *(April 28, 2026)*  
-  Discover how Japanese shipping leader MOL will launch a REIT, monetizing valuable real estate in global hubs like London & Tokyo to boost capital effi...
+- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
+  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
+- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
+  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
+- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
+  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
+- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
+  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
+- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
+  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
+- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
+  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
+- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
+  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
+- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
+  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
+- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
+  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
+- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
+  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
 
 ### 🏢 Business
 
-- **[Telenor Cuts Outlook as Nordic Growth Engine Stutters](https://caymanjournal.com/articles/telenor-cuts-outlook-as-nordic-growth-engine-stutters-cmoic6a3x02p0t5bjh7rlufc4)** *(April 28, 2026)*  
-  Telenor cuts full-year organic revenue growth outlook to 1.5-2.5% after a weak Q1 in Nordic markets. Understand impact of competition, inflation & low...
-- **[WPP Key Metric Slides as Main Segments Decline](https://caymanjournal.com/articles/wpp-key-metric-slides-as-main-segments-decline-cmoic6uf902p3t5bje9m3hqbz)** *(April 28, 2026)*  
-  Global ad giant WPP reports declining performance across all units. CEO Mark Read's turnaround strategy faces immense pressure amid account losses & i...
-- **[Anglo American Confirms Guidance on Steady Copper, Iron Production](https://caymanjournal.com/articles/anglo-american-confirms-guidance-on-steady-copper-iron-produ-cmoicayty02pit5bjpqmx7slb)** *(April 28, 2026)*  
-  Anglo American confirms 2024 production guidance after stable Q1, with copper output up 1% to 170k tons. Understand its resilience & investor impact.
-- **[BP Profits Double as Iran War Boosts Oil Traders](https://caymanjournal.com/articles/bp-profits-double-as-iran-war-boosts-oil-traders-cmoic7aw902p6t5bjb4bvuq9z)** *(April 28, 2026)*  
-  BP's Q3 2024 profits hit $3.2B, doubling earnings. Its trading operations capitalized on extreme oil market volatility from the Iran conflict.
-- **[Barclays Posts Higher Profit on Top-Line Growth](https://caymanjournal.com/articles/barclays-posts-higher-profit-on-top-line-growth-cmoic7oul02p9t5bj1n6uzajf)** *(April 28, 2026)*  
-  Barclays reveals strong pretax profit surge & robust top-line growth across core businesses. Bank reaffirms ambitious financial targets, signaling con...
-- **[BP Earnings Jump as Oil Traders Get Boost From Middle East Conflict](https://caymanjournal.com/articles/bp-earnings-jump-as-oil-traders-get-boost-from-middle-east-c-cmoic82al02pct5bjo3fywrju)** *(April 28, 2026)*  
-  BP's profits doubled to $6.5B, driven by its oil trading arm capitalizing on extreme market volatility fueled by the Middle East conflict. Discover ho...
-- **[Air Liquide Revenue Rises on Gas, Services Business Strength](https://caymanjournal.com/articles/air-liquide-revenue-rises-on-gas-services-business-strength-cmoic8i9r02pft5bj8m6zx2z6)** *(April 28, 2026)*  
-  Explore Air Liquide's robust Q1 performance: €6.79B revenue, up 1.9% comparable. See how essential industrial gases ensure stable growth amidst volati...
-- **[Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement](https://caymanjournal.com/articles/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-cmoi7x5ww02opt5bjtyu7rl67)** *(April 28, 2026)*  
-  CATL, the global EV battery leader, is raising $5 billion to expand into renewables and energy storage, solidifying its role in the clean energy trans...
-- **[Japan’s Central Bank Holds Firm on Rates, Signals Heightened Inflationary Concerns](https://caymanjournal.com/articles/japans-central-bank-holds-firm-on-rates-signals-heightened-i-cmoi3p84k02omt5bjna9snaux)** *(April 28, 2026)*  
-  BoJ holds steady on rates but sharply raises inflation forecasts & trims growth outlook. Discover Japan's central bank's tough balancing act amidst pe...
-- **[Japan’s Mitsui O.S.K. Planning REIT to Boost Property Gains](https://caymanjournal.com/articles/japans-mitsui-osk-planning-reit-to-boost-property-gains-cmoi3lfwi02ogt5bjse0hmlq1)** *(April 28, 2026)*  
-  Discover how Japanese shipping leader MOL will launch a REIT, monetizing valuable real estate in global hubs like London & Tokyo to boost capital effi...
+- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
+  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
+- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
+  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
+- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
+  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
+- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
+  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
+- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
+  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
+- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
+  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
+- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
+  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
+- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
+  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
+- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
+  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
+- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
+  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
 
 ### 🏛️ Economy
 
-- **[Telenor Cuts Outlook as Nordic Growth Engine Stutters](https://caymanjournal.com/articles/telenor-cuts-outlook-as-nordic-growth-engine-stutters-cmoic6a3x02p0t5bjh7rlufc4)** *(April 28, 2026)*  
-  Telenor cuts full-year organic revenue growth outlook to 1.5-2.5% after a weak Q1 in Nordic markets. Understand impact of competition, inflation & low...
-- **[WPP Key Metric Slides as Main Segments Decline](https://caymanjournal.com/articles/wpp-key-metric-slides-as-main-segments-decline-cmoic6uf902p3t5bje9m3hqbz)** *(April 28, 2026)*  
-  Global ad giant WPP reports declining performance across all units. CEO Mark Read's turnaround strategy faces immense pressure amid account losses & i...
-- **[Anglo American Confirms Guidance on Steady Copper, Iron Production](https://caymanjournal.com/articles/anglo-american-confirms-guidance-on-steady-copper-iron-produ-cmoicayty02pit5bjpqmx7slb)** *(April 28, 2026)*  
-  Anglo American confirms 2024 production guidance after stable Q1, with copper output up 1% to 170k tons. Understand its resilience & investor impact.
-- **[BP Profits Double as Iran War Boosts Oil Traders](https://caymanjournal.com/articles/bp-profits-double-as-iran-war-boosts-oil-traders-cmoic7aw902p6t5bjb4bvuq9z)** *(April 28, 2026)*  
-  BP's Q3 2024 profits hit $3.2B, doubling earnings. Its trading operations capitalized on extreme oil market volatility from the Iran conflict.
-- **[Barclays Posts Higher Profit on Top-Line Growth](https://caymanjournal.com/articles/barclays-posts-higher-profit-on-top-line-growth-cmoic7oul02p9t5bj1n6uzajf)** *(April 28, 2026)*  
-  Barclays reveals strong pretax profit surge & robust top-line growth across core businesses. Bank reaffirms ambitious financial targets, signaling con...
-- **[BP Earnings Jump as Oil Traders Get Boost From Middle East Conflict](https://caymanjournal.com/articles/bp-earnings-jump-as-oil-traders-get-boost-from-middle-east-c-cmoic82al02pct5bjo3fywrju)** *(April 28, 2026)*  
-  BP's profits doubled to $6.5B, driven by its oil trading arm capitalizing on extreme market volatility fueled by the Middle East conflict. Discover ho...
-- **[Air Liquide Revenue Rises on Gas, Services Business Strength](https://caymanjournal.com/articles/air-liquide-revenue-rises-on-gas-services-business-strength-cmoic8i9r02pft5bj8m6zx2z6)** *(April 28, 2026)*  
-  Explore Air Liquide's robust Q1 performance: €6.79B revenue, up 1.9% comparable. See how essential industrial gases ensure stable growth amidst volati...
-- **[Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement](https://caymanjournal.com/articles/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-cmoi7x5ww02opt5bjtyu7rl67)** *(April 28, 2026)*  
-  CATL, the global EV battery leader, is raising $5 billion to expand into renewables and energy storage, solidifying its role in the clean energy trans...
-- **[Japan’s Central Bank Holds Firm on Rates, Signals Heightened Inflationary Concerns](https://caymanjournal.com/articles/japans-central-bank-holds-firm-on-rates-signals-heightened-i-cmoi3p84k02omt5bjna9snaux)** *(April 28, 2026)*  
-  BoJ holds steady on rates but sharply raises inflation forecasts & trims growth outlook. Discover Japan's central bank's tough balancing act amidst pe...
-- **[Japan’s Mitsui O.S.K. Planning REIT to Boost Property Gains](https://caymanjournal.com/articles/japans-mitsui-osk-planning-reit-to-boost-property-gains-cmoi3lfwi02ogt5bjse0hmlq1)** *(April 28, 2026)*  
-  Discover how Japanese shipping leader MOL will launch a REIT, monetizing valuable real estate in global hubs like London & Tokyo to boost capital effi...
+- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
+  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
+- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
+  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
+- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
+  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
+- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
+  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
+- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
+  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
+- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
+  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
+- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
+  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
+- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
+  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
+- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
+  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
+- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
+  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
 
 ### 📈 Markets & Finance
 
-- **[Telenor Cuts Outlook as Nordic Growth Engine Stutters](https://caymanjournal.com/articles/telenor-cuts-outlook-as-nordic-growth-engine-stutters-cmoic6a3x02p0t5bjh7rlufc4)** *(April 28, 2026)*  
-  Telenor cuts full-year organic revenue growth outlook to 1.5-2.5% after a weak Q1 in Nordic markets. Understand impact of competition, inflation & low...
-- **[WPP Key Metric Slides as Main Segments Decline](https://caymanjournal.com/articles/wpp-key-metric-slides-as-main-segments-decline-cmoic6uf902p3t5bje9m3hqbz)** *(April 28, 2026)*  
-  Global ad giant WPP reports declining performance across all units. CEO Mark Read's turnaround strategy faces immense pressure amid account losses & i...
-- **[Anglo American Confirms Guidance on Steady Copper, Iron Production](https://caymanjournal.com/articles/anglo-american-confirms-guidance-on-steady-copper-iron-produ-cmoicayty02pit5bjpqmx7slb)** *(April 28, 2026)*  
-  Anglo American confirms 2024 production guidance after stable Q1, with copper output up 1% to 170k tons. Understand its resilience & investor impact.
-- **[BP Profits Double as Iran War Boosts Oil Traders](https://caymanjournal.com/articles/bp-profits-double-as-iran-war-boosts-oil-traders-cmoic7aw902p6t5bjb4bvuq9z)** *(April 28, 2026)*  
-  BP's Q3 2024 profits hit $3.2B, doubling earnings. Its trading operations capitalized on extreme oil market volatility from the Iran conflict.
-- **[Barclays Posts Higher Profit on Top-Line Growth](https://caymanjournal.com/articles/barclays-posts-higher-profit-on-top-line-growth-cmoic7oul02p9t5bj1n6uzajf)** *(April 28, 2026)*  
-  Barclays reveals strong pretax profit surge & robust top-line growth across core businesses. Bank reaffirms ambitious financial targets, signaling con...
-- **[BP Earnings Jump as Oil Traders Get Boost From Middle East Conflict](https://caymanjournal.com/articles/bp-earnings-jump-as-oil-traders-get-boost-from-middle-east-c-cmoic82al02pct5bjo3fywrju)** *(April 28, 2026)*  
-  BP's profits doubled to $6.5B, driven by its oil trading arm capitalizing on extreme market volatility fueled by the Middle East conflict. Discover ho...
-- **[Air Liquide Revenue Rises on Gas, Services Business Strength](https://caymanjournal.com/articles/air-liquide-revenue-rises-on-gas-services-business-strength-cmoic8i9r02pft5bj8m6zx2z6)** *(April 28, 2026)*  
-  Explore Air Liquide's robust Q1 performance: €6.79B revenue, up 1.9% comparable. See how essential industrial gases ensure stable growth amidst volati...
-- **[Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement](https://caymanjournal.com/articles/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-cmoi7x5ww02opt5bjtyu7rl67)** *(April 28, 2026)*  
-  CATL, the global EV battery leader, is raising $5 billion to expand into renewables and energy storage, solidifying its role in the clean energy trans...
-- **[Japan’s Central Bank Holds Firm on Rates, Signals Heightened Inflationary Concerns](https://caymanjournal.com/articles/japans-central-bank-holds-firm-on-rates-signals-heightened-i-cmoi3p84k02omt5bjna9snaux)** *(April 28, 2026)*  
-  BoJ holds steady on rates but sharply raises inflation forecasts & trims growth outlook. Discover Japan's central bank's tough balancing act amidst pe...
-- **[Japan’s Mitsui O.S.K. Planning REIT to Boost Property Gains](https://caymanjournal.com/articles/japans-mitsui-osk-planning-reit-to-boost-property-gains-cmoi3lfwi02ogt5bjse0hmlq1)** *(April 28, 2026)*  
-  Discover how Japanese shipping leader MOL will launch a REIT, monetizing valuable real estate in global hubs like London & Tokyo to boost capital effi...
+- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
+  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
+- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
+  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
+- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
+  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
+- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
+  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
+- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
+  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
+- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
+  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
+- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
+  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
+- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
+  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
+- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
+  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
+- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
+  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
 
 ### 💻 Technology
 
-- **[Telenor Cuts Outlook as Nordic Growth Engine Stutters](https://caymanjournal.com/articles/telenor-cuts-outlook-as-nordic-growth-engine-stutters-cmoic6a3x02p0t5bjh7rlufc4)** *(April 28, 2026)*  
-  Telenor cuts full-year organic revenue growth outlook to 1.5-2.5% after a weak Q1 in Nordic markets. Understand impact of competition, inflation & low...
-- **[WPP Key Metric Slides as Main Segments Decline](https://caymanjournal.com/articles/wpp-key-metric-slides-as-main-segments-decline-cmoic6uf902p3t5bje9m3hqbz)** *(April 28, 2026)*  
-  Global ad giant WPP reports declining performance across all units. CEO Mark Read's turnaround strategy faces immense pressure amid account losses & i...
-- **[Anglo American Confirms Guidance on Steady Copper, Iron Production](https://caymanjournal.com/articles/anglo-american-confirms-guidance-on-steady-copper-iron-produ-cmoicayty02pit5bjpqmx7slb)** *(April 28, 2026)*  
-  Anglo American confirms 2024 production guidance after stable Q1, with copper output up 1% to 170k tons. Understand its resilience & investor impact.
-- **[BP Profits Double as Iran War Boosts Oil Traders](https://caymanjournal.com/articles/bp-profits-double-as-iran-war-boosts-oil-traders-cmoic7aw902p6t5bjb4bvuq9z)** *(April 28, 2026)*  
-  BP's Q3 2024 profits hit $3.2B, doubling earnings. Its trading operations capitalized on extreme oil market volatility from the Iran conflict.
-- **[Barclays Posts Higher Profit on Top-Line Growth](https://caymanjournal.com/articles/barclays-posts-higher-profit-on-top-line-growth-cmoic7oul02p9t5bj1n6uzajf)** *(April 28, 2026)*  
-  Barclays reveals strong pretax profit surge & robust top-line growth across core businesses. Bank reaffirms ambitious financial targets, signaling con...
-- **[BP Earnings Jump as Oil Traders Get Boost From Middle East Conflict](https://caymanjournal.com/articles/bp-earnings-jump-as-oil-traders-get-boost-from-middle-east-c-cmoic82al02pct5bjo3fywrju)** *(April 28, 2026)*  
-  BP's profits doubled to $6.5B, driven by its oil trading arm capitalizing on extreme market volatility fueled by the Middle East conflict. Discover ho...
-- **[Air Liquide Revenue Rises on Gas, Services Business Strength](https://caymanjournal.com/articles/air-liquide-revenue-rises-on-gas-services-business-strength-cmoic8i9r02pft5bj8m6zx2z6)** *(April 28, 2026)*  
-  Explore Air Liquide's robust Q1 performance: €6.79B revenue, up 1.9% comparable. See how essential industrial gases ensure stable growth amidst volati...
-- **[Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement](https://caymanjournal.com/articles/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-cmoi7x5ww02opt5bjtyu7rl67)** *(April 28, 2026)*  
-  CATL, the global EV battery leader, is raising $5 billion to expand into renewables and energy storage, solidifying its role in the clean energy trans...
-- **[Japan’s Central Bank Holds Firm on Rates, Signals Heightened Inflationary Concerns](https://caymanjournal.com/articles/japans-central-bank-holds-firm-on-rates-signals-heightened-i-cmoi3p84k02omt5bjna9snaux)** *(April 28, 2026)*  
-  BoJ holds steady on rates but sharply raises inflation forecasts & trims growth outlook. Discover Japan's central bank's tough balancing act amidst pe...
-- **[Japan’s Mitsui O.S.K. Planning REIT to Boost Property Gains](https://caymanjournal.com/articles/japans-mitsui-osk-planning-reit-to-boost-property-gains-cmoi3lfwi02ogt5bjse0hmlq1)** *(April 28, 2026)*  
-  Discover how Japanese shipping leader MOL will launch a REIT, monetizing valuable real estate in global hubs like London & Tokyo to boost capital effi...
+- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
+  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
+- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
+  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
+- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
+  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
+- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
+  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
+- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
+  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
+- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
+  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
+- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
+  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
+- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
+  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
+- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
+  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
+- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
+  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
 
 
-*Last updated: April 28, 2026 at 08:22 UTC*
+*Last updated: April 29, 2026 at 08:12 UTC*
 
 <!-- FEED:END -->
 
