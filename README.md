@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
-  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
-- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
-  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
-- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
-  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
-- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
-  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
-- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
-  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
-- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
-  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
-- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
-  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
-- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
-  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
-- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
-  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
-- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
-  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
+- **[KPMG to Lay Off 4% of U.S. Advisory Workforce](https://caymanjournal.com/articles/kpmg-to-lay-off-4-of-us-advisory-workforce-cmokd2mr6033ut5bjm66joe3y)** *(April 29, 2026)*  
+  KPMG reduces U.S. advisory workforce by 4%, impacting hundreds. Learn how cooling demand, M&A slowdown, & low attrition drive Big Four cuts.
+- **[Porsche AG Confirms Full-Year Outlook Amid Ongoing Strategic Reset](https://caymanjournal.com/articles/porsche-ag-confirms-full-year-outlook-amid-ongoing-strategic-cmokd333x033xt5bjb95et9zs)** *(April 29, 2026)*  
+  Porsche AG confidently reaffirms guidance, banking on its "Road to 2025" strategic reset to boost profitability & EV innovation. Learn its resilient p...
+- **[Universal Music Logs Strong Subscriptions, Streaming Revenue Growth](https://caymanjournal.com/articles/universal-music-logs-strong-subscriptions-streaming-revenue-cmokd3l6b0340t5bji1xrk3o4)** *(April 29, 2026)*  
+  Universal Music Group's Q1 revenue jumps 8.1% to €2.90B, driven by robust streaming. Explore UMG's strategy fueling music industry growth.
+- **[Robinhood Shares Tumble After Trading Results Disappoint](https://caymanjournal.com/articles/robinhood-shares-tumble-after-trading-results-disappoint-cmokd1iwz033rt5bjz1w9r64s)** *(April 29, 2026)*  
+  Robinhood (HOOD) stock drops over 10% as Q3 earnings miss expectations, erasing recent gains. Learn why falling DARTs signal a shift in retail trading...
+- **[Uber Deepens Travel Push with Expedia Hotel Booking Partnership](https://caymanjournal.com/articles/uber-deepens-travel-push-with-expedia-hotel-booking-partners-cmok8ruao0337t5bj2vr3b5bk)** *(April 29, 2026)*  
+  Uber partners with Expedia, allowing direct hotel bookings in-app. Explore Uber's "super app" strategy to streamline travel & expand services.
+- **[Elon Musk Takes Stand in Second Day of Trial Against OpenAI](https://caymanjournal.com/articles/elon-musk-takes-stand-in-second-day-of-trial-against-openai-cmok8vdec033jt5bj450u6ics)** *(April 29, 2026)*  
+  Elon Musk testifies in the high-stakes OpenAI trial, alleging the company breached its founding mission for profit. Learn how this lawsuit could resha...
+- **[AstraZeneca Commits $405.5M to U.K., Reversing Prior Stance Amid Cancer Drug Boom](https://caymanjournal.com/articles/astrazeneca-commits-4055m-to-uk-reversing-prior-stance-amid-cmok8sew3033at5bjioc0fq00)** *(April 29, 2026)*  
+  AstraZeneca commits $405.5M to UK operations, a major U-turn. Discover how blockbuster cancer drugs fuel this investment, boosting UK life sciences an...
+- **[Bill Ackman’s Double Stock Listing Set to Start Trading](https://caymanjournal.com/articles/bill-ackmans-double-stock-listing-set-to-start-trading-cmok8wngd033mt5bjkwa5a69l)** *(April 29, 2026)*  
+  Bill Ackman's PSDL fund debuts, offering public access to the burgeoning private credit market. Explore direct lending strategies for attractive yield...
+- **[General Dynamics Lifts Outlook After Posting Higher Profit](https://caymanjournal.com/articles/general-dynamics-lifts-outlook-after-posting-higher-profit-cmok8swts033dt5bjwts1xsad)** *(April 29, 2026)*  
+  General Dynamics (GD) soared in Q1 with 12% profit & 8.7% revenue gains, prompting a raised 2024 earnings outlook. See what drove strong defense & Gul...
+- **[Why a Tech Behemoth Just Bet $750 Million on the Future of Racing](https://caymanjournal.com/articles/why-a-tech-behemoth-just-bet-750-million-on-the-future-of-ra-cmok8tf2f033gt5bjlnbqd8iv)** *(April 29, 2026)*  
+  Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 ### 🏢 Business
 
-- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
-  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
-- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
-  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
-- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
-  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
-- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
-  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
-- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
-  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
-- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
-  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
-- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
-  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
-- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
-  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
-- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
-  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
-- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
-  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
+- **[KPMG to Lay Off 4% of U.S. Advisory Workforce](https://caymanjournal.com/articles/kpmg-to-lay-off-4-of-us-advisory-workforce-cmokd2mr6033ut5bjm66joe3y)** *(April 29, 2026)*  
+  KPMG reduces U.S. advisory workforce by 4%, impacting hundreds. Learn how cooling demand, M&A slowdown, & low attrition drive Big Four cuts.
+- **[Porsche AG Confirms Full-Year Outlook Amid Ongoing Strategic Reset](https://caymanjournal.com/articles/porsche-ag-confirms-full-year-outlook-amid-ongoing-strategic-cmokd333x033xt5bjb95et9zs)** *(April 29, 2026)*  
+  Porsche AG confidently reaffirms guidance, banking on its "Road to 2025" strategic reset to boost profitability & EV innovation. Learn its resilient p...
+- **[Universal Music Logs Strong Subscriptions, Streaming Revenue Growth](https://caymanjournal.com/articles/universal-music-logs-strong-subscriptions-streaming-revenue-cmokd3l6b0340t5bji1xrk3o4)** *(April 29, 2026)*  
+  Universal Music Group's Q1 revenue jumps 8.1% to €2.90B, driven by robust streaming. Explore UMG's strategy fueling music industry growth.
+- **[Robinhood Shares Tumble After Trading Results Disappoint](https://caymanjournal.com/articles/robinhood-shares-tumble-after-trading-results-disappoint-cmokd1iwz033rt5bjz1w9r64s)** *(April 29, 2026)*  
+  Robinhood (HOOD) stock drops over 10% as Q3 earnings miss expectations, erasing recent gains. Learn why falling DARTs signal a shift in retail trading...
+- **[Uber Deepens Travel Push with Expedia Hotel Booking Partnership](https://caymanjournal.com/articles/uber-deepens-travel-push-with-expedia-hotel-booking-partners-cmok8ruao0337t5bj2vr3b5bk)** *(April 29, 2026)*  
+  Uber partners with Expedia, allowing direct hotel bookings in-app. Explore Uber's "super app" strategy to streamline travel & expand services.
+- **[Elon Musk Takes Stand in Second Day of Trial Against OpenAI](https://caymanjournal.com/articles/elon-musk-takes-stand-in-second-day-of-trial-against-openai-cmok8vdec033jt5bj450u6ics)** *(April 29, 2026)*  
+  Elon Musk testifies in the high-stakes OpenAI trial, alleging the company breached its founding mission for profit. Learn how this lawsuit could resha...
+- **[AstraZeneca Commits $405.5M to U.K., Reversing Prior Stance Amid Cancer Drug Boom](https://caymanjournal.com/articles/astrazeneca-commits-4055m-to-uk-reversing-prior-stance-amid-cmok8sew3033at5bjioc0fq00)** *(April 29, 2026)*  
+  AstraZeneca commits $405.5M to UK operations, a major U-turn. Discover how blockbuster cancer drugs fuel this investment, boosting UK life sciences an...
+- **[Bill Ackman’s Double Stock Listing Set to Start Trading](https://caymanjournal.com/articles/bill-ackmans-double-stock-listing-set-to-start-trading-cmok8wngd033mt5bjkwa5a69l)** *(April 29, 2026)*  
+  Bill Ackman's PSDL fund debuts, offering public access to the burgeoning private credit market. Explore direct lending strategies for attractive yield...
+- **[General Dynamics Lifts Outlook After Posting Higher Profit](https://caymanjournal.com/articles/general-dynamics-lifts-outlook-after-posting-higher-profit-cmok8swts033dt5bjwts1xsad)** *(April 29, 2026)*  
+  General Dynamics (GD) soared in Q1 with 12% profit & 8.7% revenue gains, prompting a raised 2024 earnings outlook. See what drove strong defense & Gul...
+- **[Why a Tech Behemoth Just Bet $750 Million on the Future of Racing](https://caymanjournal.com/articles/why-a-tech-behemoth-just-bet-750-million-on-the-future-of-ra-cmok8tf2f033gt5bjlnbqd8iv)** *(April 29, 2026)*  
+  Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 ### 🏛️ Economy
 
-- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
-  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
-- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
-  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
-- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
-  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
-- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
-  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
-- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
-  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
-- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
-  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
-- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
-  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
-- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
-  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
-- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
-  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
-- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
-  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
+- **[KPMG to Lay Off 4% of U.S. Advisory Workforce](https://caymanjournal.com/articles/kpmg-to-lay-off-4-of-us-advisory-workforce-cmokd2mr6033ut5bjm66joe3y)** *(April 29, 2026)*  
+  KPMG reduces U.S. advisory workforce by 4%, impacting hundreds. Learn how cooling demand, M&A slowdown, & low attrition drive Big Four cuts.
+- **[Porsche AG Confirms Full-Year Outlook Amid Ongoing Strategic Reset](https://caymanjournal.com/articles/porsche-ag-confirms-full-year-outlook-amid-ongoing-strategic-cmokd333x033xt5bjb95et9zs)** *(April 29, 2026)*  
+  Porsche AG confidently reaffirms guidance, banking on its "Road to 2025" strategic reset to boost profitability & EV innovation. Learn its resilient p...
+- **[Universal Music Logs Strong Subscriptions, Streaming Revenue Growth](https://caymanjournal.com/articles/universal-music-logs-strong-subscriptions-streaming-revenue-cmokd3l6b0340t5bji1xrk3o4)** *(April 29, 2026)*  
+  Universal Music Group's Q1 revenue jumps 8.1% to €2.90B, driven by robust streaming. Explore UMG's strategy fueling music industry growth.
+- **[Robinhood Shares Tumble After Trading Results Disappoint](https://caymanjournal.com/articles/robinhood-shares-tumble-after-trading-results-disappoint-cmokd1iwz033rt5bjz1w9r64s)** *(April 29, 2026)*  
+  Robinhood (HOOD) stock drops over 10% as Q3 earnings miss expectations, erasing recent gains. Learn why falling DARTs signal a shift in retail trading...
+- **[Uber Deepens Travel Push with Expedia Hotel Booking Partnership](https://caymanjournal.com/articles/uber-deepens-travel-push-with-expedia-hotel-booking-partners-cmok8ruao0337t5bj2vr3b5bk)** *(April 29, 2026)*  
+  Uber partners with Expedia, allowing direct hotel bookings in-app. Explore Uber's "super app" strategy to streamline travel & expand services.
+- **[Elon Musk Takes Stand in Second Day of Trial Against OpenAI](https://caymanjournal.com/articles/elon-musk-takes-stand-in-second-day-of-trial-against-openai-cmok8vdec033jt5bj450u6ics)** *(April 29, 2026)*  
+  Elon Musk testifies in the high-stakes OpenAI trial, alleging the company breached its founding mission for profit. Learn how this lawsuit could resha...
+- **[AstraZeneca Commits $405.5M to U.K., Reversing Prior Stance Amid Cancer Drug Boom](https://caymanjournal.com/articles/astrazeneca-commits-4055m-to-uk-reversing-prior-stance-amid-cmok8sew3033at5bjioc0fq00)** *(April 29, 2026)*  
+  AstraZeneca commits $405.5M to UK operations, a major U-turn. Discover how blockbuster cancer drugs fuel this investment, boosting UK life sciences an...
+- **[Bill Ackman’s Double Stock Listing Set to Start Trading](https://caymanjournal.com/articles/bill-ackmans-double-stock-listing-set-to-start-trading-cmok8wngd033mt5bjkwa5a69l)** *(April 29, 2026)*  
+  Bill Ackman's PSDL fund debuts, offering public access to the burgeoning private credit market. Explore direct lending strategies for attractive yield...
+- **[General Dynamics Lifts Outlook After Posting Higher Profit](https://caymanjournal.com/articles/general-dynamics-lifts-outlook-after-posting-higher-profit-cmok8swts033dt5bjwts1xsad)** *(April 29, 2026)*  
+  General Dynamics (GD) soared in Q1 with 12% profit & 8.7% revenue gains, prompting a raised 2024 earnings outlook. See what drove strong defense & Gul...
+- **[Why a Tech Behemoth Just Bet $750 Million on the Future of Racing](https://caymanjournal.com/articles/why-a-tech-behemoth-just-bet-750-million-on-the-future-of-ra-cmok8tf2f033gt5bjlnbqd8iv)** *(April 29, 2026)*  
+  Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 ### 📈 Markets & Finance
 
-- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
-  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
-- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
-  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
-- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
-  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
-- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
-  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
-- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
-  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
-- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
-  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
-- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
-  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
-- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
-  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
-- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
-  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
-- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
-  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
+- **[KPMG to Lay Off 4% of U.S. Advisory Workforce](https://caymanjournal.com/articles/kpmg-to-lay-off-4-of-us-advisory-workforce-cmokd2mr6033ut5bjm66joe3y)** *(April 29, 2026)*  
+  KPMG reduces U.S. advisory workforce by 4%, impacting hundreds. Learn how cooling demand, M&A slowdown, & low attrition drive Big Four cuts.
+- **[Porsche AG Confirms Full-Year Outlook Amid Ongoing Strategic Reset](https://caymanjournal.com/articles/porsche-ag-confirms-full-year-outlook-amid-ongoing-strategic-cmokd333x033xt5bjb95et9zs)** *(April 29, 2026)*  
+  Porsche AG confidently reaffirms guidance, banking on its "Road to 2025" strategic reset to boost profitability & EV innovation. Learn its resilient p...
+- **[Universal Music Logs Strong Subscriptions, Streaming Revenue Growth](https://caymanjournal.com/articles/universal-music-logs-strong-subscriptions-streaming-revenue-cmokd3l6b0340t5bji1xrk3o4)** *(April 29, 2026)*  
+  Universal Music Group's Q1 revenue jumps 8.1% to €2.90B, driven by robust streaming. Explore UMG's strategy fueling music industry growth.
+- **[Robinhood Shares Tumble After Trading Results Disappoint](https://caymanjournal.com/articles/robinhood-shares-tumble-after-trading-results-disappoint-cmokd1iwz033rt5bjz1w9r64s)** *(April 29, 2026)*  
+  Robinhood (HOOD) stock drops over 10% as Q3 earnings miss expectations, erasing recent gains. Learn why falling DARTs signal a shift in retail trading...
+- **[Uber Deepens Travel Push with Expedia Hotel Booking Partnership](https://caymanjournal.com/articles/uber-deepens-travel-push-with-expedia-hotel-booking-partners-cmok8ruao0337t5bj2vr3b5bk)** *(April 29, 2026)*  
+  Uber partners with Expedia, allowing direct hotel bookings in-app. Explore Uber's "super app" strategy to streamline travel & expand services.
+- **[Elon Musk Takes Stand in Second Day of Trial Against OpenAI](https://caymanjournal.com/articles/elon-musk-takes-stand-in-second-day-of-trial-against-openai-cmok8vdec033jt5bj450u6ics)** *(April 29, 2026)*  
+  Elon Musk testifies in the high-stakes OpenAI trial, alleging the company breached its founding mission for profit. Learn how this lawsuit could resha...
+- **[AstraZeneca Commits $405.5M to U.K., Reversing Prior Stance Amid Cancer Drug Boom](https://caymanjournal.com/articles/astrazeneca-commits-4055m-to-uk-reversing-prior-stance-amid-cmok8sew3033at5bjioc0fq00)** *(April 29, 2026)*  
+  AstraZeneca commits $405.5M to UK operations, a major U-turn. Discover how blockbuster cancer drugs fuel this investment, boosting UK life sciences an...
+- **[Bill Ackman’s Double Stock Listing Set to Start Trading](https://caymanjournal.com/articles/bill-ackmans-double-stock-listing-set-to-start-trading-cmok8wngd033mt5bjkwa5a69l)** *(April 29, 2026)*  
+  Bill Ackman's PSDL fund debuts, offering public access to the burgeoning private credit market. Explore direct lending strategies for attractive yield...
+- **[General Dynamics Lifts Outlook After Posting Higher Profit](https://caymanjournal.com/articles/general-dynamics-lifts-outlook-after-posting-higher-profit-cmok8swts033dt5bjwts1xsad)** *(April 29, 2026)*  
+  General Dynamics (GD) soared in Q1 with 12% profit & 8.7% revenue gains, prompting a raised 2024 earnings outlook. See what drove strong defense & Gul...
+- **[Why a Tech Behemoth Just Bet $750 Million on the Future of Racing](https://caymanjournal.com/articles/why-a-tech-behemoth-just-bet-750-million-on-the-future-of-ra-cmok8tf2f033gt5bjlnbqd8iv)** *(April 29, 2026)*  
+  Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 ### 💻 Technology
 
-- **[TotalEnergies Boosts Shareholder Returns as Geopolitical Tensions Fuel Energy Profits](https://caymanjournal.com/articles/totalenergies-boosts-shareholder-returns-as-geopolitical-ten-cmojrmjr002z8t5bjomxe7s1a)** *(April 29, 2026)*  
-  TotalEnergies boosts shareholder returns significantly, driven by an earnings windfall from escalating Middle East conflict & surging energy prices.
-- **[Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher](https://caymanjournal.com/articles/spanish-inflation-rises-further-as-iran-war-drives-energy-pr-cmojrly8n02z5t5bj0vqw8q9v)** *(April 29, 2026)*  
-  Spain's inflation climbs to 3.5% as Iran conflict drives energy costs higher. Discover the ripple effect on your wallet, businesses, & ECB rate decisi...
-- **[Kone to Buy TK Elevator for Around $24 Billion](https://caymanjournal.com/articles/kone-to-buy-tk-elevator-for-around-24-billion-cmojrn1lf02zbt5bjdpvuspxp)** *(April 29, 2026)*  
-  Kone nears $24B TK Elevator acquisition, poised to reshape the global elevator market. Explore the impact of this colossal deal and regulatory challen...
-- **[Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers](https://caymanjournal.com/articles/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-cmojrnffq02zet5bj3p34gcw0)** *(April 29, 2026)*  
-  Carlsberg defies global uncertainty with strong Q1 growth, boosted by premium beers & soft drinks. Discover their resilient strategy and consumer tren...
-- **[GSK Earnings Boosted by Higher Specialty Medicine Sales](https://caymanjournal.com/articles/gsk-earnings-boosted-by-higher-specialty-medicine-sales-cmojrntoa02zht5bjk8ogqbiu)** *(April 29, 2026)*  
-  GSK kicks off the year strongly: Q1 core operating profit surges nearly 5% to £2.65B. Specialty medicine sales power this impressive growth.
-- **[Hong Kong Exchange Operator Posts Record Profit on Listings, Trading Growth](https://caymanjournal.com/articles/hong-kong-exchange-operator-posts-record-profit-on-listings-cmojro9cd02zkt5bjnpqn5d2d)** *(April 29, 2026)*  
-  Hong Kong's HKEX announces record Q1 profit of HK$4.52B (+28%) and HK$7.2B revenue (+22%). Explore the surge in listings & trading driving growth.
-- **[Lloyds Banking Group Reports Strong Q1 Profit Amid Robust Loan Growth](https://caymanjournal.com/articles/lloyds-banking-group-reports-strong-q1-profit-amid-robust-lo-cmojrslno02zzt5bjixfb7ytj)** *(April 29, 2026)*  
-  Lloyds Banking Group's Q1 pretax profit hits £2.025bn, driven by strong lending across its portfolio. This highlights the UK bank's robust performance...
-- **[Finland’s Kone Agrees to Buy German Rival TK Elevator in $34.4 Billion Deal](https://caymanjournal.com/articles/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-344-cmojropvk02znt5bjn4yg53sh)** *(April 29, 2026)*  
-  Kone acquires TK Elevator in a $34.4B deal, redefining global vertical transportation. See how this merger shapes industry titans & future innovation.
-- **[AstraZeneca Gets Revenue Boost From Cancer Drugs](https://caymanjournal.com/articles/astrazeneca-gets-revenue-boost-from-cancer-drugs-cmojrp65l02zqt5bjko8ohqfn)** *(April 29, 2026)*  
-  AstraZeneca's Q1 results soar with robust revenue & core earnings growth. Discover how oncology & rare disease sales fueled this strong performance.
-- **[LG Electronics Returns to Profit, Signals Resilient Growth](https://caymanjournal.com/articles/lg-electronics-returns-to-profit-signals-resilient-growth-cmojrpliy02ztt5bjspmy2a0q)** *(April 29, 2026)*  
-  After a net loss, LG Electronics reports a decisive Q1 net profit. See how premium products and strategic B2B expansion drive this impressive comeback...
+- **[KPMG to Lay Off 4% of U.S. Advisory Workforce](https://caymanjournal.com/articles/kpmg-to-lay-off-4-of-us-advisory-workforce-cmokd2mr6033ut5bjm66joe3y)** *(April 29, 2026)*  
+  KPMG reduces U.S. advisory workforce by 4%, impacting hundreds. Learn how cooling demand, M&A slowdown, & low attrition drive Big Four cuts.
+- **[Porsche AG Confirms Full-Year Outlook Amid Ongoing Strategic Reset](https://caymanjournal.com/articles/porsche-ag-confirms-full-year-outlook-amid-ongoing-strategic-cmokd333x033xt5bjb95et9zs)** *(April 29, 2026)*  
+  Porsche AG confidently reaffirms guidance, banking on its "Road to 2025" strategic reset to boost profitability & EV innovation. Learn its resilient p...
+- **[Universal Music Logs Strong Subscriptions, Streaming Revenue Growth](https://caymanjournal.com/articles/universal-music-logs-strong-subscriptions-streaming-revenue-cmokd3l6b0340t5bji1xrk3o4)** *(April 29, 2026)*  
+  Universal Music Group's Q1 revenue jumps 8.1% to €2.90B, driven by robust streaming. Explore UMG's strategy fueling music industry growth.
+- **[Robinhood Shares Tumble After Trading Results Disappoint](https://caymanjournal.com/articles/robinhood-shares-tumble-after-trading-results-disappoint-cmokd1iwz033rt5bjz1w9r64s)** *(April 29, 2026)*  
+  Robinhood (HOOD) stock drops over 10% as Q3 earnings miss expectations, erasing recent gains. Learn why falling DARTs signal a shift in retail trading...
+- **[Uber Deepens Travel Push with Expedia Hotel Booking Partnership](https://caymanjournal.com/articles/uber-deepens-travel-push-with-expedia-hotel-booking-partners-cmok8ruao0337t5bj2vr3b5bk)** *(April 29, 2026)*  
+  Uber partners with Expedia, allowing direct hotel bookings in-app. Explore Uber's "super app" strategy to streamline travel & expand services.
+- **[Elon Musk Takes Stand in Second Day of Trial Against OpenAI](https://caymanjournal.com/articles/elon-musk-takes-stand-in-second-day-of-trial-against-openai-cmok8vdec033jt5bj450u6ics)** *(April 29, 2026)*  
+  Elon Musk testifies in the high-stakes OpenAI trial, alleging the company breached its founding mission for profit. Learn how this lawsuit could resha...
+- **[AstraZeneca Commits $405.5M to U.K., Reversing Prior Stance Amid Cancer Drug Boom](https://caymanjournal.com/articles/astrazeneca-commits-4055m-to-uk-reversing-prior-stance-amid-cmok8sew3033at5bjioc0fq00)** *(April 29, 2026)*  
+  AstraZeneca commits $405.5M to UK operations, a major U-turn. Discover how blockbuster cancer drugs fuel this investment, boosting UK life sciences an...
+- **[Bill Ackman’s Double Stock Listing Set to Start Trading](https://caymanjournal.com/articles/bill-ackmans-double-stock-listing-set-to-start-trading-cmok8wngd033mt5bjkwa5a69l)** *(April 29, 2026)*  
+  Bill Ackman's PSDL fund debuts, offering public access to the burgeoning private credit market. Explore direct lending strategies for attractive yield...
+- **[General Dynamics Lifts Outlook After Posting Higher Profit](https://caymanjournal.com/articles/general-dynamics-lifts-outlook-after-posting-higher-profit-cmok8swts033dt5bjwts1xsad)** *(April 29, 2026)*  
+  General Dynamics (GD) soared in Q1 with 12% profit & 8.7% revenue gains, prompting a raised 2024 earnings outlook. See what drove strong defense & Gul...
+- **[Why a Tech Behemoth Just Bet $750 Million on the Future of Racing](https://caymanjournal.com/articles/why-a-tech-behemoth-just-bet-750-million-on-the-future-of-ra-cmok8tf2f033gt5bjlnbqd8iv)** *(April 29, 2026)*  
+  Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 
-*Last updated: April 29, 2026 at 08:12 UTC*
+*Last updated: April 30, 2026 at 08:17 UTC*
 
 <!-- FEED:END -->
 
