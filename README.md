@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Apple invests $750M in F1, including a Brad Pitt film & streaming deal. See how this bold play aims to transform F1 in the US and boost Apple TV+.
 
 
-*Last updated: May 14, 2026 at 08:34 UTC*
+*Last updated: May 15, 2026 at 08:46 UTC*
 
 <!-- FEED:END -->
 
