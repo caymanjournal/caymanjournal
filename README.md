@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   April UK inflation slowed to 2.8%, but the cutting pace at the Bank of England depends on services inflation rather than the headline.
 
 
-*Last updated: May 21, 2026 at 09:36 UTC*
+*Last updated: May 22, 2026 at 08:57 UTC*
 
 <!-- FEED:END -->
 
