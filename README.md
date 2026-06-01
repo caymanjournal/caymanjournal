@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
 
 
-*Last updated: May 31, 2026 at 08:41 UTC*
+*Last updated: June 01, 2026 at 11:28 UTC*
 
 <!-- FEED:END -->
 
