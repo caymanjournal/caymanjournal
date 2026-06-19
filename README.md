@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Buyout Bankers Pre-Selling Debt Before They Need It Is a Tell About How Fragile the Financing Window Feels](https://caymanjournal.com/articles/buyout-bankers-pre-selling-debt-before-they-need-it-is-a-tel-cmpgw14ud001hixu5ne36m1c5)** *(May 22, 2026)*  
-  When deal bankers line up debt buyers well ahead of need, they are not being efficient. They are insuring against a financing market they no longer tr...
-- **[SpaceX's $26.5 Trillion Compute Pitch Reframes the AI Race as a Land Grab for Capacity, Not Models](https://caymanjournal.com/articles/spacexs-265-trillion-compute-pitch-reframes-the-ai-race-as-a-cmpgw14r50002ixu5zpl5sgjg)** *(May 21, 2026)*  
-  When a launch company starts quoting a multi-trillion-dollar compute market, the AI contest has shifted from who has the best model to who controls th...
-- **[Big Tech's AI Debt Binge Is Quietly Becoming the Investment-Grade Bond Market's Largest Single Bet](https://caymanjournal.com/articles/big-techs-ai-debt-binge-is-quietly-becoming-the-investment-g-cmpgw14s0000bixu5trcjvssh)** *(May 21, 2026)*  
-  Technology giants funding AI build-outs with bonds are concentrating the high-grade market around one theme. Diversified buyers may be less diversifie...
-- **[Prediction Markets Are Becoming Public Markets, and Regulators Are Deciding the Rules on the Fly](https://caymanjournal.com/articles/prediction-markets-are-becoming-public-markets-and-regulator-cmpgw14rs0008ixu5szkpt8od)** *(May 21, 2026)*  
-  Event-contract platforms have grown from novelty to a market structure regulators must now classify. How that classification lands will shape an entir...
-- **[A Red-Hot Junk-Debt Market Is Breeding the Kind of Complacency That Usually Precedes a Credit Repricing](https://caymanjournal.com/articles/a-red-hot-junk-debt-market-is-breeding-the-kind-of-complacen-cmpgw14sf000hixu59441lcu6)** *(May 21, 2026)*  
-  High-yield spreads have compressed to levels that leave little margin for error. The danger is not today's defaults but the thin cushion against tomor...
-- **[Hovnanian's Swing to a Loss Confirms the US Housing Market Is Frozen, Not Merely Slow](https://caymanjournal.com/articles/hovnanians-swing-to-a-loss-confirms-the-us-housing-market-is-cmpgw14sx000qixu570in4x2z)** *(May 21, 2026)*  
-  A homebuilder moving from profit to loss is more than one company's bad quarter. It is evidence that high rates have locked the market in place rather...
-- **[Aflac and Alphabet Tapping Japan's Yen Bond Market Show Where the Cheapest Money in the World Still Lives](https://caymanjournal.com/articles/aflac-and-alphabet-tapping-japans-yen-bond-market-show-where-cmpgw14tl0012ixu5hy1zjyov)** *(May 21, 2026)*  
-  Foreign giants borrowing in yen is a quiet arbitrage: even after Japan's rate moves, its bond market remains a low-cost funding source for those who c...
-- **[A Futures Market for Computing Power Would Turn AI Capacity Into a Tradable Commodity — and That Changes Everything Downstream](https://caymanjournal.com/articles/a-futures-market-for-computing-power-would-turn-ai-capacity-cmpgw14rk0005ixu5ism8d2an)** *(May 20, 2026)*  
-  An exchange operator planning a futures market for compute is proposing something larger than a new contract: a price signal for the most contested in...
-- **[Defense Earnings Are Vindicating the Munitions-Demand Thesis, and CSG's Quarter Is the Cleanest Read Yet](https://caymanjournal.com/articles/defense-earnings-are-vindicating-the-munitions-demand-thesis-cmpds2l470002lhyo6veddard)** *(May 20, 2026)*  
-  A volume-led earnings beat from CSG confirms that the post-2024 munitions cycle is broader and more durable than the typical replenishment story.
-- **[The Tightest Graduate Labor Market in Years Is a Leading Indicator, Not a Generational Story](https://caymanjournal.com/articles/the-tightest-graduate-labor-market-in-years-is-a-leading-ind-cmpgw14s8000eixu52qwjjrr6)** *(May 20, 2026)*  
-  New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
+- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
+  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
+- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
+  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
+- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
+  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
+- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
+  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
+- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
+  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
+- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
+  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
+- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
+  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
+- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
+  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
+- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
+  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
+- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
+  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 ### 🏢 Business
 
-- **[Buyout Bankers Pre-Selling Debt Before They Need It Is a Tell About How Fragile the Financing Window Feels](https://caymanjournal.com/articles/buyout-bankers-pre-selling-debt-before-they-need-it-is-a-tel-cmpgw14ud001hixu5ne36m1c5)** *(May 22, 2026)*  
-  When deal bankers line up debt buyers well ahead of need, they are not being efficient. They are insuring against a financing market they no longer tr...
-- **[SpaceX's $26.5 Trillion Compute Pitch Reframes the AI Race as a Land Grab for Capacity, Not Models](https://caymanjournal.com/articles/spacexs-265-trillion-compute-pitch-reframes-the-ai-race-as-a-cmpgw14r50002ixu5zpl5sgjg)** *(May 21, 2026)*  
-  When a launch company starts quoting a multi-trillion-dollar compute market, the AI contest has shifted from who has the best model to who controls th...
-- **[Big Tech's AI Debt Binge Is Quietly Becoming the Investment-Grade Bond Market's Largest Single Bet](https://caymanjournal.com/articles/big-techs-ai-debt-binge-is-quietly-becoming-the-investment-g-cmpgw14s0000bixu5trcjvssh)** *(May 21, 2026)*  
-  Technology giants funding AI build-outs with bonds are concentrating the high-grade market around one theme. Diversified buyers may be less diversifie...
-- **[Prediction Markets Are Becoming Public Markets, and Regulators Are Deciding the Rules on the Fly](https://caymanjournal.com/articles/prediction-markets-are-becoming-public-markets-and-regulator-cmpgw14rs0008ixu5szkpt8od)** *(May 21, 2026)*  
-  Event-contract platforms have grown from novelty to a market structure regulators must now classify. How that classification lands will shape an entir...
-- **[A Red-Hot Junk-Debt Market Is Breeding the Kind of Complacency That Usually Precedes a Credit Repricing](https://caymanjournal.com/articles/a-red-hot-junk-debt-market-is-breeding-the-kind-of-complacen-cmpgw14sf000hixu59441lcu6)** *(May 21, 2026)*  
-  High-yield spreads have compressed to levels that leave little margin for error. The danger is not today's defaults but the thin cushion against tomor...
-- **[Hovnanian's Swing to a Loss Confirms the US Housing Market Is Frozen, Not Merely Slow](https://caymanjournal.com/articles/hovnanians-swing-to-a-loss-confirms-the-us-housing-market-is-cmpgw14sx000qixu570in4x2z)** *(May 21, 2026)*  
-  A homebuilder moving from profit to loss is more than one company's bad quarter. It is evidence that high rates have locked the market in place rather...
-- **[Aflac and Alphabet Tapping Japan's Yen Bond Market Show Where the Cheapest Money in the World Still Lives](https://caymanjournal.com/articles/aflac-and-alphabet-tapping-japans-yen-bond-market-show-where-cmpgw14tl0012ixu5hy1zjyov)** *(May 21, 2026)*  
-  Foreign giants borrowing in yen is a quiet arbitrage: even after Japan's rate moves, its bond market remains a low-cost funding source for those who c...
-- **[A Futures Market for Computing Power Would Turn AI Capacity Into a Tradable Commodity — and That Changes Everything Downstream](https://caymanjournal.com/articles/a-futures-market-for-computing-power-would-turn-ai-capacity-cmpgw14rk0005ixu5ism8d2an)** *(May 20, 2026)*  
-  An exchange operator planning a futures market for compute is proposing something larger than a new contract: a price signal for the most contested in...
-- **[Defense Earnings Are Vindicating the Munitions-Demand Thesis, and CSG's Quarter Is the Cleanest Read Yet](https://caymanjournal.com/articles/defense-earnings-are-vindicating-the-munitions-demand-thesis-cmpds2l470002lhyo6veddard)** *(May 20, 2026)*  
-  A volume-led earnings beat from CSG confirms that the post-2024 munitions cycle is broader and more durable than the typical replenishment story.
-- **[The Tightest Graduate Labor Market in Years Is a Leading Indicator, Not a Generational Story](https://caymanjournal.com/articles/the-tightest-graduate-labor-market-in-years-is-a-leading-ind-cmpgw14s8000eixu52qwjjrr6)** *(May 20, 2026)*  
-  New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
+- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
+  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
+- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
+  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
+- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
+  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
+- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
+  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
+- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
+  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
+- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
+  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
+- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
+  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
+- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
+  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
+- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
+  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
+- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
+  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 ### 🏛️ Economy
 
-- **[Buyout Bankers Pre-Selling Debt Before They Need It Is a Tell About How Fragile the Financing Window Feels](https://caymanjournal.com/articles/buyout-bankers-pre-selling-debt-before-they-need-it-is-a-tel-cmpgw14ud001hixu5ne36m1c5)** *(May 22, 2026)*  
-  When deal bankers line up debt buyers well ahead of need, they are not being efficient. They are insuring against a financing market they no longer tr...
-- **[SpaceX's $26.5 Trillion Compute Pitch Reframes the AI Race as a Land Grab for Capacity, Not Models](https://caymanjournal.com/articles/spacexs-265-trillion-compute-pitch-reframes-the-ai-race-as-a-cmpgw14r50002ixu5zpl5sgjg)** *(May 21, 2026)*  
-  When a launch company starts quoting a multi-trillion-dollar compute market, the AI contest has shifted from who has the best model to who controls th...
-- **[Big Tech's AI Debt Binge Is Quietly Becoming the Investment-Grade Bond Market's Largest Single Bet](https://caymanjournal.com/articles/big-techs-ai-debt-binge-is-quietly-becoming-the-investment-g-cmpgw14s0000bixu5trcjvssh)** *(May 21, 2026)*  
-  Technology giants funding AI build-outs with bonds are concentrating the high-grade market around one theme. Diversified buyers may be less diversifie...
-- **[Prediction Markets Are Becoming Public Markets, and Regulators Are Deciding the Rules on the Fly](https://caymanjournal.com/articles/prediction-markets-are-becoming-public-markets-and-regulator-cmpgw14rs0008ixu5szkpt8od)** *(May 21, 2026)*  
-  Event-contract platforms have grown from novelty to a market structure regulators must now classify. How that classification lands will shape an entir...
-- **[A Red-Hot Junk-Debt Market Is Breeding the Kind of Complacency That Usually Precedes a Credit Repricing](https://caymanjournal.com/articles/a-red-hot-junk-debt-market-is-breeding-the-kind-of-complacen-cmpgw14sf000hixu59441lcu6)** *(May 21, 2026)*  
-  High-yield spreads have compressed to levels that leave little margin for error. The danger is not today's defaults but the thin cushion against tomor...
-- **[Hovnanian's Swing to a Loss Confirms the US Housing Market Is Frozen, Not Merely Slow](https://caymanjournal.com/articles/hovnanians-swing-to-a-loss-confirms-the-us-housing-market-is-cmpgw14sx000qixu570in4x2z)** *(May 21, 2026)*  
-  A homebuilder moving from profit to loss is more than one company's bad quarter. It is evidence that high rates have locked the market in place rather...
-- **[Aflac and Alphabet Tapping Japan's Yen Bond Market Show Where the Cheapest Money in the World Still Lives](https://caymanjournal.com/articles/aflac-and-alphabet-tapping-japans-yen-bond-market-show-where-cmpgw14tl0012ixu5hy1zjyov)** *(May 21, 2026)*  
-  Foreign giants borrowing in yen is a quiet arbitrage: even after Japan's rate moves, its bond market remains a low-cost funding source for those who c...
-- **[A Futures Market for Computing Power Would Turn AI Capacity Into a Tradable Commodity — and That Changes Everything Downstream](https://caymanjournal.com/articles/a-futures-market-for-computing-power-would-turn-ai-capacity-cmpgw14rk0005ixu5ism8d2an)** *(May 20, 2026)*  
-  An exchange operator planning a futures market for compute is proposing something larger than a new contract: a price signal for the most contested in...
-- **[Defense Earnings Are Vindicating the Munitions-Demand Thesis, and CSG's Quarter Is the Cleanest Read Yet](https://caymanjournal.com/articles/defense-earnings-are-vindicating-the-munitions-demand-thesis-cmpds2l470002lhyo6veddard)** *(May 20, 2026)*  
-  A volume-led earnings beat from CSG confirms that the post-2024 munitions cycle is broader and more durable than the typical replenishment story.
-- **[The Tightest Graduate Labor Market in Years Is a Leading Indicator, Not a Generational Story](https://caymanjournal.com/articles/the-tightest-graduate-labor-market-in-years-is-a-leading-ind-cmpgw14s8000eixu52qwjjrr6)** *(May 20, 2026)*  
-  New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
+- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
+  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
+- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
+  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
+- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
+  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
+- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
+  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
+- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
+  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
+- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
+  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
+- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
+  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
+- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
+  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
+- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
+  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
+- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
+  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 ### 📈 Markets & Finance
 
-- **[Buyout Bankers Pre-Selling Debt Before They Need It Is a Tell About How Fragile the Financing Window Feels](https://caymanjournal.com/articles/buyout-bankers-pre-selling-debt-before-they-need-it-is-a-tel-cmpgw14ud001hixu5ne36m1c5)** *(May 22, 2026)*  
-  When deal bankers line up debt buyers well ahead of need, they are not being efficient. They are insuring against a financing market they no longer tr...
-- **[SpaceX's $26.5 Trillion Compute Pitch Reframes the AI Race as a Land Grab for Capacity, Not Models](https://caymanjournal.com/articles/spacexs-265-trillion-compute-pitch-reframes-the-ai-race-as-a-cmpgw14r50002ixu5zpl5sgjg)** *(May 21, 2026)*  
-  When a launch company starts quoting a multi-trillion-dollar compute market, the AI contest has shifted from who has the best model to who controls th...
-- **[Big Tech's AI Debt Binge Is Quietly Becoming the Investment-Grade Bond Market's Largest Single Bet](https://caymanjournal.com/articles/big-techs-ai-debt-binge-is-quietly-becoming-the-investment-g-cmpgw14s0000bixu5trcjvssh)** *(May 21, 2026)*  
-  Technology giants funding AI build-outs with bonds are concentrating the high-grade market around one theme. Diversified buyers may be less diversifie...
-- **[Prediction Markets Are Becoming Public Markets, and Regulators Are Deciding the Rules on the Fly](https://caymanjournal.com/articles/prediction-markets-are-becoming-public-markets-and-regulator-cmpgw14rs0008ixu5szkpt8od)** *(May 21, 2026)*  
-  Event-contract platforms have grown from novelty to a market structure regulators must now classify. How that classification lands will shape an entir...
-- **[A Red-Hot Junk-Debt Market Is Breeding the Kind of Complacency That Usually Precedes a Credit Repricing](https://caymanjournal.com/articles/a-red-hot-junk-debt-market-is-breeding-the-kind-of-complacen-cmpgw14sf000hixu59441lcu6)** *(May 21, 2026)*  
-  High-yield spreads have compressed to levels that leave little margin for error. The danger is not today's defaults but the thin cushion against tomor...
-- **[Hovnanian's Swing to a Loss Confirms the US Housing Market Is Frozen, Not Merely Slow](https://caymanjournal.com/articles/hovnanians-swing-to-a-loss-confirms-the-us-housing-market-is-cmpgw14sx000qixu570in4x2z)** *(May 21, 2026)*  
-  A homebuilder moving from profit to loss is more than one company's bad quarter. It is evidence that high rates have locked the market in place rather...
-- **[Aflac and Alphabet Tapping Japan's Yen Bond Market Show Where the Cheapest Money in the World Still Lives](https://caymanjournal.com/articles/aflac-and-alphabet-tapping-japans-yen-bond-market-show-where-cmpgw14tl0012ixu5hy1zjyov)** *(May 21, 2026)*  
-  Foreign giants borrowing in yen is a quiet arbitrage: even after Japan's rate moves, its bond market remains a low-cost funding source for those who c...
-- **[A Futures Market for Computing Power Would Turn AI Capacity Into a Tradable Commodity — and That Changes Everything Downstream](https://caymanjournal.com/articles/a-futures-market-for-computing-power-would-turn-ai-capacity-cmpgw14rk0005ixu5ism8d2an)** *(May 20, 2026)*  
-  An exchange operator planning a futures market for compute is proposing something larger than a new contract: a price signal for the most contested in...
-- **[Defense Earnings Are Vindicating the Munitions-Demand Thesis, and CSG's Quarter Is the Cleanest Read Yet](https://caymanjournal.com/articles/defense-earnings-are-vindicating-the-munitions-demand-thesis-cmpds2l470002lhyo6veddard)** *(May 20, 2026)*  
-  A volume-led earnings beat from CSG confirms that the post-2024 munitions cycle is broader and more durable than the typical replenishment story.
-- **[The Tightest Graduate Labor Market in Years Is a Leading Indicator, Not a Generational Story](https://caymanjournal.com/articles/the-tightest-graduate-labor-market-in-years-is-a-leading-ind-cmpgw14s8000eixu52qwjjrr6)** *(May 20, 2026)*  
-  New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
+- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
+  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
+- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
+  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
+- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
+  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
+- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
+  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
+- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
+  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
+- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
+  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
+- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
+  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
+- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
+  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
+- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
+  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
+- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
+  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 ### 💻 Technology
 
-- **[Buyout Bankers Pre-Selling Debt Before They Need It Is a Tell About How Fragile the Financing Window Feels](https://caymanjournal.com/articles/buyout-bankers-pre-selling-debt-before-they-need-it-is-a-tel-cmpgw14ud001hixu5ne36m1c5)** *(May 22, 2026)*  
-  When deal bankers line up debt buyers well ahead of need, they are not being efficient. They are insuring against a financing market they no longer tr...
-- **[SpaceX's $26.5 Trillion Compute Pitch Reframes the AI Race as a Land Grab for Capacity, Not Models](https://caymanjournal.com/articles/spacexs-265-trillion-compute-pitch-reframes-the-ai-race-as-a-cmpgw14r50002ixu5zpl5sgjg)** *(May 21, 2026)*  
-  When a launch company starts quoting a multi-trillion-dollar compute market, the AI contest has shifted from who has the best model to who controls th...
-- **[Big Tech's AI Debt Binge Is Quietly Becoming the Investment-Grade Bond Market's Largest Single Bet](https://caymanjournal.com/articles/big-techs-ai-debt-binge-is-quietly-becoming-the-investment-g-cmpgw14s0000bixu5trcjvssh)** *(May 21, 2026)*  
-  Technology giants funding AI build-outs with bonds are concentrating the high-grade market around one theme. Diversified buyers may be less diversifie...
-- **[Prediction Markets Are Becoming Public Markets, and Regulators Are Deciding the Rules on the Fly](https://caymanjournal.com/articles/prediction-markets-are-becoming-public-markets-and-regulator-cmpgw14rs0008ixu5szkpt8od)** *(May 21, 2026)*  
-  Event-contract platforms have grown from novelty to a market structure regulators must now classify. How that classification lands will shape an entir...
-- **[A Red-Hot Junk-Debt Market Is Breeding the Kind of Complacency That Usually Precedes a Credit Repricing](https://caymanjournal.com/articles/a-red-hot-junk-debt-market-is-breeding-the-kind-of-complacen-cmpgw14sf000hixu59441lcu6)** *(May 21, 2026)*  
-  High-yield spreads have compressed to levels that leave little margin for error. The danger is not today's defaults but the thin cushion against tomor...
-- **[Hovnanian's Swing to a Loss Confirms the US Housing Market Is Frozen, Not Merely Slow](https://caymanjournal.com/articles/hovnanians-swing-to-a-loss-confirms-the-us-housing-market-is-cmpgw14sx000qixu570in4x2z)** *(May 21, 2026)*  
-  A homebuilder moving from profit to loss is more than one company's bad quarter. It is evidence that high rates have locked the market in place rather...
-- **[Aflac and Alphabet Tapping Japan's Yen Bond Market Show Where the Cheapest Money in the World Still Lives](https://caymanjournal.com/articles/aflac-and-alphabet-tapping-japans-yen-bond-market-show-where-cmpgw14tl0012ixu5hy1zjyov)** *(May 21, 2026)*  
-  Foreign giants borrowing in yen is a quiet arbitrage: even after Japan's rate moves, its bond market remains a low-cost funding source for those who c...
-- **[A Futures Market for Computing Power Would Turn AI Capacity Into a Tradable Commodity — and That Changes Everything Downstream](https://caymanjournal.com/articles/a-futures-market-for-computing-power-would-turn-ai-capacity-cmpgw14rk0005ixu5ism8d2an)** *(May 20, 2026)*  
-  An exchange operator planning a futures market for compute is proposing something larger than a new contract: a price signal for the most contested in...
-- **[Defense Earnings Are Vindicating the Munitions-Demand Thesis, and CSG's Quarter Is the Cleanest Read Yet](https://caymanjournal.com/articles/defense-earnings-are-vindicating-the-munitions-demand-thesis-cmpds2l470002lhyo6veddard)** *(May 20, 2026)*  
-  A volume-led earnings beat from CSG confirms that the post-2024 munitions cycle is broader and more durable than the typical replenishment story.
-- **[The Tightest Graduate Labor Market in Years Is a Leading Indicator, Not a Generational Story](https://caymanjournal.com/articles/the-tightest-graduate-labor-market-in-years-is-a-leading-ind-cmpgw14s8000eixu52qwjjrr6)** *(May 20, 2026)*  
-  New graduates are facing the hardest hiring market in years. The right way to read it is as an early warning about the broader economy, not a story ab...
+- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
+  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
+- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
+  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
+- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
+  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
+- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
+  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
+- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
+  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
+- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
+  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
+- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
+  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
+- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
+  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
+- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
+  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
+- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
+  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 
-*Last updated: June 18, 2026 at 10:17 UTC*
+*Last updated: June 19, 2026 at 10:22 UTC*
 
 <!-- FEED:END -->
 
