@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
 
 
-*Last updated: June 19, 2026 at 10:22 UTC*
+*Last updated: June 20, 2026 at 08:51 UTC*
 
 <!-- FEED:END -->
 
