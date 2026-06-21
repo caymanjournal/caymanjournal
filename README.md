@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
-  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
-- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
-  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
-- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
-  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
-- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
-  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
-- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
-  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
-- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
-  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
-- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
-  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
-- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
-  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
-- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
-  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
-- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
-  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
+- **[The Lithium Triangle Is Quietly Becoming a Real Producer, and It Will Reset the Battery-Mineral Cost Curve](https://caymanjournal.com/articles/the-lithium-triangle-is-quietly-becoming-a-real-producer-and-cmqmduvuv000277qlts1ek7g7)** *(June 19, 2026)*  
+  Argentina, Chile and Bolivia together now have enough committed brine projects to add meaningful supply by 2028 — a structural shift in the lithium ma...
+- **[BlackRock's Private-Credit Platform Crossing $200 Billion in AUM Marks the Final Convergence of Public and Private Capital Markets](https://caymanjournal.com/articles/blackrocks-private-credit-platform-crossing-200-billion-in-a-cmqmduvv7000577qlukyhz2w0)** *(June 19, 2026)*  
+  When the largest passive manager becomes a top-three private-credit lender, the boundary between credit markets has effectively dissolved.
+- **[China's Deflation Persistence Is Forcing the PBOC Toward Genuine Quantitative Easing for the First Time](https://caymanjournal.com/articles/chinas-deflation-persistence-is-forcing-the-pboc-toward-genu-cmqmduvvd000877qllhts59ii)** *(June 19, 2026)*  
+  Three years of CPI flirting with zero has finally exhausted the policy playbook of targeted lending — large-scale bond purchases are now the path of l...
+- **[The UK Reform Government's Financial-Deregulation Package Is the Biggest Reset of City Rules Since Big Bang](https://caymanjournal.com/articles/the-uk-reform-governments-financial-deregulation-package-is-cmqmduvvh000b77qluiep3q21)** *(June 19, 2026)*  
+  Listings reform, ringfencing rollback, Solvency II loosening and a new MiFID divergence path are individually significant — together they reshape Lond...
+- **[Brazil's Cerrado Carbon-Credit Market Is the First Real Test of Whether Agricultural Sequestration Can Scale](https://caymanjournal.com/articles/brazils-cerrado-carbon-credit-market-is-the-first-real-test-cmqmduvvm000e77qlftx2du79)** *(June 19, 2026)*  
+  If Brazilian soy and cattle producers can monetize cover-crop and rotational-grazing sequestration credibly, the global voluntary market doubles in fi...
+- **[India's Second Semiconductor PLI Round Pivots from Fabs to Packaging — and That's the Correct Choice](https://caymanjournal.com/articles/indias-second-semiconductor-pli-round-pivots-from-fabs-to-pa-cmqmduvvr000h77qlk5uoipze)** *(June 19, 2026)*  
+  Advanced packaging is the actual constraint in modern semiconductor supply chains, and India can plausibly build a global position there in five years...
+- **[The EU AI Act's Second-Wave Enforcement Will Decide Whether Europe Hosts Frontier Models or Imports Them](https://caymanjournal.com/articles/the-eu-ai-acts-second-wave-enforcement-will-decide-whether-e-cmqmduvvv000k77qlh6gyqxzc)** *(June 19, 2026)*  
+  General-purpose AI model rules, transparency mandates and systemic-risk thresholds become enforceable in 2026 — the compliance cost will determine whe...
+- **[The UAE's Sovereign-AI Compute Export Policy Turns Abu Dhabi into the Pivot Between US and Asian Chip Supply Chains](https://caymanjournal.com/articles/the-uaes-sovereign-ai-compute-export-policy-turns-abu-dhabi-cmqmduvvz000n77qlidr8q76k)** *(June 19, 2026)*  
+  By accepting US export-control conditions, the UAE has unlocked the largest non-Chinese AI compute build outside North America — and made itself indis...
+- **[Mexico's Nearshoring Boom Has Hit the Industrial-Park Capacity Wall and That Is Now the Binding Constraint on Growth](https://caymanjournal.com/articles/mexicos-nearshoring-boom-has-hit-the-industrial-park-capacit-cmqmduvw2000q77qlt8rigb7k)** *(June 19, 2026)*  
+  Demand for Class-A industrial space has outrun construction by more than a year — the physical bottleneck is more binding than political risk.
+- **[Japan's Corporate-Governance Code Revision Is the Most Aggressive Push Yet on Cross-Holding Unwinds — and It Finally Has Teeth](https://caymanjournal.com/articles/japans-corporate-governance-code-revision-is-the-most-aggres-cmqmduvw5000t77qli3mgv6x3)** *(June 19, 2026)*  
+  Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 ### 🏢 Business
 
-- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
-  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
-- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
-  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
-- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
-  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
-- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
-  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
-- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
-  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
-- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
-  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
-- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
-  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
-- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
-  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
-- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
-  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
-- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
-  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
+- **[The Lithium Triangle Is Quietly Becoming a Real Producer, and It Will Reset the Battery-Mineral Cost Curve](https://caymanjournal.com/articles/the-lithium-triangle-is-quietly-becoming-a-real-producer-and-cmqmduvuv000277qlts1ek7g7)** *(June 19, 2026)*  
+  Argentina, Chile and Bolivia together now have enough committed brine projects to add meaningful supply by 2028 — a structural shift in the lithium ma...
+- **[BlackRock's Private-Credit Platform Crossing $200 Billion in AUM Marks the Final Convergence of Public and Private Capital Markets](https://caymanjournal.com/articles/blackrocks-private-credit-platform-crossing-200-billion-in-a-cmqmduvv7000577qlukyhz2w0)** *(June 19, 2026)*  
+  When the largest passive manager becomes a top-three private-credit lender, the boundary between credit markets has effectively dissolved.
+- **[China's Deflation Persistence Is Forcing the PBOC Toward Genuine Quantitative Easing for the First Time](https://caymanjournal.com/articles/chinas-deflation-persistence-is-forcing-the-pboc-toward-genu-cmqmduvvd000877qllhts59ii)** *(June 19, 2026)*  
+  Three years of CPI flirting with zero has finally exhausted the policy playbook of targeted lending — large-scale bond purchases are now the path of l...
+- **[The UK Reform Government's Financial-Deregulation Package Is the Biggest Reset of City Rules Since Big Bang](https://caymanjournal.com/articles/the-uk-reform-governments-financial-deregulation-package-is-cmqmduvvh000b77qluiep3q21)** *(June 19, 2026)*  
+  Listings reform, ringfencing rollback, Solvency II loosening and a new MiFID divergence path are individually significant — together they reshape Lond...
+- **[Brazil's Cerrado Carbon-Credit Market Is the First Real Test of Whether Agricultural Sequestration Can Scale](https://caymanjournal.com/articles/brazils-cerrado-carbon-credit-market-is-the-first-real-test-cmqmduvvm000e77qlftx2du79)** *(June 19, 2026)*  
+  If Brazilian soy and cattle producers can monetize cover-crop and rotational-grazing sequestration credibly, the global voluntary market doubles in fi...
+- **[India's Second Semiconductor PLI Round Pivots from Fabs to Packaging — and That's the Correct Choice](https://caymanjournal.com/articles/indias-second-semiconductor-pli-round-pivots-from-fabs-to-pa-cmqmduvvr000h77qlk5uoipze)** *(June 19, 2026)*  
+  Advanced packaging is the actual constraint in modern semiconductor supply chains, and India can plausibly build a global position there in five years...
+- **[The EU AI Act's Second-Wave Enforcement Will Decide Whether Europe Hosts Frontier Models or Imports Them](https://caymanjournal.com/articles/the-eu-ai-acts-second-wave-enforcement-will-decide-whether-e-cmqmduvvv000k77qlh6gyqxzc)** *(June 19, 2026)*  
+  General-purpose AI model rules, transparency mandates and systemic-risk thresholds become enforceable in 2026 — the compliance cost will determine whe...
+- **[The UAE's Sovereign-AI Compute Export Policy Turns Abu Dhabi into the Pivot Between US and Asian Chip Supply Chains](https://caymanjournal.com/articles/the-uaes-sovereign-ai-compute-export-policy-turns-abu-dhabi-cmqmduvvz000n77qlidr8q76k)** *(June 19, 2026)*  
+  By accepting US export-control conditions, the UAE has unlocked the largest non-Chinese AI compute build outside North America — and made itself indis...
+- **[Mexico's Nearshoring Boom Has Hit the Industrial-Park Capacity Wall and That Is Now the Binding Constraint on Growth](https://caymanjournal.com/articles/mexicos-nearshoring-boom-has-hit-the-industrial-park-capacit-cmqmduvw2000q77qlt8rigb7k)** *(June 19, 2026)*  
+  Demand for Class-A industrial space has outrun construction by more than a year — the physical bottleneck is more binding than political risk.
+- **[Japan's Corporate-Governance Code Revision Is the Most Aggressive Push Yet on Cross-Holding Unwinds — and It Finally Has Teeth](https://caymanjournal.com/articles/japans-corporate-governance-code-revision-is-the-most-aggres-cmqmduvw5000t77qli3mgv6x3)** *(June 19, 2026)*  
+  Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 ### 🏛️ Economy
 
-- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
-  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
-- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
-  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
-- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
-  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
-- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
-  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
-- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
-  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
-- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
-  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
-- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
-  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
-- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
-  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
-- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
-  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
-- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
-  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
+- **[The Lithium Triangle Is Quietly Becoming a Real Producer, and It Will Reset the Battery-Mineral Cost Curve](https://caymanjournal.com/articles/the-lithium-triangle-is-quietly-becoming-a-real-producer-and-cmqmduvuv000277qlts1ek7g7)** *(June 19, 2026)*  
+  Argentina, Chile and Bolivia together now have enough committed brine projects to add meaningful supply by 2028 — a structural shift in the lithium ma...
+- **[BlackRock's Private-Credit Platform Crossing $200 Billion in AUM Marks the Final Convergence of Public and Private Capital Markets](https://caymanjournal.com/articles/blackrocks-private-credit-platform-crossing-200-billion-in-a-cmqmduvv7000577qlukyhz2w0)** *(June 19, 2026)*  
+  When the largest passive manager becomes a top-three private-credit lender, the boundary between credit markets has effectively dissolved.
+- **[China's Deflation Persistence Is Forcing the PBOC Toward Genuine Quantitative Easing for the First Time](https://caymanjournal.com/articles/chinas-deflation-persistence-is-forcing-the-pboc-toward-genu-cmqmduvvd000877qllhts59ii)** *(June 19, 2026)*  
+  Three years of CPI flirting with zero has finally exhausted the policy playbook of targeted lending — large-scale bond purchases are now the path of l...
+- **[The UK Reform Government's Financial-Deregulation Package Is the Biggest Reset of City Rules Since Big Bang](https://caymanjournal.com/articles/the-uk-reform-governments-financial-deregulation-package-is-cmqmduvvh000b77qluiep3q21)** *(June 19, 2026)*  
+  Listings reform, ringfencing rollback, Solvency II loosening and a new MiFID divergence path are individually significant — together they reshape Lond...
+- **[Brazil's Cerrado Carbon-Credit Market Is the First Real Test of Whether Agricultural Sequestration Can Scale](https://caymanjournal.com/articles/brazils-cerrado-carbon-credit-market-is-the-first-real-test-cmqmduvvm000e77qlftx2du79)** *(June 19, 2026)*  
+  If Brazilian soy and cattle producers can monetize cover-crop and rotational-grazing sequestration credibly, the global voluntary market doubles in fi...
+- **[India's Second Semiconductor PLI Round Pivots from Fabs to Packaging — and That's the Correct Choice](https://caymanjournal.com/articles/indias-second-semiconductor-pli-round-pivots-from-fabs-to-pa-cmqmduvvr000h77qlk5uoipze)** *(June 19, 2026)*  
+  Advanced packaging is the actual constraint in modern semiconductor supply chains, and India can plausibly build a global position there in five years...
+- **[The EU AI Act's Second-Wave Enforcement Will Decide Whether Europe Hosts Frontier Models or Imports Them](https://caymanjournal.com/articles/the-eu-ai-acts-second-wave-enforcement-will-decide-whether-e-cmqmduvvv000k77qlh6gyqxzc)** *(June 19, 2026)*  
+  General-purpose AI model rules, transparency mandates and systemic-risk thresholds become enforceable in 2026 — the compliance cost will determine whe...
+- **[The UAE's Sovereign-AI Compute Export Policy Turns Abu Dhabi into the Pivot Between US and Asian Chip Supply Chains](https://caymanjournal.com/articles/the-uaes-sovereign-ai-compute-export-policy-turns-abu-dhabi-cmqmduvvz000n77qlidr8q76k)** *(June 19, 2026)*  
+  By accepting US export-control conditions, the UAE has unlocked the largest non-Chinese AI compute build outside North America — and made itself indis...
+- **[Mexico's Nearshoring Boom Has Hit the Industrial-Park Capacity Wall and That Is Now the Binding Constraint on Growth](https://caymanjournal.com/articles/mexicos-nearshoring-boom-has-hit-the-industrial-park-capacit-cmqmduvw2000q77qlt8rigb7k)** *(June 19, 2026)*  
+  Demand for Class-A industrial space has outrun construction by more than a year — the physical bottleneck is more binding than political risk.
+- **[Japan's Corporate-Governance Code Revision Is the Most Aggressive Push Yet on Cross-Holding Unwinds — and It Finally Has Teeth](https://caymanjournal.com/articles/japans-corporate-governance-code-revision-is-the-most-aggres-cmqmduvw5000t77qli3mgv6x3)** *(June 19, 2026)*  
+  Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 ### 📈 Markets & Finance
 
-- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
-  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
-- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
-  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
-- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
-  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
-- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
-  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
-- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
-  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
-- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
-  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
-- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
-  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
-- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
-  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
-- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
-  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
-- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
-  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
+- **[The Lithium Triangle Is Quietly Becoming a Real Producer, and It Will Reset the Battery-Mineral Cost Curve](https://caymanjournal.com/articles/the-lithium-triangle-is-quietly-becoming-a-real-producer-and-cmqmduvuv000277qlts1ek7g7)** *(June 19, 2026)*  
+  Argentina, Chile and Bolivia together now have enough committed brine projects to add meaningful supply by 2028 — a structural shift in the lithium ma...
+- **[BlackRock's Private-Credit Platform Crossing $200 Billion in AUM Marks the Final Convergence of Public and Private Capital Markets](https://caymanjournal.com/articles/blackrocks-private-credit-platform-crossing-200-billion-in-a-cmqmduvv7000577qlukyhz2w0)** *(June 19, 2026)*  
+  When the largest passive manager becomes a top-three private-credit lender, the boundary between credit markets has effectively dissolved.
+- **[China's Deflation Persistence Is Forcing the PBOC Toward Genuine Quantitative Easing for the First Time](https://caymanjournal.com/articles/chinas-deflation-persistence-is-forcing-the-pboc-toward-genu-cmqmduvvd000877qllhts59ii)** *(June 19, 2026)*  
+  Three years of CPI flirting with zero has finally exhausted the policy playbook of targeted lending — large-scale bond purchases are now the path of l...
+- **[The UK Reform Government's Financial-Deregulation Package Is the Biggest Reset of City Rules Since Big Bang](https://caymanjournal.com/articles/the-uk-reform-governments-financial-deregulation-package-is-cmqmduvvh000b77qluiep3q21)** *(June 19, 2026)*  
+  Listings reform, ringfencing rollback, Solvency II loosening and a new MiFID divergence path are individually significant — together they reshape Lond...
+- **[Brazil's Cerrado Carbon-Credit Market Is the First Real Test of Whether Agricultural Sequestration Can Scale](https://caymanjournal.com/articles/brazils-cerrado-carbon-credit-market-is-the-first-real-test-cmqmduvvm000e77qlftx2du79)** *(June 19, 2026)*  
+  If Brazilian soy and cattle producers can monetize cover-crop and rotational-grazing sequestration credibly, the global voluntary market doubles in fi...
+- **[India's Second Semiconductor PLI Round Pivots from Fabs to Packaging — and That's the Correct Choice](https://caymanjournal.com/articles/indias-second-semiconductor-pli-round-pivots-from-fabs-to-pa-cmqmduvvr000h77qlk5uoipze)** *(June 19, 2026)*  
+  Advanced packaging is the actual constraint in modern semiconductor supply chains, and India can plausibly build a global position there in five years...
+- **[The EU AI Act's Second-Wave Enforcement Will Decide Whether Europe Hosts Frontier Models or Imports Them](https://caymanjournal.com/articles/the-eu-ai-acts-second-wave-enforcement-will-decide-whether-e-cmqmduvvv000k77qlh6gyqxzc)** *(June 19, 2026)*  
+  General-purpose AI model rules, transparency mandates and systemic-risk thresholds become enforceable in 2026 — the compliance cost will determine whe...
+- **[The UAE's Sovereign-AI Compute Export Policy Turns Abu Dhabi into the Pivot Between US and Asian Chip Supply Chains](https://caymanjournal.com/articles/the-uaes-sovereign-ai-compute-export-policy-turns-abu-dhabi-cmqmduvvz000n77qlidr8q76k)** *(June 19, 2026)*  
+  By accepting US export-control conditions, the UAE has unlocked the largest non-Chinese AI compute build outside North America — and made itself indis...
+- **[Mexico's Nearshoring Boom Has Hit the Industrial-Park Capacity Wall and That Is Now the Binding Constraint on Growth](https://caymanjournal.com/articles/mexicos-nearshoring-boom-has-hit-the-industrial-park-capacit-cmqmduvw2000q77qlt8rigb7k)** *(June 19, 2026)*  
+  Demand for Class-A industrial space has outrun construction by more than a year — the physical bottleneck is more binding than political risk.
+- **[Japan's Corporate-Governance Code Revision Is the Most Aggressive Push Yet on Cross-Holding Unwinds — and It Finally Has Teeth](https://caymanjournal.com/articles/japans-corporate-governance-code-revision-is-the-most-aggres-cmqmduvw5000t77qli3mgv6x3)** *(June 19, 2026)*  
+  Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 ### 💻 Technology
 
-- **[TSMC's Arizona Fab Is Finally Hitting Taiwan-Parity Yield and That Reframes the Entire Reshoring Argument](https://caymanjournal.com/articles/tsmcs-arizona-fab-is-finally-hitting-taiwan-parity-yield-and-cmqjvqg490002ebrceyvw1zqa)** *(June 18, 2026)*  
-  Yield convergence — not capacity — is the real proof that advanced-node manufacturing can exist outside Hsinchu without a permanent cost penalty.
-- **[Nvidia's Expanded Middle East Chip Licenses Are Quietly Building a Third Pole in the Global AI Compute Map](https://caymanjournal.com/articles/nvidias-expanded-middle-east-chip-licenses-are-quietly-build-cmqjj31qr00028nnvoxadoh57)** *(June 18, 2026)*  
-  Granting export licenses to Gulf sovereigns turns capex-rich petrostates into a structural counterweight to the US-China compute axis.
-- **[Indonesia's New Nickel-Processing Export Tax Is the First Real Test of Battery-Supply-Chain Decoupling](https://caymanjournal.com/articles/indonesias-new-nickel-processing-export-tax-is-the-first-rea-cmqjvqg4n0005ebrcodbp33r7)** *(June 18, 2026)*  
-  By taxing low-grade processed nickel exports, Jakarta is forcing battery makers to choose between Indonesian integration and American IRA eligibility.
-- **[Boeing's 737 MAX Cash Quarter Is Real but Supply-Chain Healing Is Still the Story That Determines the Stock](https://caymanjournal.com/articles/boeings-737-max-cash-quarter-is-real-but-supply-chain-healin-cmqjj31r000058nnv3glnjo3a)** *(June 18, 2026)*  
-  Positive free cash flow shows up before the supplier base catches up, leaving the recovery hostage to a small number of bottleneck vendors.
-- **[Egypt's LNG Re-Export Hub Strategy Is Quietly Displacing the Last of Russia's European Gas Footprint](https://caymanjournal.com/articles/egypts-lng-re-export-hub-strategy-is-quietly-displacing-the-cmqjvqg4t0008ebrciu1vgxmo)** *(June 18, 2026)*  
-  Idku and Damietta are running at capacity again, and the geography of European gas supply is being redrawn through Cairo rather than through Berlin.
-- **[Vietnam's Corporate Bond Market Opens to Foreign Investors and the Frontier-Credit Map Is About to Get Redrawn](https://caymanjournal.com/articles/vietnams-corporate-bond-market-opens-to-foreign-investors-an-cmqjvqg4y000bebrclnaeitix)** *(June 18, 2026)*  
-  Hanoi's KYC-friendly access regime moves a market that was offshore-only onshore and gives global EM funds a new venue at attractive yields.
-- **[Australia Is Quietly Building a Strategic Critical-Minerals Stockpile and It Changes Commodity Price Dynamics](https://caymanjournal.com/articles/australia-is-quietly-building-a-strategic-critical-minerals-cmqjvqg53000eebrcbwcqhq48)** *(June 18, 2026)*  
-  Canberra's reserve-purchase program creates a price floor for lithium, rare earths and cobalt and pulls supply out of the spot market.
-- **[BYD's First European Factory Ramping at Scale Forces a Decision the EU Auto Policy Has Been Postponing](https://caymanjournal.com/articles/byds-first-european-factory-ramping-at-scale-forces-a-decisi-cmqjj31r600088nnv75e2eob3)** *(June 18, 2026)*  
-  Local production neutralizes tariffs and turns the EV trade fight into a permanent industrial-policy negotiation rather than a temporary border disput...
-- **[Korea's Won Policy Band Is Tightening as the Yen Holds Steady and BOK's Old Reflexes No Longer Apply](https://caymanjournal.com/articles/koreas-won-policy-band-is-tightening-as-the-yen-holds-steady-cmqjvqg58000hebrcaxdv51xl)** *(June 18, 2026)*  
-  With JPY no longer the FX safety valve it used to be, the Bank of Korea is being forced to defend the won on its own merits.
-- **[OpenAI's Mumbai Inference Build-Out Is the First Time a Frontier Lab Has Anchored Production Compute Outside the US](https://caymanjournal.com/articles/openais-mumbai-inference-build-out-is-the-first-time-a-front-cmqjvqg5d000kebrct4x4xlgj)** *(June 18, 2026)*  
-  Routing real consumer inference through Maharashtra changes who pays for the next round of training and who reaches the next billion users.
+- **[The Lithium Triangle Is Quietly Becoming a Real Producer, and It Will Reset the Battery-Mineral Cost Curve](https://caymanjournal.com/articles/the-lithium-triangle-is-quietly-becoming-a-real-producer-and-cmqmduvuv000277qlts1ek7g7)** *(June 19, 2026)*  
+  Argentina, Chile and Bolivia together now have enough committed brine projects to add meaningful supply by 2028 — a structural shift in the lithium ma...
+- **[BlackRock's Private-Credit Platform Crossing $200 Billion in AUM Marks the Final Convergence of Public and Private Capital Markets](https://caymanjournal.com/articles/blackrocks-private-credit-platform-crossing-200-billion-in-a-cmqmduvv7000577qlukyhz2w0)** *(June 19, 2026)*  
+  When the largest passive manager becomes a top-three private-credit lender, the boundary between credit markets has effectively dissolved.
+- **[China's Deflation Persistence Is Forcing the PBOC Toward Genuine Quantitative Easing for the First Time](https://caymanjournal.com/articles/chinas-deflation-persistence-is-forcing-the-pboc-toward-genu-cmqmduvvd000877qllhts59ii)** *(June 19, 2026)*  
+  Three years of CPI flirting with zero has finally exhausted the policy playbook of targeted lending — large-scale bond purchases are now the path of l...
+- **[The UK Reform Government's Financial-Deregulation Package Is the Biggest Reset of City Rules Since Big Bang](https://caymanjournal.com/articles/the-uk-reform-governments-financial-deregulation-package-is-cmqmduvvh000b77qluiep3q21)** *(June 19, 2026)*  
+  Listings reform, ringfencing rollback, Solvency II loosening and a new MiFID divergence path are individually significant — together they reshape Lond...
+- **[Brazil's Cerrado Carbon-Credit Market Is the First Real Test of Whether Agricultural Sequestration Can Scale](https://caymanjournal.com/articles/brazils-cerrado-carbon-credit-market-is-the-first-real-test-cmqmduvvm000e77qlftx2du79)** *(June 19, 2026)*  
+  If Brazilian soy and cattle producers can monetize cover-crop and rotational-grazing sequestration credibly, the global voluntary market doubles in fi...
+- **[India's Second Semiconductor PLI Round Pivots from Fabs to Packaging — and That's the Correct Choice](https://caymanjournal.com/articles/indias-second-semiconductor-pli-round-pivots-from-fabs-to-pa-cmqmduvvr000h77qlk5uoipze)** *(June 19, 2026)*  
+  Advanced packaging is the actual constraint in modern semiconductor supply chains, and India can plausibly build a global position there in five years...
+- **[The EU AI Act's Second-Wave Enforcement Will Decide Whether Europe Hosts Frontier Models or Imports Them](https://caymanjournal.com/articles/the-eu-ai-acts-second-wave-enforcement-will-decide-whether-e-cmqmduvvv000k77qlh6gyqxzc)** *(June 19, 2026)*  
+  General-purpose AI model rules, transparency mandates and systemic-risk thresholds become enforceable in 2026 — the compliance cost will determine whe...
+- **[The UAE's Sovereign-AI Compute Export Policy Turns Abu Dhabi into the Pivot Between US and Asian Chip Supply Chains](https://caymanjournal.com/articles/the-uaes-sovereign-ai-compute-export-policy-turns-abu-dhabi-cmqmduvvz000n77qlidr8q76k)** *(June 19, 2026)*  
+  By accepting US export-control conditions, the UAE has unlocked the largest non-Chinese AI compute build outside North America — and made itself indis...
+- **[Mexico's Nearshoring Boom Has Hit the Industrial-Park Capacity Wall and That Is Now the Binding Constraint on Growth](https://caymanjournal.com/articles/mexicos-nearshoring-boom-has-hit-the-industrial-park-capacit-cmqmduvw2000q77qlt8rigb7k)** *(June 19, 2026)*  
+  Demand for Class-A industrial space has outrun construction by more than a year — the physical bottleneck is more binding than political risk.
+- **[Japan's Corporate-Governance Code Revision Is the Most Aggressive Push Yet on Cross-Holding Unwinds — and It Finally Has Teeth](https://caymanjournal.com/articles/japans-corporate-governance-code-revision-is-the-most-aggres-cmqmduvw5000t77qli3mgv6x3)** *(June 19, 2026)*  
+  Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 
-*Last updated: June 20, 2026 at 08:51 UTC*
+*Last updated: June 21, 2026 at 09:45 UTC*
 
 <!-- FEED:END -->
 
