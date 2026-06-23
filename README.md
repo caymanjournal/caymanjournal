@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Tokyo Stock Exchange disclosure rules now include a public list of cross-holding ratios, and the social cost of inaction is the new enforcement mechan...
 
 
-*Last updated: June 22, 2026 at 11:48 UTC*
+*Last updated: June 23, 2026 at 09:34 UTC*
 
 <!-- FEED:END -->
 
