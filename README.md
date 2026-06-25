@@ -35,121 +35,121 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
 
 ## 🆕 Latest 10 Articles
 
-- **[Saudi PIF's Quiet Pivot Away From Aramco Dividends Is the Real Vision 2030 Funding Reset](https://caymanjournal.com/articles/saudi-pifs-quiet-pivot-away-from-aramco-dividends-is-the-rea-cmqqn4v6s0002n2fwcfs1x0o9)** *(June 22, 2026)*  
-  The Public Investment Fund is no longer dependent on a single oil dividend stream — the shift recasts what 'sovereign capital' from Riyadh can do.
-- **[Vietnam's Wage Inflection Marks the End of the Cheap-Manufacturing Decoupling Trade](https://caymanjournal.com/articles/vietnams-wage-inflection-marks-the-end-of-the-cheap-manufact-cmqqn4v740005n2fwbm9kwsfg)** *(June 22, 2026)*  
-  Coastal Vietnamese factory wages have climbed faster than productivity for three years — the second-tier interior, not Vietnam itself, is now where ne...
-- **[Indonesia's Nickel Downstream Bet Is Finally Producing the Integrated EV-Battery Supply Chain Jakarta Promised](https://caymanjournal.com/articles/indonesias-nickel-downstream-bet-is-finally-producing-the-in-cmqqn4v7a0008n2fw875x704u)** *(June 22, 2026)*  
-  After years of HPAL execution problems and ESG controversy, the integrated nickel-to-cathode chain on Sulawesi is operating — and reshaping global bat...
-- **[Australia's Iron Ore Majors Are Reluctantly Becoming Green-Steel Companies — and the Pilbara Capex Cycle Is Restarting](https://caymanjournal.com/articles/australias-iron-ore-majors-are-reluctantly-becoming-green-st-cmqqn4v7g000bn2fw57fatzc6)** *(June 22, 2026)*  
-  Rio Tinto, BHP and FMG have moved past announcing decarbonization to actually committing the capital — the Pilbara is back in a real build cycle.
-- **[South Africa's PGM Producers Are Pivoting From EV-Catalyst Anxiety to Hydrogen Catalyst Hope — and the Market Is Quietly Repricing](https://caymanjournal.com/articles/south-africas-pgm-producers-are-pivoting-from-ev-catalyst-an-cmqqn4v7l000en2fwlkj7mexb)** *(June 22, 2026)*  
-  Platinum's demand story shifted from autocatalyst decline to genuine PEM electrolyzer scale-up. The repricing of South African PGM equities has only j...
-- **[Germany's Industrial Energy Crisis Is Now Structural — and BASF's Ludwigshafen Retreat Is the Tell](https://caymanjournal.com/articles/germanys-industrial-energy-crisis-is-now-structural--and-bas-cmqqn4v7r000hn2fw64qmbjfm)** *(June 22, 2026)*  
-  What looked in 2022 like a cyclical energy shock has become a permanent shift in German competitiveness — and the largest chemical site in Europe is d...
-- **[France's EPR2 Nuclear Program Is Quietly Becoming the Most Credible Industrial Policy in Europe](https://caymanjournal.com/articles/frances-epr2-nuclear-program-is-quietly-becoming-the-most-cr-cmqqn4v7w000kn2fwjrj3xbcj)** *(June 22, 2026)*  
-  After Flamanville's overruns, France's domestic nuclear renaissance was widely doubted. EPR2 site preparation and steady supply-chain ramp are changin...
-- **[Italian Banking Consolidation Reaches Its Endgame — UniCredit's Italian Pivot Forces the Last Round](https://caymanjournal.com/articles/italian-banking-consolidation-reaches-its-endgame--unicredit-cmqqn4v81000nn2fwoyw3p0zu)** *(June 22, 2026)*  
-  After fifteen years of half-finished consolidation, UniCredit's domestic strategic shift is forcing the final mergers Italy's banking sector needed.
-- **[Spain's Solar Capacity Wall Is Now About Grid, Not Panels — and the Investment Case Is Pivoting Hard](https://caymanjournal.com/articles/spains-solar-capacity-wall-is-now-about-grid-not-panels--and-cmqqn4v86000qn2fw19a0nxjx)** *(June 22, 2026)*  
-  Spain has so much committed solar capacity that the binding constraint is transmission and storage. The next decade of energy capex flows away from ge...
-- **[Poland's Defense Industrial Buildup Is the Largest in Europe — and It Is Reshaping the Eastern European Industrial Base](https://caymanjournal.com/articles/polands-defense-industrial-buildup-is-the-largest-in-europe-cmqqn4v8b000tn2fwjkjtu4ys)** *(June 22, 2026)*  
-  Poland is now the EU's largest defense spender by GDP share. The industrial build is durable, well-funded and increasingly export-oriented.
+- **[Japan's Third Arrow Has Finally Landed — Trading Houses Are the Tell](https://caymanjournal.com/articles/japans-third-arrow-has-finally-landed--trading-houses-are-th-cmqsoy9vy0002zzz5n0z7x8vv)** *(June 23, 2026)*  
+  Sumitomo, Mitsui, Marubeni and Itochu are returning capital at a pace nobody expected — the governance reform argument has stopped being theoretical.
+- **[India's Private Capex Cycle Has Inflected — First Real One in Twelve Years](https://caymanjournal.com/articles/indias-private-capex-cycle-has-inflected--first-real-one-in-cmqsoy9wb0005zzz5x7oo5e7h)** *(June 23, 2026)*  
+  Steel, chemicals, electronics and data centres are committing capital at a pace that ends a decade of public-only investment in India.
+- **[UK Gilts Are Repricing Around Reeves's Fiscal Rules Revision — Watch the 30-Year](https://caymanjournal.com/articles/uk-gilts-are-repricing-around-reevess-fiscal-rules-revision-cmqsoy9wi0008zzz5rxxhln8v)** *(June 23, 2026)*  
+  The revised fiscal framework changes the duration-issuance path and the long end is reacting first.
+- **[Brazil's Fiscal Framework Is Finally Credible — Selic Has Room to Fall Faster](https://caymanjournal.com/articles/brazils-fiscal-framework-is-finally-credible--selic-has-room-cmqsoy9wn000bzzz5wiqviork)** *(June 23, 2026)*  
+  Two budget cycles inside the arcabouço fiscal and a tighter expenditure ceiling have changed the term-premium story.
+- **[Argentina Has Stabilized — Milei's Macro Bet Worked, Even if Convertibility Did Not](https://caymanjournal.com/articles/argentina-has-stabilized--mileis-macro-bet-worked-even-if-co-cmqsoy9wt000ezzz51sdevz4y)** *(June 23, 2026)*  
+  Inflation has fallen, the peso has stabilized, and reserves have rebuilt — without dollarization or hard convertibility.
+- **[Turkey's Orthodox Turn Is Working — Disinflation Has Become a Trend, Not a Hope](https://caymanjournal.com/articles/turkeys-orthodox-turn-is-working--disinflation-has-become-a-cmqsoy9wy000hzzz5ct64nyiq)** *(June 23, 2026)*  
+  Under Şimşek and Karahan, monthly inflation has finally broken — and the lira has stopped being the dominant macro variable.
+- **[Dubai Is Becoming an Actual Financial Centre — Not Just an Offshore Booking Centre](https://caymanjournal.com/articles/dubai-is-becoming-an-actual-financial-centre--not-just-an-of-cmqsoy9x2000kzzz5nbtlyzmp)** *(June 23, 2026)*  
+  DIFC asset management and capital-markets activity have shifted from booking to origination, and the implications for regional capital flows are large...
+- **[China's Property Survivors Are Quietly Acceptable Again — The Asset-Recycling REITs Are the Tell](https://caymanjournal.com/articles/chinas-property-survivors-are-quietly-acceptable-again--the-cmqsoy9x7000nzzz5bbh1gu4m)** *(June 23, 2026)*  
+  Second-tier developers have stopped failing, asset-recycling REITs are clearing, and the property tail risk has compressed.
+- **[Taiwan's Engineer Shortage Is Now the Binding Constraint on TSMC — Not Capex](https://caymanjournal.com/articles/taiwans-engineer-shortage-is-now-the-binding-constraint-on-t-cmqsoy9xd000qzzz58w2wsg8p)** *(June 23, 2026)*  
+  Cleanroom capacity is no longer the bottleneck for advanced-node ramp; the binding constraint has moved to skilled engineering labour.
+- **[Johor Is the New Singapore for Data Centres — And It's Not Slowing Down](https://caymanjournal.com/articles/johor-is-the-new-singapore-for-data-centres--and-its-not-slo-cmqsoy9xi000tzzz5egvgy0w3)** *(June 23, 2026)*  
+  Power, land and water constraints have pushed hyperscaler capex across the Causeway, and the Malaysian sovereign payoff is structural.
 
 ### 🏢 Business
 
-- **[Saudi PIF's Quiet Pivot Away From Aramco Dividends Is the Real Vision 2030 Funding Reset](https://caymanjournal.com/articles/saudi-pifs-quiet-pivot-away-from-aramco-dividends-is-the-rea-cmqqn4v6s0002n2fwcfs1x0o9)** *(June 22, 2026)*  
-  The Public Investment Fund is no longer dependent on a single oil dividend stream — the shift recasts what 'sovereign capital' from Riyadh can do.
-- **[Vietnam's Wage Inflection Marks the End of the Cheap-Manufacturing Decoupling Trade](https://caymanjournal.com/articles/vietnams-wage-inflection-marks-the-end-of-the-cheap-manufact-cmqqn4v740005n2fwbm9kwsfg)** *(June 22, 2026)*  
-  Coastal Vietnamese factory wages have climbed faster than productivity for three years — the second-tier interior, not Vietnam itself, is now where ne...
-- **[Indonesia's Nickel Downstream Bet Is Finally Producing the Integrated EV-Battery Supply Chain Jakarta Promised](https://caymanjournal.com/articles/indonesias-nickel-downstream-bet-is-finally-producing-the-in-cmqqn4v7a0008n2fw875x704u)** *(June 22, 2026)*  
-  After years of HPAL execution problems and ESG controversy, the integrated nickel-to-cathode chain on Sulawesi is operating — and reshaping global bat...
-- **[Australia's Iron Ore Majors Are Reluctantly Becoming Green-Steel Companies — and the Pilbara Capex Cycle Is Restarting](https://caymanjournal.com/articles/australias-iron-ore-majors-are-reluctantly-becoming-green-st-cmqqn4v7g000bn2fw57fatzc6)** *(June 22, 2026)*  
-  Rio Tinto, BHP and FMG have moved past announcing decarbonization to actually committing the capital — the Pilbara is back in a real build cycle.
-- **[South Africa's PGM Producers Are Pivoting From EV-Catalyst Anxiety to Hydrogen Catalyst Hope — and the Market Is Quietly Repricing](https://caymanjournal.com/articles/south-africas-pgm-producers-are-pivoting-from-ev-catalyst-an-cmqqn4v7l000en2fwlkj7mexb)** *(June 22, 2026)*  
-  Platinum's demand story shifted from autocatalyst decline to genuine PEM electrolyzer scale-up. The repricing of South African PGM equities has only j...
-- **[Germany's Industrial Energy Crisis Is Now Structural — and BASF's Ludwigshafen Retreat Is the Tell](https://caymanjournal.com/articles/germanys-industrial-energy-crisis-is-now-structural--and-bas-cmqqn4v7r000hn2fw64qmbjfm)** *(June 22, 2026)*  
-  What looked in 2022 like a cyclical energy shock has become a permanent shift in German competitiveness — and the largest chemical site in Europe is d...
-- **[France's EPR2 Nuclear Program Is Quietly Becoming the Most Credible Industrial Policy in Europe](https://caymanjournal.com/articles/frances-epr2-nuclear-program-is-quietly-becoming-the-most-cr-cmqqn4v7w000kn2fwjrj3xbcj)** *(June 22, 2026)*  
-  After Flamanville's overruns, France's domestic nuclear renaissance was widely doubted. EPR2 site preparation and steady supply-chain ramp are changin...
-- **[Italian Banking Consolidation Reaches Its Endgame — UniCredit's Italian Pivot Forces the Last Round](https://caymanjournal.com/articles/italian-banking-consolidation-reaches-its-endgame--unicredit-cmqqn4v81000nn2fwoyw3p0zu)** *(June 22, 2026)*  
-  After fifteen years of half-finished consolidation, UniCredit's domestic strategic shift is forcing the final mergers Italy's banking sector needed.
-- **[Spain's Solar Capacity Wall Is Now About Grid, Not Panels — and the Investment Case Is Pivoting Hard](https://caymanjournal.com/articles/spains-solar-capacity-wall-is-now-about-grid-not-panels--and-cmqqn4v86000qn2fw19a0nxjx)** *(June 22, 2026)*  
-  Spain has so much committed solar capacity that the binding constraint is transmission and storage. The next decade of energy capex flows away from ge...
-- **[Poland's Defense Industrial Buildup Is the Largest in Europe — and It Is Reshaping the Eastern European Industrial Base](https://caymanjournal.com/articles/polands-defense-industrial-buildup-is-the-largest-in-europe-cmqqn4v8b000tn2fwjkjtu4ys)** *(June 22, 2026)*  
-  Poland is now the EU's largest defense spender by GDP share. The industrial build is durable, well-funded and increasingly export-oriented.
+- **[Japan's Third Arrow Has Finally Landed — Trading Houses Are the Tell](https://caymanjournal.com/articles/japans-third-arrow-has-finally-landed--trading-houses-are-th-cmqsoy9vy0002zzz5n0z7x8vv)** *(June 23, 2026)*  
+  Sumitomo, Mitsui, Marubeni and Itochu are returning capital at a pace nobody expected — the governance reform argument has stopped being theoretical.
+- **[India's Private Capex Cycle Has Inflected — First Real One in Twelve Years](https://caymanjournal.com/articles/indias-private-capex-cycle-has-inflected--first-real-one-in-cmqsoy9wb0005zzz5x7oo5e7h)** *(June 23, 2026)*  
+  Steel, chemicals, electronics and data centres are committing capital at a pace that ends a decade of public-only investment in India.
+- **[UK Gilts Are Repricing Around Reeves's Fiscal Rules Revision — Watch the 30-Year](https://caymanjournal.com/articles/uk-gilts-are-repricing-around-reevess-fiscal-rules-revision-cmqsoy9wi0008zzz5rxxhln8v)** *(June 23, 2026)*  
+  The revised fiscal framework changes the duration-issuance path and the long end is reacting first.
+- **[Brazil's Fiscal Framework Is Finally Credible — Selic Has Room to Fall Faster](https://caymanjournal.com/articles/brazils-fiscal-framework-is-finally-credible--selic-has-room-cmqsoy9wn000bzzz5wiqviork)** *(June 23, 2026)*  
+  Two budget cycles inside the arcabouço fiscal and a tighter expenditure ceiling have changed the term-premium story.
+- **[Argentina Has Stabilized — Milei's Macro Bet Worked, Even if Convertibility Did Not](https://caymanjournal.com/articles/argentina-has-stabilized--mileis-macro-bet-worked-even-if-co-cmqsoy9wt000ezzz51sdevz4y)** *(June 23, 2026)*  
+  Inflation has fallen, the peso has stabilized, and reserves have rebuilt — without dollarization or hard convertibility.
+- **[Turkey's Orthodox Turn Is Working — Disinflation Has Become a Trend, Not a Hope](https://caymanjournal.com/articles/turkeys-orthodox-turn-is-working--disinflation-has-become-a-cmqsoy9wy000hzzz5ct64nyiq)** *(June 23, 2026)*  
+  Under Şimşek and Karahan, monthly inflation has finally broken — and the lira has stopped being the dominant macro variable.
+- **[Dubai Is Becoming an Actual Financial Centre — Not Just an Offshore Booking Centre](https://caymanjournal.com/articles/dubai-is-becoming-an-actual-financial-centre--not-just-an-of-cmqsoy9x2000kzzz5nbtlyzmp)** *(June 23, 2026)*  
+  DIFC asset management and capital-markets activity have shifted from booking to origination, and the implications for regional capital flows are large...
+- **[China's Property Survivors Are Quietly Acceptable Again — The Asset-Recycling REITs Are the Tell](https://caymanjournal.com/articles/chinas-property-survivors-are-quietly-acceptable-again--the-cmqsoy9x7000nzzz5bbh1gu4m)** *(June 23, 2026)*  
+  Second-tier developers have stopped failing, asset-recycling REITs are clearing, and the property tail risk has compressed.
+- **[Taiwan's Engineer Shortage Is Now the Binding Constraint on TSMC — Not Capex](https://caymanjournal.com/articles/taiwans-engineer-shortage-is-now-the-binding-constraint-on-t-cmqsoy9xd000qzzz58w2wsg8p)** *(June 23, 2026)*  
+  Cleanroom capacity is no longer the bottleneck for advanced-node ramp; the binding constraint has moved to skilled engineering labour.
+- **[Johor Is the New Singapore for Data Centres — And It's Not Slowing Down](https://caymanjournal.com/articles/johor-is-the-new-singapore-for-data-centres--and-its-not-slo-cmqsoy9xi000tzzz5egvgy0w3)** *(June 23, 2026)*  
+  Power, land and water constraints have pushed hyperscaler capex across the Causeway, and the Malaysian sovereign payoff is structural.
 
 ### 🏛️ Economy
 
-- **[Saudi PIF's Quiet Pivot Away From Aramco Dividends Is the Real Vision 2030 Funding Reset](https://caymanjournal.com/articles/saudi-pifs-quiet-pivot-away-from-aramco-dividends-is-the-rea-cmqqn4v6s0002n2fwcfs1x0o9)** *(June 22, 2026)*  
-  The Public Investment Fund is no longer dependent on a single oil dividend stream — the shift recasts what 'sovereign capital' from Riyadh can do.
-- **[Vietnam's Wage Inflection Marks the End of the Cheap-Manufacturing Decoupling Trade](https://caymanjournal.com/articles/vietnams-wage-inflection-marks-the-end-of-the-cheap-manufact-cmqqn4v740005n2fwbm9kwsfg)** *(June 22, 2026)*  
-  Coastal Vietnamese factory wages have climbed faster than productivity for three years — the second-tier interior, not Vietnam itself, is now where ne...
-- **[Indonesia's Nickel Downstream Bet Is Finally Producing the Integrated EV-Battery Supply Chain Jakarta Promised](https://caymanjournal.com/articles/indonesias-nickel-downstream-bet-is-finally-producing-the-in-cmqqn4v7a0008n2fw875x704u)** *(June 22, 2026)*  
-  After years of HPAL execution problems and ESG controversy, the integrated nickel-to-cathode chain on Sulawesi is operating — and reshaping global bat...
-- **[Australia's Iron Ore Majors Are Reluctantly Becoming Green-Steel Companies — and the Pilbara Capex Cycle Is Restarting](https://caymanjournal.com/articles/australias-iron-ore-majors-are-reluctantly-becoming-green-st-cmqqn4v7g000bn2fw57fatzc6)** *(June 22, 2026)*  
-  Rio Tinto, BHP and FMG have moved past announcing decarbonization to actually committing the capital — the Pilbara is back in a real build cycle.
-- **[South Africa's PGM Producers Are Pivoting From EV-Catalyst Anxiety to Hydrogen Catalyst Hope — and the Market Is Quietly Repricing](https://caymanjournal.com/articles/south-africas-pgm-producers-are-pivoting-from-ev-catalyst-an-cmqqn4v7l000en2fwlkj7mexb)** *(June 22, 2026)*  
-  Platinum's demand story shifted from autocatalyst decline to genuine PEM electrolyzer scale-up. The repricing of South African PGM equities has only j...
-- **[Germany's Industrial Energy Crisis Is Now Structural — and BASF's Ludwigshafen Retreat Is the Tell](https://caymanjournal.com/articles/germanys-industrial-energy-crisis-is-now-structural--and-bas-cmqqn4v7r000hn2fw64qmbjfm)** *(June 22, 2026)*  
-  What looked in 2022 like a cyclical energy shock has become a permanent shift in German competitiveness — and the largest chemical site in Europe is d...
-- **[France's EPR2 Nuclear Program Is Quietly Becoming the Most Credible Industrial Policy in Europe](https://caymanjournal.com/articles/frances-epr2-nuclear-program-is-quietly-becoming-the-most-cr-cmqqn4v7w000kn2fwjrj3xbcj)** *(June 22, 2026)*  
-  After Flamanville's overruns, France's domestic nuclear renaissance was widely doubted. EPR2 site preparation and steady supply-chain ramp are changin...
-- **[Italian Banking Consolidation Reaches Its Endgame — UniCredit's Italian Pivot Forces the Last Round](https://caymanjournal.com/articles/italian-banking-consolidation-reaches-its-endgame--unicredit-cmqqn4v81000nn2fwoyw3p0zu)** *(June 22, 2026)*  
-  After fifteen years of half-finished consolidation, UniCredit's domestic strategic shift is forcing the final mergers Italy's banking sector needed.
-- **[Spain's Solar Capacity Wall Is Now About Grid, Not Panels — and the Investment Case Is Pivoting Hard](https://caymanjournal.com/articles/spains-solar-capacity-wall-is-now-about-grid-not-panels--and-cmqqn4v86000qn2fw19a0nxjx)** *(June 22, 2026)*  
-  Spain has so much committed solar capacity that the binding constraint is transmission and storage. The next decade of energy capex flows away from ge...
-- **[Poland's Defense Industrial Buildup Is the Largest in Europe — and It Is Reshaping the Eastern European Industrial Base](https://caymanjournal.com/articles/polands-defense-industrial-buildup-is-the-largest-in-europe-cmqqn4v8b000tn2fwjkjtu4ys)** *(June 22, 2026)*  
-  Poland is now the EU's largest defense spender by GDP share. The industrial build is durable, well-funded and increasingly export-oriented.
+- **[Japan's Third Arrow Has Finally Landed — Trading Houses Are the Tell](https://caymanjournal.com/articles/japans-third-arrow-has-finally-landed--trading-houses-are-th-cmqsoy9vy0002zzz5n0z7x8vv)** *(June 23, 2026)*  
+  Sumitomo, Mitsui, Marubeni and Itochu are returning capital at a pace nobody expected — the governance reform argument has stopped being theoretical.
+- **[India's Private Capex Cycle Has Inflected — First Real One in Twelve Years](https://caymanjournal.com/articles/indias-private-capex-cycle-has-inflected--first-real-one-in-cmqsoy9wb0005zzz5x7oo5e7h)** *(June 23, 2026)*  
+  Steel, chemicals, electronics and data centres are committing capital at a pace that ends a decade of public-only investment in India.
+- **[UK Gilts Are Repricing Around Reeves's Fiscal Rules Revision — Watch the 30-Year](https://caymanjournal.com/articles/uk-gilts-are-repricing-around-reevess-fiscal-rules-revision-cmqsoy9wi0008zzz5rxxhln8v)** *(June 23, 2026)*  
+  The revised fiscal framework changes the duration-issuance path and the long end is reacting first.
+- **[Brazil's Fiscal Framework Is Finally Credible — Selic Has Room to Fall Faster](https://caymanjournal.com/articles/brazils-fiscal-framework-is-finally-credible--selic-has-room-cmqsoy9wn000bzzz5wiqviork)** *(June 23, 2026)*  
+  Two budget cycles inside the arcabouço fiscal and a tighter expenditure ceiling have changed the term-premium story.
+- **[Argentina Has Stabilized — Milei's Macro Bet Worked, Even if Convertibility Did Not](https://caymanjournal.com/articles/argentina-has-stabilized--mileis-macro-bet-worked-even-if-co-cmqsoy9wt000ezzz51sdevz4y)** *(June 23, 2026)*  
+  Inflation has fallen, the peso has stabilized, and reserves have rebuilt — without dollarization or hard convertibility.
+- **[Turkey's Orthodox Turn Is Working — Disinflation Has Become a Trend, Not a Hope](https://caymanjournal.com/articles/turkeys-orthodox-turn-is-working--disinflation-has-become-a-cmqsoy9wy000hzzz5ct64nyiq)** *(June 23, 2026)*  
+  Under Şimşek and Karahan, monthly inflation has finally broken — and the lira has stopped being the dominant macro variable.
+- **[Dubai Is Becoming an Actual Financial Centre — Not Just an Offshore Booking Centre](https://caymanjournal.com/articles/dubai-is-becoming-an-actual-financial-centre--not-just-an-of-cmqsoy9x2000kzzz5nbtlyzmp)** *(June 23, 2026)*  
+  DIFC asset management and capital-markets activity have shifted from booking to origination, and the implications for regional capital flows are large...
+- **[China's Property Survivors Are Quietly Acceptable Again — The Asset-Recycling REITs Are the Tell](https://caymanjournal.com/articles/chinas-property-survivors-are-quietly-acceptable-again--the-cmqsoy9x7000nzzz5bbh1gu4m)** *(June 23, 2026)*  
+  Second-tier developers have stopped failing, asset-recycling REITs are clearing, and the property tail risk has compressed.
+- **[Taiwan's Engineer Shortage Is Now the Binding Constraint on TSMC — Not Capex](https://caymanjournal.com/articles/taiwans-engineer-shortage-is-now-the-binding-constraint-on-t-cmqsoy9xd000qzzz58w2wsg8p)** *(June 23, 2026)*  
+  Cleanroom capacity is no longer the bottleneck for advanced-node ramp; the binding constraint has moved to skilled engineering labour.
+- **[Johor Is the New Singapore for Data Centres — And It's Not Slowing Down](https://caymanjournal.com/articles/johor-is-the-new-singapore-for-data-centres--and-its-not-slo-cmqsoy9xi000tzzz5egvgy0w3)** *(June 23, 2026)*  
+  Power, land and water constraints have pushed hyperscaler capex across the Causeway, and the Malaysian sovereign payoff is structural.
 
 ### 📈 Markets & Finance
 
-- **[Saudi PIF's Quiet Pivot Away From Aramco Dividends Is the Real Vision 2030 Funding Reset](https://caymanjournal.com/articles/saudi-pifs-quiet-pivot-away-from-aramco-dividends-is-the-rea-cmqqn4v6s0002n2fwcfs1x0o9)** *(June 22, 2026)*  
-  The Public Investment Fund is no longer dependent on a single oil dividend stream — the shift recasts what 'sovereign capital' from Riyadh can do.
-- **[Vietnam's Wage Inflection Marks the End of the Cheap-Manufacturing Decoupling Trade](https://caymanjournal.com/articles/vietnams-wage-inflection-marks-the-end-of-the-cheap-manufact-cmqqn4v740005n2fwbm9kwsfg)** *(June 22, 2026)*  
-  Coastal Vietnamese factory wages have climbed faster than productivity for three years — the second-tier interior, not Vietnam itself, is now where ne...
-- **[Indonesia's Nickel Downstream Bet Is Finally Producing the Integrated EV-Battery Supply Chain Jakarta Promised](https://caymanjournal.com/articles/indonesias-nickel-downstream-bet-is-finally-producing-the-in-cmqqn4v7a0008n2fw875x704u)** *(June 22, 2026)*  
-  After years of HPAL execution problems and ESG controversy, the integrated nickel-to-cathode chain on Sulawesi is operating — and reshaping global bat...
-- **[Australia's Iron Ore Majors Are Reluctantly Becoming Green-Steel Companies — and the Pilbara Capex Cycle Is Restarting](https://caymanjournal.com/articles/australias-iron-ore-majors-are-reluctantly-becoming-green-st-cmqqn4v7g000bn2fw57fatzc6)** *(June 22, 2026)*  
-  Rio Tinto, BHP and FMG have moved past announcing decarbonization to actually committing the capital — the Pilbara is back in a real build cycle.
-- **[South Africa's PGM Producers Are Pivoting From EV-Catalyst Anxiety to Hydrogen Catalyst Hope — and the Market Is Quietly Repricing](https://caymanjournal.com/articles/south-africas-pgm-producers-are-pivoting-from-ev-catalyst-an-cmqqn4v7l000en2fwlkj7mexb)** *(June 22, 2026)*  
-  Platinum's demand story shifted from autocatalyst decline to genuine PEM electrolyzer scale-up. The repricing of South African PGM equities has only j...
-- **[Germany's Industrial Energy Crisis Is Now Structural — and BASF's Ludwigshafen Retreat Is the Tell](https://caymanjournal.com/articles/germanys-industrial-energy-crisis-is-now-structural--and-bas-cmqqn4v7r000hn2fw64qmbjfm)** *(June 22, 2026)*  
-  What looked in 2022 like a cyclical energy shock has become a permanent shift in German competitiveness — and the largest chemical site in Europe is d...
-- **[France's EPR2 Nuclear Program Is Quietly Becoming the Most Credible Industrial Policy in Europe](https://caymanjournal.com/articles/frances-epr2-nuclear-program-is-quietly-becoming-the-most-cr-cmqqn4v7w000kn2fwjrj3xbcj)** *(June 22, 2026)*  
-  After Flamanville's overruns, France's domestic nuclear renaissance was widely doubted. EPR2 site preparation and steady supply-chain ramp are changin...
-- **[Italian Banking Consolidation Reaches Its Endgame — UniCredit's Italian Pivot Forces the Last Round](https://caymanjournal.com/articles/italian-banking-consolidation-reaches-its-endgame--unicredit-cmqqn4v81000nn2fwoyw3p0zu)** *(June 22, 2026)*  
-  After fifteen years of half-finished consolidation, UniCredit's domestic strategic shift is forcing the final mergers Italy's banking sector needed.
-- **[Spain's Solar Capacity Wall Is Now About Grid, Not Panels — and the Investment Case Is Pivoting Hard](https://caymanjournal.com/articles/spains-solar-capacity-wall-is-now-about-grid-not-panels--and-cmqqn4v86000qn2fw19a0nxjx)** *(June 22, 2026)*  
-  Spain has so much committed solar capacity that the binding constraint is transmission and storage. The next decade of energy capex flows away from ge...
-- **[Poland's Defense Industrial Buildup Is the Largest in Europe — and It Is Reshaping the Eastern European Industrial Base](https://caymanjournal.com/articles/polands-defense-industrial-buildup-is-the-largest-in-europe-cmqqn4v8b000tn2fwjkjtu4ys)** *(June 22, 2026)*  
-  Poland is now the EU's largest defense spender by GDP share. The industrial build is durable, well-funded and increasingly export-oriented.
+- **[Japan's Third Arrow Has Finally Landed — Trading Houses Are the Tell](https://caymanjournal.com/articles/japans-third-arrow-has-finally-landed--trading-houses-are-th-cmqsoy9vy0002zzz5n0z7x8vv)** *(June 23, 2026)*  
+  Sumitomo, Mitsui, Marubeni and Itochu are returning capital at a pace nobody expected — the governance reform argument has stopped being theoretical.
+- **[India's Private Capex Cycle Has Inflected — First Real One in Twelve Years](https://caymanjournal.com/articles/indias-private-capex-cycle-has-inflected--first-real-one-in-cmqsoy9wb0005zzz5x7oo5e7h)** *(June 23, 2026)*  
+  Steel, chemicals, electronics and data centres are committing capital at a pace that ends a decade of public-only investment in India.
+- **[UK Gilts Are Repricing Around Reeves's Fiscal Rules Revision — Watch the 30-Year](https://caymanjournal.com/articles/uk-gilts-are-repricing-around-reevess-fiscal-rules-revision-cmqsoy9wi0008zzz5rxxhln8v)** *(June 23, 2026)*  
+  The revised fiscal framework changes the duration-issuance path and the long end is reacting first.
+- **[Brazil's Fiscal Framework Is Finally Credible — Selic Has Room to Fall Faster](https://caymanjournal.com/articles/brazils-fiscal-framework-is-finally-credible--selic-has-room-cmqsoy9wn000bzzz5wiqviork)** *(June 23, 2026)*  
+  Two budget cycles inside the arcabouço fiscal and a tighter expenditure ceiling have changed the term-premium story.
+- **[Argentina Has Stabilized — Milei's Macro Bet Worked, Even if Convertibility Did Not](https://caymanjournal.com/articles/argentina-has-stabilized--mileis-macro-bet-worked-even-if-co-cmqsoy9wt000ezzz51sdevz4y)** *(June 23, 2026)*  
+  Inflation has fallen, the peso has stabilized, and reserves have rebuilt — without dollarization or hard convertibility.
+- **[Turkey's Orthodox Turn Is Working — Disinflation Has Become a Trend, Not a Hope](https://caymanjournal.com/articles/turkeys-orthodox-turn-is-working--disinflation-has-become-a-cmqsoy9wy000hzzz5ct64nyiq)** *(June 23, 2026)*  
+  Under Şimşek and Karahan, monthly inflation has finally broken — and the lira has stopped being the dominant macro variable.
+- **[Dubai Is Becoming an Actual Financial Centre — Not Just an Offshore Booking Centre](https://caymanjournal.com/articles/dubai-is-becoming-an-actual-financial-centre--not-just-an-of-cmqsoy9x2000kzzz5nbtlyzmp)** *(June 23, 2026)*  
+  DIFC asset management and capital-markets activity have shifted from booking to origination, and the implications for regional capital flows are large...
+- **[China's Property Survivors Are Quietly Acceptable Again — The Asset-Recycling REITs Are the Tell](https://caymanjournal.com/articles/chinas-property-survivors-are-quietly-acceptable-again--the-cmqsoy9x7000nzzz5bbh1gu4m)** *(June 23, 2026)*  
+  Second-tier developers have stopped failing, asset-recycling REITs are clearing, and the property tail risk has compressed.
+- **[Taiwan's Engineer Shortage Is Now the Binding Constraint on TSMC — Not Capex](https://caymanjournal.com/articles/taiwans-engineer-shortage-is-now-the-binding-constraint-on-t-cmqsoy9xd000qzzz58w2wsg8p)** *(June 23, 2026)*  
+  Cleanroom capacity is no longer the bottleneck for advanced-node ramp; the binding constraint has moved to skilled engineering labour.
+- **[Johor Is the New Singapore for Data Centres — And It's Not Slowing Down](https://caymanjournal.com/articles/johor-is-the-new-singapore-for-data-centres--and-its-not-slo-cmqsoy9xi000tzzz5egvgy0w3)** *(June 23, 2026)*  
+  Power, land and water constraints have pushed hyperscaler capex across the Causeway, and the Malaysian sovereign payoff is structural.
 
 ### 💻 Technology
 
-- **[Saudi PIF's Quiet Pivot Away From Aramco Dividends Is the Real Vision 2030 Funding Reset](https://caymanjournal.com/articles/saudi-pifs-quiet-pivot-away-from-aramco-dividends-is-the-rea-cmqqn4v6s0002n2fwcfs1x0o9)** *(June 22, 2026)*  
-  The Public Investment Fund is no longer dependent on a single oil dividend stream — the shift recasts what 'sovereign capital' from Riyadh can do.
-- **[Vietnam's Wage Inflection Marks the End of the Cheap-Manufacturing Decoupling Trade](https://caymanjournal.com/articles/vietnams-wage-inflection-marks-the-end-of-the-cheap-manufact-cmqqn4v740005n2fwbm9kwsfg)** *(June 22, 2026)*  
-  Coastal Vietnamese factory wages have climbed faster than productivity for three years — the second-tier interior, not Vietnam itself, is now where ne...
-- **[Indonesia's Nickel Downstream Bet Is Finally Producing the Integrated EV-Battery Supply Chain Jakarta Promised](https://caymanjournal.com/articles/indonesias-nickel-downstream-bet-is-finally-producing-the-in-cmqqn4v7a0008n2fw875x704u)** *(June 22, 2026)*  
-  After years of HPAL execution problems and ESG controversy, the integrated nickel-to-cathode chain on Sulawesi is operating — and reshaping global bat...
-- **[Australia's Iron Ore Majors Are Reluctantly Becoming Green-Steel Companies — and the Pilbara Capex Cycle Is Restarting](https://caymanjournal.com/articles/australias-iron-ore-majors-are-reluctantly-becoming-green-st-cmqqn4v7g000bn2fw57fatzc6)** *(June 22, 2026)*  
-  Rio Tinto, BHP and FMG have moved past announcing decarbonization to actually committing the capital — the Pilbara is back in a real build cycle.
-- **[South Africa's PGM Producers Are Pivoting From EV-Catalyst Anxiety to Hydrogen Catalyst Hope — and the Market Is Quietly Repricing](https://caymanjournal.com/articles/south-africas-pgm-producers-are-pivoting-from-ev-catalyst-an-cmqqn4v7l000en2fwlkj7mexb)** *(June 22, 2026)*  
-  Platinum's demand story shifted from autocatalyst decline to genuine PEM electrolyzer scale-up. The repricing of South African PGM equities has only j...
-- **[Germany's Industrial Energy Crisis Is Now Structural — and BASF's Ludwigshafen Retreat Is the Tell](https://caymanjournal.com/articles/germanys-industrial-energy-crisis-is-now-structural--and-bas-cmqqn4v7r000hn2fw64qmbjfm)** *(June 22, 2026)*  
-  What looked in 2022 like a cyclical energy shock has become a permanent shift in German competitiveness — and the largest chemical site in Europe is d...
-- **[France's EPR2 Nuclear Program Is Quietly Becoming the Most Credible Industrial Policy in Europe](https://caymanjournal.com/articles/frances-epr2-nuclear-program-is-quietly-becoming-the-most-cr-cmqqn4v7w000kn2fwjrj3xbcj)** *(June 22, 2026)*  
-  After Flamanville's overruns, France's domestic nuclear renaissance was widely doubted. EPR2 site preparation and steady supply-chain ramp are changin...
-- **[Italian Banking Consolidation Reaches Its Endgame — UniCredit's Italian Pivot Forces the Last Round](https://caymanjournal.com/articles/italian-banking-consolidation-reaches-its-endgame--unicredit-cmqqn4v81000nn2fwoyw3p0zu)** *(June 22, 2026)*  
-  After fifteen years of half-finished consolidation, UniCredit's domestic strategic shift is forcing the final mergers Italy's banking sector needed.
-- **[Spain's Solar Capacity Wall Is Now About Grid, Not Panels — and the Investment Case Is Pivoting Hard](https://caymanjournal.com/articles/spains-solar-capacity-wall-is-now-about-grid-not-panels--and-cmqqn4v86000qn2fw19a0nxjx)** *(June 22, 2026)*  
-  Spain has so much committed solar capacity that the binding constraint is transmission and storage. The next decade of energy capex flows away from ge...
-- **[Poland's Defense Industrial Buildup Is the Largest in Europe — and It Is Reshaping the Eastern European Industrial Base](https://caymanjournal.com/articles/polands-defense-industrial-buildup-is-the-largest-in-europe-cmqqn4v8b000tn2fwjkjtu4ys)** *(June 22, 2026)*  
-  Poland is now the EU's largest defense spender by GDP share. The industrial build is durable, well-funded and increasingly export-oriented.
+- **[Japan's Third Arrow Has Finally Landed — Trading Houses Are the Tell](https://caymanjournal.com/articles/japans-third-arrow-has-finally-landed--trading-houses-are-th-cmqsoy9vy0002zzz5n0z7x8vv)** *(June 23, 2026)*  
+  Sumitomo, Mitsui, Marubeni and Itochu are returning capital at a pace nobody expected — the governance reform argument has stopped being theoretical.
+- **[India's Private Capex Cycle Has Inflected — First Real One in Twelve Years](https://caymanjournal.com/articles/indias-private-capex-cycle-has-inflected--first-real-one-in-cmqsoy9wb0005zzz5x7oo5e7h)** *(June 23, 2026)*  
+  Steel, chemicals, electronics and data centres are committing capital at a pace that ends a decade of public-only investment in India.
+- **[UK Gilts Are Repricing Around Reeves's Fiscal Rules Revision — Watch the 30-Year](https://caymanjournal.com/articles/uk-gilts-are-repricing-around-reevess-fiscal-rules-revision-cmqsoy9wi0008zzz5rxxhln8v)** *(June 23, 2026)*  
+  The revised fiscal framework changes the duration-issuance path and the long end is reacting first.
+- **[Brazil's Fiscal Framework Is Finally Credible — Selic Has Room to Fall Faster](https://caymanjournal.com/articles/brazils-fiscal-framework-is-finally-credible--selic-has-room-cmqsoy9wn000bzzz5wiqviork)** *(June 23, 2026)*  
+  Two budget cycles inside the arcabouço fiscal and a tighter expenditure ceiling have changed the term-premium story.
+- **[Argentina Has Stabilized — Milei's Macro Bet Worked, Even if Convertibility Did Not](https://caymanjournal.com/articles/argentina-has-stabilized--mileis-macro-bet-worked-even-if-co-cmqsoy9wt000ezzz51sdevz4y)** *(June 23, 2026)*  
+  Inflation has fallen, the peso has stabilized, and reserves have rebuilt — without dollarization or hard convertibility.
+- **[Turkey's Orthodox Turn Is Working — Disinflation Has Become a Trend, Not a Hope](https://caymanjournal.com/articles/turkeys-orthodox-turn-is-working--disinflation-has-become-a-cmqsoy9wy000hzzz5ct64nyiq)** *(June 23, 2026)*  
+  Under Şimşek and Karahan, monthly inflation has finally broken — and the lira has stopped being the dominant macro variable.
+- **[Dubai Is Becoming an Actual Financial Centre — Not Just an Offshore Booking Centre](https://caymanjournal.com/articles/dubai-is-becoming-an-actual-financial-centre--not-just-an-of-cmqsoy9x2000kzzz5nbtlyzmp)** *(June 23, 2026)*  
+  DIFC asset management and capital-markets activity have shifted from booking to origination, and the implications for regional capital flows are large...
+- **[China's Property Survivors Are Quietly Acceptable Again — The Asset-Recycling REITs Are the Tell](https://caymanjournal.com/articles/chinas-property-survivors-are-quietly-acceptable-again--the-cmqsoy9x7000nzzz5bbh1gu4m)** *(June 23, 2026)*  
+  Second-tier developers have stopped failing, asset-recycling REITs are clearing, and the property tail risk has compressed.
+- **[Taiwan's Engineer Shortage Is Now the Binding Constraint on TSMC — Not Capex](https://caymanjournal.com/articles/taiwans-engineer-shortage-is-now-the-binding-constraint-on-t-cmqsoy9xd000qzzz58w2wsg8p)** *(June 23, 2026)*  
+  Cleanroom capacity is no longer the bottleneck for advanced-node ramp; the binding constraint has moved to skilled engineering labour.
+- **[Johor Is the New Singapore for Data Centres — And It's Not Slowing Down](https://caymanjournal.com/articles/johor-is-the-new-singapore-for-data-centres--and-its-not-slo-cmqsoy9xi000tzzz5egvgy0w3)** *(June 23, 2026)*  
+  Power, land and water constraints have pushed hyperscaler capex across the Causeway, and the Malaysian sovereign payoff is structural.
 
 
-*Last updated: June 24, 2026 at 09:24 UTC*
+*Last updated: June 25, 2026 at 08:57 UTC*
 
 <!-- FEED:END -->
 
