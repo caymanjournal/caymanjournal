@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   The headline DAX names are still in restructuring mode, but the Mittelstand is investing in automation, energy resilience and AI-enabled production at...
 
 
-*Last updated: June 26, 2026 at 09:20 UTC*
+*Last updated: June 27, 2026 at 08:32 UTC*
 
 <!-- FEED:END -->
 
