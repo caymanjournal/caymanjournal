@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   The local content escalator baked into the Thai EV incentive scheme has finally forced Chinese OEMs to move cell production onshore, and the auto-part...
 
 
-*Last updated: July 13, 2026 at 09:20 UTC*
+*Last updated: July 14, 2026 at 07:59 UTC*
 
 <!-- FEED:END -->
 
