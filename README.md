@@ -149,7 +149,7 @@ We focus on delivering timely, accurate, and insightful financial journalism tha
   Brussels is preparing an autumn proposal to soften bank capital requirements, following similar moves in Washington and London as European regulators ...
 
 
-*Last updated: November 03, 2026 at 13:36 UTC*
+*Last updated: November 04, 2026 at 13:45 UTC*
 
 <!-- FEED:END -->
 
